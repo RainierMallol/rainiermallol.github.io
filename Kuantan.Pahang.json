@@ -1,0 +1,877 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAANtsGiAtijzePyU557pFNtjt9qPYsWFmLJB7cv0Y5KmeuhX2rRgDtTF5kSq2vC6RM0QGWM4EUoCKZNGTp2-5Ha6PNXb5zPJC-eq297Q2-b6M8bKywyBraJfssvo59JZ6zUDvCPBJbYNnCM7p7KGAt_UcTkoqOF1sv42OxwDCjdNPaHx9yDsBUd-6Sf6F19RmRBus6MQvVhGUPgBBESmQC4HS80Y0RHYWcLUzPljwa8MKHmG9AP_UYcvTnfawTYPNW2LNyXjPnZAjMv-flXrV22_X87WwLX2W457u9GcbD_LRauZPLqMFBBzixV7U-jNT9FrfnQcyDrP6w2Xyv1UOqwexF55A9aBH2wFGCwpxT_LIUfsnGLKfwF0w_tOshsM4uZcQBpmwLJXCNjrT-pS6jW8M8tcrM7jdgtHOwvs16TZiV8LB1WzQ57HAFR549mwMdKQ8gM8lYAaaOPCLoKxSw-wLWIlzEhhAai7ouLyfqReo88PQOw-CTBeSJw7HBH6Bq8Xgh_896GLBXVqFcNijNKfKxufpkJY7pEMnmu32D59qc6asKjklruHTlIUJILb8EjxPAGQJtgEVwwhn2u3HanmtM5xYtKljIxv4g6Igjjy00oQMJ14h4xf1hmE8TBfDd_zPCqC3nB_dHG2Fibt6iUgzz_tX8hW8U88TYtfYMbnFEhDVSZyyihNzXzyBAXogXNRWGhSQB-Lx7y5TjPB2YvHFtoIAJdtE0g",
+   "results" : [
+      {
+         "formatted_address" : "8158, Lorong IM 8/33, Taman Mahkota Putra, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.826082699999999,
+               "lng" : 103.3036793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.827407579892722,
+                  "lng" : 103.3050064798927
+               },
+               "southwest" : {
+                  "lat" : 3.824707920107278,
+                  "lng" : 103.3023068201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "07031fb8b0d900556f889e5a3d40c29af5b02ff9",
+         "name" : "Alhuda Organik Chicken (Muslim Fastfood)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101787571503240921730/photos\"\u003ehafizul hanafi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAia9dkjzI2xZDtvAEu0ENmQ1sn0lSg-Df24WqhgrA1jH0wbZPMEZkVqC6sjQxj1frSjPYajRZAb89Gqws3ys7IYkrzH7qtk_Ml7TFLmDZ2fXRXJB_dk5mb0t2Sc25eca8EhD08XEFvv_KM_CK0RiKIWOjGhRWshkmKds5cky_UJAs6Xlc9EK7lg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUXNVhly6yDERDZr5YHxZM3o",
+         "plus_code" : {
+            "compound_code" : "R8G3+CF Kuantan, Pahang",
+            "global_code" : "6PM5R8G3+CF"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJUXNVhly6yDERDZr5YHxZM3o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Lot A, One Suria, Jalan Sultan Ahmad Shah, Bandar Indera Mahkota, 25200 Kuantan, Pahang Darul Makmur, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.836578,
+               "lng" : 103.302984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.838035129892722,
+                  "lng" : 103.3044090298927
+               },
+               "southwest" : {
+                  "lat" : 3.835335470107278,
+                  "lng" : 103.3017093701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4f8c181ae3fd00cdc8e3ec49a3c520337bb9d233",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100403975501140176692/photos\"\u003eamirul alwan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAByOYwqv_pA36aWiO1VhFyqidZ3ga5jwtyoHDvc9B7Fw5IhdJXLgFXqzD1ee14eWTpg9GouMO6IUNNmh67KYasDDiLbCUJc7JFyu8YxMrxe-xuoVdVjycoHLt0njm82DOEhDWYuy4f82M1gmOGEKSV7lRGhRvXIyrlINIyWmZ2CByX_N0gYC3Pw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJz4vEh5a6yDERyVzxX8cxUqI",
+         "plus_code" : {
+            "compound_code" : "R8P3+J5 Kuantan, Pahang",
+            "global_code" : "6PM5R8P3+J5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJz4vEh5a6yDERyVzxX8cxUqI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 634
+      },
+      {
+         "formatted_address" : "Lorong IM 8/33, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8256589,
+               "lng" : 103.3044809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.826966229892722,
+                  "lng" : 103.3058057798927
+               },
+               "southwest" : {
+                  "lat" : 3.824266570107278,
+                  "lng" : 103.3031061201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a45c730fd2c15d7d9d0784e4b30a2849521941ce",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102015310420696202319/photos\"\u003eHaydar Mohammad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArl47Xqzekjo32JxeqjQbOdcKLAE5M65SmVKJZsYQTxcUa8dJc033ylXhj35kFAnPDJgHOQBp5bnvRp44-s1V2NC_vkPv3uiJyQ_6YdHgDQ7iefmTo6jUu06L9prUBaPoEhBZ_nsPE50mzOWhbXNpstm6GhT5w60VihVEu4c1LaNOEC40bJGaJA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ1XMtZ1y6yDER7Wt-O78D0YU",
+         "plus_code" : {
+            "compound_code" : "R8G3+7Q Kuantan, Pahang",
+            "global_code" : "6PM5R8G3+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ1XMtZ1y6yDER7Wt-O78D0YU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1580
+      },
+      {
+         "formatted_address" : "Kompleks Pelancongan MPK, 25050 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8132467,
+               "lng" : 103.371859
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.814598279892721,
+                  "lng" : 103.3733216798927
+               },
+               "southwest" : {
+                  "lat" : 3.811898620107277,
+                  "lng" : 103.3706220201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2155d8ede9a6f00d6815c70fa676fe43fd3f17d",
+         "name" : "Hutan Bandar Bistro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114315602161775851016/photos\"\u003eazman omar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7B2bGl93Dg8FK1vAQMZGkCAoH62DZbl2R1J5B4guhu15NT4012wnFbTn3bgOXB8WcYQmk9IexEklq5kHlhMrjMcAbOfC-hAp1a64wMiKueMQJBt6topsVul_Th8NDoLsEhBAFIFtp461sjHMf32DdwwzGhSPYyb8qkzrFo8FjFjT8wS5zBh99w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_3CgCkWlyDER2G_BJugQJyk",
+         "plus_code" : {
+            "compound_code" : "R97C+7P Kuantan, Pahang",
+            "global_code" : "6PM5R97C+7P"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ_3CgCkWlyDER2G_BJugQJyk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84
+      },
+      {
+         "formatted_address" : "Perkampungan Bukit Ubi, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.821775,
+               "lng" : 103.3221684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.823136479892722,
+                  "lng" : 103.3235506798927
+               },
+               "southwest" : {
+                  "lat" : 3.820436820107278,
+                  "lng" : 103.3208510201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "10f92bce30e3f0041260d3a203bf4985bd38799d",
+         "name" : "Nasi kukus my mama",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107819858115485418848/photos\"\u003etcs jensen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATuCgr6rI3Zid9IZBtAIfhabG4XpkltZAryzYCf2i2pgTG_aQHWfKCZ72EDCqkOwZ90pjlmaFHUH1GirIK9bUsDbOutB400g2FTBa3oDoqeDxSsi9Ch5BwPaq1n1Jh-lSEhDHMF2l0-1JosaLsFfZiPoCGhQpTKFPMj2won6-gsRcw7UEHb3_VQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ81gez_K6yDERb7PU7vkO9kI",
+         "plus_code" : {
+            "compound_code" : "R8CC+PV Kuantan, Pahang",
+            "global_code" : "6PM5R8CC+PV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ81gez_K6yDERb7PU7vkO9kI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 261
+      },
+      {
+         "formatted_address" : "No A29(Gf), Pusat Komersial Batu 3, Jalan Gambang, Pahang, 25150 Kuantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.779835,
+               "lng" : 103.276742
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.781127279892722,
+                  "lng" : 103.2779459798927
+               },
+               "southwest" : {
+                  "lat" : 3.778427620107278,
+                  "lng" : 103.2752463201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af709326e2d7cf430dbf8c4e2f6d7bc5a1696c6f",
+         "name" : "McDonald's McCafe Jalan Gambang, Kuantan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115484124855254176136/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAES9BxJloh8H6A-63vEDBSJSkSSIqFiC2dZ_3Zqk9jDgsYZZQdAt2OvGdu8_Mkz5motYpNigUNUPa7xGM78cHEwxrpWENtomSEYIIKJL7vu0oLGjj8gYO2YuAJqcrEte6EhAmZaAdolVhB1QFBrTUQIacGhRztOLcxTsjjJlJxyTyBT1AEBGCVg",
+               "width" : 630
+            }
+         ],
+         "place_id" : "ChIJhZ0OisiwyDERdN9hCO2g8qM",
+         "plus_code" : {
+            "compound_code" : "Q7HG+WM Kuantan, Pahang",
+            "global_code" : "6PM5Q7HG+WM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJhZ0OisiwyDERdN9hCO2g8qM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1408
+      },
+      {
+         "formatted_address" : "Tanah Putih, 25100 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.799070099999999,
+               "lng" : 103.3225885
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.800444129892722,
+                  "lng" : 103.3239548298927
+               },
+               "southwest" : {
+                  "lat" : 3.797744470107278,
+                  "lng" : 103.3212551701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1198c94e658b78b599e7c2294b28b712e9b15b4",
+         "name" : "McDonald's Esplanade Kuantan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115853097189470179501/photos\"\u003eFitri Hakimi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATSKUYPrKAoHMDBfroMEMbBOaeEYxwbJetpCt9I3M1wCOOO_g6zkRtSGG_XjE29x6bBzXUr_7GUEcjPIQNcsPwxmZrxgEX6fzqz6sveAFiVAC_qRWDuSegkY-UjsJiKZHEhD4iKaNwpPLm7s3J36gUEvBGhSpqs-zXiNhnKyL4q4ikFqLnFL08g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0V6XSniwyDERynuoMTP4aaw",
+         "plus_code" : {
+            "compound_code" : "Q8XF+J2 Kuantan, Pahang",
+            "global_code" : "6PM5Q8XF+J2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ0V6XSniwyDERynuoMTP4aaw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 164
+      },
+      {
+         "formatted_address" : "Lot No. B26, Lorong Kg Padang Permai 1, Padang Permai Commercial Area 25200, Kuan, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8588636,
+               "lng" : 103.2543565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.860241979892721,
+                  "lng" : 103.2557281298927
+               },
+               "southwest" : {
+                  "lat" : 3.857542320107278,
+                  "lng" : 103.2530284701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ad7043fd2cae532dd58cea9801b31f58c758801",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113647554821190556165/photos\"\u003elia malia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZDOKFfL0uXCRgrYhmddVGYorQ72JJYdejk3UbXfQv6Ilvjs5bTOuazPLMLYNTD8RnDGCGfMpGwwdZhtDuY6bAJtnyCajRiD8uEtAGIOPGfwkezFdTnO2ONBOCfCQP0wxEhBFJbC07KqtYaQ7gwHZ94usGhS_RuoonmWlNDG3TbTQ5a95JO3U-g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJN6Bpm2i5yDER3iLKtpFpfkk",
+         "plus_code" : {
+            "compound_code" : "V753+GP Kuantan, Pahang",
+            "global_code" : "6PM5V753+GP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJN6Bpm2i5yDER3iLKtpFpfkk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 221
+      },
+      {
+         "formatted_address" : "Lot PT 59488, Jalan Beserah, Mukim Kuala Kuantan, 25000 Kuantan, Pahang Darul Makmur, 25000 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.815799,
+               "lng" : 103.33283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.816988729892722,
+                  "lng" : 103.3340830798927
+               },
+               "southwest" : {
+                  "lat" : 3.814289070107278,
+                  "lng" : 103.3313834201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c12e88218ca6b6a36230992019056d91631e5ec",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105285632530791671859/photos\"\u003eMohammad Suliman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-hdl0LfrxK_n_qQxpo0318uTd_275_GB99-0TEXGdct1rEyS5Nu9zEjY_5LIkSXFH4RXLnlTV9yPHbB6AWIYq1kE6evjhaS5iQDPBBrtHg_54WXDpy4q1uME9gJEpxD2EhBU40PFHVgb1n6eGpS-eVuZGhTNseetu0JV_2rgkbUS70IfmFjEPw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg1i_fZa6yDERu5lel4zqkCc",
+         "plus_code" : {
+            "compound_code" : "R88M+84 Kuantan, Pahang",
+            "global_code" : "6PM5R88M+84"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJg1i_fZa6yDERu5lel4zqkCc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 314
+      },
+      {
+         "formatted_address" : "NO. 69, Ground Floor, Shoplex Treeunder, Teluk Chempedak Beach, 26050 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8120578,
+               "lng" : 103.3715398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.813459079892722,
+                  "lng" : 103.3728968798927
+               },
+               "southwest" : {
+                  "lat" : 3.810759420107278,
+                  "lng" : 103.3701972201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40eb9381a0de91c8eec2c45d2c306f3aab627071",
+         "name" : "A&W Teluk Chempedak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116447578417536487036/photos\"\u003eAhmad Sobirin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhf9UwdkTcCi7S0uEK-dLp2NhBdnIvITOhz5MuBo_WbCHSiEFOa0ZKUJ0Tm9LmIYSC5ZvfpDf6xBkUuwKROfrHcnoyBmZbthxLynfc87T0NFiEZGQ_cLmzMhc_88_LAeMEhDEXSTv2-O3n1ue-zVlATwTGhTGidhzaByL1NEytOYmt2DKr6egsg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJi5eZa0WlyDERW-eMd-WbhdA",
+         "plus_code" : {
+            "compound_code" : "R96C+RJ Kuantan, Pahang",
+            "global_code" : "6PM5R96C+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJi5eZa0WlyDERW-eMd-WbhdA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 109
+      },
+      {
+         "formatted_address" : "25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.825189199999999,
+               "lng" : 103.3050777
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.826449529892722,
+                  "lng" : 103.3063590798927
+               },
+               "southwest" : {
+                  "lat" : 3.823749870107278,
+                  "lng" : 103.3036594201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93556cf1854bd25d7adeb4e10d13daf4b0fb69ae",
+         "name" : "KFC IM 8",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109249812794726567172/photos\"\u003ezelba relix\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADk4n_So1BTLqEpPbPrnxDwIWX53vaqpkvNxdb2ahXAJLXFPmos4Z1YdUj4QczRf9P62JqSt_1TeAFAvgPkcUDxFz4NkUYmFPnKMOnjsrTEqM0yUCg26lVFR41ep43R0cEhAxPh_nExyY1UYvc71U12UaGhT9omG5yJ8SIrdQaMFJYWWqwNq2bw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJr4cBaly6yDERnoymloWBS6k",
+         "plus_code" : {
+            "compound_code" : "R8G4+32 Kuantan, Pahang",
+            "global_code" : "6PM5R8G4+32"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJr4cBaly6yDERnoymloWBS6k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 752
+      },
+      {
+         "formatted_address" : "8, Jalan Putra Square 3, Putra Square, 25300 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8172451,
+               "lng" : 103.3259017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.818576029892722,
+                  "lng" : 103.3271904798927
+               },
+               "southwest" : {
+                  "lat" : 3.815876370107278,
+                  "lng" : 103.3244908201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "65ae55137d1ef736e15ad17b9cd778f28d7418be",
+         "name" : "Dapur Mama Kuantan",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118051899505007554732/photos\"\u003eHarvintha Reddy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA56UGaZhvUzVBFSfPSLtrYvB_rkiQqVgiTsAUXtNpFTfCZgDn1b2PUqxLGFUopSot-v18N0XYMTJ5_3f7ErAzK1rsP2GAtEqIQEwcRaYfUepCzHBm9AtwLQHw21vD1_RJEhD3THsJRlcrSKgMnmBzQhXiGhRpnTzW8dUJUF6rluvkqw9KZ6rhFw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJDz1SOZK6yDER-FxsJvpfGg8",
+         "plus_code" : {
+            "compound_code" : "R88G+V9 Kuantan, Pahang",
+            "global_code" : "6PM5R88G+V9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJDz1SOZK6yDER-FxsJvpfGg8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "G-89 Berjaya Megamall, Jalan Tun Ismail, 25000 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8159854,
+               "lng" : 103.3304294
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.817355229892722,
+                  "lng" : 103.3317649798927
+               },
+               "southwest" : {
+                  "lat" : 3.814655570107278,
+                  "lng" : 103.3290653201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "008195578789bf5f83573280f5164a92ef6dd2ff",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5832,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110480364464983666432/photos\"\u003e浪人\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq6zmBz_JjivPtn_MxpjB2fgtQ5tiTK9CnAlFj7KNtDv9012qAH0rt5fJgtv7fkq2TEY_tUNx9m9GgZsZZONL2JFS3bEZ7Q1sPerAgRToLaKk31iRdvXTDnMnNEcnitlwEhCMaAJBqbP3lTOXoUvlSieMGhTOzaYCzMEflp4xgywU09IUq0Ho_w",
+               "width" : 4374
+            }
+         ],
+         "place_id" : "ChIJufuEpZa6yDER7T0TCE_oikQ",
+         "plus_code" : {
+            "compound_code" : "R88J+95 Kuantan, Pahang",
+            "global_code" : "6PM5R88J+95"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJufuEpZa6yDER7T0TCE_oikQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45
+      },
+      {
+         "formatted_address" : "Palm Beach Teluk cempedak, 25000 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.812036,
+               "lng" : 103.371792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.813449229892722,
+                  "lng" : 103.3731285298927
+               },
+               "southwest" : {
+                  "lat" : 3.810749570107278,
+                  "lng" : 103.3704288701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c3bb4391e3f844566f707bc6a7c4ffd498751c2",
+         "name" : "KFC Palm Beach Teluk Cempedak Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106840886022319572855/photos\"\u003eizzat syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwjkmWeSanWPLt9WJ6beN5T82azQFTPSlsT3lpBIRnLAzgA4UXKTSnOzBd5D9WEyaWANnpUJGUvZBiymlwSuE_BF-t6IllGwDxO7M1DbMA69YbIQN8fg-uqsXgH7kA25REhDQn0NCxp22Pr0fVRLxp8d_GhTAN3DHUD7ukQ6NxjZQk2snFsxquw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB-CxckWlyDER7-4e-9WUEek",
+         "plus_code" : {
+            "compound_code" : "R96C+RP Kuantan, Pahang",
+            "global_code" : "6PM5R96C+RP"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJB-CxckWlyDER7-4e-9WUEek",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 489
+      },
+      {
+         "formatted_address" : "Lot No A 10 Giant Kuantan Lot No 5197 Jalan Tanah Putih, Section 124, Kuantan, 25100 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7920076,
+               "lng" : 103.3107529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.793373929892722,
+                  "lng" : 103.3121402798927
+               },
+               "southwest" : {
+                  "lat" : 3.790674270107278,
+                  "lng" : 103.3094406201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4598f835461ca24866cca1eaf17cd4b6bc05f023",
+         "name" : "KFC Giant Kuantan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102479884903866887463/photos\"\u003eHazwani Hanum Hashim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhsLwg0blaeX90bWVtVT4J1AxNqta4Mx9x-mT3ceM5PDhkYhlJ7qAJZJ7euo_yEl6RAQqpNPGhzX7-4xusvwpId8cb1XMeRiEuubdyT_YNT45xYRcq-KC2pLs7-Z559-5EhCMmqXVjCAdcih4HarE96yuGhRD0JBO1QYj8SUCIU-JHpHBAXYjIA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-b5B0IewyDERia2Vi_vLd2A",
+         "plus_code" : {
+            "compound_code" : "Q8R6+R8 Kuantan, Pahang",
+            "global_code" : "6PM5Q8R6+R8"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ-b5B0IewyDERia2Vi_vLd2A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "Tanah Putih, 25100 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7991909,
+               "lng" : 103.3226626
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.800507379892722,
+                  "lng" : 103.3239896298927
+               },
+               "southwest" : {
+                  "lat" : 3.797807720107278,
+                  "lng" : 103.3212899701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5b8a9a898a17407dd0173512d348752cb4de2f0",
+         "name" : "McDonald's Tanah Putih",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111043655036267207985/photos\"\u003eivan cts\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhb-gD4hmMCJ1KOZTznLhasjf-Va8o3BTGedn8AfkhwcxZwYHQ5LwaGirIj1LMQAqT5aqxaEZQl_kgZ9Qtl1BwhBTZcFl7ZOGEsKPGOLJJv2Oy4EH3LAxOlzR_L691oPtEhDv-MFmPQ9u7LpgFUgmHjyUGhQqcWnQn9roMziGnBcJ4JDN5bNaUw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-_h1SXiwyDERm-HBqhBepQo",
+         "plus_code" : {
+            "compound_code" : "Q8XF+M3 Kuantan, Pahang",
+            "global_code" : "6PM5Q8XF+M3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ-_h1SXiwyDERm-HBqhBepQo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 455
+      },
+      {
+         "formatted_address" : "Taman Kota Ria, Indera Mahkota 2, 25200 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8237591,
+               "lng" : 103.3001062
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.825066479892722,
+                  "lng" : 103.3014605298927
+               },
+               "southwest" : {
+                  "lat" : 3.822366820107278,
+                  "lng" : 103.2987608701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "349c8c73c2e970bb95b092a858761f6eede68788",
+         "name" : "KL Burger Bakar Ukay Perdana (Kuantan)",
+         "place_id" : "ChIJnXhWHT-6yDERkyIF3xLD-ZA",
+         "plus_code" : {
+            "compound_code" : "R8F2+G2 Kuantan, Pahang",
+            "global_code" : "6PM5R8F2+G2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJnXhWHT-6yDERkyIF3xLD-ZA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lot 158, Semambu Industries Estate, Pahang, 25350 Kuantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.8495195,
+               "lng" : 103.3286513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.850862979892722,
+                  "lng" : 103.3300739298927
+               },
+               "southwest" : {
+                  "lat" : 3.848163320107278,
+                  "lng" : 103.3273742701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ce5cf2f9867fb641d750987d87ebcd0c4269a107",
+         "name" : "Good Food Industries Sdn. Bhd.",
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101536130061329033172/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAgZjNeJ5txAYwnWHmBoIGKxMKHdlRggj5x6plkKZ8XZONSkgNXvPPaCQl_9K27Y5tjkmFGhSGVwfIceU_ym0CAH3bXdgpup0Sb6uOMFQtV2RndmM86QYyM19mYZdi7IpEhCVfCajz89bK0oH_mQuef0IGhSKfwlwJFaa0yeN7RTtsMDleswmig",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ8fn0ngu7yDERIMMNIXA9-cA",
+         "plus_code" : {
+            "compound_code" : "R8XH+RF Kuantan, Pahang",
+            "global_code" : "6PM5R8XH+RF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ8fn0ngu7yDERIMMNIXA9-cA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "GF, Kiosk , Kuantan Parade , Jalan Abdul Rahman , Sri Dangan , 25000 Kuantan , Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.805029999999999,
+               "lng" : 103.323245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.806428679892722,
+                  "lng" : 103.3245392298927
+               },
+               "southwest" : {
+                  "lat" : 3.803729020107278,
+                  "lng" : 103.3218395701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "09aee64c5e732baced875bfc027cdc1984cc4d88",
+         "name" : "McDonald's Kiosk",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102015310420696202319/photos\"\u003eHaydar Mohammad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAD-3PEETHmgzaLBoMeG4gToTyszTjbnGuEX6-YtE0E_VDwDTuWzKnkSa88h8cBzxG20XMyXw0UZIFl_o8pEMsdmg47vsrVl5or-aI3MA8gjfcpBDNY0U8KPbJzxSVbSqdEhDYI7mb4vxbRFDNyefk3VIzGhRaxOZ3gmE2wCT-gf7PxpE3ImTGFQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJhVZJOIO6yDERTDtdDCvPkHE",
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJhVZJOIO6yDERTDtdDCvPkHE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28
+      },
+      {
+         "formatted_address" : "No. A1, Ground to 2nd Floor, Lorong Pandan Damai 2/2, Tmn Pandan Permai, Batu 7, 26070 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7705739,
+               "lng" : 103.2321692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.771929229892722,
+                  "lng" : 103.2335730798927
+               },
+               "southwest" : {
+                  "lat" : 3.769229570107278,
+                  "lng" : 103.2308734201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f9c298e07dd0251b65a3ec26bc14adfd3b4f07a9",
+         "name" : "KFC Taman Tas Kuantan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2352,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110645240431888294506/photos\"\u003eE Wei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXUl06Y_PTmBt8g6aayN13iClcSBUMIgl2Jqfo5nVVPhRcggOd7FDE_AhzZcDYS27TcslIBz13CQVtWLrjoNV2U0dQ2cAidF6196lVhvTao1L3wF8BlgUzZj6rsnHoNCgEhBIC8kDDwVYyH1lkNQUJO5VGhS4ZQMCsV0w7fTcSm0ZxBBR2DDr8w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJyWfAKRu3yDER_biIs6ju_8k",
+         "plus_code" : {
+            "compound_code" : "Q6CJ+6V Kuantan, Pahang",
+            "global_code" : "6PM5Q6CJ+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJyWfAKRu3yDER_biIs6ju_8k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 608
+      }
+   ],
+   "status" : "OK"
+}

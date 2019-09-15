@@ -1,0 +1,470 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "N109, Kampung Batu, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5916639,
+               "lng" : 102.0907827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.593007579892723,
+                  "lng" : 102.0920413298927
+               },
+               "southwest" : {
+                  "lat" : 2.590307920107278,
+                  "lng" : 102.0893416701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6477ee67b6030d7ec0cd47edd2332ba44a03bdf6",
+         "name" : "GPC BANDAR REMBAU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJQ5rPiRkJzjERxEaxmMhZTgU",
+         "plus_code" : {
+            "compound_code" : "H3RR+M8 Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3RR+M8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQ5rPiRkJzjERxEaxmMhZTgU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 1701 Kedai Kampung Batu Nunggul, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5845519,
+               "lng" : 102.1085429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.585873679892722,
+                  "lng" : 102.1099532298927
+               },
+               "southwest" : {
+                  "lat" : 2.583174020107278,
+                  "lng" : 102.1072535701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "25665551f3ab7e0d3f1faae4893ad02d5b55af46",
+         "name" : "NKA Frozen Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113561548076995301728/photos\"\u003eNKA Frozen Food\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApoZzW4ZnTEgeRcE-XXyI2Bhp0AWsqCBqDwVoyoR3TOMn8SSxEvHmSAzEymlaI8bvFzXUwjXxFUEZLVEMHNqLJh8W_JVP2ExFX7xywpUakoFviW6BiCa4XjR1VWrcHzbPEhBBgOZykxhtGy_C6qf-yRIsGhQlohL_ilnEYiBsSW9v9TW373I6mQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJuQszhFwIzjERSbg8pZK2K58",
+         "plus_code" : {
+            "compound_code" : "H4M5+RC Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H4M5+RC"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJuQszhFwIzjERSbg8pZK2K58",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Rembau, Lot 1220,Jalan Besar Tampin Seremban, Rembau, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5926352,
+               "lng" : 102.0896431
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.593925379892722,
+                  "lng" : 102.0909971798927
+               },
+               "southwest" : {
+                  "lat" : 2.591225720107277,
+                  "lng" : 102.0882975201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7d4606afafbef60eea0162213321f2c021dfa14",
+         "name" : "ANUAR BISTRO REMBAU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115561076871167069250/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALL2tGs9ZVULzo2viAJt5mqAioosjrYCx_zGcDAu-oJTK0OjVRx4ee-YputdgikjcfBBgwnYwY_1AgNyqVDTpBjVlAAD7DVu6BIG_rkphX9foYGw8ahAlXEiAs49kfF1CEhANJkElQ5LusTHHCqwdHZ3cGhQjOsTryr00Ut9brADaW9_wdCDAiQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJqRzn1jYIzjER6PY1X2OE1-0",
+         "plus_code" : {
+            "compound_code" : "H3VQ+3V Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3VQ+3V"
+         },
+         "rating" : 3,
+         "reference" : "ChIJqRzn1jYIzjER6PY1X2OE1-0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "Lot 1701 Kedai Nunggul, Kampung Batu, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.584637,
+               "lng" : 102.1085821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.585938029892722,
+                  "lng" : 102.1099887298927
+               },
+               "southwest" : {
+                  "lat" : 2.583238370107277,
+                  "lng" : 102.1072890701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "05f4f5f870f9d5315699cb38494e37621664d03a",
+         "name" : "Kambing Perap Rembau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112061119295506222045/photos\"\u003eMasliza Mat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcTGm-f4jIYrOS6ba8oCGtDISCQI8YgetsZhya2webuCVKrOJRBKJ4Xo_SZMDh_MUl2n7MSTrFjedOcO7ZZTynaojnV3Ppy4hKs_24PiW-cgztrlRbRXhafL1lgri4XNFEhBHkZtG8DlBomg392G_FT3-GhSSDieHSWRdPlFp3FRX-CT01ySmtw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAx8ZhFwIzjERumyTcD3NoWM",
+         "plus_code" : {
+            "compound_code" : "H4M5+VC Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H4M5+VC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJAx8ZhFwIzjERumyTcD3NoWM",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "151-153, Jln Tampin, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5883599,
+               "lng" : 102.0980088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.589711379892722,
+                  "lng" : 102.0993646298927
+               },
+               "southwest" : {
+                  "lat" : 2.587011720107277,
+                  "lng" : 102.0966649701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dcc5c8252585395baaeffbcbcfb107d57ac0030b",
+         "name" : "Restoran Rembau Ria",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112731752511873216149/photos\"\u003edaud abu kasim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjSpSy2KdZHygqMm0gmS3YK5eX8VALdGuVLY4o5zeyDUO-2sMyB3MzpVW7KnTnsid7qWChZM_xdgalFWH7yWEPzCKs776cfDRaiHOTh9_LnEQYvckQhmCsGV7xLskza28EhBXbSqzIUKaLOFnBhCv8lu3GhRW9Kp-CRt4wkWFkEyttKYrkNGe4A",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJYUS7FiHizTERaiHkPtGXUog",
+         "plus_code" : {
+            "compound_code" : "H3QX+86 Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3QX+86"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJYUS7FiHizTERaiHkPtGXUog",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 69
+      },
+      {
+         "formatted_address" : "PT164, Jln Seremban - Tampin, Kampung Senama, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.587573,
+               "lng" : 102.098538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.588985429892722,
+                  "lng" : 102.0999931298927
+               },
+               "southwest" : {
+                  "lat" : 2.586285770107278,
+                  "lng" : 102.0972934701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2947a184a6abd56fd85fd63544ca5bb8fb00674",
+         "name" : "Makse Restaurant and Catering",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 359,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117412366523604094843/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnK0Er81Mj0O1b9q-ipITt-HACXuTN0zRmbcs1IGP_Gxd-s4YqB9KmkBqfjWEcuJp-IwI0m2yQNPYOtPvvLoNAI5F0nbDKhfqNZW52hdC8JCnD-X2_9-gwb9GNfk5DWXuEhAy9xtD5MQWXdZOIGHysFDdGhRH-fxBB5bii7zPqGmo14hNl0rehw",
+               "width" : 360
+            }
+         ],
+         "place_id" : "ChIJBS2kUEYIzjERUxY_0mpQ9vY",
+         "plus_code" : {
+            "compound_code" : "H3QX+2C Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3QX+2C"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJBS2kUEYIzjERUxY_0mpQ9vY",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5921382,
+               "lng" : 102.0867004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.593663829892723,
+                  "lng" : 102.0880538298927
+               },
+               "southwest" : {
+                  "lat" : 2.590964170107278,
+                  "lng" : 102.0853541701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0be9b1bba0f9a516629d47a2697ab7f68b458644",
+         "name" : "Restoran Ikan Bakar Sungai Rembau",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116684473813420512049/photos\"\u003eEidil Benz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwXrfBCm9pA1dqIhiDWw0dLhjhrZa_SOrc_5bcxDRx91_OwdO_sxJC-tSOh1ij3blt3-GCuyidiWJ5VymNvd6isfZdVfhj8OGoo5GzmDWkGD8glXlqXeMqCsed4fHxV6tEhDIa36KDuB7cz8rTDDyAKjmGhTvmb_Od6YbFhNZYG_gy6_3NGT26Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJTdBt-zAIzjERz_K0oNiN4-A",
+         "plus_code" : {
+            "compound_code" : "H3RP+VM Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3RP+VM"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJTdBt-zAIzjERz_K0oNiN4-A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 339
+      },
+      {
+         "formatted_address" : "Lot 597, Jalan Terentang, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.58946,
+               "lng" : 102.09262
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.590766079892723,
+                  "lng" : 102.0940166798927
+               },
+               "southwest" : {
+                  "lat" : 2.588066420107278,
+                  "lng" : 102.0913170201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "862bdca84b3766f2f945587aa2c8c7577e55f4c7",
+         "name" : "KFC Rembau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116535352075289589499/photos\"\u003eAin Farahanim Yusree\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW5K-iI4T0X-JB52OCsIRq_ZBIv5LbraNVeTSyEvcVzIsYt1SZFFlfjBT2M5wZ2e0g2TA7Jt5NJIrYQeM-8DVtDdK-ottlwOouZH51Gm8iVtuFty3XudUeyi-zges1LMVEhBiLXrOTiuwjdHGELESnBr7GhShCFfAsmDXuAZDHjFJ85lj3shUYg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJWQE4JTgIzjERjvIvrBCmV1E",
+         "plus_code" : {
+            "compound_code" : "H3QV+Q2 Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H3QV+Q2"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJWQE4JTgIzjERjvIvrBCmV1E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 467
+      },
+      {
+         "formatted_address" : "N9, 71400 Pedas, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5519464,
+               "lng" : 102.0381486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.553308629892722,
+                  "lng" : 102.0394694298927
+               },
+               "southwest" : {
+                  "lat" : 2.550608970107277,
+                  "lng" : 102.0367697701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81ee75661568c277878b32474cf289a232b5058d",
+         "name" : "GPC KUNDUR HULU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJacqS70H9zTEROeGDRldhOh0",
+         "plus_code" : {
+            "compound_code" : "H22Q+Q7 Pedas, Negeri Sembilan",
+            "global_code" : "6PJ4H22Q+Q7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJacqS70H9zTEROeGDRldhOh0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "71350 Kota, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5198154,
+               "lng" : 102.1575683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.521154329892722,
+                  "lng" : 102.1589068798927
+               },
+               "southwest" : {
+                  "lat" : 2.518454670107277,
+                  "lng" : 102.1562072201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8f83bec04d2bd90e5444a67f4a5ce2221b65f9c",
+         "name" : "GPC KOTA. NS.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaU77augHzjER4626LP6U2q4",
+         "plus_code" : {
+            "compound_code" : "G595+W2 Kota, Negeri Sembilan",
+            "global_code" : "6PJ4G595+W2"
+         },
+         "rating" : 0,
+         "reference" : "ChIJaU77augHzjER4626LP6U2q4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Batu 20, Kampung, 71300 Rembau, Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5691445,
+               "lng" : 102.1223184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.570506179892722,
+                  "lng" : 102.1237121798927
+               },
+               "southwest" : {
+                  "lat" : 2.567806520107278,
+                  "lng" : 102.1210125201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7c4b3c822d0c259ea531e9d951c98a3b1380a2f",
+         "name" : "Kedai Makan Haizal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113785804982754304326/photos\"\u003eAfida Afida\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHaMLf8d1xjatE_w4fatqZQgJ8QClXLehGW1K4lSeOyAjxScwB4UjzkvrrisN4ifCRNMGOe8iha9AjD5CqYowjFfaYJfIBNcM1qJ_GgJSORg58DMXTFZTdkLWxn7KfM7tEhA-BjwTpezELLUTMUkC0BBwGhSfvn5jU63Iq96pXIPd28Fw86_IiA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ6RgyE4YIzjER7qyXqX1jRSQ",
+         "plus_code" : {
+            "compound_code" : "H49C+MW Rembau, Negeri Sembilan",
+            "global_code" : "6PJ4H49C+MW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ6RgyE4YIzjER7qyXqX1jRSQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,837 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAALO-S5obXYYvllTNBl0Cw8ZfMB1PB3x3ZV18PD9CiUiY4OawnvIuyYlXZjhF2HDm-0yQbd0rzfysazFRQyc0HuSHaPpOeVbs8apbRQlk0MWArNq62o4StNwKfDXWDKjFe1QkYwrmdS_upWi6gkyXZK7acSofd5EpB6pc6K3-TiFIaYXwARSpCfOlWX-MlHAkR3UH1Bl9cu7mmFyjudG1KwYzkRBN_CO2SMcvI6MaRnpyRZda8Iz2xnuygssbYc2ZAyV32C3bMULr3Qjw5-Mm1soVkRQYdVAjsakwioK5qxAOjh2f-Yw038EF4dL2UpDFtuwolGNLl3HjXbU8e0tusX7x55AdIrksuXSQOL6or2PE0Vh4GiRAobd24c2S9xZEogTDNhxjicBpPN4Lh1-a3XOqcjlXbNtjSwJc8AoXNpdV9RnldCbZariiz69r9S_K67p4_x0Uq_LjAwWsReAXiN7LhFFZ2k42WnH4Ay-fKii31iyMn44jQNzNnZaXyfDYJK8DdqXi8-qmInDsyrHhmrVYiFapZK_fTUlcLKQq27PzEU7Gzte76IQQs0wsc6YlnTqRYkc2igTS-xw-llBRR5qPZllFrkBruD3qNO1xJYVsrnPGBkZT6uuV5jYBbtDbDVoZ6Np-K7AaGFbu7eNweNlwAAXX4chEvXsCihhq5Fn4EhCbYPHM918bX0Q6woZGAKZzGhRCsFaUlNGWJm2VEApX-TjdVp6GYg",
+   "results" : [
+      {
+         "formatted_address" : "Lot No. 1 & 2, Ground Floor, Block F, Taipan, Inanam, 88450, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.993587199999999,
+               "lng" : 116.1381103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.994914979892722,
+                  "lng" : 116.1394372798927
+               },
+               "southwest" : {
+                  "lat" : 5.992215320107278,
+                  "lng" : 116.1367376201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4b53911370f3251d59223d5bd1352045635136fd",
+         "name" : "KFC Taipan Inanam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112982606818150498899/photos\"\u003eShakib Dhanji\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApMHVBWLxmiPzzyc6hrVMPFOPunk87A3vpEhYHKIABqKbKeQ61Io3eTUv5658iCrPisJFggTlXKNfq8TvurhQ2FsYbac5VzO-XXmTv6k37zdGZFQPixe8fc0rQBCCq8MBEhC9DQM30ciOioRpFls7pNC0GhR-sIDA_vbqGWwl53GKgHB-mcezFw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ5Zn0VgdsOzIRRFZXcP5uopw",
+         "plus_code" : {
+            "compound_code" : "X4VQ+C6 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4VQ+C6"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ5Zn0VgdsOzIRRFZXcP5uopw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "88450 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9902928,
+               "lng" : 116.1246632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.991664229892721,
+                  "lng" : 116.1257985798927
+               },
+               "southwest" : {
+                  "lat" : 5.988964570107277,
+                  "lng" : 116.1230989201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e3b81090bf9377291e3d67eeefa89cfb57754e55",
+         "name" : "Golden Fish Outlet Kolombong, Sabah.",
+         "place_id" : "ChIJD9R-WMVrOzIROmYQlSzKRXw",
+         "plus_code" : {
+            "compound_code" : "X4RF+4V Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RF+4V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD9R-WMVrOzIROmYQlSzKRXw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "F30, Batu 5.5, Jalan Tuaran, Kelombong, Sabah, 88400 Kota Kinabalu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.990867,
+               "lng" : 116.125153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.992050729892723,
+                  "lng" : 116.1267192798927
+               },
+               "southwest" : {
+                  "lat" : 5.989351070107279,
+                  "lng" : 116.1240196201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "044f06d31ccb96ddb8c4304d5208bc3cf0b3ff59",
+         "name" : "Saba-Sino",
+         "place_id" : "ChIJgwdB2fxrOzIR8AxgDftQ2A8",
+         "plus_code" : {
+            "compound_code" : "X4RG+83 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RG+83"
+         },
+         "rating" : 0,
+         "reference" : "ChIJgwdB2fxrOzIR8AxgDftQ2A8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "FC01-FC14, Batu 5.5, Jalan Tuaran, Kelombong, Sabah, 88400 Kota Kinabalu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.990867,
+               "lng" : 116.125153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.992050729892723,
+                  "lng" : 116.1267192798927
+               },
+               "southwest" : {
+                  "lat" : 5.989351070107279,
+                  "lng" : 116.1240196201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6f821880d5181ea9d1e8063b1a321ad51d065dc",
+         "name" : "Zu's Kitchen",
+         "place_id" : "ChIJgwdB2fxrOzIRkg4thkRHQrg",
+         "plus_code" : {
+            "compound_code" : "X4RG+83 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RG+83"
+         },
+         "rating" : 0,
+         "reference" : "ChIJgwdB2fxrOzIRkg4thkRHQrg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Tuaran, Kolombong, 88450 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.990081,
+               "lng" : 116.1251809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.991303529892723,
+                  "lng" : 116.1265235298927
+               },
+               "southwest" : {
+                  "lat" : 5.988603870107279,
+                  "lng" : 116.1238238701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef7db046261b3eb0613c7a1861a042e92ae708b7",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJX2i7JP1rOzIRyGsk0vO6UOM",
+         "plus_code" : {
+            "compound_code" : "X4RG+23 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RG+23"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJX2i7JP1rOzIRyGsk0vO6UOM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "G10, Giant, Jalan Tuaran, Kolombong, 88450 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9903369,
+               "lng" : 116.125089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.991680879892721,
+                  "lng" : 116.1266847798927
+               },
+               "southwest" : {
+                  "lat" : 5.988981220107277,
+                  "lng" : 116.1239851201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "09c51a071697e8b55f70c112d34551cafef0bcd6",
+         "name" : "Sweet Corn",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJwWVXvmNpOzIRMv5NgGs3MtM",
+         "plus_code" : {
+            "compound_code" : "X4RG+42 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RG+42"
+         },
+         "rating" : 0,
+         "reference" : "ChIJwWVXvmNpOzIRMv5NgGs3MtM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Sulaman Highway, 88400 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.018222,
+               "lng" : 116.1147679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.019546579892721,
+                  "lng" : 116.1161672798927
+               },
+               "southwest" : {
+                  "lat" : 6.016846920107278,
+                  "lng" : 116.1134676201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f39ccd5f3e89c7566a5520f8e0d607ebcd4ee0c",
+         "name" : "McDonald's | Kingfisher",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112615052189398298846/photos\"\u003elkk0913\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhf-pUqrPqbNunIOYIsGO3CodzS4fEdVJ0c5JO8RHkzLoCaQ9DvzrJeI5nYSV0Q8jQBIp2ClOzC8YSpvvFmd1jmhAKC2ASDAR3RJn8FWjs2EFP6foumL0ZdrVrHCzgvcqEhBQoP8IYj0TPa6qxXsRq9elGhSD70kVjeoEACnfFIRH-J6MQwT1LA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRYwmLphrOzIRsA64El0_JXE",
+         "plus_code" : {
+            "compound_code" : "2497+7W Kota Kinabalu, Sabah",
+            "global_code" : "6PRR2497+7W"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJRYwmLphrOzIRsA64El0_JXE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1311
+      },
+      {
+         "formatted_address" : "Lot F16 & F17, Giant Hypermarket Kolombong, 5 1/2, Mile Jalan Tuaran, Kolombong, 88450 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.990062,
+               "lng" : 116.125182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.991293979892722,
+                  "lng" : 116.1265251798927
+               },
+               "southwest" : {
+                  "lat" : 5.988594320107278,
+                  "lng" : 116.1238255201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0311dc602e2214bc19382f266acc4b498790c0c4",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107539202612884705367/photos\"\u003eHayakawa Akari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaKxiR1zmC00QrkMUVoe4RIEojrKl4VPjUQNbeHj8adJBX1VZMsaN5UrjrFlJqQFmqFIzFoAmO8XJw622TT9brW2mm-CXD3bRMo8gyyRiwQt5wTBw-wdgsGGl3w5kgeJaEhDMgvXPD5mSRZS-kE8X0Jv7GhQ3Bl5evf82RDHuN8WR0wU2G3lfIg",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJMXkILv1rOzIRozyxu3_ZFY4",
+         "plus_code" : {
+            "compound_code" : "X4RG+23 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4RG+23"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJMXkILv1rOzIRozyxu3_ZFY4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "88400 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0005484,
+               "lng" : 116.1296126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.001922579892722,
+                  "lng" : 116.1309976798927
+               },
+               "southwest" : {
+                  "lat" : 5.999222920107278,
+                  "lng" : 116.1282980201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c56e77541051c0834e0a32794e30c80e53e3b302",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115394421474265005899/photos\"\u003erictor rictor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAePDnBdU5jRldTTtBe0rN336k9RMcEEJ2ecCz_cAl70f5r59BvPJ_YNhrONMPib8Y8i1qUDIXVg5QBYfAUfmrvzLq1pwg6j-6kSP8_ZAMV2jI3WIbYeEzgJbNfkTxlDOeEhA4euYFe_1TCafGqRvf8lh6GhScWFlqHKTxVS_m0nKSl8fW6UM3QQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ24SKTSNrOzIRcZFVVck9Tb8",
+         "plus_code" : {
+            "compound_code" : "242H+6R Kota Kinabalu, Sabah",
+            "global_code" : "6PRR242H+6R"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ24SKTSNrOzIRcZFVVck9Tb8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "Ground & 1st Floor, Lot 22, Block B, Plaza Juta, Jalan Tuaran, 88200 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.992683299999999,
+               "lng" : 116.1125077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.994037329892721,
+                  "lng" : 116.1138570798928
+               },
+               "southwest" : {
+                  "lat" : 5.991337670107277,
+                  "lng" : 116.1111574201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2bc300e5968809797be7714d27177e49c1e9339a",
+         "name" : "KFC Plaza Juta",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112982606818150498899/photos\"\u003eShakib Dhanji\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-3oOJXPWcI-37XtRKEChWNe07aIWeD76nwXBa6jh_PJ7QRkT7GHvYtpdof5lFMAUb2DwzobsArS-bWm0VkkXlozr-pAStjn2-EBo51JIEclx4Ttx4HWMIsT6Q8mO3CuAEhBLAouzRpCPHyQsb_1C_dPTGhS5Jz2YwpDQqO5KAcGPchUUvlquzA",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ81ugoeBrOzIRBhUNepG4Law",
+         "plus_code" : {
+            "compound_code" : "X4V7+32 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4V7+32"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ81ugoeBrOzIRBhUNepG4Law",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "88450, Jalan Sulaman, 88400 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.038670199999999,
+               "lng" : 116.1442627
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.040035429892721,
+                  "lng" : 116.1456029798927
+               },
+               "southwest" : {
+                  "lat" : 6.037335770107277,
+                  "lng" : 116.1429033201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e3cb74bba1bd1ce01b4bf8804cd4175af579deb",
+         "name" : "McDonald's Drive Thu | Sulaman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110864689014921318767/photos\"\u003eAina Aqilah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ_wUfZ-PlDetUHI3lkKpL5upgT7sw4y2n-WS45cB3if0DMBuhA8oGmYOZ6yqpMIHTXdNEWITDn_WTLApOtmLwTJfuL865gnGzclhEuDIRpZp4MjpMl59wCO80FmS-MhzEhB5-mnmXulAukbALXqxqwRxGhTnRoqn-KrjJlDuphHmtbHUxcZobA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJo9MCyptsOzIRb2UucYLuU9g",
+         "plus_code" : {
+            "compound_code" : "24QV+FP Kota Kinabalu, Sabah",
+            "global_code" : "6PRR24QV+FP"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJo9MCyptsOzIRb2UucYLuU9g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1756
+      },
+      {
+         "formatted_address" : "Kompleks, G23, Jalan Asia City, Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9753546,
+               "lng" : 116.0733206
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.976368129892721,
+                  "lng" : 116.0744845298927
+               },
+               "southwest" : {
+                  "lat" : 5.973668470107278,
+                  "lng" : 116.0717848701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8370d1e81b4d6b9a11bc3ae5ad3f4438b90196bd",
+         "name" : "Borenos Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117811839642876298810/photos\"\u003eFredy YIAP\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw3bBsmcciyIbdNriDInz4U0cvW1_bmGtzCgDf5-_I0I_nYtB3Aq0NIKtko28DhJg8JXtCELD4OfB-DpwwU_u5lgOG4qTUQ_G089G81aS9rxhc0Z_6n1OrR19z83Uh2bREhAyoKhMiBPNVEDmOPsWTKvLGhTTOySLEn9YsAxMNoKDRja3P_5v_A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJs5qt3ZZpOzIRFMDVTF7MXpA",
+         "plus_code" : {
+            "compound_code" : "X3GF+48 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3GF+48"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJs5qt3ZZpOzIRFMDVTF7MXpA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 211
+      },
+      {
+         "formatted_address" : "Lot No. CL 015367254, Kg. Darau, 88450 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.024536899999999,
+               "lng" : 116.1434299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.025958629892722,
+                  "lng" : 116.1448371298927
+               },
+               "southwest" : {
+                  "lat" : 6.023258970107278,
+                  "lng" : 116.1421374701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91c180fb8e3ff22b21d7128e1a253a468c5b3af4",
+         "name" : "KFC DT Bandaran Kk Utara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100303718049776002366/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPYEgsUQU7pa5-UYeapnpld8KNjv9RN3_6JvpqZU2GOwPJlhaC8EqbzUiX0B3HwxHpcp42l1iqvfY33GRReMVWEjVs78TdeSrO91R3JO9vFLWZZ4jEZEa4mbkL14_MykvEhCP7DdFiaMhUt0-zBZ6YmGWGhSUhibOU_ArGuD_eDfhOCAbhSADLw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJg-bzx31sOzIRkRjXQ0goaTA",
+         "plus_code" : {
+            "compound_code" : "24FV+R9 Kota Kinabalu, Sabah",
+            "global_code" : "6PRR24FV+R9"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJg-bzx31sOzIRkRjXQ0goaTA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1118
+      },
+      {
+         "formatted_address" : "Likas, 88450 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9952171,
+               "lng" : 116.1087047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.996577629892721,
+                  "lng" : 116.1100293298927
+               },
+               "southwest" : {
+                  "lat" : 5.993877970107278,
+                  "lng" : 116.1073296701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a70688bc1d96c76337173a883bf90e11b840e98",
+         "name" : "MasyaAllah Cafe & Catering Lot26",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107243527933746907282/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxI2MG6smWwo3R_nALovtS5lbTTZBk9cJyUdR1FEkhBEu7tEnoPpWTmeQd-Kc0F0ni2827zSPJsSGxEDdNhcO75-l75jsc564JVntoMZGyS5CGXpZwu6dYmqiRyf3ihJpEhCQxC4_QDxe-t-K7KKOjRDnGhRHpXuazNjSWCCq6hCGspdYPQTFBw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJY4ZgSNxrOzIRkrHhJko6YtE",
+         "plus_code" : {
+            "compound_code" : "X4W5+3F Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX4W5+3F"
+         },
+         "rating" : 0,
+         "reference" : "ChIJY4ZgSNxrOzIRkrHhJko6YtE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lorong Dua Puluh 4, Bandaran Berjaya, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.976655999999999,
+               "lng" : 116.0768321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.977998029892722,
+                  "lng" : 116.0782179798927
+               },
+               "southwest" : {
+                  "lat" : 5.975298370107278,
+                  "lng" : 116.0755183201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c53db0da3b0b549a240bd65a17118d723a567d3",
+         "name" : "Kafe Abang J Restaurant, Bandaran Berjaya, Sabah.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113789929963590996558/photos\"\u003eAisyah Lunaa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUx3a5ZlAW5e6sIqcQhhCtmoWAl1QBfgpzDdRwHNRcFcxAqV-WFs81NLgLMm2_DpcO16g63K1As8tr3pEJPvwP8YWkdVt0mo5_jPL8u7e68SWstw2T5Tv6olNuN74bR5GEhBghgGG9ibxCwd1sDmh7bpIGhRElGGvew_DVRdo8NW0CYokhGljIw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJf1zXqZBpOzIRZ4W0KPOhkq4",
+         "plus_code" : {
+            "compound_code" : "X3GG+MP Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3GG+MP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJf1zXqZBpOzIRZ4W0KPOhkq4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 436
+      },
+      {
+         "formatted_address" : "Jalan Rampayan, 88400 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0390747,
+               "lng" : 116.1435707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.040458029892722,
+                  "lng" : 116.1448526298928
+               },
+               "southwest" : {
+                  "lat" : 6.037758370107278,
+                  "lng" : 116.1421529701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f8c8adc1fbb1f84a35693962f4f71927da62bbe",
+         "name" : "KFC Sulaman Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103824838192359298256/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlLodq9J87Ve9syou_xIXq5FC5q0oVSLftKLAXv54eQn8QOZENcD8t7C3D4bNpXkBBzUIfAVdmKC3u_i_Oqq4Sr9AdhfPazG44Pt9TqURBAbhwROsbqgBLN03CmK30h7zEhAJE2XQ8hBLc0BDtJwPyz7EGhR0mQNHKPS2OsG1vsgB13HCkqmVLA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJl32B3JtsOzIRiIsg_EsDZg8",
+         "plus_code" : {
+            "compound_code" : "24QV+JC Kota Kinabalu, Sabah",
+            "global_code" : "6PRR24QV+JC"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJl32B3JtsOzIRiIsg_EsDZg8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1101
+      },
+      {
+         "formatted_address" : "Lot 9 Block B, Asia City, Lorong Singgah Mata, Pusat Bandar Kota Kinabalu, 88200 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.976907799999999,
+               "lng" : 116.0733233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.978257629892719,
+                  "lng" : 116.0746731298927
+               },
+               "southwest" : {
+                  "lat" : 5.975557970107276,
+                  "lng" : 116.0719734701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "732a2efeaa8378abb8fc0bf7ac85f903b9b4a39a",
+         "name" : "Pete's Corner",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104315417471650880099/photos\"\u003esinyoung park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6YrBvY5fscf2126x1yHSlCLtaFM4W2KK5A0-5463f3VXzeQ8Xdx82WSqwpBRsFrFiD1E20E46tHJh5ToNwHDpS7xXMK2iokKOo92VWu6bpUTVrbMZlXM7qCeO8Jm8xOOEhDzZVPYWhHEay-ZxFiRwEdHGhR_aUIRWgBvDTGNrRPLm3uC6-1IMg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJUbs-L5FpOzIROOV82OweSKM",
+         "plus_code" : {
+            "compound_code" : "X3GF+Q8 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3GF+Q8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJUbs-L5FpOzIROOV82OweSKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195
+      },
+      {
+         "formatted_address" : "L9-B1, Basement Floor, Jalan Centre Point, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.97764,
+               "lng" : 116.07144
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.978843879892722,
+                  "lng" : 116.0727225298927
+               },
+               "southwest" : {
+                  "lat" : 5.976144220107278,
+                  "lng" : 116.0700228701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18bce6197b6e590273126cb16a803dabf44d05ed",
+         "name" : "Borenos Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113937518073826347330/photos\"\u003eBorenos Fried Chicken (Centre Point Shopping Ctr)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfuJpQvttOqbaKIY8hITLQoKhygTP_Ca9Es-Z6HdGA9iI61--TIOSxtXfUxKU6FPZwCihsPObALVXmAQJVyW_sUaZUBMv2ePwXOJTj5KlcZqZEQpEEK7EfcOD6nJpF3p7EhCvbzrmMivgaFura-fsAkDeGhTBb6M-TR2NNCZBJQ3oEHexNHsJgQ",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJVz9JW5FpOzIRyGQBimBj1pc",
+         "plus_code" : {
+            "compound_code" : "X3HC+3H Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3HC+3H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJVz9JW5FpOzIRyGQBimBj1pc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 176
+      },
+      {
+         "formatted_address" : "118, Jalan Gaya, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.983493800000001,
+               "lng" : 116.0769688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.984843679892722,
+                  "lng" : 116.0783185298927
+               },
+               "southwest" : {
+                  "lat" : 5.982144020107278,
+                  "lng" : 116.0756188701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5c2478b16a021e418af644ef9cd0af2a2b2df0a",
+         "name" : "Pasta Pasta",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111528355144058178688/photos\"\u003eAehtoosham Suleman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAab1CdCB6cEsi295gx6cmisz4HCEgV3WlVJiCm46eNrzkKiEnM3OlBgQE4IFfTrFuYbYxeTlCWjupurhNSlcZpInZ-HQegp1cmKBlh2cAk_z1gtIhpH64Hjq7TI0pvOICEhC-pRX80K7pCumLFYaTVdqmGhSehzRRj-a28NGRoUHHHazR9paeeQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ54BBgI9pOzIRT5LilyQKHtY",
+         "plus_code" : {
+            "compound_code" : "X3MG+9Q Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3MG+9Q"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ54BBgI9pOzIRT5LilyQKHtY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 98
+      },
+      {
+         "formatted_address" : "Jalan Karamunsing, 88400 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.971019,
+               "lng" : 116.07516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.972438779892722,
+                  "lng" : 116.0763544798927
+               },
+               "southwest" : {
+                  "lat" : 5.969739120107278,
+                  "lng" : 116.0736548201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e256d2822569e222bd4fb3b7d621e7eff6f07926",
+         "name" : "McDonald's Karamunsing branch, Sabah.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117169108607695911066/photos\"\u003eNor Idah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJPMg8Z3Hw9ZScmEXBT5JepUK0kk1haBWtCJ4OnVebwxgoWcBzbjoYAdqmSK1GHZRxxEhRslhh6bkzTKDiMJzhPHp2WUENA_-AdvEMmicgDRQrUIc8c5tC34UfBHYZhmwEhBhkkrjgv9-XmZIUV8V5WTQGhQZNU4wMf0_oSAVw7Wbe4JIv--4kA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJl2pOZr1pOzIRa2ZOOyaxxVo",
+         "plus_code" : {
+            "compound_code" : "X3CG+C3 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3CG+C3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJl2pOZr1pOzIRa2ZOOyaxxVo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 230
+      }
+   ],
+   "status" : "OK"
+}

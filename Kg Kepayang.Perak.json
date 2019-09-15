@@ -1,0 +1,421 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Kawasan Perindustrian Gopeng, 2km 16 Jalan Gopeng, 31600 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.493854,
+               "lng" : 101.152307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.495120229892721,
+                  "lng" : 101.1535179798927
+               },
+               "southwest" : {
+                  "lat" : 4.492420570107277,
+                  "lng" : 101.1508183201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4f26df0518739749894900dfd674d9f178f58d19",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111758359474226821765/photos\"\u003eMohamad nadir fahmey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA5rRnIBhqFsPL-td4tuQVbl6hck8rdfvLjA8r00i508d5-q_L08jHeMZ_y5rR_a_HDMHocfLDqOVxI1NKdgtomfYHMB_676XBICJGt75bprFO2b5jRM1IBVu3hHSdj0bEhC3VdhjxBj7zm-jJmC3kStaGhTMSzbMMKdKDF9i9s8ghOsgc78ITg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJf18BbebvyjER3FHA5ivLK_o",
+         "plus_code" : {
+            "compound_code" : "F5V2+GW Kampung Kepayang, Perak",
+            "global_code" : "6PP3F5V2+GW"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJf18BbebvyjER3FHA5ivLK_o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 221
+      },
+      {
+         "formatted_address" : "31350 Kampung Kepayang, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5264378,
+               "lng" : 101.1308533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.527865929892722,
+                  "lng" : 101.1321589798927
+               },
+               "southwest" : {
+                  "lat" : 4.525166270107278,
+                  "lng" : 101.1294593201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b51c41504212a0d8a7e7de0338d91911904ef499",
+         "name" : "Restoran Waritha",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113923666605740754030/photos\"\u003esun way\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA02NoFzcudcNnzmNDLnTgtxR5vzE4bcOqEpou-KCW17cWAid26jI06JMdC4b0_2O4G3_Y9Rq5v3-5yy5g3D7Le7Df5Usz3OvuJK7MfmautJBGrX5DAkKqIMD56CyrdbwNEhAhfgLuK6oKTq1D44tW-fvCGhQYEdLeEbLXw8VvK-kqTZcjQnXScg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJU_vqdE_uyjERpZQgSY4UEKM",
+         "plus_code" : {
+            "compound_code" : "G4GJ+H8 Kampung Kepayang, Perak",
+            "global_code" : "6PP3G4GJ+H8"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJU_vqdE_uyjERpZQgSY4UEKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 278
+      },
+      {
+         "formatted_address" : "8, Persiaran Sengat Baru 37, Taman Bersatu, Simpang Pulai, Kampung Kepayang, 31300, Kampung Kepayang, Perak, 31300, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5384202,
+               "lng" : 101.1238674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.539781679892722,
+                  "lng" : 101.1252096298927
+               },
+               "southwest" : {
+                  "lat" : 4.537082020107278,
+                  "lng" : 101.1225099701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3af10c6331c484257880f32d682e025ed424f9a4",
+         "name" : "Y Food Box",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113705519810413206400/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbE_yDBg8_GA4s-Nrq-VOlzqo7YmWhnv2swqDctxOJIeoTtMcIRCYjaLFIxb7qHwjxgC5bS9gSVdfTagl0qicsa96ojHNmcJmR_lCBquGj_ps8dVtbzq1OVrJ4bCq0pl8EhCMODtWuV5TM8TJrQYevOp4GhTdiAR9xkfbKECyBohIwAAbuV3Kzg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJz8VuZmfuyjEREZLLfsLnwb0",
+         "plus_code" : {
+            "compound_code" : "G4QF+9G Kampung Kepayang, Perak",
+            "global_code" : "6PP3G4QF+9G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJz8VuZmfuyjEREZLLfsLnwb0",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 65
+      },
+      {
+         "formatted_address" : "81, Persiaran Sengat Baru 2, Taman Bersatu, 31300 Kampung Kepayang, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5365519,
+               "lng" : 101.1258784
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.537879679892722,
+                  "lng" : 101.1272562298927
+               },
+               "southwest" : {
+                  "lat" : 4.535180020107278,
+                  "lng" : 101.1245565701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "23026b5627075c8d8d4324648abb59405b8cb0fc",
+         "name" : "Marble Hill Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102033388979277224387/photos\"\u003eHew Choon Kok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0PKeD6iFksUUD5WchQA_dkLOPXKSljdzd6G8Ky6a716sH9kQUYYrBg9DwSyTzDIRs4JMqdKcaTaSleS7dzSxIqkmtdjAhYAZyeUsG-aWBtJorc3FMLKyb_Iv3xCmCLHdEhBGEQ8bPno_JzErtxAHOc6JGhQOIXGP1c3sJLQGNpLtlN5cWk6xkw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJO8PXbF3uyjERmsKfbxrmjnY",
+         "plus_code" : {
+            "compound_code" : "G4PG+J9 Kampung Kepayang, Perak",
+            "global_code" : "6PP3G4PG+J9"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJO8PXbF3uyjERmsKfbxrmjnY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 64
+      },
+      {
+         "formatted_address" : "Jalan Dr Raja Nazrin Shah, Kampung Tersusun Sengat, 31300 Kampung Kepayang, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.53987,
+               "lng" : 101.1231839
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.541250879892722,
+                  "lng" : 101.1245700798927
+               },
+               "southwest" : {
+                  "lat" : 4.538551220107278,
+                  "lng" : 101.1218704201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e1246d2551474e451ba667b7b89264c1c5f64c0e",
+         "name" : "Klg Restorant (Fast Food)",
+         "permanently_closed" : true,
+         "place_id" : "ChIJ_15hI2fuyjERa8xYqR5uEPY",
+         "plus_code" : {
+            "compound_code" : "G4QF+W7 Kampung Kepayang, Perak",
+            "global_code" : "6PP3G4QF+W7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ_15hI2fuyjERa8xYqR5uEPY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "72, Jalan Tasik, Pekan Gopeng, 31600 Perak, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.474590699999999,
+               "lng" : 101.1662485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.475925779892722,
+                  "lng" : 101.1676100298927
+               },
+               "southwest" : {
+                  "lat" : 4.473226120107278,
+                  "lng" : 101.1649103701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8e71a2e327f155a6fec26d6b3b455c74e2a83543",
+         "name" : "KFC Gopeng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109014409295086339222/photos\"\u003eHyony Honey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF_wdwee38qQjzxkNh626HZWKA538BYoE5ZuQZs6PcdTYSowqrypxlc1XNoKL8jIilCXlXte7vwEE1rAFfsAXZ8IlH8CMcg2EovvMFQ4VcK1sGiDmt6zuSgkTadat9VTgEhBHPS0cAj32wfdBNoF0FEIhGhQxCS05aSBqmCTMdfGTe1w6BCdkLA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFW9uN6r6yjERyuin1K-owhA",
+         "plus_code" : {
+            "compound_code" : "F5F8+RF Gopeng, Perak",
+            "global_code" : "6PP3F5F8+RF"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJFW9uN6r6yjERyuin1K-owhA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 147
+      },
+      {
+         "formatted_address" : "82, Hala Pengkalan Timur 1, Taman Pasir Putih Selatan, 31650, Ipoh, Perak, 31650, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5496918,
+               "lng" : 101.076554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.551056979892721,
+                  "lng" : 101.0778839298927
+               },
+               "southwest" : {
+                  "lat" : 4.548357320107277,
+                  "lng" : 101.0751842701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83073425d9e83bc0953bd5b663f7c8043c1a5a95",
+         "name" : "Az Hair Salon And Beauty",
+         "place_id" : "ChIJlZIWcLLuyjER1p0RWAKv7W0",
+         "plus_code" : {
+            "compound_code" : "G3XG+VJ Ipoh, Perak",
+            "global_code" : "6PP3G3XG+VJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJlZIWcLLuyjER1p0RWAKv7W0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Unnamed Road, Taman Pinji Mewah, 31500 Ipoh, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5298386,
+               "lng" : 101.0808304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.53118852989272,
+                  "lng" : 101.0821804298927
+               },
+               "southwest" : {
+                  "lat" : 4.528488870107276,
+                  "lng" : 101.0794807701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e5b6e0892e5805fcc98da513128598369556b9a",
+         "name" : "STALL Burger LELEH FC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJG0a_eGnvyjERAG2NIVYqbuM",
+         "plus_code" : {
+            "compound_code" : "G3HJ+W8 Lahat, Perak",
+            "global_code" : "6PP3G3HJ+W8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJG0a_eGnvyjERAG2NIVYqbuM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot C21, (Ground Floor No. 25, Susunan Stesen 18, Station 18, 31650 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5436431,
+               "lng" : 101.0713696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.544983879892722,
+                  "lng" : 101.0727261798927
+               },
+               "southwest" : {
+                  "lat" : 4.542284220107279,
+                  "lng" : 101.0700265201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4981b439279cefa2ed4e7c2c8ddf0ad59d923227",
+         "name" : "Subway Station 18",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111798643036841040350/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPer3iZQDbQ9M3NuT_9qF_a1MMojrqK5APs9aIHj1gvqEDs9QCjHVANuustGBM_dAtDMRRlS_1_Aq2F81KnYPWqU_QzxQ2zwVABHrJc7TzTQ0p7RcWALGRSCvSvSSPbbnEhAM3pdxL655UgHJz-zQe-NAGhRWhaZv4jbrtRUSe5SL30Zp235OlQ",
+               "width" : 1052
+            }
+         ],
+         "place_id" : "ChIJnSwRVefvyjERpRsEDWGwUNs",
+         "plus_code" : {
+            "compound_code" : "G3VC+FG Ipoh, Perak",
+            "global_code" : "6PP3G3VC+FG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJnSwRVefvyjERpRsEDWGwUNs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67
+      },
+      {
+         "formatted_address" : "7, Susuran Station 18, Taman Pengkalan Jaya, 31650 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.543930899999999,
+               "lng" : 101.0718182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.545266179892722,
+                  "lng" : 101.0731799798927
+               },
+               "southwest" : {
+                  "lat" : 4.542566520107278,
+                  "lng" : 101.0704803201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee511729bfd1e7c6630a86864c203c4a4c611dc5",
+         "name" : "Kedai Ayamas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102241061994193518012/photos\"\u003ePoobalan Krishnan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaTUCD2InKvViTd_UejXtLu8D50JzHKttxQA-jJy-mD5lLr_jwym8nbErkacWpQhfzNFCWuWUow0NERhIX7Q3ptHpi6Sf2SlcjeO8QpOeZ7RW8_fQtaPRhs_ynsIjj-zrEhCDf0cXNzF1O618DBl48JNcGhR1NiJpim6XM7uGcYow32EYram1VA",
+               "width" : 5696
+            }
+         ],
+         "place_id" : "ChIJyXK1ULPuyjERyVnWkjcxpz8",
+         "plus_code" : {
+            "compound_code" : "G3VC+HP Ipoh, Perak",
+            "global_code" : "6PP3G3VC+HP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJyXK1ULPuyjERyVnWkjcxpz8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,828 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAAHMKibNh-zhmIFkoupQTYUyjf97xP5EaitFfXpvZMdCSCSsh82ZW7n_UMC-LQ8miM0qB9wV8-ABCKHpHgdEY13PsVuNB34Q1KlRWExPHNu4toOkaVYPpWi9GG7IvqMca-RiclsGUviA_lxF-1EixbLYZkTmuicYHR1t_fPDiSzvNrZG7tKYDA8D3-6hMrQB1UOCqxst0MSSshsf34506h7XTkNc9fttLAFaWIwbm9B_HRJMoJS9cruroAhaUz_IeuI1yoXivdodz93MDR8g44KzAyGSN6PUZ2QYQYjpqQ-qhkQlRlAsqGYNdC68tPN1KIwWEJraKX1TzeJK3qlNG7MAkm6Oolhb4tj6T0dzgn1b4bp-RGudEvExhV9xkdRQZ4CmNT1IXooyI58wD9TDj2J_mctSigasohdWM3r-yLAUTdyg4iz8wFm-VFajqAV9v2tKAXnidkOXf-hxh6KcUievz4hwhgIx-u0eG7TznpCBQCJvpwXRwIidDyDziqn4fWv7qCWuzbq4XEIxd7XBmtedbLbkwjX-fAX9-IIqVAR-3mDaMp3oacx-C_82otf6aUD8KsJyqZIsc7oY-FFSWpN3tN06cG1jZP0wmimC4hayYIbA7HB_oTNinqgag4Ytg21rbaRdblo4A9OY0hcQkCg6QNZxvPOMviCwa4wQCXfpBEhAZ4UoBbHORC88qhKrEU31UGhT8XJGQwCKYYAfIseu464wQ-_Ypsw",
+   "results" : [
+      {
+         "formatted_address" : "15100 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.034451499999999,
+               "lng" : 102.1553203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.035798079892722,
+                  "lng" : 102.1566102798927
+               },
+               "southwest" : {
+                  "lat" : 6.033098420107279,
+                  "lng" : 102.1539106201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "551d4d6d290ba5a8af266045ea2ca3fd34002f93",
+         "name" : "Kak Jah Ayam Percik Bulatan Lemal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100424222722724700217/photos\"\u003eNor Azam Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHljqsx-m1n1lJ8MPb9shxNz4DBgbMkraupb5lHazoWXKYrhP9nEr7r_0EB7XiI36VJhP0jO_kF_gSV4PQtmUP8JCSlWiy8YQB7B_9VkxDaLpnC5WQgUVqGe7V8BRSo6MEhAvavVb5iRkolL2N1JBg5R9GhS-qgXgK_VkUrfpRYGyJTDmy3qHxw",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJKStIUKKmtjER8qMRm_1OpmQ",
+         "plus_code" : {
+            "compound_code" : "25M4+Q4 Pasir Mas, Kelantan",
+            "global_code" : "6PR425M4+Q4"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJKStIUKKmtjER8qMRm_1OpmQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 76
+      },
+      {
+         "formatted_address" : "46, 3, Pekan Pasir Mas, 17000 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0422978,
+               "lng" : 102.1440849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.043669229892721,
+                  "lng" : 102.1454217298927
+               },
+               "southwest" : {
+                  "lat" : 6.040969570107277,
+                  "lng" : 102.1427220701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "99c1c2e6db9883b180c23c3e444ebd6b82c7943a",
+         "name" : "Gerai Hot Burger",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101095434650955350589/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA70GVPEy5lnTP0z1kGD0R3B0fiJMC90nPkVZDf-s2lIM_B9b0fOu6H-y0XnhumujZqhJ3mEN96K47Hnvk5QKVFWuYrt9Cd1nC5Mu7Spw4OsOMYE07W-Ad3WuXYBIYv3phEhDScHH3aX2f_ZM4kcw0tWUQGhTYobhLfIEeHopUmcyywmCOfS3w2w",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJb7s0j5OmtjERyGm--Gtua3M",
+         "plus_code" : {
+            "compound_code" : "24RV+WJ Pasir Mas, Kelantan",
+            "global_code" : "6PR424RV+WJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJb7s0j5OmtjERyGm--Gtua3M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Jalan Hospital, Kampung Dangar, 17000 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0483999,
+               "lng" : 102.1389146
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.049742479892722,
+                  "lng" : 102.1402510298927
+               },
+               "southwest" : {
+                  "lat" : 6.047042820107278,
+                  "lng" : 102.1375513701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "302b8f548b79e64f22afa74e2b2ad19727f42eff",
+         "name" : "Ninja Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 684,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108334835793789774888/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgCSRXxzPoAxEyjz8DFj9JVr6pPo1V6D7dAU8n0PTnUfgFLHUfUh3TDHx-vadN1l9T0imRNPdgjfVZDkp3Enz-qmbBffqt67Y35kW2b8gqkIZzQEhx1FU0-FyEfckmrPKEhB3wRS-0qWinML-YXSFjgfeGhRmaIAtZ5Fa2PLpac4Q6hwHksaosA",
+               "width" : 912
+            }
+         ],
+         "place_id" : "ChIJl1WElfKmtjERUao7eDhPAu8",
+         "plus_code" : {
+            "compound_code" : "24XQ+9H Pasir Mas, Kelantan",
+            "global_code" : "6PR424XQ+9H"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJl1WElfKmtjERUao7eDhPAu8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65
+      },
+      {
+         "formatted_address" : "Kampung Taman, 17200 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0144994,
+               "lng" : 102.1028345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.015887579892722,
+                  "lng" : 102.1041172798927
+               },
+               "southwest" : {
+                  "lat" : 6.013187920107278,
+                  "lng" : 102.1014176201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17f532121a58152f1e8899ef334e8f76c5a0fc37",
+         "name" : "GPC LUBOK JONG - AZWAN",
+         "place_id" : "ChIJTZXb-MygtjERtr3djPBg914",
+         "plus_code" : {
+            "compound_code" : "2473+Q4 Pasir Mas, Kelantan",
+            "global_code" : "6PR42473+Q4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJTZXb-MygtjERtr3djPBg914",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "DD 42, Perumahan Jpn, Kampung Pauh, 17000 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.042179099999999,
+               "lng" : 102.1342795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.043598329892721,
+                  "lng" : 102.1356522798927
+               },
+               "southwest" : {
+                  "lat" : 6.040898670107278,
+                  "lng" : 102.1329526201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9e98e5f64cc69c7e74cb28e6b02393f9cae0c218",
+         "name" : "MAZ Karipap Segera",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116239502533218358503/photos\"\u003eMhadib\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8c_hJVtJSfaP5anK9MCTXkqlC2Odn37nm9A4B0DrnHlKKL5tMZpZMAw1q_Wm6i4b1buQe9xGDg0X4peAYGgKbD5e-SkPmT_Rev0JfX7OYlRDhUVHg8ho9vrWbYlzXHy5EhCBaUVuo3pcVQ2N-iR_ddlwGhR1APvD53vIW-80nR2tst37ZNze0Q",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ9WGtrO6mtjERtWzo-Jja32M",
+         "plus_code" : {
+            "compound_code" : "24RM+VP Pasir Mas, Kelantan",
+            "global_code" : "6PR424RM+VP"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ9WGtrO6mtjERtWzo-Jja32M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Kampung Pasir Pekan Hilir, 16250 Wakaf Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1166845,
+               "lng" : 102.2228617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.118127029892722,
+                  "lng" : 102.2242881298927
+               },
+               "southwest" : {
+                  "lat" : 6.115427370107278,
+                  "lng" : 102.2215884701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bbf5f4eb75e68f6197de6d03b64ce0ec7ed06276",
+         "name" : "KFC Pasir Pekan Hilir",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114555424886905939143/photos\"\u003eSyen Fiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAczbmcs08bIL6VqSUyCPhCYImuGtJR01ZYTLvU6nXFLDSeW1G6NMUQSziK-8A_smGWnYmzQHEzV06cDYt42F8CzlPaYWpN1kYXTpQY92foQZi84h1hbCE02API73V32RQEhDM-IVUq28hMvaODdvsudehGhQL3isobOGDWHTfG4REgJ9v1JqKcQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJhbHFyrivtjERjXfDf2APwFA",
+         "plus_code" : {
+            "compound_code" : "468F+M4 Wakaf Bharu, Kelantan",
+            "global_code" : "6PR4468F+M4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJhbHFyrivtjERjXfDf2APwFA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "Jalan Kuala Krai, Wakaf Che Yeh, 15100 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0869855,
+               "lng" : 102.2389786
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.088383479892721,
+                  "lng" : 102.2403248798927
+               },
+               "southwest" : {
+                  "lat" : 6.085683820107278,
+                  "lng" : 102.2376252201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc4028272280e2952ac8afc4ca94d3648213f1ad",
+         "name" : "McDonald's Drive-Thru (Wakaf Che Yeh)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114951412011545244926/photos\"\u003eanieyta eyta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADzmrCnHA3NDf8Pz-f6l-caQsVdkLA4ojQ-IsIhq_179p8HKWK_5xAse-n21DhisQ6ogVatYfnhDWGLOwadg4_WvjSR14HEiv9Fm4GotnIZ7VxSK1f4hd-nyxsWH0GaOMEhDeroQ_GoGMOcg-jIc7YYUWGhSIkBY0J7bIghJ65htXxrmPrC0p_A",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJgzYECc-vtjERSxczUUKpwpI",
+         "plus_code" : {
+            "compound_code" : "36PQ+QH Kota Bharu, Kelantan",
+            "global_code" : "6PR436PQ+QH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJgzYECc-vtjERSxczUUKpwpI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1739
+      },
+      {
+         "formatted_address" : "G11&G12, Ground Floor, Tesco Kota Bharu, Lot 1828, Seksyen 17 Bandar Kota Bahru, Jajahan Kota Bahru, Kelantan Darul Naim, 15050 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.114669999999999,
+               "lng" : 102.231677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.116173179892721,
+                  "lng" : 102.2328597798927
+               },
+               "southwest" : {
+                  "lat" : 6.113473520107277,
+                  "lng" : 102.2301601201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ceec67aff676e121bcacd767ecbfac3ca749d51d",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100974829585104562477/photos\"\u003eawegedebe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9qyTzV_18X6-fM1wpy4jtFJODW4XBLvDoSvoRA50hUFAgfmYs0RgS4XSozs86hEdfIiBsn4zB6bGI7XHGxW0hQJY70oximxpU1ArnrXmAbm57Nufd3eioKJ4AMg3xLtyEhDaqRBKfmuoy_XLm-PtHxiIGhQv2aeN99x7IxDGXn8JjHRlTsPapQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7-pu0pSvtjER2YvkaCn7qg0",
+         "plus_code" : {
+            "compound_code" : "467J+VM Kota Bharu, Kelantan",
+            "global_code" : "6PR4467J+VM"
+         },
+         "price_level" : 2,
+         "rating" : 2.6,
+         "reference" : "ChIJ7-pu0pSvtjER2YvkaCn7qg0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Lot 3901, Batu 2, Jalan Lebuhraya Rantau Panjang, 17200 Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.00382,
+               "lng" : 102.0065087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.004868329892722,
+                  "lng" : 102.0078611298927
+               },
+               "southwest" : {
+                  "lat" : 6.002168670107278,
+                  "lng" : 102.0051614701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3bec9258ef1f428907a4d33af6afccc9caf7ca3e",
+         "name" : "KFC Restaurant Rantau Panjang.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105957525343051280545/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxDVT8vzFc7Xgr0gW_biiBcXsGQIZI8Tx1nr_VrJTEhhMNPit2XGWpeSUiYQqFtDMYcnmPB0znjWA9xyVMh-o7Kh8WUpJ-7Y1l6Xa5HxyO4ixtBkBD0ZwtYCijenvALBUEhAsesucq5Mc8nm1yfHmBKXEGhRppfanhj7K4oNaqs9fDP8_pc63zQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJqzrWg5YetDER3Kk-Ymjccms",
+         "plus_code" : {
+            "compound_code" : "2234+GJ Rantau Panjang, Kelantan",
+            "global_code" : "6PR42234+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJqzrWg5YetDER3Kk-Ymjccms",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 204
+      },
+      {
+         "formatted_address" : "Batu 4, Jalan Kuala Krai, Wakaf Che Yeh, 15100 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.078465599999999,
+               "lng" : 102.2386008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.079819679892722,
+                  "lng" : 102.2398914298927
+               },
+               "southwest" : {
+                  "lat" : 6.077120020107278,
+                  "lng" : 102.2371917701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "636ec30eff684f5b962ed98e87130f33ec4074cf",
+         "name" : "Eddlee Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1970,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115853472154555506203/photos\"\u003eSITI NORAIN OSMAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi3yaqhiAj2QmTWmy7R3Ggrri6hRXCAwOhux2g1k7hHE9fol396jVPQ0sOT92JF9FcgA-LrmSc-oorXQvKUwv9FuT6dT42U3WRc8g2mbYJ4CSignq0MmiPQd7jhQ_GBIZEhAKQtrelOiAldfpmeTozT8mGhS92A4nmO6wWATFcvyDaaMkrulQHA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJjZqXJkeltjEReGEaSxPXr00",
+         "plus_code" : {
+            "compound_code" : "36HQ+9C Kota Bharu, Kelantan",
+            "global_code" : "6PR436HQ+9C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJjZqXJkeltjEReGEaSxPXr00",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "G Orange Mall, Tunjung, 16010 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.066264599999999,
+               "lng" : 102.2389851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.067618579892722,
+                  "lng" : 102.2400145298927
+               },
+               "southwest" : {
+                  "lat" : 6.064918920107278,
+                  "lng" : 102.2373148701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d953185e8e56b065330828e1df30739537b7a8a",
+         "name" : "The Chicken Rice Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112826714907249444135/photos\"\u003eMohd khairul hanan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMw0Za1A_lOKwRBeSho7iqcQalyrd15cqZ71LBUhE4Z4jUyAXHiY5Fke7ZVkTOzIijbXLOliCiohB_Eqe_u7c-cXBPKjRNiFCo5FVYDhwhk0R1W5krMa-kwjeZDbNpXEBEhDjmhGcwcMw3iWI1ub0S46eGhRyz7Q6PV3FSIfAopi5uDDf_xBsFg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJg2s0SDultjER01ulek0VJjs",
+         "plus_code" : {
+            "compound_code" : "368Q+GH Kota Bharu, Kelantan",
+            "global_code" : "6PR4368Q+GH"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJg2s0SDultjER01ulek0VJjs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35
+      },
+      {
+         "formatted_address" : "16210 Wakaf Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1366792,
+               "lng" : 102.2026677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.138024679892722,
+                  "lng" : 102.2039702798927
+               },
+               "southwest" : {
+                  "lat" : 6.135325020107278,
+                  "lng" : 102.2012706201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7a04c96bb6903f838cbfc1f0a7d6b2fe7c350705",
+         "name" : "Captain Star World",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110633266904241704396/photos\"\u003eSuhaila Awi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzhBYcOUNvJqs-6NrIv5RKJwUQfE-sWvttOv1nCSZpmjfh8eUAowFGEG2AZqbqX_KloZsvfsDvgSSHTfkC14sYvTOY6AVa29V57Y_4WqEusDXuGeM98D6A9aBrOA_IL5DEhCAiWf4dAZiAprsIzkPhyaoGhSp5hf2EL0orRxEwarGx39Vm9SV_Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJqbG10gOvtjERM1KhoNkuUhI",
+         "plus_code" : {
+            "compound_code" : "46P3+M3 Wakaf Bharu, Kelantan",
+            "global_code" : "6PR446P3+M3"
+         },
+         "rating" : 5,
+         "reference" : "ChIJqbG10gOvtjERM1KhoNkuUhI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Unnamed Road, Kampung Sirih, 15050 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.110866199999999,
+               "lng" : 102.2312958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.112181729892722,
+                  "lng" : 102.2328580798927
+               },
+               "southwest" : {
+                  "lat" : 6.109482070107278,
+                  "lng" : 102.2301584201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "555b83c32d5f1bef00617ecd6bf431614f78b5ef",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJfyJfMJOvtjERd9UDpd88WcU",
+         "plus_code" : {
+            "compound_code" : "466J+8G Kota Bharu, Kelantan",
+            "global_code" : "6PR4466J+8G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJfyJfMJOvtjERd9UDpd88WcU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Hdpn SMK, Kampung Kota, 15100 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.083912199999999,
+               "lng" : 102.2343338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.085334179892723,
+                  "lng" : 102.2356669798927
+               },
+               "southwest" : {
+                  "lat" : 6.082634520107279,
+                  "lng" : 102.2329673201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3f8ed287f5a18b978ec335ea27418ada0a986698",
+         "name" : "Firdaus Fried Chicken",
+         "place_id" : "ChIJIWW8xVKltjERlMFZjbWNlvg",
+         "plus_code" : {
+            "compound_code" : "36MM+HP Kota Bharu, Kelantan",
+            "global_code" : "6PR436MM+HP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJIWW8xVKltjERlMFZjbWNlvg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Taman Sri Rantau, 17200 Rantau Panjang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.011588,
+               "lng" : 101.978381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.012931229892722,
+                  "lng" : 101.9797315798927
+               },
+               "southwest" : {
+                  "lat" : 6.010231570107278,
+                  "lng" : 101.9770319201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "691d8aba5fbdd46a7fba9c1cb0cee3237d68c090",
+         "name" : "Gerai Kasturi Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100603356224069606982/photos\"\u003eGerai Kasturi Burger\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyy4txIurfPOwPqhOC05MlACyOwWCrrdTF156HvbYmPg2YWUT5t1f24HYlte83PrRJc1UDh3nlOLP66e9LmJowCPuEWeV0uBIsy76rP-W4A6eLMErD_-nE7sQa6mEjqr9EhBrsMRgVLONIDNtHVYC9BuCGhRyi2xRzwSaPxJ8yNHiLArqrVhJCQ",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJuVyk5FIZtDERJeneNGAEFCc",
+         "plus_code" : {
+            "compound_code" : "2X6H+J9 Rantau Panjang, Kelantan",
+            "global_code" : "6PR32X6H+J9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJuVyk5FIZtDERJeneNGAEFCc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "16210 Wakaf Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1188237,
+               "lng" : 102.2190849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.120048129892722,
+                  "lng" : 102.2203863798927
+               },
+               "southwest" : {
+                  "lat" : 6.117348470107278,
+                  "lng" : 102.2176867201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1398eb2fb8744d29c45b0a9e9a354f93c26b5424",
+         "name" : "McDonald's Pasir Pekan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101128622463779104529/photos\"\u003eAlif Aiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP6f-5nDgPb5CCIcC0DxK1xJYjqvV2HOPxSB0gFf537JpxGOH9_6sctn7fTIAozXRk788sHlwbc1c7jmYkHD9h-i3T1w5KL9pBtStpznFW7jJD916evVNzkXNtSOiKUSAEhBDti-RLghjq7kiMTAD3FjxGhTt8YjbMCj1IzYmwm_eLyK1IpeT4g",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ1Wy-VLWvtjERq_wQy0z7y00",
+         "plus_code" : {
+            "compound_code" : "4699+GJ Wakaf Bharu, Kelantan",
+            "global_code" : "6PR44699+GJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ1Wy-VLWvtjERq_wQy0z7y00",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 120
+      },
+      {
+         "formatted_address" : "Jalan Besar, Pekan Pasir Mas, 17000 Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.04296,
+               "lng" : 102.144578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.044183529892722,
+                  "lng" : 102.1459897798927
+               },
+               "southwest" : {
+                  "lat" : 6.041483870107278,
+                  "lng" : 102.1432901201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc691a4faa2c1b5d771033a9b7657ca2aec60a27",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109955996234637018318/photos\"\u003eSofia Natasya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA07l3Q55S-ZyJtrv_lH18Gg8Ix3rBcxDGHWaPCO7xmAh0-t9inZ1bvcPeszsfLx1j3mM_dAPwpSPxrWgQExDoiEsY8Kqnp-5uxJdNFYzloo4n9mkKoF701YFw_DDsD8tjEhCiThgzCwlRWbOMCasujlBzGhRmF2Inpi2XY2_0ztiKJ-RST9raBA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJZ-FU65OmtjERtQGE9QRAzXI",
+         "plus_code" : {
+            "compound_code" : "24VV+5R Pasir Mas, Kelantan",
+            "global_code" : "6PR424VV+5R"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZ-FU65OmtjERtQGE9QRAzXI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "130, Kampung Gertak Lembu, 15100 Pasir Mas, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0401869,
+               "lng" : 102.1433449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.041535979892721,
+                  "lng" : 102.1446976798927
+               },
+               "southwest" : {
+                  "lat" : 6.038836320107277,
+                  "lng" : 102.1419980201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f2b07c1681925d3884af990904e4a20245c1c825",
+         "name" : "KFC Pasir Mas",
+         "place_id" : "ChIJXQ1CK7-ntjERoFu5qDWRgN4",
+         "plus_code" : {
+            "compound_code" : "24RV+38 Pasir Mas, Kelantan",
+            "global_code" : "6PR424RV+38"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJXQ1CK7-ntjERoFu5qDWRgN4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "เลขที่ 30 ซอย 16 ซอย 1 ถนนเจริญเขต Su-ngai Kolok, Narathiwat 96120, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0113394,
+               "lng" : 101.9647043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.012593429892721,
+                  "lng" : 101.9660081298927
+               },
+               "southwest" : {
+                  "lat" : 6.009893770107277,
+                  "lng" : 101.9633084701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ccc04d478c362a3a81ec12010a651854448d374",
+         "name" : "มุมมอร์",
+         "place_id" : "ChIJM8FH7ksZtDERTxSGVr4Qrfw",
+         "plus_code" : {
+            "compound_code" : "2X67+GV Su-ngai Kolok, Su-ngai Kolok District, Narathiwat, Thailand",
+            "global_code" : "6PR32X67+GV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJM8FH7ksZtDERTxSGVr4Qrfw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "PT 101,102, Kb Mall, Jalan Hamzah, Seksyen 16, 15050 Kota Bharu, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1171752,
+               "lng" : 102.240179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.118527479892722,
+                  "lng" : 102.2413618298927
+               },
+               "southwest" : {
+                  "lat" : 6.115827820107278,
+                  "lng" : 102.2386621701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f9269a96c7c2b1f9f0f0c6e2f39de4f8f40de0bd",
+         "name" : "McDonald's KB Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107260217634494956069/photos\"\u003eNadzirah Salahuddin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPYjmm_LMvv6mJoCGUNjG-Qays5zy6B8VNs-dTukLz-eQyB2GdzL49M4yHvwGlBWjo_ItB3RBM2CM5Rg9rqz0_sVC7vyDtho0P-P3oDoaF_OswrOFuVwI9D2foQATUzPyEhAJEyOq3oH1HYIp4AcL1CrUGhT5mBj1wKa8mYKPCMXujIF2i7f6oQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ_dzdKuivtjERmsSpwahX-0E",
+         "plus_code" : {
+            "compound_code" : "468R+V3 Kota Bharu, Kelantan",
+            "global_code" : "6PR4468R+V3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_dzdKuivtjERmsSpwahX-0E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 340
+      }
+   ],
+   "status" : "OK"
+}

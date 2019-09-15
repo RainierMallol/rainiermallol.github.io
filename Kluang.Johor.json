@@ -1,0 +1,841 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAAIK3j532jKFVgB8Q6Be1OhNHRhI9HBUs4ZcvuxFC0j3eJQdh0ryo7w6UlD0xIDO1hK0ES9LQHjiRZjEEta5T-2ti3tEYPF1--qit5pk0Ck2bQpiihI2iUDIMKyCVOu9kmI2AUaEvcN10UOPUbcM3BItJlrk5JjO9A9skwqwIHTPrGc6F4DQ0_ky3i8hwall8rkCJV0mxM3ITP0ZSa6swOzqzfL0HWCdaOqn12xmSDnQGQOKN4xgSEYcnDF_oCuGGMD71yUktD3-uDcTqTl5SViVmTS6UdWJ8ZIHidAqqj4wzpHp7FtbVhRslECkOnm_WnOWK16-oAmJsTpGX-QrVut310MgoRyBFRB8w9ZQdiycfD1maIm_tKJWWPWL1quDgR778ivWe8b9py5Gv0QHwOzEn364lg8aydntPBTHsUa-I-jTf8k-xtlvPnRQQMyPD6cxwNWlrz8zpACG6cu-3E2-8wGTpfj8w9Ro_uEKLgSAKaayrzOPvKLjNwRHbWbfrPfwCxs2VLIPuPxg4r-Hig_UEmI-N9_Tf9jSC2ZI4H8ziKypfQuc_IvMrH5rizlc_5eVxQRMr3jja0VaYX7Zmt2Fpc6vLSG_mT_v6f5dn0sBBe6RCfTuTKcCmxLJSLwVkPmNnSTB2Fbl-og9u4nESv2Y7a49dsjxQv-b8fUiwHOUjEhASwxOz5xQHE49ztmgNBQLyGhRiVbV0dnJla_jdd_BJ-pz7GLwmNw",
+   "results" : [
+      {
+         "formatted_address" : "265 & 343, GM. 3095 Dan GM, 3096, Jalan Kluang - Air Hitam, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0184332,
+               "lng" : 103.2978005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.019350929892723,
+                  "lng" : 103.2993151798927
+               },
+               "southwest" : {
+                  "lat" : 2.016651270107278,
+                  "lng" : 103.2966155201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "78a26b73096b6073c6838933fb74885cfc74b779",
+         "name" : "McDonald's Kluang DT Jalan Batu Bahat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117267751126920331351/photos\"\u003eHanz Hamzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5TVUCjfNttozPUuLC2F5Ybvb2LJpKyOueTXQh2_zHi0qnJuK0y4sbiPbkElNbilnt_V3VlxDQ82WEpjP4oyW1Pt0aqQaAi0bToOQ8z48ggYI-51vhX8I_D8X7nvQoZkuEhCslLwJ9JqXNfHe70EHz9OPGhR_r1GxN2s1AiGxbTbHvc4DFWIAsw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJBcg8USRs0DERBJV-eUVi5-w",
+         "plus_code" : {
+            "compound_code" : "279X+94 Kluang, Johor",
+            "global_code" : "6PJ5279X+94"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJBcg8USRs0DERBJV-eUVi5-w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 860
+      },
+      {
+         "formatted_address" : "Taman Makmur, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0527116,
+               "lng" : 103.3509056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.054112679892722,
+                  "lng" : 103.3523207298927
+               },
+               "southwest" : {
+                  "lat" : 2.051413020107277,
+                  "lng" : 103.3496210701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00f8f14c48f00fe67186c9487bcfeca19b3e5bc1",
+         "name" : "Marrybrown Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100255339275208653307/photos\"\u003eHazirah Zaihan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAenpseN1aNoYTqmxBoRCqSG0juftzAnNLYRGIldCY9jC_Vj64AE8eNykwCsgMNmw3J99lt5bh5rOFBvoQNW2Gbv318vOqwe9XGfbKfNO4kMPGJTtPS9c6YQ2U5SSQooI0EhAwd9rUiOVsWySDTU0RiNq0GhR2YJshlqcwX5jbSQnb66fBcaqwQA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJAcLGbXlt0DERuuGpccO2h60",
+         "plus_code" : {
+            "compound_code" : "3932+39 Kluang, Johor",
+            "global_code" : "6PJ53932+39"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJAcLGbXlt0DERuuGpccO2h60",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51
+      },
+      {
+         "formatted_address" : "31, Jalan Intan 2/1, Taman Intan, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0184918,
+               "lng" : 103.3013749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.019832329892722,
+                  "lng" : 103.3027287798927
+               },
+               "southwest" : {
+                  "lat" : 2.017132670107277,
+                  "lng" : 103.3000291201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e19568ee85c519f7f08b8daf7d0b06fc26989e1f",
+         "name" : "KFC Taman Intan Kluang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118433410105711092389/photos\"\u003eWENJYE L\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9QZjbRg6ku2jC6kH3SzPF9yb66ENiGMIxbUEm1HLAwr6unzYlKEtJYYDcWb6aq5wDyRD7pniWS_BpjLCiazkhCFHms9mXznR8jtUvWDBlTFUo2iUAh3SC-Gz9lZpG8xPEhCwzdB-KAxc1TrEMzS7qgqkGhSACRQ2QrQb86aMVO-IyA1GjHBwhg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJXRIqhy9s0DERdnam8bDs1n0",
+         "plus_code" : {
+            "compound_code" : "2892+9G Kluang, Johor",
+            "global_code" : "6PJ52892+9G"
+         },
+         "rating" : 4,
+         "reference" : "ChIJXRIqhy9s0DERdnam8bDs1n0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40
+      },
+      {
+         "formatted_address" : "No. 1, Jalan Md. Lazim Saim, Kluang, Malaysia, Johor, 86000 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.034545,
+               "lng" : 103.320467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.035878929892722,
+                  "lng" : 103.3217812298927
+               },
+               "southwest" : {
+                  "lat" : 2.033179270107277,
+                  "lng" : 103.3190815701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b7f136f4c3c4f25fe414cea53171129f4c66c89",
+         "name" : "McDonald's Kluang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100542573232176853373/photos\"\u003e瑜泽 YZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEJCbaTjZvDSGBvn8UbkdqNE_g1tW3klAwGQGhChje964SH05-unMVHgl3Qp9gV21N4W5J32mW-dILugCfhoynDqiIo6kiYPfs3dACNfuhS4S3OcJ20Mt6IZttLlSyb60EhCDJ2WirATZvw4VrWBdUsNDGhTedm8LPWfwQ8MyQPENQyn-6ZDd0Q",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJdSn-zbZt0DERTAT0nu0PeVw",
+         "plus_code" : {
+            "compound_code" : "28MC+R5 Kluang, Johor",
+            "global_code" : "6PJ528MC+R5"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJdSn-zbZt0DERTAT0nu0PeVw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 691
+      },
+      {
+         "formatted_address" : "No.14, Tingkat, 1, Jalan Intan 7/3, Taman Intan, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.017051,
+               "lng" : 103.301439
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.018417779892722,
+                  "lng" : 103.3028153798927
+               },
+               "southwest" : {
+                  "lat" : 2.015718120107278,
+                  "lng" : 103.3001157201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6996372b94c8ba9f1dc81c920ebb374aff0d4599",
+         "name" : "Belisinnie Fast Food",
+         "place_id" : "ChIJd76SXS9s0DERTtOqsbY6sB8",
+         "rating" : 0,
+         "reference" : "ChIJd76SXS9s0DERTtOqsbY6sB8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "G13A & G13B, Kluang Mall, Jalan Rambutan, Taman Suria, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0396283,
+               "lng" : 103.3203629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.040882879892723,
+                  "lng" : 103.3217149298927
+               },
+               "southwest" : {
+                  "lat" : 2.038183220107278,
+                  "lng" : 103.3190152701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70bd937fd7f3cf30778dad345ae4aa3b5d44c21b",
+         "name" : "Subway Kluang Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117918062530639152940/photos\"\u003ealwinn ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASU_oTwohWPgv6dMU63dRgOa2PnrQiKURHOnfz8neFTJOVf-hKbizxfg22Tlj5MGd4e6Z67clrWJVOo0h7EM-eayZDCt_yrO4U5nTQsbC9TDPyL1G-BfKstUPTtTvLLsVEhBJrNMoY83iXepFBS_bQh8rGhRPUUPjPFQQrK_bgj0rV27Xh6v8FQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ3xSLIa5t0DERdeqn8NU6mRQ",
+         "plus_code" : {
+            "compound_code" : "28QC+V4 Kluang, Johor",
+            "global_code" : "6PJ528QC+V4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ3xSLIa5t0DERdeqn8NU6mRQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "20, Jalan Mohd Ngalim, Taman Kluang Baru, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0382127,
+               "lng" : 103.3326099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.039541479892722,
+                  "lng" : 103.3339715798927
+               },
+               "southwest" : {
+                  "lat" : 2.036841820107278,
+                  "lng" : 103.3312719201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "04359f63554d38de9eb61e6c1eea05b40f49c049",
+         "name" : "兴丰味大饭店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101188332740675050971/photos\"\u003egeorges Teoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAG-1LJFVmupK0rwtBeg14Zcxj16k_piZygO0fj1mXbIanKSR6TBIeLDhNVSOMdBY-cLgaRzo9Wp1Zgwh1Swi99-jSAGA_mm2XIUgVkh4o2hntRcCeP8TT_SQ4bFIIDs7IEhB5PQzuXuse7Nx4e5JebTePGhQz47XlCkca57vIkEtui45--ErfIA",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJZaJE4Lxt0DERidF7A8F756g",
+         "plus_code" : {
+            "compound_code" : "28QM+72 Kluang, Johor",
+            "global_code" : "6PJ528QM+72"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJZaJE4Lxt0DERidF7A8F756g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "2020, Persiaran Dato Haji Ismail Hassan, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0383398,
+               "lng" : 103.3218576
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.039584429892722,
+                  "lng" : 103.3234335298927
+               },
+               "southwest" : {
+                  "lat" : 2.036884770107278,
+                  "lng" : 103.3207338701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "565c9a70b7a48b9c2e9639871e8695806ae01ae3",
+         "name" : "My HotStuff Otak-Otak Lu Gua Bro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100718057458132546680/photos\"\u003eAyen Amzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY8A8D10-DRJ5OZPjTwn5gwq77INLXZc22uYV3wJMN2C8dOSyH5u-Tee7yKBVmku50dZvTB5uGijdtEnUm8xZFBIupm82ZhdwMiseM9c7QT7_vMWkS4v4GYmEAVrC9sqPEhB6Vo-NjSWO02rrvvHjCkt5GhSASebpukd-FiJSxL46WyaDSNnFyw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJBTISSLBt0DEREoQ7nz4j6h0",
+         "plus_code" : {
+            "compound_code" : "28QC+8P Kluang, Johor",
+            "global_code" : "6PJ528QC+8P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJBTISSLBt0DEREoQ7nz4j6h0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No. 16, Jalan Desa 2, Taman Desa, 86000 Kluang, Johor, 86000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0144569,
+               "lng" : 103.2877611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.015829029892722,
+                  "lng" : 103.2890998298927
+               },
+               "southwest" : {
+                  "lat" : 2.013129370107277,
+                  "lng" : 103.2864001701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "645e230309e432d370966cd8204c1777e6c4cdf8",
+         "name" : "Perniagaan Kacang Putih R.K",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114000645382531647431/photos\"\u003eKARKU DEATH RIDER\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2tj3UYulMamzXYxu-BhFNh-YougFi1t8E0bktEeqM1cmsP_RGym3VN0rLHDx7e2tZDpAHPu_5HxZ8UvphiCaGB28FY6EZysI3IDm-S-YmzapLsozE1KPIFf3sEgkXM3cEhDhZiC5EKV-ZTT9SpEbjUMOGhQ-bO1PHfGbEaVhLHO1jrKqfrP5LA",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ3wuXEx9s0DERtpE8LAXQRNw",
+         "plus_code" : {
+            "compound_code" : "277Q+Q4 Kluang, Johor",
+            "global_code" : "6PJ5277Q+Q4"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ3wuXEx9s0DERtpE8LAXQRNw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "Jalan Batu Pahat, Taman Ria, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.9867681,
+               "lng" : 103.2514086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.988093429892722,
+                  "lng" : 103.2527769798927
+               },
+               "southwest" : {
+                  "lat" : 1.985393770107278,
+                  "lng" : 103.2500773201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e80a547a848b8c8977f00200c033b4f6b5f97be",
+         "name" : "Ombak Cafe(JR Entertainment)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJLyxoeBhp0DERQj_i5yAJXVM",
+         "plus_code" : {
+            "compound_code" : "X7P2+PH Kluang, Johor",
+            "global_code" : "6PH5X7P2+PH"
+         },
+         "rating" : 3,
+         "reference" : "ChIJLyxoeBhp0DERQj_i5yAJXVM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "31, Jalan Intan 2/1, Taman Intan, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.018495,
+               "lng" : 103.301354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.019825229892722,
+                  "lng" : 103.3027123798927
+               },
+               "southwest" : {
+                  "lat" : 2.017125570107277,
+                  "lng" : 103.3000127201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17fe6f5a6e3747374ed3ea877eef2f7e6668f51e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101273788240344364810/photos\"\u003eSF Y\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb1DgU_Ny__QhMgC5VvkvnP2XK3ePheXhQ3kTtfhHT-4Ff8ALYHEKDxCvTlgw1pSh61Uj7x5zt-vJqPMMiofrl9euggrgqkL1witrSRtbEIsY_rg9AVERvK9KfPJOrZKEEhCRmMcRbx8IO3cw6xhV03ZqGhSH2hRN-8HEtdr4XRJfFdmu99PIMg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJh_5vmy9s0DERH96ZsbbaTTE",
+         "plus_code" : {
+            "compound_code" : "2892+9G Kluang, Johor",
+            "global_code" : "6PJ52892+9G"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJh_5vmy9s0DERH96ZsbbaTTE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 136
+      },
+      {
+         "formatted_address" : "15, Jalan Dato Haji Hassan, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0323364,
+               "lng" : 103.3206986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.033701629892722,
+                  "lng" : 103.3220965798927
+               },
+               "southwest" : {
+                  "lat" : 2.031001970107277,
+                  "lng" : 103.3193969201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ddcc5083cfa62108e12f1028e2c39b28c279f46d",
+         "name" : "KFC Bandar Kluang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116771803095733593889/photos\"\u003ehuei chiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIjuOPvL9YiHv1SgvhxZ8XDaEmx9TLtjhR3lQdcHhM3U8edmjCno-lR_0_XUDBODcI5m_LU1vjiOyWW5-DdoGWjsQZzEw_wxpnv-JninkOPEGua813UWFm1T4PTOs35EPEhCFJx8hhWZWuIyjQ3sPD9ESGhTabdlyJLqWtx4f77AmjPxDq16D4g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJL2oQVrZt0DERte4O3p5nqhA",
+         "plus_code" : {
+            "compound_code" : "28JC+W7 Kluang, Johor",
+            "global_code" : "6PJ528JC+W7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJL2oQVrZt0DERte4O3p5nqhA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 369
+      },
+      {
+         "formatted_address" : "265 & 343, GM. 3095 Dan GM. 3096, Jalan Kluang, Air Hitam,Kluang, Malaysia, Johor, 86100 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.01797,
+               "lng" : 103.298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.019123079892722,
+                  "lng" : 103.2994248798927
+               },
+               "southwest" : {
+                  "lat" : 2.016423420107277,
+                  "lng" : 103.2967252201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6750856e4b41dba9f4189daf7fb8c07cbc283752",
+         "name" : "McDonald's Kluang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJx7x8NQRt0DERQOZ-IcJLavU",
+         "plus_code" : {
+            "compound_code" : "279X+56 Kluang, Johor",
+            "global_code" : "6PJ5279X+56"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJx7x8NQRt0DERQOZ-IcJLavU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot LG-09, & LG-10, Kluang Mall,, Jalan Rambutan, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.028831,
+               "lng" : 103.315359
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.030076279892722,
+                  "lng" : 103.3167936298927
+               },
+               "southwest" : {
+                  "lat" : 2.027376620107277,
+                  "lng" : 103.3140939701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1f7c49de3e5a862bb6eb6c116f90f16710d5faac",
+         "name" : "KFC",
+         "place_id" : "ChIJY-969cpt0DERzYctw_1k-VA",
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJY-969cpt0DERzYctw_1k-VA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "K1-5, Ground Floor, Kluang Parade,, Jalan Sentul, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.036081,
+               "lng" : 103.320464
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.037307979892722,
+                  "lng" : 103.3218716798927
+               },
+               "southwest" : {
+                  "lat" : 2.034608320107278,
+                  "lng" : 103.3191720201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "657deb74cfa637e3dc281a0115fa1d7146adb423",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117724351050006689116/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5jj477jsQ2X-FIv5NJ5tH7dSo_qsK4sPMHj4dRxua4F_1gezCxb_n6JAiyklZdT_mvgSNcmfReZHcqgRWnMao8HxLSM3_IjzG9J_Aj4TIxcHPczq1JN9rl7FXlHQ3VTWEhBZKegcawpI1iZZH7rTORbYGhT9bNkCPpQXoZYraim8KUhX1Kaj_A",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJh7cnGLFt0DEREziB_JTc4T4",
+         "plus_code" : {
+            "compound_code" : "28PC+C5 Kluang, Johor",
+            "global_code" : "6PJ528PC+C5"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJh7cnGLFt0DEREziB_JTc4T4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "7&8, Jalan Komersil Kluang 2, Pusat Perniagaan Komersil, Jalan Haji Manan, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0346862,
+               "lng" : 103.3189648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.036150779892723,
+                  "lng" : 103.3205771298927
+               },
+               "southwest" : {
+                  "lat" : 2.033451120107278,
+                  "lng" : 103.3178774701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32a9ec54c52682cfbb3f0e1e05d5cf5d9b1d614a",
+         "name" : "Barney's Dx Sdn. Bhd.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114903687305690506669/photos\"\u003eeddy lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZbAUQmAB4AUtP9f2VKRq8h422zHvMu1psJ50sl7PxST6-0QtWQkTCuLzywQPInQ2quhgrxbrF_s--pfUkMpxqPMnApi6YksbBMYVG3sn5fFazmgNjMJy-PkTZcmop7jtEhCU89xfhqupfKLGX0vcUwJ5GhRgFmPhTjKE2zSfth2NY9TjdAcxTQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC1HVD7dt0DERcIQoT3uDZI4",
+         "plus_code" : {
+            "compound_code" : "28M9+VH Kluang, Johor",
+            "global_code" : "6PJ528M9+VH"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJC1HVD7dt0DERcIQoT3uDZI4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 327
+      },
+      {
+         "formatted_address" : "No. 10 & 12, Jalan Sultanah, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.033941,
+               "lng" : 103.321874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.035338379892722,
+                  "lng" : 103.3232324298927
+               },
+               "southwest" : {
+                  "lat" : 2.032638720107278,
+                  "lng" : 103.3205327701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b8746f12aece8d5a494374388f4cb9dbc04b95d6",
+         "name" : "Star Coffee House & Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109951636380293356935/photos\"\u003eTommy Cheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOd2jMORdceu-Urji7yXWi9PLQukzrZMKveYuehLIKRKQoXOhbuSmoTJpTPmu8CzZesdGtNUn5s96nMxRP4aJPLkLYve0bR6vV_nR6Mi2HJrL7Ggg-mKg6SymidMWb82kEhBq2ECeCF-_XULeFnl6p1aNGhSqBY5TVNzSZqtYrmpn8Kp9PNi2AA",
+               "width" : 2240
+            }
+         ],
+         "place_id" : "ChIJuQQNJrdt0DERvbMuMVKWzPQ",
+         "plus_code" : {
+            "compound_code" : "28MC+HP Kluang, Johor",
+            "global_code" : "6PJ528MC+HP"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJuQQNJrdt0DERvbMuMVKWzPQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 289
+      },
+      {
+         "formatted_address" : "NO 30, Jalan Duku, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0381732,
+               "lng" : 103.3198721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.039523479892722,
+                  "lng" : 103.3212534298927
+               },
+               "southwest" : {
+                  "lat" : 2.036823820107278,
+                  "lng" : 103.3185537701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "13aaf2cb1e89941f1423c82b6bfdc855a677dd93",
+         "name" : "Bizz Gallery Sdn.Bhd.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101843320571814985650/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADF1t0PUMUIyV_li3knYvHT5nEM0YOgh-Bltwmvlt4oC0yBciBjX5zvW0z4nWJLyswTW4aG9vODEYhrmGUmveXpz-L1UyT9l26k53Ky13LcOP8IMeDmGghGJywOilufhuEhBtAsJLF7BOCI3vq09HUVf3GhQjC-OUPNFEg638KSV2utMwUvaX0g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyQmavrFt0DERoM4EnsuBuRk",
+         "plus_code" : {
+            "compound_code" : "28Q9+7W Kluang, Johor",
+            "global_code" : "6PJ528Q9+7W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJyQmavrFt0DERoM4EnsuBuRk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49
+      },
+      {
+         "formatted_address" : "8&10, Jalan Duku, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.036973,
+               "lng" : 103.3196947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.038382879892722,
+                  "lng" : 103.3210238298927
+               },
+               "southwest" : {
+                  "lat" : 2.035683220107277,
+                  "lng" : 103.3183241701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c52f62b785dd0ce51c1f2b1c248c2ff8941be51",
+         "name" : "Ritch Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116505836540696592779/photos\"\u003elmt6618 *\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMG1vraydHDV94JMsjbCi4X3ClxEXkG2VBiSWwEiyO9yY1yJcl8ByZaJtgCnZxbFJjSY7MsWxkHssXqAvOot2WkTqzV2T4jXrXvLXaOmkSagFfigGvvFXYTPpg5airhmXEhCDd0ljLeYhh8rypm9l9kc_GhQscAQ6no-cuVsZHbDEUXz_a6kF5A",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJS_ZHC7Ft0DERLdy1zZhC7eA",
+         "plus_code" : {
+            "compound_code" : "28P9+QV Kluang, Johor",
+            "global_code" : "6PJ528P9+QV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJS_ZHC7Ft0DERLdy1zZhC7eA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 209
+      },
+      {
+         "formatted_address" : "5, Jalan Langsat, Kampung Masjid Lama, 86000 Kluang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0369372,
+               "lng" : 103.3191077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.038340579892722,
+                  "lng" : 103.3205732798927
+               },
+               "southwest" : {
+                  "lat" : 2.035640920107277,
+                  "lng" : 103.3178736201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f3a888fa42c66dd4268f5d4acf3f5590299a011",
+         "name" : "Restoran Tangkak Beef (Kluang)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\"\u003eLee Chee You\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS4gzqVqaKWNgeuGyb7lzV3yQF3nKJhM-GWbPoUWfvTi1-uo3SZEsr53yhJnONe_kg0NdxSBGqhFMfsnYlYRmPrC0OrzcNAu6D0MHeRlhWrI_XvFMTdPd9mv0n3AhpUT0EhBP2xTl4HWYN9GNGUtN9QNpGhT4E6IS1K0dpm_1kH5nv0H31r5i8w",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ8UCKcbFt0DERCxdY8oMFEwE",
+         "plus_code" : {
+            "compound_code" : "28P9+QJ Kluang, Johor",
+            "global_code" : "6PJ528P9+QJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ8UCKcbFt0DERCxdY8oMFEwE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 322
+      }
+   ],
+   "status" : "OK"
+}

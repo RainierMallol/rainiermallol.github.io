@@ -1,0 +1,876 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAADjPfkXQxJ6Yb16SmIRjq0SLMxKWoTMmEgdB2iE0l3pwEjw22QQITHFTEiXZWUGXfLx0yPPK7mBLFHZLxau2SqLOLz5u17NNBY7oKMYpQW6ZmJoP4PfTm8cOTqDfbPmsVXuk05cTCKWUqS8jBGDWii9B2TSoKhtx9_5TGgLFMk-hZhGJSgeDRancZsP4pw_e2FHyDRxCj494IOfjGKLBJAXP99CflJnRwpVV62fW50oYTistkusJw0OVDUt0EP8fY-z6Ofuo78q6W7iYtEFghh1jgAlEQs35Ch5v6qYzfOQjL5sB5aZO5emQr5aJPmRhGsgNGn5JXZxmLlKrN8l3xNgcNcthHENdRmIRR3mg8wP9BUK3m0sx25xqtoHD5rVeiqxjPb3qqYKVzkrm6hr7qO3ouRxWqGZyIhn-KtC3Ny1q6tEG2cQxDWd1HV5hLvJArXLan4kjiecjCyWabKC8I2PcQjeX1lmlDb1DfxMXQtR6uKxiPWzuksRCCcWblT_eV_7p4xCKlYtdRsO9qGrLuCA7CBiS0_PB7aReuCMhYoml6Bw0YtFyT_aJpB1NK5VbrmXY-R7hcSOHBhEi7l0Idv659uJkqElwYW3z1cgyVKKoIc5y-7bKKuwi582Cp5oRkf58IOdL8CEtToA3sGFc9Y1mjad4q06MVvjo-g2ZtXxLEhBTf6ONXu_r9U2XDiSQFZqvGhRv5yM2de9CqeRKP_LoKeT0DJ_7CA",
+   "results" : [
+      {
+         "formatted_address" : "240, Jalan Besar Kampung Baru, Kampung Baru Semenyih, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9525106,
+               "lng" : 101.8425811
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.953910479892722,
+                  "lng" : 101.8439179798927
+               },
+               "southwest" : {
+                  "lat" : 2.951210820107277,
+                  "lng" : 101.8412183201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5d52db84208264970629c09eb30d4517c7e4093",
+         "name" : "Restoran Foguang Vegetarian Fast Food (Semenyih)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109056244290497136508/photos\"\u003e衫豪陳\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8U59JkMusqe7o59X1J48OBZNINrUecTlzbR99dlI2DzIdzD8qV2iSc2qFIak-S9-fzhznL-CNa5RSoAb34WpSRBXax9ix-N5ogSC1wqsUbz1BJa-qOpsa1ExLyLm8PTLEhDik7Ck1_CkTZbq4agPdEUjGhTgb1xe8Y9mmGTJTNQf-niyO1hF-A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ-53dE4DOzTERTKUZtLyuk_M",
+         "plus_code" : {
+            "compound_code" : "XR3V+22 Semenyih, Selangor",
+            "global_code" : "6PJ3XR3V+22"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ-53dE4DOzTERTKUZtLyuk_M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "Lot PT 26794, Persiaran, Taman Pelangi Semenyih, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9325658,
+               "lng" : 101.8552346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.933949229892722,
+                  "lng" : 101.8566478298927
+               },
+               "southwest" : {
+                  "lat" : 2.931249570107277,
+                  "lng" : 101.8539481701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "41dcea8fc9240406d6b48eff9e2267382630fb4b",
+         "name" : "KFC Pelangi Semenyih Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102620350387488794930/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEvAPu8ZydIuPblA8xCO4zLU7GBx2ppdsQs3k7LhsEuyMAQvlyds4BGhyG_V5RzimyuDN7NSTsr-2rw0mYk5G6nJcjy0MXYkJwZAlyBSNiyPI8VZTmmtr1GvpPDPbac-oEhC9zxxgDLTQKCgEBuxnYADaGhSepjnRkZdF1AbzzllmU-2ulVTzLA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJa6Z-PUPOzTERDJiR86gPpgc",
+         "plus_code" : {
+            "compound_code" : "WVM4+23 Semenyih, Selangor",
+            "global_code" : "6PJ3WVM4+23"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJa6Z-PUPOzTERDJiR86gPpgc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "1 & 2, Ground Floor Semenyih Vista Valley, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9579215,
+               "lng" : 101.8406638
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.959302829892722,
+                  "lng" : 101.8420745798927
+               },
+               "southwest" : {
+                  "lat" : 2.956603170107277,
+                  "lng" : 101.8393749201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b28cb133b9433aad0bac862fe7498b1ec6c5ec42",
+         "name" : "KFC Semenyih Vista Valley",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118281753782832194149/photos\"\u003eDezz M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApiPuvcIQCPQzAAyD959e-aUtEQohoz_wsNQ5eTVcTRxbX-GEbpa0oi1yNyfFaLidvkqmxt4I4HT6pGYHlHRzh-H8b0u66iAmifj0aJu5RJ3a28j512PAQyc2SbDIoWnwEhA0S8qBXbH2qK5t6RBV-VG8GhQIRvCTAdhWG6YIEDqohN20GjTq4w",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJo0XT1ZHNzTERnCuPrylH1qA",
+         "plus_code" : {
+            "compound_code" : "XR5R+57 Semenyih, Selangor",
+            "global_code" : "6PJ3XR5R+57"
+         },
+         "price_level" : 2,
+         "rating" : 2.4,
+         "reference" : "ChIJo0XT1ZHNzTERnCuPrylH1qA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "Jalan Tps 1/2, Bandar Rinching Seksyen 5, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9323826,
+               "lng" : 101.8571034
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.933763279892722,
+                  "lng" : 101.8584595798927
+               },
+               "southwest" : {
+                  "lat" : 2.931063620107278,
+                  "lng" : 101.8557599201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "833392a2b6d8b0844a06f070003d5a4243967ae6",
+         "name" : "GPC PELANGI SEMENYIH",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJg3LKWVzPzTER7XfZrkijT5Q",
+         "plus_code" : {
+            "compound_code" : "WVJ4+XR Semenyih, Selangor",
+            "global_code" : "6PJ3WVJ4+XR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg3LKWVzPzTER7XfZrkijT5Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 1809, Batu 22, Jalan Beranang, Semenyih, , Hulu Langat, Malaysia, Selangor, 43500 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.936715,
+               "lng" : 101.852611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.938022679892722,
+                  "lng" : 101.8539941298927
+               },
+               "southwest" : {
+                  "lat" : 2.935323020107278,
+                  "lng" : 101.8512944701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "816d1a3c168b783eb6a05ea5fee01a66eb97d6ba",
+         "name" : "McDonald's Semenyih DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102620350387488794930/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWe0qYDoTSJ9i1hsCeHbE1-TwG4eCD8d9Ogwsthcmh9higM4z3TG8HMqQztlCxBb4P7pUpuwlk0fscGN4S1jrO1DTsGYTjGxVSWO5G5dWfIJWEQixqyarz5yNZW_C2X_iEhCxKrCiGhqTKhKT2sK6T3y0GhR5QWNdUpks_SMzOgB065AsvL_dcw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJU-JUGbOzTER-Ty25oyyjVo",
+         "plus_code" : {
+            "compound_code" : "WVP3+M2 Semenyih, Selangor",
+            "global_code" : "6PJ3WVP3+M2"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJU-JUGbOzTER-Ty25oyyjVo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1393
+      },
+      {
+         "formatted_address" : "43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9442741,
+               "lng" : 101.8465136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.945639329892722,
+                  "lng" : 101.8478223298927
+               },
+               "southwest" : {
+                  "lat" : 2.942939670107278,
+                  "lng" : 101.8451226701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01a51127347e55330aec985995eb311ff01bbced",
+         "name" : "Kak Yus",
+         "place_id" : "ChIJfekhsfbPzTERoBbHu8ifOHo",
+         "plus_code" : {
+            "compound_code" : "WRVW+PJ Semenyih, Selangor",
+            "global_code" : "6PJ3WRVW+PJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJfekhsfbPzTERoBbHu8ifOHo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Semenyih, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9913532,
+               "lng" : 101.7947371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992762979892722,
+                  "lng" : 101.7960989298927
+               },
+               "southwest" : {
+                  "lat" : 2.990063320107277,
+                  "lng" : 101.7933992701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "237b60be0fe2cfb7438103540adacb0827411f8f",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105438027668747617792/photos\"\u003eAiley\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArfa6AxS--3MdKDFKQ9DrHo9fPTzkq_Bm335sczEnx5O-ZVPwKSKcO9bTzsunugHuHTaUVuuE6WLlHEMijbKBPRb0So2jjzTN5yy2vqkpGKADvoWeHmMe1af3yLMM7kXQEhAs9XtTmurrolZdtWxUIALqGhQjthIMJat3JnHv6gRWqS8zNN3XjA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJrQLyrYHLzTERKUoCg12H-QI",
+         "plus_code" : {
+            "compound_code" : "XQRV+GV Kajang, Selangor",
+            "global_code" : "6PJ3XQRV+GV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJrQLyrYHLzTERKUoCg12H-QI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 950
+      },
+      {
+         "formatted_address" : "No 28 Jalan P 2/8 Bandar Teknologi, Seksyen 2 Bandar Baru Bangi, 43500 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9653408,
+               "lng" : 101.8252366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.966695879892722,
+                  "lng" : 101.8265827798927
+               },
+               "southwest" : {
+                  "lat" : 2.963996220107278,
+                  "lng" : 101.8238831201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de248d862ef6483191294ef24f799b04ce3eef0b",
+         "name" : "Famouss Fried Chicken Ayam Gunting KL",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108929672574297617523/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3l0Ri_ewGwBr37jUUqU0li_R72uPMpFrTt2Ba7nPYhhY26_2nxmj7xOnM-NEtT9rghc6j9onvPWZsA5QDASzcsdro-XnZPj7Yt0qSh1fkNBnLkBmteUJdgDa8FEuImFDEhCVbp-kfuxXoRdmnTB0WFlVGhQBWC5mFNRhV9av_iC6KsxGtTG6zA",
+               "width" : 805
+            }
+         ],
+         "place_id" : "ChIJrW6NqG_NzTERuLNDBnAw9R8",
+         "plus_code" : {
+            "compound_code" : "XR8G+43 Kajang, Selangor",
+            "global_code" : "6PJ3XR8G+43"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrW6NqG_NzTERuLNDBnAw9R8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Jalan 5/4, Sekyen 5, Bandar Teknologi Kajang, 43500 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9583004,
+               "lng" : 101.8136096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.959650129892722,
+                  "lng" : 101.8149707798927
+               },
+               "southwest" : {
+                  "lat" : 2.956950470107278,
+                  "lng" : 101.8122711201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8b5e887bdc6e06c639fb224e4c1788a52d8676a9",
+         "name" : "Gerai Burger Zali",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103379916314543646029/photos\"\u003eDanial Penyu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAITV162fgbhkWRl0iicbU_dzbQkMmf7WpoZ-yw9OGB5ALu2tLzQNPhPHxGQXl0BdQaOPg-jQeVdBtlY5cZlHi9kOgA6elOzC14RfKJuoO15pC7ip1h-OZ5_BhA4jaYXXYEhCslbUu6iZk4y4hgliKZ7EYGhRDUgE3Ag_vgEKRXkyUgOsg3Av9qQ",
+               "width" : 775
+            }
+         ],
+         "place_id" : "ChIJW6kucg7NzTER-SmvwAFNVZE",
+         "plus_code" : {
+            "compound_code" : "XR57+8C Kajang, Selangor",
+            "global_code" : "6PJ3XR57+8C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW6kucg7NzTER-SmvwAFNVZE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No 18 & 20, Jalan Sulaiman, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.991412,
+               "lng" : 101.7886476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992900179892722,
+                  "lng" : 101.7900120798927
+               },
+               "southwest" : {
+                  "lat" : 2.990200520107277,
+                  "lng" : 101.7873124201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1bb83c72f5dac42ff8dbeb8e4c2b671e6a8a545",
+         "name" : "KFC Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104143088988835594026/photos\"\u003eAhmad Fahmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvEwRSbefnRF860hQ4BDHJ1eYkfT961tDTAn0gGRhz-grqgmnT39FSdLmv9Jq_5JUOkN_cyja0JK0tcPN_KwWzFAk3PiixcgqHJs7Dj-gJhhvo1KH5ZgmY0xGubV8g5MtEhAYtCIRzmw4YqlOs_P6O1lKGhQLeknF6Qw-K1BclXhONDFkbwgcNw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "plus_code" : {
+            "compound_code" : "XQRQ+HF Kajang, Selangor",
+            "global_code" : "6PJ3XQRQ+HF"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 324
+      },
+      {
+         "formatted_address" : "7, Jalan KP 1/5, Taman Kajang Prima, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9821516,
+               "lng" : 101.8157353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.983501429892722,
+                  "lng" : 101.8170851298927
+               },
+               "southwest" : {
+                  "lat" : 2.980801770107277,
+                  "lng" : 101.8143854701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "302aa4380c00d003f7b62ee91d500d95fb93d2a3",
+         "name" : "Foguang Vegetarian Fast Food",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117345869866416615826/photos\"\u003eYeong Yee Tat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGvg4Rnaen7rM8DZbMGiyot8RY028-e4anHYtl6A-YqLlM47O_UNjcHwaGkd9xhF4Et358-QAOwxivNth2_u-po2B_fqsXClMiMISFoGNA9oj9w3icIHpv2XlmUv7ujeFEhDEbyxhgiLZevyk3Le791jLGhQSeFCH3OQhm28hmqOBbi61Q3khzg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJnxRVt2jMzTERaBlGn2scOSI",
+         "plus_code" : {
+            "compound_code" : "XRJ8+V7 Kajang, Selangor",
+            "global_code" : "6PJ3XRJ8+V7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJnxRVt2jMzTERaBlGn2scOSI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 48
+      },
+      {
+         "formatted_address" : "A-0-9, Jalan Metro Avenue 1, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9924643,
+               "lng" : 101.7923417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.993847879892723,
+                  "lng" : 101.7936993798927
+               },
+               "southwest" : {
+                  "lat" : 2.991148220107278,
+                  "lng" : 101.7909997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7d21721588b76799cd3eb5042d540baea06105c",
+         "name" : "Restoran A&W Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117456885525372652286/photos\"\u003eMuhammad Yusry Bin Yasdy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmAygTQiSbrJQa81fKChPAad4oNqiBMQc2OSlugPuRlqm03FU-5wU_3yXLqf6a12sW8swn__SVG1Ac8NCUxxtYPZTDeVc5jmA9V6qt6egpd7uodmb0hUI0n1Tl5os5vSDEhDBj6F49GOjmwZnZ7sT-0TcGhSIFAKc0xy4qm6V-4dpN9L8g-NbVQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "plus_code" : {
+            "compound_code" : "XQRR+XW Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+XW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 320
+      },
+      {
+         "formatted_address" : "GF (Fast Food Area) Fajar Supermarket Department Store, Semenyih Sentral, 43500 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.943868,
+               "lng" : 101.844807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.945219379892722,
+                  "lng" : 101.8461213798927
+               },
+               "southwest" : {
+                  "lat" : 2.942519720107277,
+                  "lng" : 101.8434217201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "60dfb5690a3bebe4da2c605e7f7366f11e4320de",
+         "name" : "KFC The Store Semenyih",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1267,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116501390181032118681/photos\"\u003eAzward Azis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAijwLhyaZnU5PQHVQTTwwjeOVAw-Jg6XMaQvgaycJJl2WIQF00DUzJEEa93y89_qC-25VCl1A2ET9ofINqmQQ9jdHilvWWa0FycmXFEl9KbXIZKdVujP8dXhUBH4EN61EEhBHKsPuKxkWwC5ZnC8tLfh5GhQWFQN7QuWih5B78lLMnQO472-MFA",
+               "width" : 1267
+            }
+         ],
+         "place_id" : "ChIJ0wfmXX3OzTERiBxUttSDjnc",
+         "plus_code" : {
+            "compound_code" : "WRVV+GW Semenyih, Selangor",
+            "global_code" : "6PJ3WRVV+GW"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ0wfmXX3OzTERiBxUttSDjnc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171
+      },
+      {
+         "formatted_address" : "Lot No. 2A-1, 2A-2 & 2A-3, Jalan TTDI Grove, Saujana Impian Kajang, Saujana Impian Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9979368,
+               "lng" : 101.8121023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.999297529892722,
+                  "lng" : 101.8134611298927
+               },
+               "southwest" : {
+                  "lat" : 2.996597870107278,
+                  "lng" : 101.8107614701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3397bd314cc9bfb52c36e103861551c657c4e36",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108218294149059374058/photos\"\u003ekaksu2010 Ishak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgTRlnTUUCgPdcX9BTLNBg8us14u1M8DnQzhzjh-tBhDfrkTUN047sKgH_Rf3K489CVdFfFFghizZNMCnkpW3YFIOKg8xAbBfN9ljImGtjRaeekAqb0YYBkVNkrL9E6KCEhBBdoRppRQA5KnonUBnNg7WGhS5mUN0fdlKPqrEx3Paj5q3Ux5qlg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ_y7MKo_MzTERq8vbzk_LlNY",
+         "plus_code" : {
+            "compound_code" : "XRX6+5R Kajang, Selangor",
+            "global_code" : "6PJ3XRX6+5R"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ_y7MKo_MzTERq8vbzk_LlNY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 406
+      },
+      {
+         "formatted_address" : "Lot 437, Jalan Reko, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9474596,
+               "lng" : 101.7861853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.948749679892723,
+                  "lng" : 101.7876674798927
+               },
+               "southwest" : {
+                  "lat" : 2.946050020107278,
+                  "lng" : 101.7849678201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a0894a0254d543389d74d90cf6f7ecbcc7db528",
+         "name" : "Keropok Lekor Terengganu Original",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104803311548214237374/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKH3hVT5_jGnEgmakcvBJowG2IgUpvwpEB-TVgibHHga8gcIgOfuz8DbiICurelJBKrOPkyTJjKpRqOrYE6FpEEJnkrj3sUMlnU2FfDfFDuH4_q_hl_zmXimx6GmbsJGREhBVly-VTA4xjhfUewvope0YGhR7QoqcFpYB8cyOViktwXlxOsWSow",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJBSThdlrJzTEROE_KQLheJxA",
+         "plus_code" : {
+            "compound_code" : "WQWP+XF Kajang, Selangor",
+            "global_code" : "6PJ3WQWP+XF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJBSThdlrJzTEROE_KQLheJxA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Persiaran Bangi, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9618507,
+               "lng" : 101.7581069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.963273679892722,
+                  "lng" : 101.7594448298927
+               },
+               "southwest" : {
+                  "lat" : 2.960574020107278,
+                  "lng" : 101.7567451701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b69bb1a1e2742907b5a79ff60a2b69dba1d24204",
+         "name" : "McDonald's Bandar Baru Bangi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106592608349013038858/photos\"\u003eViknarajan Govindrajin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATIUTOaw_4Ki2CmyHoVAQ2qqThxOjNekEYjXexiwmB5Y5ppgOLbO7pEYZ7SGJXJOxP209MCKqqazh3UzdTA5pNUrOWToaOVjwpgggijWZWplzy14m9V_67WM10b6f_r4iEhDtkpHgT4KnmlrcfPXULJbYGhT5GlZBwWiP3f4tDHmMiAgKdYmH5A",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJH2jM1MTLzTERg47tVM6dwP8",
+         "plus_code" : {
+            "compound_code" : "XQ65+P6 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ65+P6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJH2jM1MTLzTERg47tVM6dwP8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3267
+      },
+      {
+         "formatted_address" : "Pekan Semenyih, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9526208,
+               "lng" : 101.8443363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.954016679892722,
+                  "lng" : 101.8458463798927
+               },
+               "southwest" : {
+                  "lat" : 2.951317020107278,
+                  "lng" : 101.8431467201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72d435d1c5af80b8aaf24f0af747248222a10c26",
+         "name" : "128 Restoran Dreamland Claypot",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112356671316909398287/photos\"\u003eEdward Poh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxfWU-_igN_JjwXLAmaTfWduERn6Ne2qt6VeMiKSrJsxZEZBuvyq-T7d7spBpoX3Qk9jWSZdTbdLFtu1NWgrraSWkn5OggX2dQsrFJF5uEVtsXCFFFomnw3bVuFxw-9QfEhBK58hhs4hOHdmf5l_dssJxGhQAoq4muWYAct7ZxQCSCi42VxW68g",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJByBs73_OzTERcF6F3rIYa5E",
+         "plus_code" : {
+            "compound_code" : "XR3V+2P Semenyih, Selangor",
+            "global_code" : "6PJ3XR3V+2P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJByBs73_OzTERcF6F3rIYa5E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 122
+      },
+      {
+         "formatted_address" : "18, Mukim Semenyih, Daerah Ulu Langat, Kajang, Malaysia, Selangor, 43000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.989844,
+               "lng" : 101.819599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.991156329892723,
+                  "lng" : 101.8209945298927
+               },
+               "southwest" : {
+                  "lat" : 2.988456670107278,
+                  "lng" : 101.8182948701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fbed772aae0846f2147267c7eae6cef86c59c2e8",
+         "name" : "McDonald's Kajang Perdana DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100294410547727950195/photos\"\u003enuranee hajeed2000\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3_roj63y-UjfrgC60pkCopmzOstejNNxvzoYgWabzS_KTcJ--LBsyo2dZmlFlQIiV-7_k8Uh6698TT9hJIdcTFUY0LPZUZahcu8QDL5ioUTj6si11ZhIyEK_WBtq_wftEhDb1tGIBZQ0CH0VEQulKGflGhSwJnpbeoXPjUaSliysSU74C-29HA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4xgkjGDMzTERi5A1FGI6Z8w",
+         "plus_code" : {
+            "compound_code" : "XRQ9+WR Kajang, Selangor",
+            "global_code" : "6PJ3XRQ9+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ4xgkjGDMzTERi5A1FGI6Z8w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1623
+      },
+      {
+         "formatted_address" : "Shell, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9576195,
+               "lng" : 101.7557989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.958971629892722,
+                  "lng" : 101.7571528298927
+               },
+               "southwest" : {
+                  "lat" : 2.956271970107277,
+                  "lng" : 101.7544531701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eaab4e16bd988bce3e03970a0847531a41f399fc",
+         "name" : "Fuel Shack@Shell Bangi 9",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2796,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102287663650625473487/photos\"\u003eKok Hoong Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3fZM2cf1JDUS5QK_NPe1AI6A_Nn7oQuoJT6lwns78KKPw2s9undx2fGNgGhq40SAyIy9xksItUs9zxyqNuUAxXQQfblXZUIjvHENKiZgIg3GDhI-dm0hISDHP4KEW4qHEhA5DQEmJ2MbUulzGn41el60GhT796SeB2nFXlWeHwIcc2EVOqfw1w",
+               "width" : 2356
+            }
+         ],
+         "place_id" : "ChIJv6MDW9TLzTERq1HHcyMOWuQ",
+         "plus_code" : {
+            "compound_code" : "XQ54+28 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ54+28"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJv6MDW9TLzTERq1HHcyMOWuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "52, Jalan Sungai Lalang, Kampung Baru Semenyih, 43500 Semenyih, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9540713,
+               "lng" : 101.846074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.955411129892722,
+                  "lng" : 101.8474626298927
+               },
+               "southwest" : {
+                  "lat" : 2.952711470107277,
+                  "lng" : 101.8447629701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "103d802deafc9fc22de54fdd6cb6a5b5d04bcab7",
+         "name" : "Restaurant 52",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107301438362214008475/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZI8CFlUmFCQcZ6oRzbGnciCeG2e_F3D3b_GoSqnzffrrcGc1QWG8-zeSPe-utNLApqvRut7_QebejabrHgHQnSmk95dNfT79XqXX_a3DIgi91E6dCVv64jEn-a0HcImnEhCuErqisYJ16oHUIl7vjs-nGhS8IMYcA6SmK-c-ZAAU6chtBkrd7A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJs1k6kn_OzTERtd_0UIlLyAo",
+         "plus_code" : {
+            "compound_code" : "XR3W+JC Semenyih, Selangor",
+            "global_code" : "6PJ3XR3W+JC"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJs1k6kn_OzTERtd_0UIlLyAo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 323
+      }
+   ],
+   "status" : "OK"
+}

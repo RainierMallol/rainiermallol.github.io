@@ -1,0 +1,897 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-QEAANe4Z6lDNjt-yA-WkpxmDErUYeq4XQh8vdQvntn-soK0j58xIKGW4wp6WJ8ULvmNSKJJLSHhBq8CQrcoAKsX6H9Id-LXUrWgRTcLcK07d2htaGvEyThkK8ZiILjiZcQlJQRya5USrAIfOxO99yw1CGgeh725bLkuONX6yrlmcEJxjwFGWEEd0-4rmdHkrJqP6ZKOath6LQuz4-MncL8VYgOo2zylv7F-j2PrOlsC92XRJrZ3W-3TcJCPsDhkViJ8xA-qhvg0CowHoPsY6_8FGxjeL-cZJKj5hWCe7yfOKskYwdHhizVuGZtNpAGP37AOI0-MVD0lD24NQlsHPRQdOOLDFbGRbJWDzROmukOlShGCIUB9cUQT09lnNS4lD2dc904-W-hlOXVTBzdv-evNAOlBWBGaXRst7gR_d3NUK5X-jqqgM86Pz8J91smmMUYkrb-yV1me4w7m5RuTBeXK4kdCFufZylA6y8X_m2zo1yXJq5SLz0SSXGr4rWqCLY6oT9teinpytw4nMesYDxct2ApBKGd7SQNw2Vd-c_SVk7lCeJTbRc6aFXtz2l8_J6kRasp9iy5I5tiZlzAeNpVf8T7Td0an_34Ln-ng_NmCEgFxygnq-vmySdQSRw9I2D-UskHnMV1hKKmVNcS3Xfl3Yi2bt0CWphXdR_Ypk1a8XAAaEhCpKtvQ8WcLIhtgr7IxsptoGhTNQrA2tPQZZoi5rc_PbCt6OPlRsQ",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Kota, Taman Tasik Taiping, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8543063,
+               "lng" : 100.7453454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.855581829892722,
+                  "lng" : 100.7466550298927
+               },
+               "southwest" : {
+                  "lat" : 4.852882170107279,
+                  "lng" : 100.7439553701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31da68cad618a58ab8afb16185e4e0c88d2002b6",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108982971992493253580/photos\"\u003ethivan2000\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-qGQcv8aWhvavqUcSZ2JnhZJyel-oTXVJVaTVAVvaK9qvWJxrXskQd7egTuUMs3DxXH8P-t2mKOCgOBm7ki6lAsM8IwUEbCjWCcCFJcscv-SAP_VM4RXoCbVJiHIk59FEhANXT0nDavcRtl4hAnx0M0ZGhSYeFxui0ZnPiUmdXfEL0aC7gUktg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ72PdIPquyjERWdvwq6p742U",
+         "plus_code" : {
+            "compound_code" : "VP3W+P4 Taiping, Perak",
+            "global_code" : "6PP2VP3W+P4"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ72PdIPquyjERWdvwq6p742U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1084
+      },
+      {
+         "formatted_address" : "Jalan Kota, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.851185399999999,
+               "lng" : 100.7404879
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.852570729892722,
+                  "lng" : 100.7418144298927
+               },
+               "southwest" : {
+                  "lat" : 4.849871070107278,
+                  "lng" : 100.7391147701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bfb46543558e52975592aee8978128db2dddd4d9",
+         "name" : "KFC Taiping",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110491459077609355847/photos\"\u003eSem Sem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATZCPrLyW_Y5jlo_LFAbu9tDYtdXoJgdGo1EK31bKiR9jRD5PWmIrENszgWDYLxnRUNN3A7iti0TB003MohvQ3GuUkk2IIs4EiVc2X-7HWywJEcJrehcB5kPux2uNbQxGEhA03ilSirBuaRCiBOVitl5vGhRgB6dV2sl0KMSUs1RGRfvVsZGGsA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyfmAUfauyjERUKMeEmWkgBc",
+         "plus_code" : {
+            "compound_code" : "VP2R+F5 Taiping, Perak",
+            "global_code" : "6PP2VP2R+F5"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJyfmAUfauyjERUKMeEmWkgBc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 564
+      },
+      {
+         "formatted_address" : "Taiping Mall, Jalan Tupai, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.850083,
+               "lng" : 100.7429444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.851483379892722,
+                  "lng" : 100.7443695798927
+               },
+               "southwest" : {
+                  "lat" : 4.848783720107278,
+                  "lng" : 100.7416699201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5168551fb6275f22349285d4906f0f0358d0f37",
+         "name" : "Marrybrown Taiping Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116919959459805244604/photos\"\u003ezaidatul sharina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS5Xg9TEU0ExJgNsSPQkPU_E713vw21czfuubjDUlLHZbJOfuwWuSUu55t4Z00oj8gKliokrjEqWttbvSXFVgCe1prwXzX84trdni7LJ_T0cNUEhx7maCg7DM3RDfAaRREhDIT8w18tV_zn3_eExCOA3TGhQFwPihAGbTZcxW_fOqL19ZJ3WGxg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ_Tpw8veuyjER3mB7yGxr1X8",
+         "plus_code" : {
+            "compound_code" : "VP2V+25 Taiping, Perak",
+            "global_code" : "6PP2VP2V+25"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_Tpw8veuyjER3mB7yGxr1X8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65
+      },
+      {
+         "formatted_address" : "Jalan Pekeliling, Taman Tasik Taiping, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8551739,
+               "lng" : 100.7513613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.856365079892721,
+                  "lng" : 100.7528070298927
+               },
+               "southwest" : {
+                  "lat" : 4.853665420107277,
+                  "lng" : 100.7501073701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "20fcc6fe343d75f1c0788c11484dc6555999dbc5",
+         "name" : "MarryBrown Zoo Taiping",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115598595821551049391/photos\"\u003eDiyana Kamaruza\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyjjupFTDY3v17zT7DQIk_hWQqAC_eiikfr5g-bGJ3omh1vyUnmvvZ6-B_Q6cS68V5x_-PEnHvHEtzYtWlv2X_lBbfDQAieiwIes2CJFGyq-MnxbmQOoALw1ZgyF1BplFEhATbfu8IZeKqU8jxEDi0zerGhR7stGH4h3F4xZsWRp3D1YtR1TwBw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4y7mN_yuyjERPt7paN29lAE",
+         "plus_code" : {
+            "compound_code" : "VQ42+3G Taiping, Perak",
+            "global_code" : "6PP2VQ42+3G"
+         },
+         "rating" : 1.5,
+         "reference" : "ChIJ4y7mN_yuyjERPt7paN29lAE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "397-419, Jalan Taman Kami, Taman Kami, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8550092,
+               "lng" : 100.7188596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.856352429892723,
+                  "lng" : 100.7202091798927
+               },
+               "southwest" : {
+                  "lat" : 4.853652770107279,
+                  "lng" : 100.7175095201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8a16b5c0f8501c00b6b4e3caac6cf48008dff010",
+         "name" : "Kedai Burger",
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103796882621660082955/photos\"\u003ebanana siong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3yHqmsmQqCGDmdThD7sy6xN4Ln2fe_WZSCDVNbzr3gCuuitd_zQWW_hfhlpfU-k_qWQlMaOpltW9P4VBCXUQDNjP4fHKBsk-9znUy8pUFmWAiQp00xm5Xdo9vuIRUhOUEhChc7NqV499IYS4R_66ftMQGhSXKRAx1IEjt9yKweVbSX96DQ3gkQ",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJQ_LBOA2vyjERxLKWJBVzTb8",
+         "plus_code" : {
+            "compound_code" : "VP49+2G Taiping, Perak",
+            "global_code" : "6PP2VP49+2G"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJQ_LBOA2vyjERxLKWJBVzTb8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Taiping Sentral Mall, G-21G-22, Jalan Istana Larut, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8657232,
+               "lng" : 100.7311086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.867101529892722,
+                  "lng" : 100.7324026298927
+               },
+               "southwest" : {
+                  "lat" : 4.864401870107278,
+                  "lng" : 100.7297029701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cc2cd0be36e24ebb44c0bd2c0603170203c776ca",
+         "name" : "McDonald's Taiping Sentral Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115399654100446456410/photos\"\u003eBoB FeLLoHooD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALCOd3HpCxGeyvrTKT89fDDqh79wHTpZ-rg7alYNqKtwjMqwvICpixdoPHIgy97EeefJZpXMoQZPVg-GmHDbKhjgniF4wekiBdWdEMnEOh8hDK0G20Z15PJhLOA3G-fsTEhAg6YyhPSvDiJv5WRiilPrpGhS-Zk_u9sbeWBPCCK5jzEHQbVja6w",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJT_xup-6uyjERqoOLgGtW8zc",
+         "plus_code" : {
+            "compound_code" : "VP8J+7C Taiping, Perak",
+            "global_code" : "6PP2VP8J+7C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJT_xup-6uyjERqoOLgGtW8zc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143
+      },
+      {
+         "formatted_address" : "G12 & 13, AEON Mall Taiping, Jalan Kamunting, 34000 Taiping, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8728937,
+               "lng" : 100.7294
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.874607429892722,
+                  "lng" : 100.7306460298927
+               },
+               "southwest" : {
+                  "lat" : 4.871907770107278,
+                  "lng" : 100.7279463701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0a0e1915a14bad3f57eb9da20a1ec6003c1b981f",
+         "name" : "KFC AEON Taiping",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114403214635156323883/photos\"\u003eMUHAMMAD FIRDAUS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqnodce25zRLkRiS_pG0akiHs9568Ha2u0jY17fqnJtyg4OLVBpVmAvW9uD7F52iplZb-ZPbxUYge6riFj4O4d_GHU23iH8BwwgqtWsLt7xwjz3cObLhv4UMZTe8oRad5EhAOItYP-GCsxFvtGjYaiUHsGhRJJgZhOdKs77VN2pwNUHGNM_HD4Q",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJwwWzHr-uyjERNuITCQSSd0s",
+         "plus_code" : {
+            "compound_code" : "VPFH+5Q Taiping, Perak",
+            "global_code" : "6PP2VPFH+5Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJwwWzHr-uyjERNuITCQSSd0s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "Lot No 08, 1st Floor, Jalan Istana Larut, 34000 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.866009,
+               "lng" : 100.730154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.867294229892722,
+                  "lng" : 100.7314759798927
+               },
+               "southwest" : {
+                  "lat" : 4.864594570107278,
+                  "lng" : 100.7287763201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee7db49cce0c87911050ae1d9619a4cfe5cbdb2c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289352285420872573/photos\"\u003eyat_hayati90@yahoo.com\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3RPbdOaDQ1-9VnRNw6-Hba9fngMItEkX6gD7CdJjYoZeAp5UyuXpDaidsloddj35wXXawAkkJ5qj3duP3nonW44e6uUpesDR288QhixItH_jEkxJ2ZfCPWBjnw_N2GIfEhA9LuSynHQGA3FnIeYXjjY1GhQKoqZWaBx392Opi6qcWblMAHrk7A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJN8qq85SuyjERutObgAvwglU",
+         "plus_code" : {
+            "compound_code" : "VP8J+C3 Taiping, Perak",
+            "global_code" : "6PP2VP8J+C3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJN8qq85SuyjERutObgAvwglU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "A10 & A11, Jalan Perusahaan 3, Kawasan Perusahaan Kamunting 3, Kamunting Raya, 34600 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.863447,
+               "lng" : 100.707942
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.864746629892722,
+                  "lng" : 100.7093488298927
+               },
+               "southwest" : {
+                  "lat" : 4.862046970107278,
+                  "lng" : 100.7066491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1f26005d56dbe3416be587714daac0b30bb56f9",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117201287230399753053/photos\"\u003eAkashah abu bakar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACcPggHMhpq5jlwYaOB28e3oe6Vfl65nmOvqmMH3QBxm2Xw2LHC8zuaUJr-aqs2bjpWg54GCsxu18_WrA3aUP5g9EsJUbuxWhEon2QroRyoRdcWiG_kYIhRcBbDQSm7rcEhCsK4G8MRoxNZcH7J8auVnEGhSOgH89_wXUMXBD6mr3-pCmSulBuA",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJ113pGyesyjERNGrvQsO43y4",
+         "plus_code" : {
+            "compound_code" : "VP75+95 Taiping, Perak",
+            "global_code" : "6PP2VP75+95"
+         },
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "ChIJ113pGyesyjERNGrvQsO43y4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lot No. 648, District, 34700 Simpang, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8203188,
+               "lng" : 100.7065877
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.821702879892722,
+                  "lng" : 100.7080145298927
+               },
+               "southwest" : {
+                  "lat" : 4.819003220107278,
+                  "lng" : 100.7053148701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8fae27d2371395ee463f4c23c044e85125a485a",
+         "name" : "KFC Simpang Taiping Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111568536135697036948/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfp9r25nY5qVkT7O_H8SGFr4TU-rxNPOdjP5UEHrlx8GSC2E7xk79ZSdLAytDR-MdYdmbu6zUIQUAsinVFv43_7ceIbag9zKgVSqB6AQX1JF323J0cb0nBKcuBKOEUG8lEhDv5CVHwVsFgE7OhBQqUVssGhTW0M0VvgOXaS_YxZCDwwmAAZSBuA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJpVzt3-KtyjER971LCpfmY4M",
+         "plus_code" : {
+            "compound_code" : "RPC4+4J Simpang, Perak",
+            "global_code" : "6PP2RPC4+4J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJpVzt3-KtyjER971LCpfmY4M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 857
+      },
+      {
+         "formatted_address" : "G04, 05 & 06, Taiping Sentral, 36, Jalan Istana Larut, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8653794,
+               "lng" : 100.731135
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.866689629892722,
+                  "lng" : 100.7324687798927
+               },
+               "southwest" : {
+                  "lat" : 4.863989970107278,
+                  "lng" : 100.7297691201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e927f8229d8957669cf8abe90973a6cb53426f3d",
+         "name" : "Texas Chicken Taiping Sentral Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2877,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115131207693642905768/photos\"\u003eWooi Chun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANwkDnYXSlWazy3DJSB7TQgcXJzsxdNpX9bPozeT340cLwzPNq-nslNLBBwLMUhIjPcEFbC8oE1LELAWU-gFxBz_2wrU8OOydISMF1eCPAiSfVZ-aKd72qOeE4JCKC4XIEhDZqGv263S_rvzG__lTKrBVGhRF6keTcQMDR1UKGKz7uz6eld8pBw",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJue48vJSuyjERXxZzTCHIm2w",
+         "plus_code" : {
+            "compound_code" : "VP8J+5F Taiping, Perak",
+            "global_code" : "6PP2VP8J+5F"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJue48vJSuyjERXxZzTCHIm2w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 232
+      },
+      {
+         "formatted_address" : "No 1, Jalan Medan Kamunting Jaya, Medan Kamunting, 34600 Perak, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.893465,
+               "lng" : 100.724977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.894790979892723,
+                  "lng" : 100.7263256798927
+               },
+               "southwest" : {
+                  "lat" : 4.892091320107279,
+                  "lng" : 100.7236260201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4970a89348da69d6bd47ac5d0b09866728fce547",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108197080604093411744/photos\"\u003eMuhammadrusdee Masae\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVDfO205MBdAIGAPgY9Op-yWaLCWTc2CXluTG5GGrRazFx7CdpxE0FdIiI-yxcVJ0IKJ7Moc-b2VzwGSG-f4_nHdGvncJqTvHnwzgKfXV6gT1n6wf5tS6zE1Sjb4GH_1-EhBVxJRBV88vXmeJWuh9SU2MGhQa_G4WYleJq7IE32MR3m4JOLONkQ",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJZc9sQ0ypyjERnEGVlcx77mM",
+         "plus_code" : {
+            "compound_code" : "VPVF+9X Kamunting, Perak",
+            "global_code" : "6PP2VPVF+9X"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJZc9sQ0ypyjERnEGVlcx77mM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 332
+      },
+      {
+         "formatted_address" : "No. 97 Jalan Besar, Jalan Simpang, Taiping,Malaysia, Perak, 34000 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.82245,
+               "lng" : 100.707849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.823825879892722,
+                  "lng" : 100.7092418298927
+               },
+               "southwest" : {
+                  "lat" : 4.821126220107277,
+                  "lng" : 100.7065421701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "171e5f1808a93bba91cdddd485bf943e44b7110e",
+         "name" : "McDonald's Simpang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108208835652512316240/photos\"\u003eLing Cheng Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyFEeqkZv9TqrO_VF7xkyP21iYyzZUils1pnDrd6Pg530qFTpfWP2PT2hdeu0Io6xdy4n59HOf0UBtPdrG0D43yzzRcDejZFjh5kph6i8EldUtDp5XhZDz5GXnOGhSxBKEhBLerwlAJXmx9tYhNiA_6t6GhQTTQJLoY8KC6gRVSwn8J1Q-p_akQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJmZnjWuKtyjERGf9nCJa5VrM",
+         "plus_code" : {
+            "compound_code" : "RPC5+X4 Simpang, Perak",
+            "global_code" : "6PP2RPC5+X4"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJmZnjWuKtyjERGf9nCJa5VrM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 832
+      },
+      {
+         "formatted_address" : "34000 Taiping, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.865514699999999,
+               "lng" : 100.7311086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.866771379892721,
+                  "lng" : 100.7324206298927
+               },
+               "southwest" : {
+                  "lat" : 4.864071720107277,
+                  "lng" : 100.7297209701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c29b348514a89cb6f07e0d00bf038c3e46bb085",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110362447009379243108/photos\"\u003eCarol Loh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMPV1XQXLFMeKDx_S9FNAoiIJGtiyeFknXFjpdvOFSqofnlCoqCfAi5AtZSyCkQuHKqTr-60d6gppGMzRKN5mDz-Z_LxKreagus2bBmryZV7WLTXSU3RVCisw0YM46jU3EhA3yU120ym_S_jpXirJIBFNGhRPIa3undNC9Dvi2Yy1ChujLYGlKQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJhXOwHr-uyjERkj6V-cMpKU0",
+         "plus_code" : {
+            "compound_code" : "VP8J+6C Taiping, Perak",
+            "global_code" : "6PP2VP8J+6C"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJhXOwHr-uyjERkj6V-cMpKU0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "PT 13952 (Ground Floor), The Store Kamunting Jalan Medan Saujana Kamunting, 34600 Taiping, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.876737299999999,
+               "lng" : 100.7280012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.878047829892721,
+                  "lng" : 100.7293994298927
+               },
+               "southwest" : {
+                  "lat" : 4.875348170107277,
+                  "lng" : 100.7266997701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cb3110460238b517f3639f5cd6b8f34e9fcbf0ba",
+         "name" : "KFC The Store Kamunting",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1816,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118181189073688025556/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvakpumiEhqp6D_w7_4AGNGdzUHcSvt2v9b3rYpuuKkLshlF2jQtzY2S7nnuHqT96JT2ETdo1--B8YVA0hubzCl7V-MFZ2Ll0q19eCSou3TmDfsBYvmbYjJ6akqJeVodWEhDj-SV-05AIBXOvcVXo9waTGhTi6Eq2soITmMQaQdswY0rbxp8gGg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJn_M_c7muyjERHGSuYSygdr4",
+         "plus_code" : {
+            "compound_code" : "VPGH+M6 Kamunting, Perak",
+            "global_code" : "6PP2VPGH+M6"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJn_M_c7muyjERHGSuYSygdr4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "No 25 & 25A, Ground Floor, Market Square, Jalan Kota, 34000 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.854088,
+               "lng" : 100.737586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.855422879892722,
+                  "lng" : 100.7389443298927
+               },
+               "southwest" : {
+                  "lat" : 4.852723220107278,
+                  "lng" : 100.7362446701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2a0a0f09ae18ce669a81008f7970224fe6b35b2",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114070738021547421393/photos\"\u003eTim Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAitY9SVeL3PraaLR6m1JIgBKOmsLCU47O8EBgxC5Xc3RXskhW6Df0ULAzTUbuQ3QK37c5wQY5tpy8qyHzJp2rBdo7UGpH0sGmhWWqrkSuID_4MMVgPtlwhC-hmf7yR8R9EhCtTzjU6NQxgksH9i3_325GGhQ176-rGl8dULwRzF2COSwiBSxECA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJfcoxB_SuyjER8di3YFSO6_M",
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJfcoxB_SuyjER8di3YFSO6_M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "13s Highway bukit gantang, Utara Selatan (Plus Expressway), 34850 Bukit gantang (Taiping), Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.774044000000001,
+               "lng" : 100.754054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.775412979892722,
+                  "lng" : 100.7554102798927
+               },
+               "southwest" : {
+                  "lat" : 4.772713320107278,
+                  "lng" : 100.7527106201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "63e8380fdd8a5858f92ebe6288b14e5ab37108b0",
+         "name" : "Local Fruit Shop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115019689819747366807/photos\"\u003echi sing Poon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANfZkk3NzcGLKmo4QObVfJj6WzTzpkGB-VB4sREWmRZUEyDpEzGE1tMskOT0EcxYcnFh5VwuuB45vDn1IwRD0r6jGmRzWgBjxKkqv0hIGLxYe9EuIeiV4wk1f6hE0rWaVEhDt2He_l3CG7Q-CBMiKzfG_GhSqYN-wxwqour5Y88ux5vWuU2bAbQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6fK6xayxyjERwn1xEgbpy4s",
+         "plus_code" : {
+            "compound_code" : "QQF3+JJ Changkat Jering, Perak",
+            "global_code" : "6PP2QQF3+JJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ6fK6xayxyjERwn1xEgbpy4s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "78, Jalan Pasar, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8529045,
+               "lng" : 100.7413375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.854249329892722,
+                  "lng" : 100.7426910798927
+               },
+               "southwest" : {
+                  "lat" : 4.851549670107278,
+                  "lng" : 100.7399914201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "076d3db3525d34df29e7cbec1470010388f9a93b",
+         "name" : "Yut Sun Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111113313648311744155/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8SXkaQT9NlPCJjdr2NzWsiI7enkikT59pZLld1jqqxoWwNU5ubikaT9glKXZixHcqa9ZVGpKQlRMf1_YcQDcpSBy1RWMPO6VdIQzxSJZp-O4vu2NCbf7q2crGGRVIx-nEhC1gavvGxx5T6yXYdXpBjtCGhQN5kV6FzM7xOPdRy5k8rR8Kuy11w",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJfdTFIveuyjEROle2xtdYky8",
+         "plus_code" : {
+            "compound_code" : "VP3R+5G Taiping, Perak",
+            "global_code" : "6PP2VP3R+5G"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJfdTFIveuyjEROle2xtdYky8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 558
+      },
+      {
+         "formatted_address" : "36A, Jalan Kota, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8532031,
+               "lng" : 100.7430481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.854525029892722,
+                  "lng" : 100.7444153798927
+               },
+               "southwest" : {
+                  "lat" : 4.851825370107278,
+                  "lng" : 100.7417157201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "321e83e98976bee402e847f6572c39b51d5c42ef",
+         "name" : "MJ's Cuisine",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112230812081860485535/photos\"\u003eRyan Smith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWrYejn4QghWbpKYXwlpmMc2bQF6tn9IVCg_UVxcLnR3IfJZrSZPXj8-9voeDHt_iyL4b5xPIxjfAUJfbwZCO-PMhSUDiTweP3hnUx4xlMtXrvXwMs8SIAM9GkolIdCxxEhAD4cxb6p394w_xL_-6q4IEGhRpaaOh5S9HTmDpn-DE8R5lCPshzA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJW4twW_euyjERDGY9uAmUSrw",
+         "plus_code" : {
+            "compound_code" : "VP3V+76 Taiping, Perak",
+            "global_code" : "6PP2VP3V+76"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJW4twW_euyjERDGY9uAmUSrw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 118
+      },
+      {
+         "formatted_address" : "92, Jalan Barrack, 34000 Taiping, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8529653,
+               "lng" : 100.7388159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.854188029892723,
+                  "lng" : 100.7402549298927
+               },
+               "southwest" : {
+                  "lat" : 4.851488370107279,
+                  "lng" : 100.7375552701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8294618a8929ae74c12b941adfb1b391bc4f2cbc",
+         "name" : "Ansari Famous Cendol",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117859228657753605041/photos\"\u003eSiti Nor Faizah Ab Malek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjuq-Q0cSK2zjXCJ-b728zvz8nz-SUYdxaNm5OMVC78C32QVvKFbH0M08EeUhfUxxL8ye0uQogHaXsYlysCRrQLx_zEQ17qhO2iH_YjdC--NoRwSFWDreuu29QevF11EfEhBrzWtDNXs4N1xGT2CmUYXfGhStqZKjFSMR7ctc4bxGSS8W3yWLzg",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJs4drlvauyjER40qh4oPHhrY",
+         "plus_code" : {
+            "compound_code" : "VP3Q+5G Taiping, Perak",
+            "global_code" : "6PP2VP3Q+5G"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJs4drlvauyjER40qh4oPHhrY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1131
+      }
+   ],
+   "status" : "OK"
+}

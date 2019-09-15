@@ -1,0 +1,855 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQEFAIAAJcrZbgb_kbDII3yXNRIvffD76C6URRQ8OYf7thqI1f0rWZqXtV8GXXH5QNINfmnWYosV6z1mcO36sQ-riESSHaTyNiuiFWa7KMRziFq-KF9_SRQr9ED_2ZD4hrQCP7Xy7aTzimO1Z9Y4bL4uCkPTe7AyNyvIWEUk82TsFZ4xOU_qAP5pH5po7PgKzOidCyOhSXmUFx-mry5pUbXBkCevZfh8ksR1yaIq8RC_RLxQt2DXXFuJ0KbSkBuJSbZDxVSq__4Os3WSYUcBXdLNSjvRH50BT1GDQXpUnwhH0jHD1u-ijULzhRHP-kAz0yDK0AY70KKH1xQjy3YVCNJWJr0yCOJXDtErj6uNkvYPNrHpohlW84CrIos5gqKyqrpfa3cGPQozNj8DRlDAIAecBYy2PKHoIZZjOFlGRIQa-GvxmM-WoIpkgboSTipJgg4BMuCGHpR9mQMDR_IKUgynw-xBxlE-jHjKdCyiqSNp7eynJwJcupoLYf0b1hg4CnxfVw1gTMlseKJAgDsAtIk6ch9sKanUrPSAE4N-GHlK_u0Ky0NILZzClNSJFXDxz8R-yWG5ayMfV3jX1FeyrXSovHvbNzIp7Vsi_apgbDwbHOH0Oe2rrfaFdU9xULhJ3R1eBWDRwx4dHsQDRS7DPZ8AYRUXlfUrWhQBrmLQfrtw4-e8XtwBdWipZXkgn-p2JkpaXeEDPUc4ZbDr7debW6roxo37DsSEEcHR5cNyjUjLG7fCDA1lAQaFFMJxyT6l94geaRNO_h__HuUP-nA",
+   "results" : [
+      {
+         "formatted_address" : "Jalan, Persiaran Pertahanan, Taman Melati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0526667,
+               "lng" : 101.6711417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.054002429892722,
+                  "lng" : 101.6724644798927
+               },
+               "southwest" : {
+                  "lat" : 3.051302770107277,
+                  "lng" : 101.6697648201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "832576a1ffa5fb8e38e99629733aee8f15c2cbc0",
+         "name" : "BURGER BAJET A.F CHILL STATION",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109825051167723914500/photos\"\u003eLone Wolf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi9XkIlgHtkK3p34AAOK9iHwUM1SFc0bVlvp6Ls2nDud6TzM3a2UuQL7wPfaicqryiwCMKMvlinlImjH472Q0L3yligC5z5VYxKhYYaJLftD-INi9PplOdWQkWgDTmgnbEhDBQPmowiMF8N30w8HJQpb8GhRQeHQKpS1V3BX3MIHLAtDvLQfl8A",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJM2YSHgtLzDER-4QyibBWPOU",
+         "plus_code" : {
+            "compound_code" : "3M3C+3F Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33M3C+3F"
+         },
+         "rating" : 0,
+         "reference" : "ChIJM2YSHgtLzDER-4QyibBWPOU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "1, Jalan Putra Perdana 1/1, Taman Putra Perdana, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9484398,
+               "lng" : 101.6194535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.949790229892722,
+                  "lng" : 101.6207589298927
+               },
+               "southwest" : {
+                  "lat" : 2.947090570107277,
+                  "lng" : 101.6180592701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3edbab22a49fff8da0a2372f94e8dc100875340",
+         "name" : "AmBoy Crispy Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108692392528709632052/photos\"\u003eAmrul Nazireen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPYpI5krcdjdLbncxdFnv5SPPbTi0kRjx7YxbF9jardxKQSiW7hbonds-ENrgz_5mlV5WWaXc6TEAy7OzRLFBu2R5HjjZ5qihngxdWllwx1aVZ9SVgonI45DApIobYXpKEhCqKLIy2aEurPiPfGJqyFdsGhQrFp5uksRO7iOp8tr_CMICYJ6NzA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ9QnNM1W3zTERwjHYyfJkJtU",
+         "plus_code" : {
+            "compound_code" : "WJX9+9Q Puchong, Selangor",
+            "global_code" : "6PJ3WJX9+9Q"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ9QnNM1W3zTERwjHYyfJkJtU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Layby 3, Hentian Sebelah PJS 9 47600 Jaya, LDP, Bandar Sunway, 47100 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0606786,
+               "lng" : 101.6143643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.062026429892723,
+                  "lng" : 101.6156592798927
+               },
+               "southwest" : {
+                  "lat" : 3.059326770107278,
+                  "lng" : 101.6129596201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d32136776c369f6dcdc0c6c433d04ec94f4536d6",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114079920989791806169/photos\"\u003ehashim kdcc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx-ZOUennvl46U-Dzt4OY4yjpK8_QSwXXIYnwh-ogn6qlxIK6i4H93Xu-PPvwcloisnSPgJ52NWApfYogIJUFjL37T6PYV6IxOesiqAjjfelJ4iQvzvkNVKEOgXxF1ItMEhBRZAZ-xQbGGXVsPrtprFwZGhR5au7lB88Cx5VJZSFmGJzZC14bSw",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJL1aoCp1MzDERIohY3qx_9xk",
+         "plus_code" : {
+            "compound_code" : "3J67+7P Subang Jaya, Selangor",
+            "global_code" : "6PM33J67+7P"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJL1aoCp1MzDERIohY3qx_9xk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 832
+      },
+      {
+         "formatted_address" : "6G, Jalan Kenari 1, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0453204,
+               "lng" : 101.6204397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.046705829892722,
+                  "lng" : 101.6217182798927
+               },
+               "southwest" : {
+                  "lat" : 3.044006170107278,
+                  "lng" : 101.6190186201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01d8d6e14bb9732875fa64c22fed799276f3c80e",
+         "name" : "Texas Chicken Bandar Puchong Jaya",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111399957721672139226/photos\"\u003etan tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe3WJb1FZrjJ63a3K7JdPg7TVtPlw81bdaPhv8Cgaog93bVjKSNiv-oy1O2ud8-fWWXFQKKRuRHjIqWn8caxfEYK7wu6f4quOlCaUMi0eLnEC8PIqzz8gAji2Tbc47E_wEhAuw3K-QfUsB2CRPSzUQ_w5GhSSkRTzoJYcW7u9FgorOmxTSG13Uw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJiZ9Y61lLzDERfdJvoAcCTQA",
+         "plus_code" : {
+            "compound_code" : "2JWC+45 Puchong, Selangor",
+            "global_code" : "6PM32JWC+45"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJiZ9Y61lLzDERfdJvoAcCTQA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 806
+      },
+      {
+         "formatted_address" : "Jalan Puchong off Jalan Kelang Lama, 1, Jalan Sri Jati, 52000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0773118,
+               "lng" : 101.6637881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.078802729892722,
+                  "lng" : 101.6650087298927
+               },
+               "southwest" : {
+                  "lat" : 3.076103070107278,
+                  "lng" : 101.6623090701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "79e5c8abefeeed419cc0a544f551feda3dfad519",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118190045576939405479/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFXxVVLrAPdtMqpuEgW3WEow1sC0lE43oBpZ1RLsHjPGb9uNBdxbgWnrmT9ODYf87OFsys02w_A-6Mzb1JZ1PB2KpVknHRBLZgpYOEq3avvSbuq2Y83ceYTyEZfWXlsBNEhBhHlp-J2UgV-ZZuDAhzUlIGhT3MCkZLojxz6OjN_72qd8WenwHqQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJgysij1RKzDERb5Kkdz5ndnk",
+         "plus_code" : {
+            "compound_code" : "3MG7+WG Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33MG7+WG"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJgysij1RKzDERb5Kkdz5ndnk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 559
+      },
+      {
+         "formatted_address" : "Petronas Service Station Lot 37331, Section 5, Jalan Kinrara 5, Bandar Kinrara, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.046109,
+               "lng" : 101.6421809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.047459579892722,
+                  "lng" : 101.6434664798927
+               },
+               "southwest" : {
+                  "lat" : 3.044759920107277,
+                  "lng" : 101.6407668201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c6324aaaca8629dfaa088e782cf01f14e9570e1a",
+         "name" : "A&W Bandar Kinrara",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116606198106264084730/photos\"\u003eThe Separator\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAkPHMgRDvxwhklHxxMzqrlf3BU2mpyNsO6mU2IALUcXDXlGNe2dH41-nOQkPlDClEpiBorwdjZTxXz31A9QQaoxGHIijA8x9ay3hUUf4p_sjGBTst6HbuugCJukgz-2gyEhDnkcnTsMgxhXX9LTwVsYfSGhRlxwnM1KppLeo_N3HVZx5Xb_eX3A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJn3Gufw9LzDEROnA-qwYZ6PQ",
+         "plus_code" : {
+            "compound_code" : "2JWR+CV Puchong, Selangor",
+            "global_code" : "6PM32JWR+CV"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJn3Gufw9LzDEROnA-qwYZ6PQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 485
+      },
+      {
+         "formatted_address" : "Bandar Puchong Jaya, 47170 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0462888,
+               "lng" : 101.618353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.047478329892721,
+                  "lng" : 101.6198772798927
+               },
+               "southwest" : {
+                  "lat" : 3.044778670107277,
+                  "lng" : 101.6171776201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ae448d1d93321dbcd10f9a71d80eaba439f97e4",
+         "name" : "Marrybrown @ IOI Mall Puchong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118110029718114598269/photos\"\u003eVivien Soon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4kUJ5FSK_LwrhmVjC2r9y6gj3r0Zk9XNTQEj5oRJfbNE9JTZ8RfY-3KMrjcdsxZKHQPy93becEfzAG7yk73yM3q0CGGFRYGne30DVPIw5MnvAkTOYj-lSpd4PcNJ96NYEhCDADn2B4zQ_Vx-H1oHa6uVGhSUqZILn5XyMP7_ao8uE4YPTTQyGQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJO7byU1hLzDERjQxDa5oKhDo",
+         "plus_code" : {
+            "compound_code" : "2JW9+G8 Puchong, Selangor",
+            "global_code" : "6PM32JW9+G8"
+         },
+         "rating" : 3,
+         "reference" : "ChIJO7byU1hLzDERjQxDa5oKhDo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "13G, Jalan Merbah 1, Bandar Puchong Jaya, 47100, Jalan Merbah 1, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0440332,
+               "lng" : 101.6180326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.045391229892722,
+                  "lng" : 101.6191934798927
+               },
+               "southwest" : {
+                  "lat" : 3.042691570107277,
+                  "lng" : 101.6164938201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c1d143c2dc76c14c7003f7caf5306914e4bec0d1",
+         "name" : "Marrybrown",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117202845025497547697/photos\"\u003eKV Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc81au4nrJbFC1v-qjCSm1-_EhzyXYegJDDedhhhIRwiTiJR6RDikBwoM8fQkOCG2UzEBSZH-FUvfliDjP2-22OO8CdQdfXs9xMDUANP8ki9VDQey2Dwa6dE_6b0kP9PlEhAtyzFDjnFAfEyP2DYkSQ6gGhQ5RV7_YpIgIEnF-4fL7uemgAcOhw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJHwCzh1dLzDER80HzKCBPOuU",
+         "plus_code" : {
+            "compound_code" : "2JV9+J6 Puchong, Selangor",
+            "global_code" : "6PM32JV9+J6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJHwCzh1dLzDER80HzKCBPOuU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "5665, 3, Jalan Taman Tasik Prima 1/1, Taman Tasik Prima, 47100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9809895,
+               "lng" : 101.602089
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.982220479892722,
+                  "lng" : 101.6032725798927
+               },
+               "southwest" : {
+                  "lat" : 2.979520820107278,
+                  "lng" : 101.6005729201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6aff247cbec46f6284fec5c9b441005bf9b79935",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115169063042838206672/photos\"\u003eMohd Firdaus Mohd Rasidi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADXTkQZvjC44HQbHCsU9K7iDy1gbo7v3SJXPNWAKhTldK6CYt6GaR6YH6bh-bJR0sArfB5RMlKzw0W5sIKcKWSh6XVLHp58fp7lohlBdUU_pJT23eEKizOAVjPATKl7AhEhBXLeY460R0-LPHwqd6lK6BGhTwwg4nT04vXNRnIo6wp3NkjHMkOg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJH31Jh5GzzTERP871nZGR6NE",
+         "plus_code" : {
+            "compound_code" : "XJJ2+9R Puchong, Selangor",
+            "global_code" : "6PJ3XJJ2+9R"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJH31Jh5GzzTERP871nZGR6NE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 918
+      },
+      {
+         "formatted_address" : "4, Jalan Puchong Permai 2, Taman Puchong Permai, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0089815,
+               "lng" : 101.5992005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.010286229892722,
+                  "lng" : 101.6006963798927
+               },
+               "southwest" : {
+                  "lat" : 3.007586570107277,
+                  "lng" : 101.5979967201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "287531ca483d56fe54e3dbc78614e600cad65525",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114844840462454849001/photos\"\u003eCALVIN YWK\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyn0QQjMeVGPufRTC84uakkW5T5CW4YScNj_8oovsvzSJ4Nf3KGKSlWBlh3S10WLMnU4RLsZNAb2lUfF6HvonPTgPMET2-gwVR4RzPkEbxmD6ue4xr3D-U_K5EGVuToxFEhCl0wFcuD68vZekgmNZh1W3GhT--50xZnX5zqYxcqif0UL_df_08g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT7C6o26zzTERFbC7NHSmNXc",
+         "plus_code" : {
+            "compound_code" : "2H5X+HM Puchong, Selangor",
+            "global_code" : "6PM32H5X+HM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJT7C6o26zzTERFbC7NHSmNXc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 230
+      },
+      {
+         "formatted_address" : "Lot No.G7, Tesco Bandar Bukit Puchong, PT 80259, Jalan BP 7/1 Bandar Bukit Puchong, Mukim Petaling, Daerah Petaling, Selangor Darul Ehsan, 47120 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9820537,
+               "lng" : 101.6170832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.983334029892722,
+                  "lng" : 101.6183926298927
+               },
+               "southwest" : {
+                  "lat" : 2.980634370107277,
+                  "lng" : 101.6156929701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "06016c5399cdfec4e5ae66b92e86dae7aa2ac049",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100575777691550331383/photos\"\u003eVui Do\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY3hcdc0vWS1snJKqAOB2_mUcBTkIB7hTzvY7ug80R9eqVAIKHc0cqVD_8DNG_OMkF9TZKa9rmOA0L_gb4elGR-1iKGeVIHhmtGdvBQRzQAC9rlKKfKDKsjE4joH_8Rp3EhCKke7i0uF7rh222_dZ_aa5GhSZrT-psXdL6aYWKRz-V0KdgULAtQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJx0bSM3a0zTERgYOLqpxW2o8",
+         "plus_code" : {
+            "compound_code" : "XJJ8+RR Puchong, Selangor",
+            "global_code" : "6PJ3XJJ8+RR"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJx0bSM3a0zTERgYOLqpxW2o8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52
+      },
+      {
+         "formatted_address" : "7 & 9, Tesco Hypermarket, Jalan Bandar 3, Pusat Bandar Puchong, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.03485,
+               "lng" : 101.61568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.036120479892722,
+                  "lng" : 101.6172962798927
+               },
+               "southwest" : {
+                  "lat" : 3.033420820107278,
+                  "lng" : 101.6145966201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b8840434c468c4a9abae7ac16b2eb545c46cfa2",
+         "name" : "McDonald's Tesco Puchong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100765941304471817102/photos\"\u003eKF Yap\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUNt-2fq-HV8jhsm7M_r_Y--NLvACYzZjLgI1IID3wNVxL4Hu-5mNvvccuyBOveBCkLgBfkZ0MrHkSMYXgi-i7OlQUwXqyeNzkLTmSUX47qS2n8sGIwn7-wmt9ie1uGUJEhC_A3tqAw1B0qfnWRy4YvnpGhQcp4knoh73j_rU-_3x2Bhz_InPJQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBfpKqKpMzDERCSfqsSRlvf0",
+         "plus_code" : {
+            "compound_code" : "2JM8+W7 Puchong, Selangor",
+            "global_code" : "6PM32JM8+W7"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJBfpKqKpMzDERCSfqsSRlvf0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82
+      },
+      {
+         "formatted_address" : "Ioi Mall, EF13 - EF13A & EF13AA, First Floor, Puchong, Batu 9, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0449441,
+               "lng" : 101.6180882
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.046302479892722,
+                  "lng" : 101.6192411298927
+               },
+               "southwest" : {
+                  "lat" : 3.043602820107277,
+                  "lng" : 101.6165414701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8acc89e958b45d6b6d1fa092d464b0d66048bcc4",
+         "name" : "A&W @ IOI Mall Puchong",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103437435035760022812/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA53QW9fkt9aAX1iu5IN3xIFrkOAN0P9Db21X1mZD0SWR8TBz1I3VNUl0xLdnAnqlz9qBd2C5AJeEUIDCiiXeOXR36XNsEFvpVH36QD2cszZInYa7WODLU4qQBbuyRI0prEhCM3FwK968yoxyTbBIMKc8mGhTEcdano5qJZkmcBgJJ3-x41cDxCg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJY59uVFhLzDERNeRz0bLqRtE",
+         "plus_code" : {
+            "compound_code" : "2JV9+X6 Puchong, Selangor",
+            "global_code" : "6PM32JV9+X6"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJY59uVFhLzDERNeRz0bLqRtE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "7, Jalan Puteri 1/1, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.025863,
+               "lng" : 101.6181331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.027125429892722,
+                  "lng" : 101.6194643298927
+               },
+               "southwest" : {
+                  "lat" : 3.024425770107278,
+                  "lng" : 101.6167646701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "58c574cedd3235701826a42812f36b7d3aca0226",
+         "name" : "KFC Giant Bandar Puteri Puchong",
+         "place_id" : "ChIJ60q7Xai0zTERGwIv76Yl4io",
+         "plus_code" : {
+            "compound_code" : "2JG9+87 Puchong, Selangor",
+            "global_code" : "6PM32JG9+87"
+         },
+         "rating" : 1.8,
+         "reference" : "ChIJ60q7Xai0zTERGwIv76Yl4io",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "No. G-6, No. 1-6 & No. 2-6, Jalan Puteri 7/13A, Bandar Puteri, Puchong, Malaysia, Selangor, 47100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.020178,
+               "lng" : 101.625131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.021485229892722,
+                  "lng" : 101.6263043798927
+               },
+               "southwest" : {
+                  "lat" : 3.018785570107278,
+                  "lng" : 101.6236047201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7bd7d99483db98d2449308c3aec372289c3d8d12",
+         "name" : "McDonald's Bandar Puteri Puchong DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2764,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101851540589735091760/photos\"\u003eLee Lin Jun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArFNWZ6XS-Rp5PFd4c2Azz0F-0-JjND5hQTYqc7L2NKX4Ciet7mjvUKmxYXOMmnipi4YPeYIHjcblnilGy7f45NhzN0UgsDa-ZRVkvHr2yh3LWwtlnj3r9EK6hXyCq65ZEhB9J7SPULAbhr3rMC_hs8zFGhRODJ2fZGJ77UHwpBRVudFClkseWg",
+               "width" : 3690
+            }
+         ],
+         "place_id" : "ChIJ_0D-jqS0zTERydQv73jEq8M",
+         "plus_code" : {
+            "compound_code" : "2JCG+33 Puchong, Selangor",
+            "global_code" : "6PM32JCG+33"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ_0D-jqS0zTERydQv73jEq8M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1992
+      },
+      {
+         "formatted_address" : "Kuala Lumpur-Seremban Expy, Technology Park Malaysia, 57000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0566485,
+               "lng" : 101.704064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.057792329892722,
+                  "lng" : 101.7056993798927
+               },
+               "southwest" : {
+                  "lat" : 3.055092670107277,
+                  "lng" : 101.7029997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eba500e65b9243f366e5f038800383e840c3613c",
+         "name" : "McDonald's TPM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108243192665631705650/photos\"\u003eIntan Shafinas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7P6OX7COIeo99Cv5pn-jU1aXfTeEeO7RVE2lFVAeNJW-nEwSU0aAjt9-x0PRDQeBDWYzMyB8zmFrQCOA5wxJW6DLr5D5ceWymHydT-6Ry6OWjV3qjt7SG_q6hT4LRB9REhDKaMF7DoaAJuGqYbToCAKqGhSa4UpYM8xB0Z4-pBmkyt5ptbYo9g",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJfRt7Xp5KzDERYWnmwt-bF9s",
+         "plus_code" : {
+            "compound_code" : "3P43+MJ Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33P43+MJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJfRt7Xp5KzDERYWnmwt-bF9s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1871
+      },
+      {
+         "formatted_address" : "Puteri Point, 6, Jalan Puteri 2/2, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0241093,
+               "lng" : 101.615916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.025443229892722,
+                  "lng" : 101.6172624298927
+               },
+               "southwest" : {
+                  "lat" : 3.022743570107278,
+                  "lng" : 101.6145627701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc7aafb577d7f1d9615e8105ba8106efb971a239",
+         "name" : "Thai Fastfood Corner @ Strawberry",
+         "place_id" : "ChIJcSuB-Ke0zTERupBtR0p7uGs",
+         "plus_code" : {
+            "compound_code" : "2JF8+J9 Puchong, Selangor",
+            "global_code" : "6PM32JF8+J9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJcSuB-Ke0zTERupBtR0p7uGs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "G20 & G21, IOI Mall Puchong Jaya, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.04593,
+               "lng" : 101.618257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.047263529892723,
+                  "lng" : 101.6198111298927
+               },
+               "southwest" : {
+                  "lat" : 3.044563870107278,
+                  "lng" : 101.6171114701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8b562c1f9192af72241dd10d9f32337634e3603b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112257749421684589281/photos\"\u003eAyu Kia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIHK7eZyPflYLY--VnD7Gii4hbvcCw8663yVUfd0Gc4xR4n8th61Qq8E6puRk9hE2hi9FgoddKW9GYpAT9UHP7xnjGT6aN-zkDcT_qEsIGj2PK7AlC0DQWfuUybEQbssHEhAtFbaIEZVNPpq2ttK9fr-3GhQGlm2qdslQqFv8PS0CfHTHS4TTzQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ78xNrVlLzDEReKF1hKj2rKM",
+         "plus_code" : {
+            "compound_code" : "2JW9+98 Puchong, Selangor",
+            "global_code" : "6PM32JW9+98"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJ78xNrVlLzDEReKF1hKj2rKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "Ioi Mall, 23, Lebuhraya Damansara - Puchong, Bandar Puchong Jaya, 47100 Puchong, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.045187,
+               "lng" : 101.6179914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.046543029892722,
+                  "lng" : 101.6191979298927
+               },
+               "southwest" : {
+                  "lat" : 3.043843370107278,
+                  "lng" : 101.6164982701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c7dfc09d85b9ad5282fba02c6f5c31807ddb3ac",
+         "name" : "McDonald's @ IOI Mall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111399957721672139226/photos\"\u003etan tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_TqKiyEHTjCLME9GFhRF8hS24qoMX-m0ekkF0jGg4Ux60vQ59ZkBD2Lt-SOupmlbH2SW9B_jkOyiuP2QIxfTBRO_iXzycJBztrpkudWdlU-gToIa_ktt0lr4gPQ95dpKEhBIDInHkutUtBOd6G5vmP4AGhSMyVFjnu2LksuzSpe-5YRiP4492A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ78xNrVlLzDERTNmRXMzqqO0",
+         "plus_code" : {
+            "compound_code" : "2JW9+35 Puchong, Selangor",
+            "global_code" : "6PM32JW9+35"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ78xNrVlLzDERTNmRXMzqqO0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81
+      },
+      {
+         "formatted_address" : "SPMEZ9, No. 7, Jalan Puteri 1/1, Bandar Puteri, Selangor, 47100 Puchong, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.025838,
+               "lng" : 101.618157
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.027109929892723,
+                  "lng" : 101.6194902298927
+               },
+               "southwest" : {
+                  "lat" : 3.024410270107278,
+                  "lng" : 101.6167905701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "099e997d4a6fe915e9b17ebc9dc20f9e9a411250",
+         "name" : "Daily Fresh",
+         "place_id" : "ChIJg_mVXai0zTER7PdS2hArgtY",
+         "plus_code" : {
+            "compound_code" : "2JG9+87 Puchong, Selangor",
+            "global_code" : "6PM32JG9+87"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg_mVXai0zTER7PdS2hArgtY",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

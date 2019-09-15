@@ -1,0 +1,875 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEBgIAAPzS9d6we7KrIeL_ea3KPlLP8ujjIvNswSYYXtJkgXlMfLiqABFzCUVX4yD4xjs3XbCVXVZnwBGW_kxif4z3q3MOWk53QKHUu2kT0mExJNWo9JCvXYs5BOWjy-amYxGh6iPB1rT2nVLVWfj-X5n6mf9JQwlvB-iP3DtxhqV8EUfdHeHWPzgaya717k2SCrHr_LHAVojX3xM38SgzjzZEDaMkvD2iZboyIkV_BkDTHbFW5Ih6OMDZ6x8nz1Fgd-cyeR0cV078PCVnYUXp0F_yVjR5F_R-p6fzhUiazah_pHgYJWaWRIX82VFfE-lBHdnvcsle_m5YnXKTwcaq4RJ9JTxJOkYsLpzyzFzUPlCO5F4i0bUaVZXxmSxu6Lr5gwn85QlDQlPqzNstW78V1RS_OXq4j3fsrQYAHyPhOTTR8Cw3lIj8Kvipi32Q1QltwKIHV0q0lE-_UpLUVyZXVxwl6a_Tli5AZmlorPF61F2p2YuNbVlAi3Yn0iIWnCvVjfb3D5q6xqft5LGHLOf66J7XGaLnYbKhhm9G7x8MajkzCsEYByFNk7JZrSNPwiBQXzUjCEWbq3bKMzckqLyceOiOC_B15zeORCjaq9-w094-vDBgRYd5gbCjfd_-x5wVrEi5ee13Ul9whh-KD80UbmXJR1jV8ZTCRQ9l-mh--r5vqX9JQ8PQWWV_Wk63FcZcg17T1xIQS3kWfZQQgkfKD2XG0GVDOBoU_6KKULn_kvam_k7h-sd4gr1xtjk",
+   "results" : [
+      {
+         "formatted_address" : "Persiaran Bangi, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9618507,
+               "lng" : 101.7581069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.963273679892722,
+                  "lng" : 101.7594448298927
+               },
+               "southwest" : {
+                  "lat" : 2.960574020107278,
+                  "lng" : 101.7567451701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b69bb1a1e2742907b5a79ff60a2b69dba1d24204",
+         "name" : "McDonald's Bandar Baru Bangi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106592608349013038858/photos\"\u003eViknarajan Govindrajin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjUrYQzMzlIGO2L9_efzovyCI2ZVP08IFxa8QLwjUDPjVmxqNjYZg2x5CwPsil7CZptU3GwjDao870gQxZDJZcB8Pqw8QQhbbi24U_HvlR--JK6uNKR4yjp08VJgFGr_qEhCMk_O4_6jkh6jXaVNRsp23GhQO2lSrvCPUSrnWd8BKNiJjpUClQQ",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJH2jM1MTLzTERg47tVM6dwP8",
+         "plus_code" : {
+            "compound_code" : "XQ65+P6 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ65+P6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJH2jM1MTLzTERg47tVM6dwP8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3263
+      },
+      {
+         "formatted_address" : "Shell, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9576195,
+               "lng" : 101.7557989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.958971629892722,
+                  "lng" : 101.7571528298927
+               },
+               "southwest" : {
+                  "lat" : 2.956271970107277,
+                  "lng" : 101.7544531701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eaab4e16bd988bce3e03970a0847531a41f399fc",
+         "name" : "Fuel Shack@Shell Bangi 9",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2796,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102287663650625473487/photos\"\u003eKok Hoong Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQmnlDu8Bq233nfijNTrxPPUzIiHnbF0xj9u7x2crYg42n4ZMKUlodZSeyGTb0Ae-esrc_GxuIIa3W3sGh471c4kjynU5F-7jBRx3YObJ9usQxL7tduw708zxbBxspzHmEhChyZDo_LQ5HYJuCrkPBYnXGhSADD1JVcyrI0HWne7aOApAwuJJfg",
+               "width" : 2356
+            }
+         ],
+         "place_id" : "ChIJv6MDW9TLzTERq1HHcyMOWuQ",
+         "plus_code" : {
+            "compound_code" : "XQ54+28 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ54+28"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJv6MDW9TLzTERq1HHcyMOWuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "Lot G-5, G-6 & G-7, Block A, Bangi Gateway Shopping Complex, Section 15, 43650 Bandar Baru Bangi, Selangor Darul Ehsan, 43650 Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.933576,
+               "lng" : 101.765164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.934998129892723,
+                  "lng" : 101.7665011298927
+               },
+               "southwest" : {
+                  "lat" : 2.932298470107278,
+                  "lng" : 101.7638014701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6887d3baa1ecd3ee569bf0af58e03184c59e5270",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105888700659631789656/photos\"\u003ealif fitri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0KD6RsYohgjnmE35ctuZyDizPWW15g0aN42YWFIUPz-YroMU1hLHjV7yIW4DG1_GQHPEs03dMebPGJJASmHRULEiZCkAyitfz--Al5RRsz67hrj-4rHudY6WWmxPLDAnEhCpQlkeu3pZgek-ZuI3-FlgGhQvRuyg0E1Rc5UYSes4TPseUY8H7Q",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJGRsYmBLJzTER-6kOebDNN4A",
+         "plus_code" : {
+            "compound_code" : "WQM8+C3 Bangi, Selangor",
+            "global_code" : "6PJ3WQM8+C3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJGRsYmBLJzTER-6kOebDNN4A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 215
+      },
+      {
+         "formatted_address" : "Restoran Mak Teh Corner, Jalan 4/11a, Seksyen 4 Bandar Baru Bangi, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.964737,
+               "lng" : 101.781538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.966016229892722,
+                  "lng" : 101.7828855798927
+               },
+               "southwest" : {
+                  "lat" : 2.963316570107278,
+                  "lng" : 101.7801859201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9edbd011f5c149bd95cdd5489defffa1f8c0f5f2",
+         "name" : "MR Junior Bangi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113756034010928947287/photos\"\u003eMR Junior Bangi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1LkP8PgpMMT0ECWTTFmRLJjISr_whdeT1UcS8Pcpz6Ex4TYIyMrX7QUimc06SnNoe31NjYO-DpTysEVKlea20UYEF-r8AWo_gp36j26cMNgbI2CyAGaUICEgUIwtZsi5EhB8qX4h7clmWXfP4lM0WcoAGhT2PkFdIUAtoJTqOmc0bDxlogMdNw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJiwdmT-_LzTERageVuJPJk6o",
+         "plus_code" : {
+            "compound_code" : "XQ7J+VJ Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ7J+VJ"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJiwdmT-_LzTERageVuJPJk6o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Bangi Government and Private Training Centre Area, 43000 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9799497,
+               "lng" : 101.7377091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.981329429892722,
+                  "lng" : 101.7390504798927
+               },
+               "southwest" : {
+                  "lat" : 2.978629770107277,
+                  "lng" : 101.7363508201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f0b5dbe76a4ba46c3838f37d1dca6e975f7b6225",
+         "name" : "Jepon Burger Cinta Kita",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117859664255296816423/photos\"\u003ehafiz ariff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALSs_0Qr_oWMMJuGRTSJaWhZneaRsiBuZrewIEzN7qOuDUQTcD26tgHd-MAZAOFoqmhkwO_QDoAtZRZQiVHnaEMfhGUTi_PwIc-tR8WMe1FKsY175hI7331QW4qLj2uEyEhBawql4PHXhdsTWo9LdyjoxGhTahJ-xJHNhTD6Yro3Vs3G1PQwoHA",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJDRh1NETKzTERPJeYJuuj9BA",
+         "plus_code" : {
+            "compound_code" : "XPHQ+X3 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XPHQ+X3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJDRh1NETKzTERPJeYJuuj9BA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "No 18GF jalan 15/1F seksyen 15, Bandar Baru Bangi, 43650 Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9337121,
+               "lng" : 101.7688442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.935021129892722,
+                  "lng" : 101.7702180298927
+               },
+               "southwest" : {
+                  "lat" : 2.932321470107278,
+                  "lng" : 101.7675183701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0a8490590bb8c21db12402f15b196f03a86eb648",
+         "name" : "Nasi kak wook seksyen 15",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 567,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115555131956487269534/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8UrRrl5k5lGNVCJCiiqw7pssZnAt67BcaucrIo6N3CSiZmkV-u_Q05vxbd-Nefb6VGFjzvEgI9znLagWVw06Oz2fU5qUxlArA8q-MYe_bzB4DmfSlC7zmJnqSmHyUiDEEhBSFbjAHpDV2v5OImZ8nYTaGhQtdSizPr03L6dSs3go41SHMgdNRg",
+               "width" : 1008
+            }
+         ],
+         "place_id" : "ChIJiVuiXBPJzTERAp9aB8Kc2JA",
+         "plus_code" : {
+            "compound_code" : "WQM9+FG Bangi, Selangor",
+            "global_code" : "6PJ3WQM9+FG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJiVuiXBPJzTERAp9aB8Kc2JA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46
+      },
+      {
+         "formatted_address" : "Lot G.01, Ground Floor Evo Mall, Seksyen 9, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9622681,
+               "lng" : 101.7551963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.963585179892723,
+                  "lng" : 101.7565270298927
+               },
+               "southwest" : {
+                  "lat" : 2.960885520107278,
+                  "lng" : 101.7538273701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f072096278418b1113c535fc8223ce40d0af143",
+         "name" : "A&W, EVO Mall",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112289062476827073140/photos\"\u003eDaanish Farhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjja2Xejh4MKAHEy_uG5IFTIphd_2pl8RI0h0pGP0Cxr1351V8wAoLjpoNBop8-OJsAXl8LyVmaiCXmZOASU4rF_ifdJBHIfASF-qKGrAq2PMCAiS0PeuWjgP1kM-Kt0LEhCUjReeJd1896X1mdFFXVEUGhRP9ZYJjnUwVI3LJzEfzt6Usswwvg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8dA5l8fLzTERAX_SiZP_JP4",
+         "plus_code" : {
+            "compound_code" : "XQ64+W3 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ64+W3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ8dA5l8fLzTERAX_SiZP_JP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35
+      },
+      {
+         "formatted_address" : "Seksyen 7, 43000 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9690675,
+               "lng" : 101.7728354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.970404529892722,
+                  "lng" : 101.7741412798927
+               },
+               "southwest" : {
+                  "lat" : 2.967704870107278,
+                  "lng" : 101.7714416201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "23c55f51f1b85cf482f271392f7bf17b7bf807a9",
+         "name" : "Ayam Goreng Cheese Leleh",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 912,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106210748427064405451/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVd6CD469sjmDnnEBq95OPur15NDn1p20ZjR5weBdH4hrhVdwilJqHjTzeDvli8m5F7TYKz7SKnd4qnpbdc21BRenVpgckZzVRKde_uJau4jE91oOkFiGhUk6AMb-S6xnEhA81jWtC2dela8rj8BfdHRDGhQLL2gZvZ0cO0SD5bYUaGOuIpy8fA",
+               "width" : 684
+            }
+         ],
+         "place_id" : "ChIJSxWUSAbLzTER8A8VwPFEm6s",
+         "plus_code" : {
+            "compound_code" : "XQ9F+J4 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ9F+J4"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSxWUSAbLzTER8A8VwPFEm6s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "LG3 & LG5, De Centrum Complex, Taman Uniparks Suria, Jalan Ikram-Uniten, 43000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9796537,
+               "lng" : 101.7387652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.981216779892722,
+                  "lng" : 101.7402942298927
+               },
+               "southwest" : {
+                  "lat" : 2.978517120107278,
+                  "lng" : 101.7375945701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ac1291f1aea58a9f23279f82370119db5f8336d0",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113009633201629853585/photos\"\u003eChai Ling\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz2v-7S9NUCIivtQHbNaJzKy2HKd7zHTL7dKPRlEOGgV3tEbK2kHHproGYFgBBdg3JM61NqD00hyHQk5Aj9rBL5Ocnh4geUVr_TeMirdyXcLhMFRuJ_iAweBHg5sxjh9tEhBKrUi4AAV7KAEcJT6IqGOLGhT-pqhaS9wohUJrpmuT9PyUcaXHvw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJr7f5yEXKzTERGyu3oV3CGnU",
+         "plus_code" : {
+            "compound_code" : "XPHQ+VG Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XPHQ+VG"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJr7f5yEXKzTERGyu3oV3CGnU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "Lot 437, Jalan Reko, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9474596,
+               "lng" : 101.7861853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.948749679892723,
+                  "lng" : 101.7876674798927
+               },
+               "southwest" : {
+                  "lat" : 2.946050020107278,
+                  "lng" : 101.7849678201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a0894a0254d543389d74d90cf6f7ecbcc7db528",
+         "name" : "Keropok Lekor Terengganu Original",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104803311548214237374/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxEPbg_fT0i0EPSUUMCdMKo9_Yz-WEf-9KTXcNEhnAzrmNmq4u2070-xUcL9cLKaW5l6armgkAyrSPYyU7bOqhgTFn-DVqFRIXYgrCZ6NGYNHwHawjwAfLYMmIffz-aA5EhCX19hDZxExgoo9DZ6UCaN_GhSOiMidyQRSyFNlmftsmM4BjzbSWg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJBSThdlrJzTEROE_KQLheJxA",
+         "plus_code" : {
+            "compound_code" : "WQWP+XF Kajang, Selangor",
+            "global_code" : "6PJ3WQWP+XF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJBSThdlrJzTEROE_KQLheJxA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Jalan Sungai Ramal Dalam, Kampung Sungai Ramal Dalam, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9777714,
+               "lng" : 101.7576993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.979121479892722,
+                  "lng" : 101.7591001798927
+               },
+               "southwest" : {
+                  "lat" : 2.976421820107277,
+                  "lng" : 101.7564005201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "58d9c489c4a13e417c1621a012b82a24ef276eba",
+         "name" : "GPC Sungai Ramal Dalam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 963,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105435033912432346350/photos\"\u003eAsri Rafie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXNPnNY8ycCzTIDUVI6OqPDOrDpSmq0Jw4Bb-0RBR42Ua9kTO7N4A7Ol5za9E3GnbLYeGYBfHFj60aX5a4DRdXXTdXh0A9P7FJrwqa_RsugJHwnXnec7QL4luMlagbK_6EhDV1ZCik1d8pGXpPIiLlE83GhRGKsHFCZpdOR2zg18oSgNCdnDd2w",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJR5rRGLTLzTERIwdxpcfJpwo",
+         "plus_code" : {
+            "compound_code" : "XQH5+43 Kajang, Selangor",
+            "global_code" : "6PJ3XQH5+43"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJR5rRGLTLzTERIwdxpcfJpwo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "A-0-9, Jalan Metro Avenue 1, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9924643,
+               "lng" : 101.7923417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.993847879892723,
+                  "lng" : 101.7936993798927
+               },
+               "southwest" : {
+                  "lat" : 2.991148220107278,
+                  "lng" : 101.7909997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7d21721588b76799cd3eb5042d540baea06105c",
+         "name" : "Restoran A&W Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117456885525372652286/photos\"\u003eMuhammad Yusry Bin Yasdy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF8d8ox3neNhR8dpZ6fR5YjB2ylCdqiupIPmjSBdwOypDAHQKcNv9UTIyXrKVYDRXibToxfA4eDQJ6-qfHeOf7yGI0A1VoLN1iys3URVWGRATTClSP6zGMZNYASGoEgMkEhCKFqLMpF4fsw6s_Zlg-POvGhRB8GXv3SQiv-lalg3_YY-Ju1Ncqg",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "plus_code" : {
+            "compound_code" : "XQRR+XW Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+XW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 319
+      },
+      {
+         "formatted_address" : "No 18 & 20, Jalan Sulaiman, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.991412,
+               "lng" : 101.7886476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992900179892722,
+                  "lng" : 101.7900120798927
+               },
+               "southwest" : {
+                  "lat" : 2.990200520107277,
+                  "lng" : 101.7873124201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1bb83c72f5dac42ff8dbeb8e4c2b671e6a8a545",
+         "name" : "KFC Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104143088988835594026/photos\"\u003eAhmad Fahmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF8DjpQ83sSgB4uAFdyXl90vxlELtQ3gj0k6QhD1_ZpnY2-T0VQzK4s-0S-c_W5QV9vJo1GQYR4PICs6KtIiD8cbbvUxZTeqPCKij2v1YbeAX1tAePoixbI3h07hr8tJ0EhCa3OM88oyR9y3HWp4p3D5oGhR805uUx2C-RqJt-qk30EHp29HSuw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "plus_code" : {
+            "compound_code" : "XQRQ+HF Kajang, Selangor",
+            "global_code" : "6PJ3XQRQ+HF"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 322
+      },
+      {
+         "formatted_address" : "30, Jalan Tun Abdul Aziz, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.991344,
+               "lng" : 101.7912899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992689379892723,
+                  "lng" : 101.7926449798927
+               },
+               "southwest" : {
+                  "lat" : 2.989989720107278,
+                  "lng" : 101.7899453201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "550fdf6c15273baf7b3a02e57139dd3c44c73334",
+         "name" : "Texas Chicken Kajang",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100961147038729536657/photos\"\u003eKhadiaq Zainol\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADr-O9fc8G1DZCT5m-ZF5cGL_hGN4GX2qKzvQ5TPf9zm8qReKWGhAVYgOxpD8aRT917kDLkF2Mze4bHJVr8C1ekXLNUxx7f--q18OIzVT9AUcmYWq_SgvbveM4saVeFXSEhBB1nSrTRO2oiTFapgx3uU0GhQ5a-BEh7LZdFoBe1Ys1_kVEMEcFA",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJPTzxOYLLzTERdYE6gukRciY",
+         "plus_code" : {
+            "compound_code" : "XQRR+GG Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+GG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJPTzxOYLLzTERdYE6gukRciY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 719
+      },
+      {
+         "formatted_address" : "Lot 20, Ground Floor Komplek PKNS Bangi, Bandar Baru Bangi, 43650 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.961891,
+               "lng" : 101.756988
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.963234479892722,
+                  "lng" : 101.7585666798927
+               },
+               "southwest" : {
+                  "lat" : 2.960534820107278,
+                  "lng" : 101.7558670201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f04d2878bd221ad28c0b66a8cf841db2ed40ec68",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115102665909423425436/photos\"\u003eShafina M.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGvl1xraWSDLpKf-PWSI6RhwGu7UvxQP45GTDyNGZE6HyOZ3zXPqtTnGOc6H76ip_oothwtVJ4y-eSnQzdJGqW8ngcx2k2lm-9WBZfDgCgGFBl0bqyutI_c8aTzFCTlneEhARDNKNuGYSsgVnp2WT1rngGhTMB2cEfm-Zf7ntJbEP8MpQWFM5hA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJC1i1S9LLzTERiByCcZJlUrY",
+         "plus_code" : {
+            "compound_code" : "XQ64+QQ Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ64+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJC1i1S9LLzTERiByCcZJlUrY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "PTD 68518, Persiaran Bangi, Bandar Baru Bangi, Malaysia, Selangor, 43650 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.96183,
+               "lng" : 101.7581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.963102179892722,
+                  "lng" : 101.7594464798927
+               },
+               "southwest" : {
+                  "lat" : 2.960402520107277,
+                  "lng" : 101.7567468201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da4a0525483f1a025ae68119f2eeae41d61a4e60",
+         "name" : "McDonald's Bandar Baru Bangi DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJtSFHnmvLzTERVNCrd7CYK_8",
+         "plus_code" : {
+            "compound_code" : "XQ65+P6 Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ65+P6"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJtSFHnmvLzTERVNCrd7CYK_8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan 4/11g, Seksyen 4 Tambahan Bandar Baru Bangi, 43650 Bandar Baru Bangi, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9651333,
+               "lng" : 101.779864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.966482479892722,
+                  "lng" : 101.7811930298927
+               },
+               "southwest" : {
+                  "lat" : 2.963782820107277,
+                  "lng" : 101.7784933701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4e05e78fe97c43684a563465e5b52864e8627e8d",
+         "name" : "Paksu Ayam Golek Food Truck Seksyen 4 Tambahan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103332241762785198693/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKCKzw6GEWsCOWrRr-7VUHlud4s1OfmX2Qqe1NRJ2g-Wn3qeE52FRz4c_ezSiJQrBYMjIRhe9xH5vPM4Xz7MzXRm1omrKIv8c4qlLNAamwBHm37gWxuPraQlaT-SAyM4xEhBkgs6sfFsJZxfTSzebkzgqGhQmL9XMSmQVPDc6wpivJEr44bmhfw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJu82kNiHLzTERE8N2c67e2Iw",
+         "plus_code" : {
+            "compound_code" : "XQ8H+3W Bandar Baru Bangi, Selangor",
+            "global_code" : "6PJ3XQ8H+3W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJu82kNiHLzTERE8N2c67e2Iw",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Jalan Semenyih, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9913532,
+               "lng" : 101.7947371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992762979892722,
+                  "lng" : 101.7960989298927
+               },
+               "southwest" : {
+                  "lat" : 2.990063320107277,
+                  "lng" : 101.7933992701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "237b60be0fe2cfb7438103540adacb0827411f8f",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105438027668747617792/photos\"\u003eAiley\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2xN8u3IQZQTtcJOgCak-vaubv8umz6Z7dLwsbMg7rLSscj12W18S8VAR7hJJfKMdpXG-oJQui9-Ja4pHCopvUKC4hPy-9cvRgHy58uQ8vU6IEXfFLfT5fAv4UspQ0nqsEhDzDvgF8blQ1lg7tnahXn9fGhRdJACA4WWHS33o6NSjX7AZn9fy2A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJrQLyrYHLzTERKUoCg12H-QI",
+         "plus_code" : {
+            "compound_code" : "XQRV+GV Kajang, Selangor",
+            "global_code" : "6PJ3XQRV+GV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJrQLyrYHLzTERKUoCg12H-QI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 949
+      },
+      {
+         "formatted_address" : "No 28 Jalan P 2/8 Bandar Teknologi, Seksyen 2 Bandar Baru Bangi, 43500 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9653408,
+               "lng" : 101.8252366
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.966695879892722,
+                  "lng" : 101.8265827798927
+               },
+               "southwest" : {
+                  "lat" : 2.963996220107278,
+                  "lng" : 101.8238831201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de248d862ef6483191294ef24f799b04ce3eef0b",
+         "name" : "Famouss Fried Chicken Ayam Gunting KL",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 453,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108929672574297617523/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALY5ZJ-VHgF6JjmqTEowqBZzPTnfiB4sqam0LrSmFKA3MDZuJg8iiTjxgQcnPYxrcV6EqJcK-Ur7FvBL_unXex2toSrRcO_ITqjGBAUkKGhyfegGySXjPywG84SiYu0RlEhBwtuwuDNN1B2dT8DiBcLn9GhRY-scCZ3IyFQnbTq5oRrDfKyXvpw",
+               "width" : 805
+            }
+         ],
+         "place_id" : "ChIJrW6NqG_NzTERuLNDBnAw9R8",
+         "plus_code" : {
+            "compound_code" : "XR8G+43 Kajang, Selangor",
+            "global_code" : "6PJ3XR8G+43"
+         },
+         "rating" : 5,
+         "reference" : "ChIJrW6NqG_NzTERuLNDBnAw9R8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "No. 4, Jalan Kajang Indah, Taman Kajang Indah, Selangor, 43000 Kajang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.982845,
+               "lng" : 101.779406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.984129079892722,
+                  "lng" : 101.7807712298927
+               },
+               "southwest" : {
+                  "lat" : 2.981429420107278,
+                  "lng" : 101.7780715701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f05122ddacb3b55a86e343610bc9aac89459c79f",
+         "name" : "Wuchardo",
+         "place_id" : "ChIJD-YiaJfLzTERTRVH2EfATUM",
+         "plus_code" : {
+            "compound_code" : "XQMH+4Q Kajang, Selangor",
+            "global_code" : "6PJ3XQMH+4Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD-YiaJfLzTERTRVH2EfATUM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

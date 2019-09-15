@@ -1,0 +1,904 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAALZ_miOydPEHDJnM6dpQQBMor7McP5CnVBdbl3kmYS1Qdl68mOMZ6pVOmTEuvHhqMECvTBJMjTSyJ2J7iOId0-VV_wAm1vGIjpki1ppXg_3f6iKQet34sekTNbyIm6EDgmsDM7JHvKSDJcmW3ywBLjLRZA3cBbkiG6eUT9xXfbwT19bd13Jk42k1J3o5p-AEzRsM0ViaXFVm-BaeSDDIjfIYArPywK5si-7SSABw16K8_meE--s23kewgmMuQMfDLcKFMB9xc0-2rT7tfC_EomTvM28kjkiN-uW_av1myqVrkuC6PK6_PvP69OPriK4OCxYEuSIze43O2VzBR-6SnUkJ4LI8_YR4Nnb4RIut2pBzQuzA8yyyIaXlQYBP_zYcNYrrzeiWkJJSJN1Nti1VaynBZQSo3kiMIgWAOzhnf14l0RbHMNyk6VhNHSoU_O6sfWHsHCmlEV6bzdiHfbRdjp0UOVW9mTIiK_6S1LJWnYL-6Ughid6zEcF4VCZ5by_202P-M5riIfwxVlKMqUYlQXTy8EQwhurWaBAysjfdO8-_H78li9kvzNBw6RmwR7_sEhCv5bVvABEzdLVmPc506feUm52Y82V18ART94tgxmueD9MR3N2l-GmlsS4QN_7bO97UkweuvkTYwnfMOeV_DP9JBkavzS_QTNJ_vlT9NAm7EhCx7ZfdraJAv4rXdYa0Z3B6GhS4fj5IO1Q-RnowGTMX7n9HBtHR7Q",
+   "results" : [
+      {
+         "formatted_address" : "No 18 & 20, Jalan Sulaiman, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.991412,
+               "lng" : 101.7886476
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992900179892722,
+                  "lng" : 101.7900120798927
+               },
+               "southwest" : {
+                  "lat" : 2.990200520107277,
+                  "lng" : 101.7873124201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1bb83c72f5dac42ff8dbeb8e4c2b671e6a8a545",
+         "name" : "KFC Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104143088988835594026/photos\"\u003eAhmad Fahmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxgiBExEGoqtyOLqj8sKED6UwarSsm5ij9R2i03zbvEr-i8Tag1yl21GA0JKuEwEFjpEtR30zFveyZt4xvIjwFfSBIF7jKkdvNOM0Glq4u7zzg606U6fAqxOnr39ZiFLFEhDw7ZGtSzT4KuI8DGlNonxRGhTL7vY_kDOk067VLLH2ayTnEvrUFQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "plus_code" : {
+            "compound_code" : "XQRQ+HF Kajang, Selangor",
+            "global_code" : "6PJ3XQRQ+HF"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJnc5dkILLzTEReDIsqnqGZTY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 324
+      },
+      {
+         "formatted_address" : "A-0-9, Jalan Metro Avenue 1, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9924643,
+               "lng" : 101.7923417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.993847879892723,
+                  "lng" : 101.7936993798927
+               },
+               "southwest" : {
+                  "lat" : 2.991148220107278,
+                  "lng" : 101.7909997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7d21721588b76799cd3eb5042d540baea06105c",
+         "name" : "Restoran A&W Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117456885525372652286/photos\"\u003eMuhammad Yusry Bin Yasdy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq0yQy2rq3J4ONbS0ETw-x8PqP56bjjvHs1Pi2AAXkNyMlgKlEE4A3znZ4iIsFNKA9rHYNfLOUfzk_rD5HznYW-MFCEsOkADoxJra1qnsrJvK3lSd-SXhrxdOv_14y2BGEhA58a6d6nuy-erYX8aD8XmyGhQ9x79ZvliGrdGWMW-Z_06ySOPdJQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "plus_code" : {
+            "compound_code" : "XQRR+XW Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+XW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_9PY94HLzTERsxv8cpcpSiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 320
+      },
+      {
+         "formatted_address" : "Lot PT 52317, Prima Saujana, Kajang, Kajang, Malaysia, Selangor, 43000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.007582,
+               "lng" : 101.804373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.008966179892722,
+                  "lng" : 101.8056736298927
+               },
+               "southwest" : {
+                  "lat" : 3.006266520107277,
+                  "lng" : 101.8029739701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0164c3e3affe61759f27d43378745a32ab0c5ffd",
+         "name" : "McDonald's Prima Saujana Kajang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110210738622153884376/photos\"\u003eTeepa Ganes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxXAF2uqy5oGP-bCA6fMpAF8sm7ju-_x_aGnwPEuTPdjXgjMfjfs_j41jyEQMhUIU91pDs2d_aai_BFHLqdsuJw7hLNbd9s_k1lyBhOD3tnHMS1jL_xJm2W__dknneCyXEhBlTc1rZTmectcKkvsj9BqqGhTeS5YJ2sxmsFWYN9_cd94U_JrTDg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJA18F_pvMzTERM19d58QAQcg",
+         "plus_code" : {
+            "compound_code" : "2R53+2P Kajang, Selangor",
+            "global_code" : "6PM32R53+2P"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJA18F_pvMzTERM19d58QAQcg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1411
+      },
+      {
+         "formatted_address" : "30, Jalan Tun Abdul Aziz, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.991344,
+               "lng" : 101.7912899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992689379892723,
+                  "lng" : 101.7926449798927
+               },
+               "southwest" : {
+                  "lat" : 2.989989720107278,
+                  "lng" : 101.7899453201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "550fdf6c15273baf7b3a02e57139dd3c44c73334",
+         "name" : "Texas Chicken Kajang",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100961147038729536657/photos\"\u003eKhadiaq Zainol\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWGEglYOCQZDUTqalFU80tkpj846NJmHTZ6I7GE4OLhdn_iN66chW9usNPsxosqJtYp_ki_LrKYB-8v9q8tMQaLJO3kD9580W0iuYL0H_n3QOZdIH8Z4TMEIQkPc2aItXEhBbgwpVTRowzVoIXnZqQl10GhQvNNJFw7fU3QomiuBfDu6jLgtIsA",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJPTzxOYLLzTERdYE6gukRciY",
+         "plus_code" : {
+            "compound_code" : "XQRR+GG Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+GG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJPTzxOYLLzTERdYE6gukRciY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 720
+      },
+      {
+         "formatted_address" : "Jalan PJU 1a/3, Damansara Lagenda, 47301 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1232587,
+               "lng" : 101.5937248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.124596729892722,
+                  "lng" : 101.5951179298927
+               },
+               "southwest" : {
+                  "lat" : 3.121897070107278,
+                  "lng" : 101.5924182701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cc89cf564828b7a8223f8422ba28ee75ec4dbd39",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116822401878681793596/photos\"\u003eLee Wai Seng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9iMYm9vhGgmEytgNSQ-BeGavfwZ-8ST6tbL-moHI8zXQceqVbe_d-IooOlrraolay_3ZOicp-Pa3fBFH43vkwWM9HWF9l6H64oRjgOzI_I_rNJ5L3CSfI0AZNX6m0CnkEhAvPiT91-m-sxpFG7TFqugRGhTJbwgd0mcfGDKxtsIpHdGDSTQWMQ",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJ7RPQ371OzDERxcjyo-FqBb0",
+         "plus_code" : {
+            "compound_code" : "4HFV+8F Petaling Jaya, Selangor",
+            "global_code" : "6PM34HFV+8F"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ7RPQ371OzDERxcjyo-FqBb0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188
+      },
+      {
+         "formatted_address" : "20, Jalan Tengah, Pj New Town, 46200 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0988535,
+               "lng" : 101.6444778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.100211229892722,
+                  "lng" : 101.6458726798927
+               },
+               "southwest" : {
+                  "lat" : 3.097511570107278,
+                  "lng" : 101.6431730201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "84db2a8b1b7fb69126b1d55777a4035895135f69",
+         "name" : "Texas Chicken PJ New Town",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110043167476784440386/photos\"\u003eS. M. Chew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMCKbMEHPmyxKL_TZL8UtoPYYUeMgeSgBI14nKIyiEZIHehATbzr6I-6d-VqJTPhZzJqsWHgcUrX9VYZJcLti92O2stOc6e5Og9ELvKbCDANPocTotn0jDRdKrAwUt-N0EhDOk2uZhsxMH1uLb0xNB6dsGhRjFNUou44pA92jwOPq5mu5VGwp9w",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJQ8q6DsRLzDERd8vsnvhSnhs",
+         "plus_code" : {
+            "compound_code" : "3JXV+GQ Petaling Jaya, Selangor",
+            "global_code" : "6PM33JXV+GQ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJQ8q6DsRLzDERd8vsnvhSnhs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 374
+      },
+      {
+         "formatted_address" : "18, Mukim Semenyih, Daerah Ulu Langat, Kajang, Malaysia, Selangor, 43000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.989844,
+               "lng" : 101.819599
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.991156329892723,
+                  "lng" : 101.8209945298927
+               },
+               "southwest" : {
+                  "lat" : 2.988456670107278,
+                  "lng" : 101.8182948701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fbed772aae0846f2147267c7eae6cef86c59c2e8",
+         "name" : "McDonald's Kajang Perdana DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105565292539806408994/photos\"\u003eAfzalsukasuki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPTNQA5M6tLwb92ro_m9roqwqKj1qckjDU_UVzFFMfAgmGoqrpVPQCYCRU1vK9N5dbYf_-SQ5r9ijbc1wtYnRNvpkamecjjXttvmJPSpPQWlKHqcUlHGfn9kAxuX_T3e7EhCsZ4FP2_l-znTrHRlVFqHhGhQ0Ndqk3ICqT0v2Fay9xykAVdIdfA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ4xgkjGDMzTERi5A1FGI6Z8w",
+         "plus_code" : {
+            "compound_code" : "XRQ9+WR Kajang, Selangor",
+            "global_code" : "6PJ3XRQ9+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ4xgkjGDMzTERi5A1FGI6Z8w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1623
+      },
+      {
+         "formatted_address" : "Lot P.T 35855, Jalan Semenyih, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9913516,
+               "lng" : 101.7947516
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992760779892722,
+                  "lng" : 101.7961133298927
+               },
+               "southwest" : {
+                  "lat" : 2.990061120107278,
+                  "lng" : 101.7934136701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0c96c80e186cb380f9cd39d94c6d46da73b2e735",
+         "name" : "KFC Kajang Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108015571836439663282/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxJvU5fN_7gJM0qGj-L2EtjZdsRhPsfes6jAPTRW7g1lZBBk7aEI0NWQpqeqR8MbhvXCtq66IFjcrnZGtemPJPaMOs5ZxDbF4rEIoGF4rEg-3Xu0Vuv-QbVP3AjnuGR1_EhDTuODwG7WDo8RZMx0c-AWzGhQ2lgraPkA7dMitwN0AWVhWfDT_gA",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJsxQKyULOzTERjDBkoc-aw6Y",
+         "plus_code" : {
+            "compound_code" : "XQRV+GW Kajang, Selangor",
+            "global_code" : "6PJ3XQRV+GW"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJsxQKyULOzTERjDBkoc-aw6Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 573
+      },
+      {
+         "formatted_address" : "No 9, Lorong Sultan, Pjs 52, 46000 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1034955,
+               "lng" : 101.6460672
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.104842979892722,
+                  "lng" : 101.6472628298927
+               },
+               "southwest" : {
+                  "lat" : 3.102143320107277,
+                  "lng" : 101.6445631701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24508d610cbb48243ea95fcbc3c8aeb5affae76a",
+         "name" : "A&W Petaling Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105280978122733209829/photos\"\u003eMan Keong Oh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtfT6KCVhT274KYPxoa9CHCX07XCpkQi3arErk0plcTRoFGvY7zIJ93gyQHAHatdI7CnZxkvtnx-hvcfMayT_dT3pH25vSs3IgHKQJQCeP8IRdjH71fK_j6LWJlvEUq5lEhAJzaRvjZ3QjLkBi9lb39-cGhSKDgRCEsXi7CHMwvABvx-lJre04A",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJg4oROttLzDER4vbge4OfxXE",
+         "plus_code" : {
+            "compound_code" : "4J3W+9C Petaling Jaya, Selangor",
+            "global_code" : "6PM34J3W+9C"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJg4oROttLzDER4vbge4OfxXE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1789
+      },
+      {
+         "formatted_address" : "No. 1, Units E104-E105, Jalan SS 6/2, Kelana Jaya, Petaling Jaya, Malaysia, Selangor, 47301 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.101032,
+               "lng" : 101.598652
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.102438029892722,
+                  "lng" : 101.5999977298927
+               },
+               "southwest" : {
+                  "lat" : 3.099738370107278,
+                  "lng" : 101.5972980701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "795177729cd9ed3c132602b71afb70d38bb486e1",
+         "name" : "McDonald's Kelana Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100149121597783088660/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAehPvK2_Xbc7LwF3dQoMl2xDqwit7u2OiBpdAmQcbBMmenwBl-GwSacMOoM5YZDN7pumTziE4W2tYaYzJ4axfYm_shcJH7WuidvuqEp2kJaJ-nDdTmgT_rRtIIMWwFqplEhBFyZULpHRzXm-q4JAf5CCJGhSb7t9W-EAONk71TxRfdT4JBQg8FA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ2ZG91BBMzDERkVI3GmVu4lk",
+         "plus_code" : {
+            "compound_code" : "4H2X+CF Petaling Jaya, Selangor",
+            "global_code" : "6PM34H2X+CF"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ2ZG91BBMzDERkVI3GmVu4lk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 927
+      },
+      {
+         "formatted_address" : "47301 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1094431,
+               "lng" : 101.5860339
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.110737679892722,
+                  "lng" : 101.5873652798927
+               },
+               "southwest" : {
+                  "lat" : 3.108038020107278,
+                  "lng" : 101.5846656201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "34924b4cf696268848e47afb78c72d1ce8af5402",
+         "name" : "Texas Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106654427506402412208/photos\"\u003eAmir Sohel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoMHAbcM9Na3Ltofq4vgy8rl6_WdvX9hw1aN249cQkVjCAhA1TLHwQkM-271Fem2wuG9fhAn_MudqPTGyHsp45op4dfvNpwjd99P5UMsuhg3ft7_P0Urj11-GDn78hZjJEhAGO-KgCAMALaP17qd2FkTiGhT1eMzUqT9Q1biNse8i23PtwPccrA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJZYD1wCZMzDERA9qIz2JOyb4",
+         "plus_code" : {
+            "compound_code" : "4H5P+QC Petaling Jaya, Selangor",
+            "global_code" : "6PM34H5P+QC"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJZYD1wCZMzDERA9qIz2JOyb4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 225
+      },
+      {
+         "formatted_address" : "No.66, Block Crystal, Jalan 1/19, Petaling Jaya, Malaysia, Selangor, 46200 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.086731,
+               "lng" : 101.646972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.088082229892722,
+                  "lng" : 101.6483064298927
+               },
+               "southwest" : {
+                  "lat" : 3.085382570107277,
+                  "lng" : 101.6456067701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af9b4a743f186d37d880033da754c9e8245a0491",
+         "name" : "McDonald's PJ Old Town",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100119030512710198954/photos\"\u003eek tong tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARvc66Yod5QXs2udb3XAhOdLR4zc2UqsqrXYbDDTn-XVoUyKQKZe7PgB8Q0T5dpC25vJ4iyQR4jLh_cg0bWLmGlvr3rHWJ-ZwcIH3CrRiA59CnX0smpYbMBErkeHaJVTjEhCyU4oJ21-nzxLNdLdl9OCQGhS5zG1r1kDvKWPF0EWDoAdYJmkPHQ",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJIRlStLtLzDERrxOYVbiQerA",
+         "plus_code" : {
+            "compound_code" : "3JPW+MQ Petaling Jaya, Selangor",
+            "global_code" : "6PM33JPW+MQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJIRlStLtLzDERrxOYVbiQerA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 884
+      },
+      {
+         "formatted_address" : "5, Jalan Barat, Seksyen 8 Petaling Jaya, 46050 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1008311,
+               "lng" : 101.6413102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.102206329892722,
+                  "lng" : 101.6426800298927
+               },
+               "southwest" : {
+                  "lat" : 3.099506670107278,
+                  "lng" : 101.6399803701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9857e8d8129fb71779a36c341056bc590c50e41b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102174726590167564941/photos\"\u003eMuhamad Sadiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADBRXAZ6c0x7srZx7obg9919_3s9NAXhs7Qi63luL_xzRY8NV52E83H1GVjje81V-SYjF2HzkqRZQkfULgDDpTHirXEvIyYcOOUfNhiqbt_RjxFGcYuC4W_tTNsXj0dcbEhBeY2F9NLY35HjAV1jNCZabGhQaKhK8KdiDWeuefV18waWU7ouBTQ",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJZd-U_cJLzDEROYb6V5Hl4mQ",
+         "plus_code" : {
+            "compound_code" : "4J2R+8G Petaling Jaya, Selangor",
+            "global_code" : "6PM34J2R+8G"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJZd-U_cJLzDEROYb6V5Hl4mQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 646
+      },
+      {
+         "formatted_address" : "27 & 28, Jalan Tun Abdul Aziz, Bandar Kajang, 43000 Kajang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9915553,
+               "lng" : 101.7912352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992895879892723,
+                  "lng" : 101.7925793298927
+               },
+               "southwest" : {
+                  "lat" : 2.990196220107278,
+                  "lng" : 101.7898796701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9e3dc5f4a3fd41f5190c23e97397338ae0e1c052",
+         "name" : "McDonald's Kajang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111755793349041799075/photos\"\u003eIskandar Ab Rashid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiEv8CLiEJ9KeJsL3KgdATtIjWlB3XpW9Y-4L1q_LueyOTDNsOptvRK7M1Lpls7ON29xJYdMzpAZfMhyTXNP6sw_snUXdifafX7FZJjdUyxUWUFQcNdn-WtU1q8QSHZuiEhB3YtPA-WHPkLWR5vA68wClGhRrSXPTABuiSjSL3LPQ4h1fJ6gqfg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJoRPSO4LLzTER1mEX4ERaFA8",
+         "plus_code" : {
+            "compound_code" : "XQRR+JF Kajang, Selangor",
+            "global_code" : "6PJ3XQRR+JF"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJoRPSO4LLzTER1mEX4ERaFA8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 664
+      },
+      {
+         "formatted_address" : "Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0826082,
+               "lng" : 101.5859211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.084212279892722,
+                  "lng" : 101.5871360798927
+               },
+               "southwest" : {
+                  "lat" : 3.081512620107277,
+                  "lng" : 101.5844364201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7f1131e7c151348b721573b7b3d393fea039330",
+         "name" : "Carl's Jr. Subang Parade",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115406390823429675844/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYguVb1d1T21O-wVSL6TTDygsrfnczAZEzppijPxjM5tl2ei2eq2Ak2sRsTOfChV8iqe6-jhBClZVi-8ktKh1UUcogOLZc3WyQvSt6wYT0OMrLN3MBLrd5JqEsTQTxspLEhBFWeA3tsZoc5Wqtt0PEYmnGhR9c1UQfOphzLtn1ewnCITlEly1JA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJK6aqaltMzDERoGrtUtFicJA",
+         "plus_code" : {
+            "compound_code" : "3HMP+29 Subang Jaya, Selangor",
+            "global_code" : "6PM33HMP+29"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJK6aqaltMzDERoGrtUtFicJA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "Jalan Suarasa 8/3, Tun Hussein Onn, 43200 Cheras, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0478128,
+               "lng" : 101.759497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.049181029892722,
+                  "lng" : 101.7609111298927
+               },
+               "southwest" : {
+                  "lat" : 3.046481370107277,
+                  "lng" : 101.7582114701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0dfb145df0eccade01a1350b4f2cede1719d14f7",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118287719071690997191/photos\"\u003eMazlan Kamarun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm1wgIbiINzYza8f2Icot-_Bezs7mk8woCBRril1G6uYckrF-Gu6UYg2Fi6x0iiNjripRWuY7o5E8cfmdDZ_C-livwU5ty5BJ0n8VBvCvo6IPn_jMzmhZ_h0CbGM9o-ZwEhBjQjn9DLM9h86rtYurfMD2GhSnvbvTZVKgFYvy6yi4iyf9mX9QxA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJgc79bdw0zDERnyszabnAcDM",
+         "plus_code" : {
+            "compound_code" : "2QX5+4Q Cheras, Selangor",
+            "global_code" : "6PM32QX5+4Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJgc79bdw0zDERnyszabnAcDM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 235
+      },
+      {
+         "formatted_address" : "Jalan Utara, Pjs 52, 46100 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.10738,
+               "lng" : 101.639971
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.108779879892722,
+                  "lng" : 101.6413461298927
+               },
+               "southwest" : {
+                  "lat" : 3.106080220107278,
+                  "lng" : 101.6386464701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d39fd73393c3512edbba555b1130d5a86a5a9dc",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109956732287532313551/photos\"\u003ekore masa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV5dsdAHOYxmy_JkHnt6z13509d1zzeUs0b7k6dPaViimKyE-guJD2iGXRIrAWpIhQ4mD42OTgAVU6W7O8U0LabHNEMYow_lsNsMEWilBIf3UwwEateiliYMY_nzGnwJrEhB7g77ISEEkxOdpKvBersQeGhTwvBMHzGCuTIRfA90fIivwBZrk1Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ32fB591LzDERyEc_Hj_GAuM",
+         "plus_code" : {
+            "compound_code" : "4J4Q+XX Petaling Jaya, Selangor",
+            "global_code" : "6PM34J4Q+XX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ32fB591LzDERyEc_Hj_GAuM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79
+      },
+      {
+         "formatted_address" : "No 1G, Jalan SS 21/1a, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1370445,
+               "lng" : 101.6210216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.138394079892722,
+                  "lng" : 101.6223335798927
+               },
+               "southwest" : {
+                  "lat" : 3.135694420107277,
+                  "lng" : 101.6196339201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45937cd42fdb447feb1a8739eef4c71c22e42762",
+         "name" : "Texas Chicken @ Damansara Uptown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117966664191141056100/photos\"\u003eSayde Sibly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_T3l1qKaEoq2wZbsyfjeN0tB0XYanJe5jCnGOmJBbtIV3EBwms61oREbWNgZhg5bMqcK0gGVBIpOMM5WB8q1A8pM-TFnbmYuvwLgqy5vJBU_nmy6xwpeUgYKUh-k4rAsEhCdNbMSDf-SOHZZ2SMnAO8BGhTS2fr9C5zIq5WuiHatzuO0DqC2aw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJZcN_jjJJzDERIZGnQpRGWZE",
+         "plus_code" : {
+            "compound_code" : "4JPC+RC Petaling Jaya, Selangor",
+            "global_code" : "6PM34JPC+RC"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJZcN_jjJJzDERIZGnQpRGWZE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1352
+      },
+      {
+         "formatted_address" : "LG-25, Jaya Shopping Centre,, Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.109122,
+               "lng" : 101.637178
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.110584579892722,
+                  "lng" : 101.6384046298927
+               },
+               "southwest" : {
+                  "lat" : 3.107884920107277,
+                  "lng" : 101.6357049701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68c53520bfb9d925327c0eb03af6ee7afcc1f2cc",
+         "name" : "Texas Chicken Jaya Shopping Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4192,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110667960562402407436/photos\"\u003eDavid Chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5UmTbtiKyDG5Ih_2A1yZ-Jci1xu_0p2jeL0XTnnFXIt5IXLCEvzwkQTtbD9QZsmJJirrzfCFZQKTmk9ItnUZKyRbW_cLeeUYO9G3A1O-GS3pU5VIkCueeaMIf0hbAr-QEhCN1V0_A-fVZa8nZtmvLShnGhSXFHt5eeQoyKOZY4JuiGyU-C-YDA",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJUVRDleBLzDERXVKIWnGteqg",
+         "plus_code" : {
+            "compound_code" : "4J5P+JV Petaling Jaya, Selangor",
+            "global_code" : "6PM34J5P+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJUVRDleBLzDERXVKIWnGteqg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 295
+      },
+      {
+         "formatted_address" : "10, Jalan ss15/4G, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0775154,
+               "lng" : 101.586801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.078865479892722,
+                  "lng" : 101.5882347798927
+               },
+               "southwest" : {
+                  "lat" : 3.076165820107278,
+                  "lng" : 101.5855351201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f417e35cd6ff6157d8f59b9a625282a9912b473a",
+         "name" : "Texas Chicken @ SS15 Courtyard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113692596263657291458/photos\"\u003esiti aishah ahmad zaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiqbh9j3dLpd7AHM1VaUrcsgmrFbD4yOFU--qz8HHQuB59hHoi_1dlIlCtA6iXOZ6I4UYQaf2JXpIfvbJMu8FnS_cw8VrU6szpgaZ3x1pLIxJIKmvVBfAQ8ECcVoQQ7n7EhCUbfafJCpmpkAjWUqGlRiJGhT2fXgoM4sK1NrWxDyzjxxG9sWO_Q",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJLUT3RFlMzDERRz732Hu8qtE",
+         "plus_code" : {
+            "compound_code" : "3HHP+2P Subang Jaya, Selangor",
+            "global_code" : "6PM33HHP+2P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJLUT3RFlMzDERRz732Hu8qtE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 183
+      }
+   ],
+   "status" : "OK"
+}

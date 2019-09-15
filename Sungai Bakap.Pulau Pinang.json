@@ -1,0 +1,170 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "No. 3 Jalan Besar Sungai Bakap, Sungai Bakap S. Perai Selatan, 14200 Sungai Bakap, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.243169,
+               "lng" : 100.484939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.244507729892722,
+                  "lng" : 100.4862998798927
+               },
+               "southwest" : {
+                  "lat" : 5.241808070107278,
+                  "lng" : 100.4836002201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4daf36c1f3c896214d0bb09a4a31f7b80e19c0ec",
+         "name" : "N& b First Time Enterprise",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1575,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102507545159443379073/photos\"\u003eN&amp; b First Time Enterprise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApQU5p1ri2IQWRKEYAy1HXXKL1qvo2A5wuFobbeVFUtkkPccWbMqxah07haFogixanZNSUQ7fXT7O7tJg21RJKG7_pSheEky7926sRoVljXsEfqNkkB8HHcBNGku3pfUHEhCak9qIjcwiX6-zbdqNTNErGhTa5XIktpxRTa17vnPOcbfDqpX1IA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJAdt6A-C2SjARZoVuDoXnWYk",
+         "plus_code" : {
+            "compound_code" : "6FVM+7X Sungai Jawi, Penang",
+            "global_code" : "6PQ26FVM+7X"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJAdt6A-C2SjARZoVuDoXnWYk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "36, Jalan Gamelan Indah 1, Taman Gamelan Indah, 14200 Sungai Bakap, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2300841,
+               "lng" : 100.4929083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.231437129892722,
+                  "lng" : 100.4942313298927
+               },
+               "southwest" : {
+                  "lat" : 5.228737470107278,
+                  "lng" : 100.4915316701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "46dbb0b4767102b16af23ad84b23ce86b1c1f4b4",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103106882992056682750/photos\"\u003eKian Thong Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQotkmEseD88LVV4b8z9d7yGkHHkFliG1sGpr0_437Y47z0bvEd7zkSTyuTwX0dxMygHixkopHDmzoTelnwEmCbTetdvDB3kB7cx5OaDNn_dvmK9WRtq-P8_sGFB7LS0wEhDKlyNgVKYGtFInM2ROzUibGhQy3k1y14K8mOLtq-ZsBVzm-OKh2g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJY2hTqtG2SjARGrl8BL--U80",
+         "plus_code" : {
+            "compound_code" : "6FJV+25 Sungai Jawi, Penang",
+            "global_code" : "6PQ26FJV+25"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJY2hTqtG2SjARGrl8BL--U80",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 365
+      },
+      {
+         "formatted_address" : "26 & 28, Lorong Seruling 5, Kawasan Perusahaan Valdor, Pulau Pinang, 14110 Simpang Ampat, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.239981999999999,
+               "lng" : 100.475547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.241288529892722,
+                  "lng" : 100.4769380298927
+               },
+               "southwest" : {
+                  "lat" : 5.238588870107278,
+                  "lng" : 100.4742383701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f60172680f8b80075de3474cc794ca3617b3698",
+         "name" : "LTW Maju Enterprise",
+         "place_id" : "ChIJa-hGAyO3SjARKwVqi019N5I",
+         "plus_code" : {
+            "compound_code" : "6FQG+X6 Kawasan Perindustrian Valdor, Sungai Jawi, Penang",
+            "global_code" : "6PQ26FQG+X6"
+         },
+         "rating" : 0,
+         "reference" : "ChIJa-hGAyO3SjARKwVqi019N5I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lorong Bagan Tambun, 14100 Simpang Ampat, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2776609,
+               "lng" : 100.4683537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.279007579892721,
+                  "lng" : 100.4697048798927
+               },
+               "southwest" : {
+                  "lat" : 5.276307920107277,
+                  "lng" : 100.4670052201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "69bfa6c40fa63361950a411241c981438e28a405",
+         "name" : "LEM Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1772,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108579015009403310871/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlOI-WHcAtW_orUKM8VxZo59hFJ4rFDAZgzgGqrBcEolbocdQKCHHyNKpVYpIlgy6eyVnT6snDX7P57KgeOvkOUgM8hJlNKUrr3IG_H29ZZkvOMSkx2FvRUTbZEZ1FmFiEhDX3TG5YjCFYDFF63d8TyIcGhSJA342i-hj87MrDpfWhFuty5uf8A",
+               "width" : 1772
+            }
+         ],
+         "place_id" : "ChIJdRlmjbu3SjARW4X_nZa6fXk",
+         "plus_code" : {
+            "compound_code" : "7FH9+38 Simpang Ampat, Penang",
+            "global_code" : "6PQ27FH9+38"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJdRlmjbu3SjARW4X_nZa6fXk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 76
+      }
+   ],
+   "status" : "OK"
+}

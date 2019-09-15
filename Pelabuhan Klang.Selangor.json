@@ -1,0 +1,905 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAAHjaK00yrqVBWW-JzVOHxID8Q7MTb8WZbBKH7YKwoKVWbDbzd8WVRNb5c90VHgB6o9JQNKKztq6pl0xnRYF83lDxr28CZW_fpYUM9dNCMsZba8tkh0UZai-FbpUBhm4gVDijIxNwbGJE2XiOGoJqGQ-G-5xtRz_oQB-PwQ8tD0yaaivbVFSIBycuJBi6lGsfm0YwJyZzzMpf5Ialv6mJ-X7_trlD3krfLH9Tev3R2Oap5UzFyZQuYENV_CEWHGnTSEzVcHz1NOdsaO2b0tgr9jkgTk_IO3vZtIpGcR_uLnAWvfGnHKEz0shbII2MySPur91GYdmPv3XheJ-eFcJW9KgTRykK9wkj09ebR-gTi-jO3ZoTaFM8kMm1LHAcwrTZjSJZ5Nw2PnprQ9K2nOc3X904duE8Am1KkzDfKGHhkPpT0mK14pwHRxGkK1xk7Pdp2ld0OR3pFPbqhXXYpdyc19gyfyDxiCWNe7BPLdZL2aku1l0oKobWjutYr2Lhq02wx6DFeQGzzwb6sEggoV44DUI_9wMPyiP8LGHkN08HJbM4fSfBMmDd731MxAp74je-2UBhYiKadyysalWkcLKVRIH3YG4s6eozvDmu6wmdCz-9d09i9G3o1abgidcATb3stNYX0RAu8i9wmaFpirWgEUCYlaJ2TRhVllwwnseevPvvEhCpnrwAJVMw8Pv29yIuCfB0GhQR17AzrSD6uADK0H7Lpk8JcEEH0g",
+   "results" : [
+      {
+         "formatted_address" : "No. 9, Jalan Batu Unjur, Pandamaran, 42000 Pelabuhan Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.016066,
+               "lng" : 101.424831
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.017400529892722,
+                  "lng" : 101.4261780798927
+               },
+               "southwest" : {
+                  "lat" : 3.014700870107278,
+                  "lng" : 101.4234784201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "76232f4134bc98f073be3dc08764524f9921633a",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105347832145661027323/photos\"\u003eNUR HIDAYAH ZAINUDIN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARh33fNPbC2wq7y-zhesUBgNWzJKKQ3C9bSKa8KtHWo02FWra_gqEjjqy1cMSKgX35o-0aSCk5quKdRXDMzmP-zazHO-BBhyFx2-OobyAf_DCIwt_AqcLTpj4KHcCVvBwEhAlBcgmurkQYxGfRs-DXyWIGhRMi_q9IytuxwJsyRSgADenQWpqGA",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJGdhEmmerzTERQHyX550gSFQ",
+         "plus_code" : {
+            "compound_code" : "2C8F+CW Port Klang, Selangor",
+            "global_code" : "6PM32C8F+CW"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJGdhEmmerzTERQHyX550gSFQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 316
+      },
+      {
+         "formatted_address" : "Lot 1, Persiaran Batu Nilam, Bandar Baru Bukit Tinggi, Klang, Malaysia, Selangor, 41200 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.007895,
+               "lng" : 101.432691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.009317479892722,
+                  "lng" : 101.4339389798927
+               },
+               "southwest" : {
+                  "lat" : 3.006617820107278,
+                  "lng" : 101.4312393201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "930fa0495776e091a02fc899f09de3fb8e4cb097",
+         "name" : "McDonald's Bukit Tinggi DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110977413965335589473/photos\"\u003eMargaret Chiew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAP0_v9G9JOz-hfQvmdVnh0Z-f5mibNriyRRArETIZ3_ik4L3xeIei47vRxwFu3lbPUbNUuUA3U2ytUH1ePhGiStMVlljQJyEKSBJXkg67c8bOdGlNqpz9kzTk7geYb_rzEhCn6Ihg_6lnRgq0x0AL77kdGhRrEj0s5XOnG0rUUxvLen-WR5fZTA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJKU2YuGKrzTER2QTAfaZpaD0",
+         "plus_code" : {
+            "compound_code" : "2C5M+53 Port Klang, Selangor",
+            "global_code" : "6PM32C5M+53"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKU2YuGKrzTER2QTAfaZpaD0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 452
+      },
+      {
+         "formatted_address" : "No. 42 (GF), Jalan Sri Sarawak 18,, Taman Sri Andalas, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.016114,
+               "lng" : 101.444003
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.017464579892722,
+                  "lng" : 101.4453456798927
+               },
+               "southwest" : {
+                  "lat" : 3.014764920107277,
+                  "lng" : 101.4426460201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ae2bb89a92c5af28a82066a4a66f41639edc9d16",
+         "name" : "Burger King @ Sri Andalas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107288249724482912025/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6iD5_ptRKdafDS3EXWi4H42Gb0MMIVL0sYTdLUX4BhtwGNg_mxgljgbZaYLme6AY7GX87l3k9hol_Z8uUBs1TQBK3od7-BElfYj8y6A2ywHCHt2ngHdWeAdddcqURgI-EhCKPB1s-U7bXt54kJsmm2ZWGhRpsyPTzFxX8TkCdR1ShDD9Z8meng",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJYxsFDZiszTERHnLOq5qegGY",
+         "plus_code" : {
+            "compound_code" : "2C8V+CJ Klang, Selangor",
+            "global_code" : "6PM32C8V+CJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJYxsFDZiszTERHnLOq5qegGY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 322
+      },
+      {
+         "formatted_address" : "No.1, Jalan Bayu Tinggi 2, KS6, Batu Unjur, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0123457,
+               "lng" : 101.4384054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.013644029892722,
+                  "lng" : 101.4397541298927
+               },
+               "southwest" : {
+                  "lat" : 3.010944370107278,
+                  "lng" : 101.4370544701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7aa1e141a2f9e412edcba47ef0ff10d85849317",
+         "name" : "Marrybrown Bayu Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101366548081068925734/photos\"\u003evinces meng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbE3t_5f0gvTsQaU85_qyDuIG-Scq4hfI9zD6Aaj_GNBR9mb5wIgI370yxagbs_FRFiNQlTe2F8Z2B3izpOzLU_QzF7ke93YNV9lexirWiBNU2chnXqeksELZ3wY6z1KJEhDwQTTvgaG-ooNvZ39fCM1zGhRg3NUx5uHw28dDf8KfTCuvucmBnQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJJ6K9r56szTERrsaimhmBLtE",
+         "plus_code" : {
+            "compound_code" : "2C6Q+W9 Klang, Selangor",
+            "global_code" : "6PM32C6Q+W9"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJ6K9r56szTERrsaimhmBLtE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 121
+      },
+      {
+         "formatted_address" : "Bukit Tinggi Unit C-G-11, Ground Floor, BBT One - Boulevard, Lebuh Batu Nilam 2, Bandar Bukit Tinggi, Klang, 41200, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0072384,
+               "lng" : 101.4402672
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.008632279892722,
+                  "lng" : 101.4416763298927
+               },
+               "southwest" : {
+                  "lat" : 3.005932620107278,
+                  "lng" : 101.4389766701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "313c3cd2aa06dcd7e1fe88b90b8e4d9235c5a2af",
+         "name" : "SUBWAY @ BBT One",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102190130728688686871/photos\"\u003eSara Sarawanan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADiFPEa8Q2GV3SukN6Crsx2nqj902XaQ6Tmou03sXBFiQ7aNHZOKDFqsYK8AICzRfaWRs33HKgUk73Muty12tYKHOMh7DqnKDwdyS0BheqA8R9DQY3PZkewQOJSSSc5OeEhAczqfyKdDjwlcKPVROYtY0GhQ9ASbzZws03N9pM00no6QMGh-TKg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJcxdeQ5uszTERC__IvL4bTFo",
+         "plus_code" : {
+            "compound_code" : "2C4R+V4 Port Klang, Selangor",
+            "global_code" : "6PM32C4R+V4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJcxdeQ5uszTERC__IvL4bTFo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "G29, Aeon Mall Bukit Tinggi, 1, Persiaran Batu Nilam 1/KS6, Bandar Bukit Tinggi 2, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.994234,
+               "lng" : 101.444718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.995664729892723,
+                  "lng" : 101.4462482298927
+               },
+               "southwest" : {
+                  "lat" : 2.992965070107278,
+                  "lng" : 101.4435485701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cb3ff125ba8159280108f15fb2d3bbda83af3b53",
+         "name" : "Texas Chicken @ Aeon Bukit Tinggi, Klang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117794402813097390173/photos\"\u003eSabbir Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9UxqPs4JBM_aliOpTWCuKaPhXT_dIWlM2sDbzZY_Y8-GpwllWVGLWSdw4MlBHQyxZkBzK4leDsHfA2g25hxLz3GasdRcve2UfBtH-lhwQW6D0vMKgaJPCE-NQ5ltuG5YEhAM1ZUoLAThdGLjGDxZVZVEGhRhQqPEfc9bCIO94wKe6SsDIwv8rg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJB_hq_XyszTERxtSFG65Z13g",
+         "plus_code" : {
+            "compound_code" : "XCVV+MV Klang, Selangor",
+            "global_code" : "6PJ3XCVV+MV"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJB_hq_XyszTERxtSFG65Z13g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "formatted_address" : "Lot PT 3358, KS1, Telok Gadung Besar,, Exit Persiaran Raja Muda Musa, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0262307,
+               "lng" : 101.4236007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.027512629892723,
+                  "lng" : 101.4250534298927
+               },
+               "southwest" : {
+                  "lat" : 3.024812970107278,
+                  "lng" : 101.4223537701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e29ae80335cf025ea83a42a4d1eac884a647a80",
+         "name" : "McDonald's Persiaran Raja Muda Musa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109141441541117026901/photos\"\u003eEzarnur Malik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhhgwyG_8Tk_qNtmJvqWqlxnU7dsGX6wPAagCWDwyadQcSGqaCEUT92baMLEpHmy0ldlGHJOGpjmEzO0boO7hOHxMCzzP2DK5-L_X8ILdFFxsv9C8v2iHttgLCAI6YTWJEhBry8Skje0Cn56nqcVJWehMGhQGNTvu-TE1R-4A4_X9ieRJH4BFlw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ4z5epFqrzTERJBhxkJfuI-U",
+         "plus_code" : {
+            "compound_code" : "2CGF+FC Port Klang, Selangor",
+            "global_code" : "6PM32CGF+FC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ4z5epFqrzTERJBhxkJfuI-U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1155
+      },
+      {
+         "formatted_address" : "No. 107386 Jalan Batu Nilam, 34, KS 6, Bandar Bukit Tinggi 1, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.998807,
+               "lng" : 101.431663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000041129892722,
+                  "lng" : 101.4330126298927
+               },
+               "southwest" : {
+                  "lat" : 2.997341470107277,
+                  "lng" : 101.4303129701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df4cbf9d53aded1a383b9c8a210c294056d41cc9",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107288249724482912025/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbnoXcz8QjlyQGmw66zjmbQJzJBfzcCAPoIvKHpg67KX1QGyK7rn_oXFEdrzRHvygtnLVnO-hcDSAHG7MzM45xoiREnWNd48lJcKm5I41_JQVIHHfvfFZHXkRIWs1mqJuEhCFDb8sctfHEW12RbVJdyg8GhRlGIanb5yqRuj340AwOyAWkJ95FA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJd0ipp3-rzTER4OdlVGoM0x4",
+         "plus_code" : {
+            "compound_code" : "XCXJ+GM Klang, Selangor",
+            "global_code" : "6PJ3XCXJ+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJd0ipp3-rzTER4OdlVGoM0x4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 436
+      },
+      {
+         "formatted_address" : "24, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9910014,
+               "lng" : 101.450392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992305529892722,
+                  "lng" : 101.4516983798927
+               },
+               "southwest" : {
+                  "lat" : 2.989605870107277,
+                  "lng" : 101.4489987201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "665d12ef268914765e26fcf9f60e795f522d1827",
+         "name" : "Restoran Marrybrown GM Klang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117240280316055617904/photos\"\u003eNur Aitze Arpan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7bHGw_UXis-m8K1gR5feyrpDjnQB51y2MM3a9K3Cjh0JWT4edoraFFakaTxQKTp_G1DxVgGtHkVwZlOeANqQy4zo574AOKWRy-7yVZsPM4TIPlEGthPf2ShDvtPe5E6mEhB-AYPAQBAvmCrGPNXmj8dSGhRCnBAO9KdOnRpnyvpEqVn5sT5ffA",
+               "width" : 809
+            }
+         ],
+         "place_id" : "ChIJub1kQ2SszTERApeeJZhiJ7w",
+         "plus_code" : {
+            "compound_code" : "XFR2+C5 Klang, Selangor",
+            "global_code" : "6PJ3XFR2+C5"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJub1kQ2SszTERApeeJZhiJ7w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "No, Jalan Gopeng, Batu 4, Off, Jalan Pasar, Kawasan 18, 41400 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0496298,
+               "lng" : 101.4445212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.050899829892722,
+                  "lng" : 101.4458002798927
+               },
+               "southwest" : {
+                  "lat" : 3.048200170107278,
+                  "lng" : 101.4431006201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c0a32d84e73e78fe7421abee7997db85564fa758",
+         "name" : "Marrybrown Jalan Gopeng Klang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115181931004702331638/photos\"\u003etee honglun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtk2CWGXfStNoZJQkNvpXJAJ7hpnPf8Iihl_dSRjwtEV_atAhJpyitYGTZc5JPihnYHY9G2ElDWGrWKlJteLyhKGgIJ8XPzLMc7sK19fTJE4pApkOZKrCGOYgeRL1vdhzEhDj6bIMsNzbjD0mRZF_sDZKGhSHHUh6j4VzhY42FiTzYWBIbytibw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_yIUOVtTzDERF3apqAYziH0",
+         "plus_code" : {
+            "compound_code" : "2CXV+VR Klang, Selangor",
+            "global_code" : "6PM32CXV+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_yIUOVtTzDERF3apqAYziH0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107
+      },
+      {
+         "formatted_address" : "Klang Parade, 2112, Jalan Meru, Kawasan 17, 41050 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0632444,
+               "lng" : 101.4533014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.064554529892722,
+                  "lng" : 101.4545291798927
+               },
+               "southwest" : {
+                  "lat" : 3.061854870107278,
+                  "lng" : 101.4518295201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bd83bc6ea6b0fd3f53639a78ab5065545f72a46a",
+         "name" : "Texas Chicken @ Klang Parade Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103573906789936964699/photos\"\u003eAdrian Eng Ying Ming\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiEcEq94MwWQG17JJOjvHxYEQ2dr68KO6B6PN8-zGKRJXM97LYGHiYT1kQpcSv1O8LaEmZojG4NBDfni28CqziRzoHCJUcjZ0sMyhL0ODcigWzPh7lTFF00Vb1tvHHhxrEhBOz-2p7Aw2UgTRFwy0_4mEGhSARW6KS7iGY3aiGLS2b7bkV4keDA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_3BWqm1TzDERNqOBvMBzymk",
+         "plus_code" : {
+            "compound_code" : "3F73+78 Klang, Selangor",
+            "global_code" : "6PM33F73+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_3BWqm1TzDERNqOBvMBzymk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 182
+      },
+      {
+         "formatted_address" : "No. 3, Off Jalan Teluk Pulai, Klang, 41100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.042727,
+               "lng" : 101.426768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.044094429892722,
+                  "lng" : 101.4281451798927
+               },
+               "southwest" : {
+                  "lat" : 3.041394770107277,
+                  "lng" : 101.4254455201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e419d7f2863cf4f19f56968ae83f580c6b747db",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117421788579143664284/photos\"\u003eYusof Rahim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6ht3Ycwg_5YFQ4Qt_lZAUMgrfgLHyJoLZtSo6Qf3fZh_X8XtyKXcqPm7WV1Kviue6yzG_QaGVRjjviguUy6DLIh3q9MaWnK7-MrJKwpkicBhpTEdkME1SX3alJY5fLXZEhAe_yP6AhckAjJF6vB6uVZrGhTurr9qnrbCkSFM3xtYpHyaNxEloQ",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJm9opCKpUzDERCuIVwFWYurc",
+         "plus_code" : {
+            "compound_code" : "2CVG+3P Klang, Selangor",
+            "global_code" : "6PM32CVG+3P"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJm9opCKpUzDERCuIVwFWYurc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 311
+      },
+      {
+         "formatted_address" : "Aeon Bukit Tinggi Shopping Centre KS6, 1, Lorong Batu Nilam 34/1, Bandar Bukit Tinggi 2, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9943045,
+               "lng" : 101.4449034
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.995694729892722,
+                  "lng" : 101.4463432798927
+               },
+               "southwest" : {
+                  "lat" : 2.992995070107277,
+                  "lng" : 101.4436436201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e9a21e94024c591faeb1afe8bf569b43fc044577",
+         "name" : "McDonald's @ Aeon Bukit Tinggi, Klang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111562645172866621186/photos\"\u003eSarb Abdul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALf3xxT5s7-baYjvyQNGkvc1WsTU8pWpt991HXJtH6z4G87QpFC_O-KLgPGN7Jz74vgWBtrHvDEGV4rh-Nr3zxZWQiY3J4zQ-fRxBIQzd-cqqlJ0D-F026I2EDgiDK9w7EhCrVzH3khRAvv1NDnvIg78QGhRnOcHlIKTN-achNiCsTDeBg9QFPg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJQeiu0HyszTERqUaSihhK0io",
+         "plus_code" : {
+            "compound_code" : "XCVV+PX Port Klang, Selangor",
+            "global_code" : "6PJ3XCVV+PX"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJQeiu0HyszTERqUaSihhK0io",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75
+      },
+      {
+         "formatted_address" : "No 24, Jalan Taiping, Kawasan 18, 41400 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0494239,
+               "lng" : 101.4476111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.050723479892722,
+                  "lng" : 101.4489816798927
+               },
+               "southwest" : {
+                  "lat" : 3.048023820107278,
+                  "lng" : 101.4462820201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8634787d3e8faf075aa1521cb63b4e06861d6082",
+         "name" : "KFC Klang (Jalan Taiping)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 288,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114420522221377563945/photos\"\u003eSwapnil Yerne\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbHaEsKB_MNKp3LWAVfbTYqIJTnZq5zRFOS4BrPSXf6GkdOJ98pSe0L7uziekJFKLl25XBzMh4c6Fe1mbuxdHg2KhM4GjDmD3plWK9mY3ulCH-X5-cG6sEPjWVNN0TQ_lEhCu7Dpg5-gZt3NWx7ig6KTxGhQb-gT4UwL1R_SDsZZtqkEWAiHihg",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJAxnS80RTzDERNW9pXzvI68s",
+         "plus_code" : {
+            "compound_code" : "2CXX+Q2 Klang, Selangor",
+            "global_code" : "6PM32CXX+Q2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJAxnS80RTzDERNW9pXzvI68s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 463
+      },
+      {
+         "formatted_address" : "A-G-08, Ground Floor, Block A, Gm Klang Wholesale City, Jalan Kasuarina 1, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9909866,
+               "lng" : 101.4506063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.992255629892723,
+                  "lng" : 101.4519542298927
+               },
+               "southwest" : {
+                  "lat" : 2.989555970107278,
+                  "lng" : 101.4492545701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fb2f9fee85b9b404f52e3c312e94bbe0ea600703",
+         "name" : "Golden Bons GM KLANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1127,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102237329983145396543/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjEDsdfuM9RJWjT9y28X2fzp6S21pF4rkHQ8Mt83_nSqzux30nO2XmVOpaVvuYeVghtYrRsxboVDx-Zqt5B3V6k8zrkNnfgQY7PewX_eIrq6Y-D42bOYec6BeioGlvWpBEhDAlZcLD-U02pnNNTGJS5WBGhTDp4EUPCx8P3KLypWAlH_GuWl2Aw",
+               "width" : 1117
+            }
+         ],
+         "place_id" : "ChIJx1t_pn-rzTER89lwFPMAuyg",
+         "plus_code" : {
+            "compound_code" : "XFR2+96 Klang, Selangor",
+            "global_code" : "6PJ3XFR2+96"
+         },
+         "rating" : 4,
+         "reference" : "ChIJx1t_pn-rzTER89lwFPMAuyg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "3, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0554214,
+               "lng" : 101.4637502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.056771229892723,
+                  "lng" : 101.4651000298927
+               },
+               "southwest" : {
+                  "lat" : 3.054071570107278,
+                  "lng" : 101.4624003701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d74371563aa43397b162730ef3a0b71f8c5e8e71",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104229046998750118903/photos\"\u003eMaco Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV5ro6Hr4vdb_nMqQeM0p0lel-3BkixUINkzPvkAOyxG8N15quq2edW6AW9OiVuAYRPJMp__9Ju-CvgoIy0hizK_cMI_NcRgd8MTyURxQU-AqWpHZtB9wlUmU8OA6yfSVEhDOlhlXUG-bvA863zFj24T-GhRHTQlCJXgim6tEO2biEUuMOG7jDg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJvUyg7T1TzDERm4QNVzouyJY",
+         "plus_code" : {
+            "compound_code" : "3F47+5G Klang, Selangor",
+            "global_code" : "6PM33F47+5G"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJvUyg7T1TzDERm4QNVzouyJY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 366
+      },
+      {
+         "formatted_address" : "Lot G 16, AEON Bukit Tinggi Shopping Centre, No 1, Persiaran Batu Nilam, Bandar Bukit Tinggi 2, 41200 Klang, Selangor, 41200, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.995347,
+               "lng" : 101.4442065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.996751679892723,
+                  "lng" : 101.4456898298927
+               },
+               "southwest" : {
+                  "lat" : 2.994052020107278,
+                  "lng" : 101.4429901701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e4c3b57173dd666d1499e5a01f43c3c49cea42e0",
+         "name" : "Shihlin Taiwan Street Snacks",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111084324058679340718/photos\"\u003eWM L\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANev1dttlMoWmWBwXvVMoqRCb5j8RraJVOnK4PG8PMjT3AD8lai_XD6dYLVcWFSioEPSxDmfm7r3MSW70LfuGgvjK48_97HqBD08A7nG5hmZejgkXZEuH85RYpcFHl6rDEhAuED1o_nkuxqSYtvUiMFdLGhRFviwYMJHbUbVIKVBOmPJhCjAIqw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJv9Spv32rzTERTpnvhHxl16o",
+         "plus_code" : {
+            "compound_code" : "XCWV+4M Port Klang, Selangor",
+            "global_code" : "6PJ3XCWV+4M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJv9Spv32rzTERTpnvhHxl16o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "54837, 29, Jalan Dato Yusuf Shahbudin, Taman Sentosa, 41200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0106685,
+               "lng" : 101.4652795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.012090629892723,
+                  "lng" : 101.4666741798927
+               },
+               "southwest" : {
+                  "lat" : 3.009390970107278,
+                  "lng" : 101.4639745201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80e669d3fcef1d292bce4448229261dd480ff4fb",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109023506097069124291/photos\"\u003eCrasus Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA0_luAYkiX7qMIM5uKkYqr-niu8ZYNC6_w_tjC_cTWoOQQCa-NbV7CRS_Q66mIHEEX75lUBqenPL-bs2hs73zK4V94ax-g84_aWAGNuvFua0q-7la-9-UAGEcqPdPmx5cEhDr7azVyjkI48je9ttcDVxnGhQI1rpWLsxP8dZWPXk3qev_2F3bow",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJfz6UZe-szTERC-WnNmudjgs",
+         "plus_code" : {
+            "compound_code" : "2F68+74 Klang, Selangor",
+            "global_code" : "6PM32F68+74"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJfz6UZe-szTERC-WnNmudjgs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 831
+      },
+      {
+         "formatted_address" : "No 10, Jalan Pos Baharu, Kawasan 15, 41400 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0480903,
+               "lng" : 101.4493241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.049590579892722,
+                  "lng" : 101.4506342798927
+               },
+               "southwest" : {
+                  "lat" : 3.046890920107277,
+                  "lng" : 101.4479346201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "373d85c38a87151ca31f57202c637a6a3c1ad60b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103771934136607409968/photos\"\u003eWinson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAItuqKZiBGhQG-1-2aXxtp9SrpSpvuez4THKH1Q54ikbivVv7pmLSpNATYUEngV7HxtLftEOM6u9uh-JjBACRar_6On-nwLFauaSqiUrXjnEntb0go_ZRRfJWxGjxTI8TEhDZj0NWacvHxg_lRavipOG5GhTBAcLYin6zT5QcUTLPwLIk28y3fQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJu6jstkVTzDERzbANeYqnjNo",
+         "plus_code" : {
+            "compound_code" : "2CXX+6P Klang, Selangor",
+            "global_code" : "6PM32CXX+6P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJu6jstkVTzDERzbANeYqnjNo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 113
+      },
+      {
+         "formatted_address" : "No. 5557 (GF), Jalan Rantau Panjang/KU 4,, Kampung Rantau Panjang, 42200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.070584,
+               "lng" : 101.412493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.071914179892723,
+                  "lng" : 101.4138729798927
+               },
+               "southwest" : {
+                  "lat" : 3.069214520107278,
+                  "lng" : 101.4111733201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1fcbcd8159b25e60abc5cc5f6bea128f1eacff6a",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109128581751482145537/photos\"\u003eAzmir Muzaffar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFIdU3jAERDa9kwsZx0UAlKry5q5b5dXj-71FZpVARDupMwF4RonHx6p8FVihdSMYT4zq_pb-AQ_BPlgyLopjDOaxbIkgWJUW6oSo70DJJiYoz9BajhO30mrGZS-QXLoeEhDiIFCwLswtxKmu1CP5PC_GGhQJ_LK1pUUHuHQlU_2KntvEoukNFg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJew1OooxUzDER8kUIIlY9EOU",
+         "plus_code" : {
+            "compound_code" : "3CC6+6X Klang, Selangor",
+            "global_code" : "6PM33CC6+6X"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJew1OooxUzDER8kUIIlY9EOU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 241
+      }
+   ],
+   "status" : "OK"
+}

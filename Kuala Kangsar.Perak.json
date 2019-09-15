@@ -1,0 +1,890 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAABgglJ7ltTi3dWzFHiC153klAJZ7GxDMEothjBlL-Y5YVJxT52lAcegvPwgSZdngusq55yOdRni68-90lhLPp7ux5jqXwlVp3jRPe4tAkZNGklTBa9_GYMCrIRHs1LTodZhV86SNgwO1qi3fTcx5Ne6Qp6Zeq3bK1JxOfjX1Y1PAMyeicDjG0WeFzk8VFSkqnpvR3E6eawyC-yzdZOxiSuT682bAsMlx9qETpEPWox9i6OBseyKDqNGfqdvv0RCrALWSe2DaZkeULwSe8EVBgNAoYCpCH3bNLzxdojMgLYKvVZtsbqzBHL400i6PwrBtv2kHscAM8otFvWB5qzAxwkEJV65IkIEbTn6zz8ooa9Epn-W-gwDlXEi6vZ2sVeA80kwJhFV7l35iFOvdb5yOnWoLu3JrRq29NvcQ0IgN7jPIxJcdKswvkLpZRrf1eyLFT4jAasKlZXz5hv2aWDPumDkZWBLaPujk6LkfD3UUCJroucSlE3DAQdQxxyjz_29VAsbOy3taX8X16gdn_8nD9SkiMLDPaXZuDUGlHlmsQsZTeNqObBHjK2vEaU16QR7jyo4X7Gnh3hiof5CeRj6DaQ_eXMvjSJxeFs_jii5CqWd5JmoOSit-SGStv1QG5Ewy_7-TFllxv3kKEPc6kbTu82X6SIXqKx_B9tB8CtI_AmdgEhDzWRbg653qQ1YvneNDNPh_GhSPaGIILX5QVmBZmva5ic0s0LIEJA",
+   "results" : [
+      {
+         "formatted_address" : "Makanan dan Minuman, TS Fast Food Restaurant Sdn.Bhd,No.9&10, Persiaran Perbandaran, 33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.772386900000001,
+               "lng" : 100.9399588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.773882729892722,
+                  "lng" : 100.9413111298927
+               },
+               "southwest" : {
+                  "lat" : 4.771183070107278,
+                  "lng" : 100.9386114701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e3a93a6134bfa5021bb0b2eb8fd0b5ef06b2374",
+         "name" : "Marrybrown Kuala Kangsar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1997,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115131207693642905768/photos\"\u003eWooi Chun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAryjxctGSLLcALc98LN479ieHkJWuBCKVP1L-MbbvH7ViNqVuO62EI1fwYvUwPrpyPwiFriqMWmlYtQo1LOupNJqQXGvqWtbUaKwKTfWqAPEJXfMuc9eYxPIJzEz6TmBgEhDDZLba74NDCgtfSXbpA0viGhSOaxEXCeYTFKTtsld6d2MI5Ekhxw",
+               "width" : 2527
+            }
+         ],
+         "place_id" : "ChIJoarR8IC9yjERxmhiAsugjVA",
+         "plus_code" : {
+            "compound_code" : "QWCQ+XX Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCQ+XX"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJoarR8IC9yjERxmhiAsugjVA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "No. 196, Blok P, RPA 4, Kampung Jerlun, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.743745,
+               "lng" : 100.923487
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.745160829892721,
+                  "lng" : 100.9247931798927
+               },
+               "southwest" : {
+                  "lat" : 4.742461170107277,
+                  "lng" : 100.9220935201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf97aff8db0ff5041483e1a24bc3ff53d5a46149",
+         "name" : "Taiko Burger rpa4 kuala kangsar",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116128242982806726521/photos\"\u003erpa 4 jln kenas Saya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe1AfMNfhdPhGVv9KQRpQE0Rlgb3vUyjUD5dmU0Z1QzwnKEDrw_RaX3JE00Yb730PM6sSdbiqgx4JhEFRpEeR6a_E3YoyatkxM3kCVfWQwvQky_TndROhCnJWjZaNcY8IEhDJzinQ5GFkgYSAKV_jqi3zGhRHPXkv7so_RCT33JPdJlb8rqE-3g",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ9XB9Dzi8yjERd6Eh6aOcVfY",
+         "plus_code" : {
+            "compound_code" : "PWVF+F9 Kuala Kangsar, Perak",
+            "global_code" : "6PP2PWVF+F9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ9XB9Dzi8yjERd6Eh6aOcVfY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 56
+      },
+      {
+         "formatted_address" : "Kampung Penaga, 33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7780584,
+               "lng" : 100.9412955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.779378879892723,
+                  "lng" : 100.9425905798927
+               },
+               "southwest" : {
+                  "lat" : 4.776679220107279,
+                  "lng" : 100.9398909201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7030be2c9b9688abb9dc93f2eea855fe0087c086",
+         "name" : "Chor Koay Teow Kuale",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114650811879681611173/photos\"\u003eNor Shazila\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvcMWr3er1iIh1x632QgGVpKubAG72TgqpS1-HJHgOmdUEhnps3xEZn35LJCVe-hlxBRyZ-NpvI-y6GqbnJFTZyfHmJDU29q7Etzf3NYebNV9FbFDatXkIPi1-i3beD49EhDEkh__2_0e7Vw3WC7CMhj3GhRZTyxwzwhR0o8pS0rcCRrf6wvndg",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJ6U9Jihu9yjERtsq10JspDgE",
+         "plus_code" : {
+            "compound_code" : "QWHR+6G Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWHR+6G"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ6U9Jihu9yjERtsq10JspDgE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 152
+      },
+      {
+         "formatted_address" : "51, Jalan Kangsar, Bandar Baru, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7700464,
+               "lng" : 100.9415318
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.771408679892722,
+                  "lng" : 100.9428459798927
+               },
+               "southwest" : {
+                  "lat" : 4.768709020107278,
+                  "lng" : 100.9401463201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dde6c100364243425adc0b09655902fdf94ba8b8",
+         "name" : "Yut Loy Coffeeshop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117814857961814838320/photos\"\u003eToh Sidney\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9KOUQCjxVDv-MNVxN8xYhBhJZ3PQH1bHle4ErNiz-wMPa8ExcxidL0Fgsy2CLkGOM-41u6x-Vf2OPFOuK8ANFIMi9a8VD8fUa0NpIz-GJRILKi-tcGyZgErHk4bZY7Z_EhD8eWkDi-Dg3_WCh5_FDFHlGhT69jvJ2m2nbdU3qzSP_1f85EaReA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJj04PJ7miyjERL_sk2eEAr-U",
+         "plus_code" : {
+            "compound_code" : "QWCR+2J Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCR+2J"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJj04PJ7miyjERL_sk2eEAr-U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264
+      },
+      {
+         "formatted_address" : "A5, Jalan Bendahara, Bandar Baru, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7706845,
+               "lng" : 100.9405109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.772033329892722,
+                  "lng" : 100.9418547298927
+               },
+               "southwest" : {
+                  "lat" : 4.769333670107278,
+                  "lng" : 100.9391550701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "7213e484e31e7f20993cd8781b9f60649d7377cc",
+         "name" : "Frosty Bite Kuala Kangsar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1167,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112627535172095196853/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvc2sf1ZxRrOJlTLsZos-LcmeYA1oqgLIhidXIC1sZZ2WsfJT954GzUHS6Ff7LHIBZSxyqz4U1MuetPtTsgNnAGi5bqg3uKQdIL06kZL0woDejVYqw73WDhGSawZqNKD9EhBXTl1ny0Ck9okXyyitXZ4gGhQugcfqpHIc6TKLvNNppFTU_zfLzA",
+               "width" : 1167
+            }
+         ],
+         "place_id" : "ChIJK84apDm9yjERfOplrOpUSkA",
+         "plus_code" : {
+            "compound_code" : "QWCR+76 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCR+76"
+         },
+         "rating" : 5,
+         "reference" : "ChIJK84apDm9yjERfOplrOpUSkA",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "93, 1st-3rd Floor, Pusat Komersial, 33000 Kuala Kangsar, Perak, Malaysia, 33000 Kuala Kangsar, Perak, Malaysia, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7699909,
+               "lng" : 100.9403544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.771384079892721,
+                  "lng" : 100.9416974298927
+               },
+               "southwest" : {
+                  "lat" : 4.768684420107277,
+                  "lng" : 100.9389977701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "451e373563b7deda860ad337ef722a1457a7dead",
+         "name" : "The Gate Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112910510362312996809/photos\"\u003eEwei Voon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXmmfZSwQF7nYBUGhsnPGyGS_DLzOhJCG0jj5g92cVWlYnzkSG9GuT33vqq8uhub0dgl_-5oxESCnXCq_qCbiQ9HnZaHhxdj_8RW4NVitMAkQWfAUPaSig2WD9PPBU6OHEhBXMEVHA1AxjVpGhzxBG0FwGhSYMosVyQ0i4YXcgVAMYURQqbqPTg",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJw7M6cQS9yjERT9ieD2n1MQM",
+         "plus_code" : {
+            "compound_code" : "QW9R+X4 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QW9R+X4"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJw7M6cQS9yjERT9ieD2n1MQM",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 296
+      },
+      {
+         "formatted_address" : "15, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7734968,
+               "lng" : 100.9146243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.774826679892722,
+                  "lng" : 100.9159940798927
+               },
+               "southwest" : {
+                  "lat" : 4.772127020107278,
+                  "lng" : 100.9132944201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "52484811b92cab7a66b00f7cec588b4a0dacbd2e",
+         "name" : "Uncle Jimboy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108219392544238055225/photos\"\u003eIffah Redzuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdKGZN43ta07XU1tn6bIDzuXL7ZgdmWpZzY663Q_cEKSw74krH3i3JW7Ye5w3k8loAzfCgkM-3JRRpa2MYW4quGoFlSZjZAQqQnT8_41Nd9jnHcOHJjLlSa27Z0jW-SfJEhA150qPEo3qpVxZb3wbR6TVGhSQa6YkDUymAnlarTA0HoFmvdwfpA",
+               "width" : 5248
+            }
+         ],
+         "place_id" : "ChIJl9uy7PK8yjER4wa20qsHE0Y",
+         "plus_code" : {
+            "compound_code" : "QWF7+9R Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWF7+9R"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJl9uy7PK8yjER4wa20qsHE0Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 389
+      },
+      {
+         "formatted_address" : "Ground Floor, No 70-D, Jalan Kangsar, Bandar Baru, 33000 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.769413,
+               "lng" : 100.940237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.770852329892721,
+                  "lng" : 100.9415721798927
+               },
+               "southwest" : {
+                  "lat" : 4.768152670107277,
+                  "lng" : 100.9388725201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5b47c9978f28d79d0d7ff1fb221ad34e5e7abe53",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112109293081993066787/photos\"\u003eMohamad Aliff Mohd Sahimi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXeWHsevsAhBEi0I3OstplevMpMm2AT-AvVUhSSgxoY03jWQuPBSxk-zI8oJy1xrJiaPNZ30G_k0_CC3KLcPgb6cNudoecZrTPdfLkIsU7QkvMDrz4V471-6cqyI9A6T7EhDhrMUnVOcTiSrMjkg_-ZelGhQWTLAVvP4JcE59L_mdDYpVbGqhbw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJd8ds-QO9yjERqT9qHwTPALI",
+         "plus_code" : {
+            "compound_code" : "QW9R+Q3 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QW9R+Q3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJd8ds-QO9yjERqT9qHwTPALI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 462
+      },
+      {
+         "formatted_address" : "No. 14 & 14A, Persiaran Lavender, Taman Lavender, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7734029,
+               "lng" : 100.9147601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.774789479892721,
+                  "lng" : 100.9161461798927
+               },
+               "southwest" : {
+                  "lat" : 4.772089820107277,
+                  "lng" : 100.9134465201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a37558309540f2a26cdb9eb5eb0233c1453fb43e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117937059946324957595/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMQVHn4E2G72xHRsa2sUAFSQqRkcFzmzUw42ETO_DcyZSqYlGE4Y-TV1vfHLacJT60tf0_WeUWh_f0Whx4436sBrKu1CDi4il6vVFniFnCFbn9n6tC6UasoQLTVHBEulBEhBSuH0NDAmDTlC_B5Qj2ov5GhSkY1W3Usfjslo1tvWGTXZuv1NcbA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJfxn47vK8yjERc6VX__dj-54",
+         "plus_code" : {
+            "compound_code" : "QWF7+9W Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWF7+9W"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJfxn47vK8yjERc6VX__dj-54",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 284
+      },
+      {
+         "formatted_address" : "No.51, Jalan Taman Jati 1, Taman Meru 3c, 30020 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.762855,
+               "lng" : 100.940084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.764246829892723,
+                  "lng" : 100.9414067298927
+               },
+               "southwest" : {
+                  "lat" : 4.761547170107279,
+                  "lng" : 100.9387070701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "54481ea06376b258ac11e92ab0d2b589355b9774",
+         "name" : "Sashazafia Enterprise",
+         "photos" : [
+            {
+               "height" : 2916,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110058144563977050576/photos\"\u003eJohn Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASxrChb3m2DCSM3S5QDnYKKdC5Rho3rirlmTs0TRolo5-gNZxsW8rYQD0TErIgbRe1k7sqJcO2EegP1Gp1FuSVCn9PH16LACm-cwA3rMwUbsyW7ppVgv-jGV1W7Ex1eL5EhBOVLdgGAp8n72anVPCrsr1GhRzCecxBa-71Jhgab0j8gyihUtELA",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJUyCAPqq9yjERnqGtfCzI_4k",
+         "plus_code" : {
+            "compound_code" : "QW7R+42 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QW7R+42"
+         },
+         "rating" : 0,
+         "reference" : "ChIJUyCAPqq9yjERnqGtfCzI_4k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Persiaran Bendahara 2, Bandar Baru, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.771662,
+               "lng" : 100.940345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.773056279892722,
+                  "lng" : 100.9416995798927
+               },
+               "southwest" : {
+                  "lat" : 4.770356620107278,
+                  "lng" : 100.9389999201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c0711cb6e89831296b86b1697b313e99686c6f1f",
+         "name" : "Teratak Warisan Kampung Kuala Kangsar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117141491457803032905/photos\"\u003eWan Akmal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfgfrapfpQEQTWS1HuHZcH1iM2svFWNGg7CYTwASZY2F0vF8BXkvEm7O_371BJpK4VW1NCfvNYdlHcoKRndvjH5iwCCQXkhpwtpvEboG-vHztb1i0iZweoGeTkO3AFJz_EhDAOhE1QljzEungBsf0SvzbGhT3iADOUaLZriI4CzukeEIS3GK2LA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEdLsnAO9yjERhzRCjXIUR8s",
+         "plus_code" : {
+            "compound_code" : "QWCR+M4 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCR+M4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJEdLsnAO9yjERhzRCjXIUR8s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 238
+      },
+      {
+         "formatted_address" : "6, Persiaran Prima 1, Prima,, 33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.780862300000001,
+               "lng" : 100.8961114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.782272279892721,
+                  "lng" : 100.8975457798927
+               },
+               "southwest" : {
+                  "lat" : 4.779572620107277,
+                  "lng" : 100.8948461201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cd60a0550ecd90a6e8eadc38db742e74e8bd8839",
+         "name" : "Rambai Classic Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105688703996938018534/photos\"\u003eEco Shield Pest Control Malaysia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ8v24uBiajf4rviNzbZ14sPJjbFbCs8e0uxRTgUK2gaXsH0qA6bCs7m2tsgo-3IMDnVrUHMskBGRbC68QZol1vbZOPAQ1wN410uJBCZR-AiM9udbP9pMpFNDeOE1hK2eEhB3hfqV3z2rXNZvRX2-5Jq3GhSM2noTH83mbbJdaBjV0DXNQ8AvGw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJxyyJUpm8yjERvedHw9ggcPo",
+         "plus_code" : {
+            "compound_code" : "QVJW+8C Kuala Kangsar, Perak",
+            "global_code" : "6PP2QVJW+8C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxyyJUpm8yjERvedHw9ggcPo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 146
+      },
+      {
+         "formatted_address" : "Lot 342, Kg. Enggor, Jln. Kuala Kangsar,, 33600, Karai, Perak Darul Ridzuan., 33600 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.824958,
+               "lng" : 100.9726372
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.826227279892722,
+                  "lng" : 100.9740734798927
+               },
+               "southwest" : {
+                  "lat" : 4.823527620107278,
+                  "lng" : 100.9713738201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0d56057679bd59e86941a2bf00c7e105a442322a",
+         "name" : "Shahrinie Foods Industries",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 381,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104062086584443247763/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJg0f_xzEucKJUeoOP1VwSTx9V2Gz9xoqLBHUKD0rc0PKZi5ueWSjskbLjIyZh_8Pno7S1brxx-23snvowruuQ_NcJBmIryrDSqxRGZB8cAHf4ja9TmoX8MS17S4iBtk3EhCcyco9_JpYWusJA4ZHjSg9GhTd_Lv2L5bbdTK41NTVp_c2M-sc9Q",
+               "width" : 381
+            }
+         ],
+         "place_id" : "ChIJ8SbLSZyiyjERF502FaAOUxk",
+         "plus_code" : {
+            "compound_code" : "RXFF+X3 Kuala Kangsar, Perak",
+            "global_code" : "6PP2RXFF+X3"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ8SbLSZyiyjERF502FaAOUxk",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "sekolah menengah tsung wah, belakang, Jalan Dato Sagor, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.770705299999999,
+               "lng" : 100.926142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.772463779892722,
+                  "lng" : 100.9275404798927
+               },
+               "southwest" : {
+                  "lat" : 4.769764120107278,
+                  "lng" : 100.9248408201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2ff4fb885dff36232ad3f0cc3a2ddc3a920d33a",
+         "name" : "Laksa Pak Ngah original",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104030157912135637269/photos\"\u003eImadabomb90 iqlimaharis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsxci_FxyOrZWAi4qoVQQY0JgzuWZvSszcvoMuWlqJyb6m44YQ8Sn8MpfM2z011jd_sbalh2BcBTpPuT0xLsVi4ZjiYOizPBV1ToaAH8Po6nWCITT2wkTYcTDu11G1r_OEhBrMV4de7ZdaSeHJHQhiYMfGhTjjmmGp2S0TEwv6hPAaNKsliWRcQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJIUoGZfq8yjERMViYIi1BylI",
+         "plus_code" : {
+            "compound_code" : "QWCG+7F Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCG+7F"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJIUoGZfq8yjERMViYIi1BylI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 461
+      },
+      {
+         "formatted_address" : "Kampung Penaga, 33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.772381,
+               "lng" : 100.9441591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.773768429892722,
+                  "lng" : 100.9454628798927
+               },
+               "southwest" : {
+                  "lat" : 4.771068770107278,
+                  "lng" : 100.9427632201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dee9e76d1b3a4fddfa9a251e9f651dfd3c0825a0",
+         "name" : "Laksa and Cendol Food Court,",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4193,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117620230244115830461/photos\"\u003eMohd Fadzil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoi4qr6UwNtR5h-OSQApg4ZprKKxkTWMukXBmeKtaFwjEXT_8cg8Ia4Y7Ey9fCKtvkl3S8IzZUJNWYIzU9tDv99c_puRI7XG-pY7H_pb7AkUGA6GKc0AHVZLLun3hhM6dEhA4-NoR5pO8R-XkxRNEsjFAGhSVhld2wO8-E3pmx321P9SD_KP0Jg",
+               "width" : 2359
+            }
+         ],
+         "place_id" : "ChIJJSUDAwW9yjERqfiZuAH61Zg",
+         "plus_code" : {
+            "compound_code" : "QWCV+XM Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCV+XM"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJJSUDAwW9yjERqfiZuAH61Zg",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 383
+      },
+      {
+         "formatted_address" : "1, Jalan Taiping, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7722318,
+               "lng" : 100.9338463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.773731879892722,
+                  "lng" : 100.9351943798927
+               },
+               "southwest" : {
+                  "lat" : 4.771032220107278,
+                  "lng" : 100.9324947201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2a1d565b2104f64e470467fa5510d4b19d6626a5",
+         "name" : "Pizza Hut Kuala Kangsar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102342622939037037353/photos\"\u003evoravit euavatanakorn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApV9tFVi3316e1HKL7go68inlbqDb3H6uV43MZdLFGPgC4wVEjFYbeyRebwyYMaS0oBUgIv2nmrlu1-gsX3b03foyr9RpFs8N2Avi6ITWGkxHioucC-rijg9zmXqoYVoMEhBiMFoldnNriTYtzuOP2HGeGhRERZeN6l666fhQUpwvI70BbhF0iw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJt_1nDP28yjERqsRcaYH0-pM",
+         "plus_code" : {
+            "compound_code" : "QWCM+VG Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCM+VG"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJt_1nDP28yjERqsRcaYH0-pM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 353
+      },
+      {
+         "formatted_address" : "19, Jalan Kangsar, Bandar Baru, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.769044,
+               "lng" : 100.9401512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.770655429892722,
+                  "lng" : 100.9414561298927
+               },
+               "southwest" : {
+                  "lat" : 4.767955770107278,
+                  "lng" : 100.9387564701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b3a3f98416f37ff322e5f3b1bc0582ad6214533",
+         "name" : "Kuala Kangsar Food Court (Medan Selera) Chicken Porridge & Wantan Mee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105040259473994996153/photos\"\u003eGevakumaran Rajoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzvXDKAmfmCPiMcJlkx5ANbwBzWxs3fm6q7rQ6tdcB2-K3_MZGdiSbX4sUSpzdi6dV2LU6SSqV-K93oEidWPX6mXyEIU9Q04brqEk-93aBcOBFIYWS53h8HMWjYgCIsvbEhBJA8SoUIvPVXRReiV14ruKGhQKRKOHh-OnuyYA75PicU47jc1yuw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ6dNA4AO9yjER_1ZYM652yGE",
+         "plus_code" : {
+            "compound_code" : "QW9R+J3 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QW9R+J3"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ6dNA4AO9yjER_1ZYM652yGE",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7722525,
+               "lng" : 100.9340901
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.773744479892723,
+                  "lng" : 100.9354354298927
+               },
+               "southwest" : {
+                  "lat" : 4.771044820107279,
+                  "lng" : 100.9327357701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "63362834dfcac7895742c8495aaba9981ad3a3e5",
+         "name" : "Restoran Kak Bitah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104485981780332525548/photos\"\u003eMankind firdaus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1Xg4OddIqlJHhrGKWf9vJX4Vn0JZixdroNSsGiCCpAWYF8MDANs_4xHE8PHOf5Hkq_wbEbTR9AhjxOc_9arVPdiyYtuuUOaKTto4d_MfW6z8dfIt1BvfpShQw_6O_-AaEhDSkFvelPa0MVBJqstgtw3KGhTqwAhMc_eZFCe6SSuwU6dpw8AR1A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ27WGePC8yjEROus5ilBYs2M",
+         "plus_code" : {
+            "compound_code" : "QWCM+WJ Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWCM+WJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ27WGePC8yjEROus5ilBYs2M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 149
+      },
+      {
+         "formatted_address" : "No.36, Jalan Daeng Selili, Kampung Penaga, 33000 Kuala Kangsar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7745218,
+               "lng" : 100.9421625
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.775871679892722,
+                  "lng" : 100.9434844298927
+               },
+               "southwest" : {
+                  "lat" : 4.773172020107278,
+                  "lng" : 100.9407847701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "f18be4202b4caedccf35f4db901ce2fc4a5017e0",
+         "name" : "Hotel Seri Kangsar",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289352285420872573/photos\"\u003eMiSs hAyAti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfwCwNOcU2em46YiRrSSWL8Nx7R6fAuytWmIXlXT3B8mjGPkXafRt6y5wdU4pumjMd67sKSkCUJcbB4ih-Hwws4mleEYYsCEwdYN5xHD8SZVxPC5tBKIP1z8kEnLnAD_QEhBoXNbjUM9O3s0RQcbbncQwGhTJgb_dIEPOY5QU6nEO4B5_acyK7w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJHypj9qBftTERDzVeWbxtPLw",
+         "plus_code" : {
+            "compound_code" : "QWFR+RV Kuala Kangsar, Perak",
+            "global_code" : "6PP2QWFR+RV"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJHypj9qBftTERDzVeWbxtPLw",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Persiaran Puteri 3/6, 33000 Kuala Kangsar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.755225200000001,
+               "lng" : 100.9458479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.756485129892722,
+                  "lng" : 100.9472339298927
+               },
+               "southwest" : {
+                  "lat" : 4.753785470107278,
+                  "lng" : 100.9445342701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "231bc6f97bb86d371e3ca672ca4d676128d05f92",
+         "name" : "Ohsem Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110707492804071628802/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm-VySZNb4_UH1ac2Zu5Tl_5Le4264q_SGfjC8dQqqkFWcYujAMYA0a9ksSDTxV2BG-5j0ctr5InpDQeYojvA3NIq4B4CrOg6i2Lf15W4dvJHhu-wE0hCfP5FqO3f_-3sEhAsiRzft_Vfh-RHDNgdLaDaGhQoqWP9mkhNqMvkJxKbbSiv4mzsOw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJPfFZ66-9yjERDwfg7Cp_A7A",
+         "plus_code" : {
+            "compound_code" : "QW4W+38 Kuala Kangsar, Perak",
+            "global_code" : "6PP2QW4W+38"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJPfFZ66-9yjERDwfg7Cp_A7A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123
+      }
+   ],
+   "status" : "OK"
+}

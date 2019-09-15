@@ -1,0 +1,186 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "G18A, G18B, G19B (GF), Plaza Serdang Raya, Jln Serdang Raya, Tmn Serdang Raya, 43300 Seri Kembangan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.042808,
+               "lng" : 101.704452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.044157579892722,
+                  "lng" : 101.7058546798927
+               },
+               "southwest" : {
+                  "lat" : 3.041457920107277,
+                  "lng" : 101.7031550201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca2bef12c8e48e22228b73bb2f4762f19ae05d75",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117368268418157525079/photos\"\u003eFaith Esther Alex\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYk864r8u81Cjoan0Lc9CsKX1tXBleVOKALJHqq8_gmtVubL2uTyTyKU6DzobqTDuEBw6hg4UJczXH2EjfLT-rY-ySczk1y9TPH723QXORPn9N7xyYO0-Fh3kUtk0CcG_EhBeLkN2HTWfDY-laJe63BgqGhRPlrJJCEQ1L54SNnjaPDGnObuRTw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJVU7Ie6hKzDERFf41Ue6AY6A",
+         "plus_code" : {
+            "compound_code" : "2PV3+4Q Seri Kembangan, Selangor",
+            "global_code" : "6PM32PV3+4Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJVU7Ie6hKzDERFf41Ue6AY6A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 357
+      },
+      {
+         "formatted_address" : "Taman Serdang Raya, 43300 Seri Kembangan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0391142,
+               "lng" : 101.704272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.040550679892722,
+                  "lng" : 101.7056238298927
+               },
+               "southwest" : {
+                  "lat" : 3.037851020107277,
+                  "lng" : 101.7029241701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed0f1fc744e187b1c61ef3c63b72ba724ee128c3",
+         "name" : "McDonald's Serdang Raya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106556320704054488018/photos\"\u003ethen yue wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxrdeC5qONd34cL-2MMmcNDqOOHxCsYpaxkRQwLLAAbk3VsWyAOCUJ71A89PURV5zd7WiyZKr9o25BUw4vY6bt8mxmuL7v5R2z_ui423w6lg6oAzIgQ7Ra8XQQS2qK7t-EhDhW9HKL7mCBKcKkp8vsRftGhSSnJzhVQSXQH9V5W4ZmLqg-_YiZw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJpwjRnalKzDER3-IrLDFuLdc",
+         "plus_code" : {
+            "compound_code" : "2PQ3+JP Seri Kembangan, Selangor",
+            "global_code" : "6PM32PQ3+JP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJpwjRnalKzDER3-IrLDFuLdc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 482
+      },
+      {
+         "formatted_address" : "Lot PT 43, Km 47 Lebuhraya KL - Seremban, Sri Kembangan, 43300 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.03651,
+               "lng" : 101.706438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.037886679892722,
+                  "lng" : 101.7076815298927
+               },
+               "southwest" : {
+                  "lat" : 3.035187020107278,
+                  "lng" : 101.7049818701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55d9c1e1428c0029e225c64883362d6171c4fd47",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110425378394539453181/photos\"\u003eAzahin Ismail\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAq7KzBKizKyRA4_NFMornnosdV6f33kgeGo3eVOwUHeYwPh_rcoeRsage2nQh2AAWwZIbrqAGbWyQusXMjvjxhsmiJ-UIvuC1591J62C3fHMc6vgDUSUBJDKkhDvjWLV3EhBoc0qgEVRXXj7CZpcLiLkPGhQHyVEbqZluutrkmtR71VeFIdC0aA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJSUBYvqlKzDERiiUu_4o0rMM",
+         "plus_code" : {
+            "compound_code" : "2PP4+JH Seri Kembangan, Selangor",
+            "global_code" : "6PM32PP4+JH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJSUBYvqlKzDERiiUu_4o0rMM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 788
+      },
+      {
+         "formatted_address" : "Lot No. 19-1 & 19-2, Jalan SP1/2 Seksyen, 2, Taman Serdang Perdana, 43300 Seri Kembangan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0305688,
+               "lng" : 101.7090424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.031968129892722,
+                  "lng" : 101.7103625298927
+               },
+               "southwest" : {
+                  "lat" : 3.029268470107278,
+                  "lng" : 101.7076628701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93e5c9c4da0b76027f3be9e31ebb9ca10cf1bc49",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114360348060017284009/photos\"\u003eHilmi Shaharin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARgQmgpTXkGsCmEBOqhiL8tlVcfUwJMAJY6j-yHFrw97HT7ZPZ7unzIsnKyV309ctoU3q_Mpw4v6oI_BCDSfEMrJQCLM0os31gQNd2HfNgTS8ufM8U7M86963e0v1Rp5aEhC5GQTN__4nD7jCvsP3Rq8gGhQF9yKhf0ztiql65Nh8FB32popw-w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJg2LHUKrKzTERdmTOmUqywgs",
+         "plus_code" : {
+            "compound_code" : "2PJ5+6J Seri Kembangan, Selangor",
+            "global_code" : "6PM32PJ5+6J"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJg2LHUKrKzTERdmTOmUqywgs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 406
+      }
+   ],
+   "status" : "OK"
+}

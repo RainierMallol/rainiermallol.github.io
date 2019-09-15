@@ -1,0 +1,864 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAAI-dERmhpwnVAuAv5WhfjD2tPnYRjVfN2TvwOaDb0nj47Aw6hUCfe1roKoPghh4GWRJMlLmvyUj5jQB5a3Qoxy1X_-XbB8eCm8ZEyjUpAxSXEDr2KFUEgGxTuL39kHygHlYS9BGf6_yiZiUkEeKRW3ikcBqF9qTJ7CbEijKz8EnT2FOKz50m0gM5_44PWrZtW1QiCxp9UBdJX8RKgWKbVvngzVo6Yb4VtweA639a71-14BTTpg7ExLr-hu0QRPrpa2PWLo3LlPRIPGASz0K7lneb1aKX_rH8DS9mZeAqnmlwJWeP6OK1Ds-1rGNdXPDqRX5RsfgeAwJgd06h8vbnFZx0HpiaBerkMOJjb_J6BKdSjRMzHYLvjAZzfprMvcSX_0r99Mc25BEFRXlmJxG7TBqcuKPSQZ6nHJlfYpnXGD5pxuNGF1TygkAeGMdX2PZaiXWmOqfk7KDxogSmsFI1JJkyN6zGDURMfCWWs5CTNj-RiU1gJkgINnj3HnzFtYOxws6T25-5zBsE6irZUoqA8P6L_OsqQvZsMTU6aGTBvTYlGQtNehnZ7eIoKHjijj1VwVEtiduuNQGpEMnNtjp8gU1amNFxcpOfzOkejexV3nqVnSkfTmqRNaHuYiBda00juBFt99h8M_FoQKz3gAwQQeegq1wVo12fWBd9gyRekPOZEhAQOFLH9ErMz1HYU-8UjKHiGhTIo8d5yYJI5JxTrzBBVdOBbOfkbA",
+   "results" : [
+      {
+         "formatted_address" : "1st Floor, Wisma Cosway, Jalan Raja Chulan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.73287,
+               "lng" : 103.901
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.734202529892722,
+                  "lng" : 103.9025461798927
+               },
+               "southwest" : {
+                  "lat" : 1.731502870107278,
+                  "lng" : 103.8998465201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "00d3e7659830d35ec2b45cd7edf4b281b921cce0",
+         "name" : "Supreme Fast Foods",
+         "place_id" : "ChIJs_OIo49g2jEREMRbITZxTpQ",
+         "plus_code" : {
+            "compound_code" : "PWM2+4C Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM2+4C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJs_OIo49g2jEREMRbITZxTpQ",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Niaga, Pusat Perdagangan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7299019,
+               "lng" : 103.9024144
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.731274379892722,
+                  "lng" : 103.9037995798927
+               },
+               "southwest" : {
+                  "lat" : 1.728574720107278,
+                  "lng" : 103.9010999201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4848c83e642802ffcdd0295a231efd2c595a5a1c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100833538013129557345/photos\"\u003eMoy Yoke Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArSenF6QDJ5KPt8WLmJ7n6gVKf5jGJFDVkO3DXO7grVkbvgPB37firkrQrhX2OiD9qI8veOkV0BdUON4p2uU5ge_PpTaavds5C15AvjSdJuMrAB5FF3tKdRyM8iL667zOEhAyO995DMZBX4gvSsdq3BzeGhSES8m-yIpSJHQ8d78uxpZ0ZxKgsw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJxZtwmpBg2jERmgLAjuJZg90",
+         "plus_code" : {
+            "compound_code" : "PWH2+XX Kota Tinggi, Johor",
+            "global_code" : "6PH5PWH2+XX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxZtwmpBg2jERmgLAjuJZg90",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 580
+      },
+      {
+         "formatted_address" : "Jalan Niaga 1, 81900, Kota Tinggi, Johor, Malaysia, 81900 Kota Tinggi, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7303769,
+               "lng" : 103.9019621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.731766379892722,
+                  "lng" : 103.9033527298927
+               },
+               "southwest" : {
+                  "lat" : 1.729066720107278,
+                  "lng" : 103.9006530701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0d0d5242cdee9c3d805e75dbdd61307d726956cf",
+         "name" : "Restoran Haji Daud 6",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101155827219787864411/photos\"\u003eMohamad Amirul Syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWlB-WtqCudD5CfEPCHLk4Uvxceg5MKMnh9QCFUeSB6Tm2flzQSZoFjlTVMcIfoxb952hEFz1EnKz3sfxiwHB00S5t9mFhMvQ49V79oC2MlXsj3GWq3J9srs2xI0w6ECqEhB_fXyKblFBspYpq_hykmfAGhRDHw2w63TwNKFNp-cvlEa-BQgZ1w",
+               "width" : 719
+            }
+         ],
+         "place_id" : "ChIJBZKOmJBg2jERLwc8xWOCpAc",
+         "plus_code" : {
+            "compound_code" : "PWJ2+5Q Kota Tinggi, Johor",
+            "global_code" : "6PH5PWJ2+5Q"
+         },
+         "rating" : 4,
+         "reference" : "ChIJBZKOmJBg2jERLwc8xWOCpAc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Kota Tinggi town GL 49, Ground Floor, Plaza Kota Tinggi, Jalan Tun Sri Lanang, 81900, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.736779,
+               "lng" : 103.90935
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.738128279892722,
+                  "lng" : 103.9107003298927
+               },
+               "southwest" : {
+                  "lat" : 1.735428620107278,
+                  "lng" : 103.9080006701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d1264a6ced825bda5dd255aa6c6c93bb896f3dc",
+         "name" : "Marrybrown Kota Tinggi Plaza",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113185095246077165723/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6YFmIciK8hl8f9D6quJNRyihR1OGArm4S5nZc66RtmALToGtlaMVsJ-ki6JTxrl1CVykChrMx4EScSI7z34BNHyRruknuE1wlgdNz45K6UmSOoZRn_vnVoMHE_Hdcn0SEhAAehl1gb99eaZf4M23-viZGhShRmv8vPIA85iSKKbIKZ1XE_f1Mg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJoSr5R4Fg2jER0SxvZ7oGrw4",
+         "plus_code" : {
+            "compound_code" : "PWP5+PP Kota Tinggi, Johor",
+            "global_code" : "6PH5PWP5+PP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJoSr5R4Fg2jER0SxvZ7oGrw4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "19, Jalan Maju, Taman Mawai Jaya, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7335653,
+               "lng" : 103.905972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.734994079892722,
+                  "lng" : 103.9072685798927
+               },
+               "southwest" : {
+                  "lat" : 1.732294420107278,
+                  "lng" : 103.9045689201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a262b8c21ec0fab3a272aa0366c88efe285d286c",
+         "name" : "Marrybrown",
+         "photos" : [
+            {
+               "height" : 1258,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101155827219787864411/photos\"\u003eMohamad Amirul Syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqKBINh5WVij9MLQlWIWNL2sr3rn7sBG1fwmN_37vqIld35FQTYafm0lZue6KR4HwZasyB3b0q5sHQv-tFWKipxnC6Daadws4Wkj9-H6_XOjd-Y7XzvE94ivdWUZjXClREhAHlGUqhor-ZsdPDUDs8BfPGhQ-6o04HPBj9HyfOP_womfsb0t1zQ",
+               "width" : 719
+            }
+         ],
+         "place_id" : "ChIJ3ZaXUIRg2jERQA1A8cb7LI0",
+         "plus_code" : {
+            "compound_code" : "PWM4+C9 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM4+C9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ3ZaXUIRg2jERQA1A8cb7LI0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "Lot DC01, FC001 & FC002, KIP Mart, Jalan Maju, Taman Mawai Jaya, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7328562,
+               "lng" : 103.9058399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.734456179892722,
+                  "lng" : 103.9069515798927
+               },
+               "southwest" : {
+                  "lat" : 1.731756520107278,
+                  "lng" : 103.9042519201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77b4e1096e06ac8163c31958d4b70632693b260a",
+         "name" : "KFC Kota Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2439,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101155827219787864411/photos\"\u003eMohamad Amirul Syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7VZWL8EZ_dOKQsZ4OewemN5ZqjVHEJb1PdfsvxExTXZk4_sRoNDvb8iGw6vLg1Jfp8KrC4fwtkijSR1OLr9xxD9QFmwfO-y9DJbg7naSUYGODoS1sm71qavAEDxSIsCiEhDkHBVr2fUR4pL3zWl_eQObGhSKJMG74zni8FqyTXJ1fSIAT2XdKA",
+               "width" : 3071
+            }
+         ],
+         "place_id" : "ChIJccM9F11h2jERL6hPLpnZz6M",
+         "plus_code" : {
+            "compound_code" : "PWM4+48 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM4+48"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJccM9F11h2jERL6hPLpnZz6M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "31, Jalan Jaafar, Pusat Perdagangan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7284949,
+               "lng" : 103.900333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.729842829892722,
+                  "lng" : 103.9017084298927
+               },
+               "southwest" : {
+                  "lat" : 1.727143170107278,
+                  "lng" : 103.8990087701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e1d95c341bc806c1d2386cd6638daf21be3c8a75",
+         "name" : "Fat Chicken",
+         "place_id" : "ChIJi9dq7Nph2jERQGKugCSVnRk",
+         "plus_code" : {
+            "compound_code" : "PWH2+94 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWH2+94"
+         },
+         "rating" : 0,
+         "reference" : "ChIJi9dq7Nph2jERQGKugCSVnRk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Plaza, Pusat Perdagangan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7305737,
+               "lng" : 103.9027222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.731901629892722,
+                  "lng" : 103.9040886298927
+               },
+               "southwest" : {
+                  "lat" : 1.729201970107278,
+                  "lng" : 103.9013889701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91c32b1d6605fabcb5c819c9b1f8fbee56425383",
+         "name" : "Marrybrown Fried Chicken",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100931828751909470177/photos\"\u003eHairul Ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_vXrU-m1I2shoQcjRXipmaYgm7Fw13X5kxd4MbAVOgcAxFAJFFH_bz632srbrkWz8n6qVCQAhN17hivZVgTwFoxXrM4Qx1aCSQsT8JNWRaTWQ9W_l3K7-7Sdx_jmzA8hEhDegLxuSilyZCfsoDCIrKtgGhS_jqWN4r0fU_8N5jt-Dqb57w3w6w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJU9bnfKRh2jERU6tmAzY5Hoo",
+         "plus_code" : {
+            "compound_code" : "PWJ3+63 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWJ3+63"
+         },
+         "rating" : 4,
+         "reference" : "ChIJU9bnfKRh2jERU6tmAzY5Hoo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Jalan Tun Sri Lanang, Taman Mawai Jaya, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7336384,
+               "lng" : 103.9059693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.735041429892722,
+                  "lng" : 103.9072832798927
+               },
+               "southwest" : {
+                  "lat" : 1.732341770107278,
+                  "lng" : 103.9045836201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fb5468951f349aba8fa891a351fef9a0fd797418",
+         "name" : "KFC KipMall",
+         "photos" : [
+            {
+               "height" : 2439,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101155827219787864411/photos\"\u003eMohamad Amirul Syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGTA3o-8Rse9jWyT1Sb3_HZheq53WyB33w4FfAZGLqFE9URWcOIhwKBUVbfs_1KjzRXRTitlkXr5SkSlAljaV3P8lQvTtqheyicr7ccjSAFMASXaujFjR0M1mk_geT8qwEhBBaF52_YitDCy_xDeZ-0QgGhQlMwPMc48017h8y8j5otZtFr_vcA",
+               "width" : 3071
+            }
+         ],
+         "place_id" : "ChIJ-TD4Ckhh2jERTM39GMYtM2M",
+         "plus_code" : {
+            "compound_code" : "PWM4+F9 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM4+F9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJ-TD4Ckhh2jERTM39GMYtM2M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "No 37, Jalan Tun Sri Lanang, Pekan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.730919,
+               "lng" : 103.901442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.732177879892722,
+                  "lng" : 103.9028652798927
+               },
+               "southwest" : {
+                  "lat" : 1.729478220107278,
+                  "lng" : 103.9001656201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed478b6adbef278ca5a72b75acf7a884479c364a",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100467434541345773090/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5LbSG95ZRTzGaWYxuJIek3F6lEoJvGIkFuOEt4qRXuIyiMDqbt4QfUnVLKilAjLA-wWrwJF6sibU0Md-DEz2aBRvMe1Fyy4BmCZ0k12vxDotE2OKuqfiMRyQSBV1TbrOEhBprR_JoixZ5SkiWZZKtUu7GhTgAls-g0qxxpJdxrK4i0gkV3ah2w",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJg7olBvFf2jERGSS3QGgELtY",
+         "plus_code" : {
+            "compound_code" : "PWJ2+9H Kota Tinggi, Johor",
+            "global_code" : "6PH5PWJ2+9H"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJg7olBvFf2jERGSS3QGgELtY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 399
+      },
+      {
+         "formatted_address" : "23, Jalan Berlian Utama 1, Taman Daiman Jaya, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.71628,
+               "lng" : 103.889152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.717561679892722,
+                  "lng" : 103.8905032798927
+               },
+               "southwest" : {
+                  "lat" : 1.714862020107278,
+                  "lng" : 103.8878036201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8321eaefcbefd22245eba69b75bddb9e71ce0e88",
+         "name" : "龙凤包点 Restoran Loong Foong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110187116288359013264/photos\"\u003eKiew Pwen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnJEt__XL2psurIl9JuT7BDZcjEhdvCD8XnTuDzMu0U4DJ2Vol32T3EjP5dUUZ9b-eBbf1RKsc305bpRVsaPzQoi86bdti9-IcjzhCfMeNEA1MgjAWNc8yrBa7835BC9LEhAOZ4zV5mZ5KcHaUTSLPalXGhT0kjD_SmxRmy9E63STsubEoK00KQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4YxtHoRg2jERlaJElR4L-_k",
+         "plus_code" : {
+            "compound_code" : "PV8Q+GM Kota Tinggi, Johor",
+            "global_code" : "6PH5PV8Q+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ4YxtHoRg2jERlaJElR4L-_k",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 265
+      },
+      {
+         "formatted_address" : "124, Jalan Mempelam, Taman Kota Jaya, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7353019,
+               "lng" : 103.8903199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.736631029892722,
+                  "lng" : 103.8916737798927
+               },
+               "southwest" : {
+                  "lat" : 1.733931370107278,
+                  "lng" : 103.8889741201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "43e111c6b68aa6ee06cc05daaf2e42590f0dbccb",
+         "name" : "Witchery Ider Kota Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116322822597726817375/photos\"\u003emohd naim karama\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAotZC0pixywh9QmxB_oVqzTH0Nfjf07aZ1ooHu3Ar4BGlVRzYM7o2JenghiVUO7iT9Cwq2HRRGQpU5TR9x2kvpl5oGoltRybXRm76O6bthM8iFxA3lPnFJ8RxeKil3fcxEhCvGuVwANqaREmSihUU962YGhQI9_ga2HzJVQKh_7Nd8cqeh1t1Xg",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJiZpRWvNg2jERKmyOx9qvf40",
+         "plus_code" : {
+            "compound_code" : "PVPR+44 Kota Tinggi, Johor",
+            "global_code" : "6PH5PVPR+44"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJiZpRWvNg2jERKmyOx9qvf40",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 116
+      },
+      {
+         "formatted_address" : "23a, Jalan Niaga 7, Kampung Makam, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7301829,
+               "lng" : 103.9033689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.731498129892722,
+                  "lng" : 103.9046721298927
+               },
+               "southwest" : {
+                  "lat" : 1.728798470107278,
+                  "lng" : 103.9019724701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8aa08d6a9bd51785f3b0f10260fdb251efa29f20",
+         "name" : "Tandoori House Kota Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101391169525424662175/photos\"\u003eBen Choong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAT0X0E4ZDJ2LlOvc0_FbXEVZTo9XKcOqgUqYfDHRHfMWay6uByfzm_jagLbTm2S_jdaRtAlKndfgdgRnSSTK5tn4HOsPlWqBsVJFOMxFI1SUJHEAKd1iHvp3aiugAsseTEhDNApZ4QKCn2TLQJPfcBIR-GhR6JtuyJv-OG35CqF6RKOnvg0e3Aw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJTegFpZpg2jERiiGdedr9o8I",
+         "plus_code" : {
+            "compound_code" : "PWJ3+38 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWJ3+38"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJTegFpZpg2jERiiGdedr9o8I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 259
+      },
+      {
+         "formatted_address" : "1, Jalan Niaga, Pusat Perdagangan Jalan Mawai, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.727204,
+               "lng" : 103.9010749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.728463729892722,
+                  "lng" : 103.9024232298927
+               },
+               "southwest" : {
+                  "lat" : 1.725764070107278,
+                  "lng" : 103.8997235701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45e4d4b30c381c3ce855f2e7093f97fdac84e07e",
+         "name" : "Pizza Hut Kota Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108146843268810901652/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbf73x9dIB42H5WPlEOiYGzzudaXUwVVbNN8HLTxSPb8kGqhBDwZPtWwbN3HXHTF8iYgJSSr7jpRjukZIi_Ye461hYxGrPIn4tJufJcde_alvwjKUCIq2mZy3ZWn6tyhFEhAjNx_yST6sk-ngLu5wsyf0GhTizEMNCwKbzATsSQQCOUs54Kgz1Q",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ1yh1wZBg2jERDXlKVbQoiAQ",
+         "plus_code" : {
+            "compound_code" : "PWG2+VC Kota Tinggi, Johor",
+            "global_code" : "6PH5PWG2+VC"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ1yh1wZBg2jERDXlKVbQoiAQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 279
+      },
+      {
+         "formatted_address" : "PTB5729 BLK A/ Lot 5, Jalan Sri Warisan 1, Kota Heritage Commercial Centre, Jala, 81900 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.733673,
+               "lng" : 103.904837
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.734985629892722,
+                  "lng" : 103.9062132798927
+               },
+               "southwest" : {
+                  "lat" : 1.732285970107278,
+                  "lng" : 103.9035136201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "369a0a0bf01800905cc04399e330a3d5eebabfe1",
+         "name" : "Domino's Kota Tinggi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110906383779409877336/photos\"\u003ekhairieah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqGVoSPj40BkPxHAPCedHSWo9yW1Kx9UMmKxVwkF8UGwU3Pk7Mzk0R64CmQpPTFzeWQW8w6LCZf41pfa9gWo-VGGy0iKE-UwJCZVV31Q3fMmsqfw0GhMAs1CXjPsyGgXcEhAx7UheehghZwKKTFo2OfFqGhSgCnCWz19Wz01tXxn1XSudk_8Y0Q",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJVWVpoYZg2jER0eDj9zaPoqU",
+         "plus_code" : {
+            "compound_code" : "PWM3+FW Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM3+FW"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJVWVpoYZg2jER0eDj9zaPoqU",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 195
+      },
+      {
+         "formatted_address" : "14, Jalan Besar, Pusat Perdagangan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7275362,
+               "lng" : 103.8990412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.728895129892722,
+                  "lng" : 103.9003412798927
+               },
+               "southwest" : {
+                  "lat" : 1.726195470107278,
+                  "lng" : 103.8976416201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0d4f36003996f79eac9df5e9288958ff5b84b55d",
+         "name" : "Yap Fong Noodle House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106792308182814305270/photos\"\u003eJohor Kaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgwiqCsXLRBQZ9B4B57JDjwHQa6IlOIGKwQOSZg--5nituHWckYXrQmnKHOs9obnWczr9dT9xYD2jdod-hcJdCloRLnBt9ddEmHtR3pvLKFx05keFw87v4xlXM9JAdwemEhB_w93LkLyoEKyNJnQ1PX8ZGhQ9-wUCurBAH8IpkKADW604TWLx-Q",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJhZcIF5Fg2jERdJC2c0VwWao",
+         "plus_code" : {
+            "compound_code" : "PVHX+2J Kota Tinggi, Johor",
+            "global_code" : "6PH5PVHX+2J"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJhZcIF5Fg2jERdJC2c0VwWao",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 114
+      },
+      {
+         "formatted_address" : "12, 1, Jalan Kota Kecil 1, Taman Hidayat, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7362885,
+               "lng" : 103.9069557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.737690029892722,
+                  "lng" : 103.9083736798927
+               },
+               "southwest" : {
+                  "lat" : 1.734990370107278,
+                  "lng" : 103.9056740201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "687476948192c3246ba731a65a9ab409079b55ae",
+         "name" : "Red Diamond Seafood",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100462202494650665234/photos\"\u003eKhairiel Nadzriene\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdxmmcu8_TaOTxCXCfxgVobf31oIjJnS3k9CoxV97RBlZeqkBBPzprFqy3CTRKCYSyv_jTn7u2ngVG0G1nXBfLsWkVJxTJdvMd3hUG3JG9__dbBYmIAO9ZeZb_Y87R9xiEhAFX0A-emNU0ibwKRLvf1DeGhRzvIDHqOexOCW2tRRV4M0W_CHuKA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJU3c5lIZg2jERAyl4SDYO9Ik",
+         "plus_code" : {
+            "compound_code" : "PWP4+GQ Kota Tinggi, Johor",
+            "global_code" : "6PH5PWP4+GQ"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJU3c5lIZg2jERAyl4SDYO9Ik",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188
+      },
+      {
+         "formatted_address" : "Jalan Kota Tinggi, Pekan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7328515,
+               "lng" : 103.9038996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.734180579892722,
+                  "lng" : 103.9052631798927
+               },
+               "southwest" : {
+                  "lat" : 1.731480920107278,
+                  "lng" : 103.9025635201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c51025269b286c309cd14290d165babe9d967cac",
+         "name" : "Gerai Belangkas Mahkota",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102764506251345410643/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWeFpU6bbNAzC9dGw2U8wCR6qJU0l8iwT_PmID-ymtGAC0sMZTwT1OR8r4DaNx7SjN3CMZsvEoSvj9EbzJ0ry2thAw_8nMArzyhyUHlR9XbCjt9izMxbR9Sg_uWKjaEg2EhBxHFnoikRVFjtEjhOcqK4lGhT5_flxwJFE1584kMdI_8xEBSbs4w",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJnwVlejRn2jER1By4EYSq1U4",
+         "plus_code" : {
+            "compound_code" : "PWM3+4H Kota Tinggi, Johor",
+            "global_code" : "6PH5PWM3+4H"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJnwVlejRn2jER1By4EYSq1U4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 172
+      },
+      {
+         "formatted_address" : "20, Jalan Niaga 2, Pusat Perdagangan Kota Tinggi, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7303719,
+               "lng" : 103.9029019
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.731744779892722,
+                  "lng" : 103.9042332298927
+               },
+               "southwest" : {
+                  "lat" : 1.729045120107278,
+                  "lng" : 103.9015335701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98c3007a2b9548655aa74d65f887d431266cfa3e",
+         "name" : "Restoran Baser",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106111521474013963939/photos\"\u003eAm Am\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFvFePDHT5suaOh3JevG-fRacbIxD3dYZRbRxWxIjFKB21R0uN9P1PPE8Gu62cmTJdTVq7-Ajfiv2lbVzQpHEEylmeFCJn3G17JsCr5_zL93m2M44cscIYMMpnORavM4VEhAbSiZQvNBqJ2ypiJbRYXrYGhQ3Sh9AwTMQfF1zX8aZclClLPENTA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZSdlqJpg2jERQrsEvlWMmJY",
+         "plus_code" : {
+            "compound_code" : "PWJ3+45 Kota Tinggi, Johor",
+            "global_code" : "6PH5PWJ3+45"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJZSdlqJpg2jERQrsEvlWMmJY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 220
+      },
+      {
+         "formatted_address" : "No 1A&1B,, Jalan Tun Habab, 81900 Kota Tinggi, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.7317253,
+               "lng" : 103.8991682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.733024429892722,
+                  "lng" : 103.9005115298927
+               },
+               "southwest" : {
+                  "lat" : 1.730324770107278,
+                  "lng" : 103.8978118701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "849dc4d912a2aea040ba10e75059519a6560882e",
+         "name" : "Cheese U Bistro Dessert Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104469704930873161474/photos\"\u003eIntandecute84 Intan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAngndPnB7yc4YuwlVwQjALQ-3LOmq0Om5rlJo6PVvMcT5Caq5oV08VMT_Jzy__tSAtAL34jEbDT1sF2LU4dLM8W-ZaATWa_iqvQU4puhk1FqJvt0khABUkRaRm2Z4qdQyEhA16gLFWiZffrkGjMdK2yQRGhQusuyRnen8pWOqoV3rjzn6LMqTrA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJOxHg3Y5g2jERnsvCTYv1UUc",
+         "plus_code" : {
+            "compound_code" : "PVJX+MM Kota Tinggi, Johor",
+            "global_code" : "6PH5PVJX+MM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJOxHg3Y5g2jERnsvCTYv1UUc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 170
+      }
+   ],
+   "status" : "OK"
+}

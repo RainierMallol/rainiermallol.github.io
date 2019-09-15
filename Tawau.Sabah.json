@@ -1,0 +1,779 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "A5, Taman Megah Jaya, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2519092,
+               "lng" : 117.920808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.253257029892722,
+                  "lng" : 117.9222180298927
+               },
+               "southwest" : {
+                  "lat" : 4.250557370107278,
+                  "lng" : 117.9195183701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68d0f49100080c5362e7add73bcb65082d2a6aec",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105822492899633491578/photos\"\u003eaira haibara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYFyHbx35eHJgIe-TzvbGtW20TBpvmx3ZsknW8Tcjw2FlH5snpaHJF9b8wQZ2Qjj77Iv7LLWd-PYCB3cU9MqYYeWvlpkHdSvhXkA5dOCI_-E40I72yCJh85G2xk04pbz6EhDrxyhbFuykFxpDFXNrFeBGGhTrO6ulvQ2eh6w6F7qsux2EUQw3iw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJkc-jlACeFTIRvYgAVACU1CY",
+         "plus_code" : {
+            "compound_code" : "7W2C+Q8 Taman Megah Jaya, Tawau, Sabah",
+            "global_code" : "6PPV7W2C+Q8"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJkc-jlACeFTIRvYgAVACU1CY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1439
+      },
+      {
+         "formatted_address" : "Ground Floor, TB 254A, Jalan Masjid, 91000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2444544,
+               "lng" : 117.888226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.245828929892721,
+                  "lng" : 117.8895761798928
+               },
+               "southwest" : {
+                  "lat" : 4.243129270107278,
+                  "lng" : 117.8868765201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86b37604ad703d2e3ae77374e0418d69b30d3f6e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100465135121078651312/photos\"\u003ezaiinal sulaiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4GFEf_KYwxYUf4NaQDqCPq27dg5YlKCdILVO18TxDNwQTLk4Y8hOY1kAo8sf-1uC5Mj36sZciuhFglSKdykUQp0KlHiItVj4Equ4h-M8Yg3-Vr85TtX1BRFd6ffbYlJlEhCL6NoKfn6SH_X1U5BS7fk8GhQHvD7shDYIFH10luHD9D3HdeWJ0A",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJW2soNmWeFTIR7eUEquiZiyc",
+         "plus_code" : {
+            "compound_code" : "6VVQ+Q7 Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VVQ+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJW2soNmWeFTIR7eUEquiZiyc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "formatted_address" : "Bandar Tawau, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2462503,
+               "lng" : 117.8922759
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.247523879892722,
+                  "lng" : 117.8936202798928
+               },
+               "southwest" : {
+                  "lat" : 4.244824220107278,
+                  "lng" : 117.8909206201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5851437d5add907f04c1db16f26de48ed3cc9fc2",
+         "name" : "W & L Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112606086030650951715/photos\"\u003eRoland R Ripin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0OahLwBP8IlFnxxBIOGpGMYqyFI8oS3CAoywUGfrno0LIsB7BaN0DLVZQ_Ok8kEe0CE2274rA3-tvhvhO3d_aaZX1Y2hIokY7Sl0FPQIbQQdq78xHXzP-hugw5B8C704EhDzkTkflnafwIsDxJ52f4jiGhR3tt0ikcuYLNkcMw3PaI5g4zTCjQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJhyaQTnCeFTIRPYAkgfvZMuI",
+         "plus_code" : {
+            "compound_code" : "6VWR+GW Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWR+GW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJhyaQTnCeFTIRPYAkgfvZMuI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "16305, Jalan Perdana Jaya, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2576258,
+               "lng" : 117.9208662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.258967329892722,
+                  "lng" : 117.9222899798928
+               },
+               "southwest" : {
+                  "lat" : 4.256267670107278,
+                  "lng" : 117.9195903201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4d935784e1f317612e01aebf5aa79c4708925366",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101263929731952255856/photos\"\u003eMolly PeiLing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADiVDzSR-7zdXv_wZ7whJ6Jl_Lcn6dd4lWDCSHJ3nHQRN1l_ZBlXPkzPcq2z3RxSVFI5srEOLpKsMPN5KkXoQCM7xgnM888dFC3WhdOAmMnsdqSGfjbfU6zujScVZUCc6EhAxxEdIZyST_Mx8C6wlaXDaGhS_tNe5ZmZ46Tceb2K9ypNxaQ7wiA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJkRMcN_mdFTIRwxJMl-to6R4",
+         "plus_code" : {
+            "compound_code" : "7W5C+38 Taman Megah Jaya, Tawau, Sabah",
+            "global_code" : "6PPV7W5C+38"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJkRMcN_mdFTIRwxJMl-to6R4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112
+      },
+      {
+         "formatted_address" : "TB 909, Ground Floor, Empire Building, Jalan Habib Hussein, 91000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2459897,
+               "lng" : 117.8824016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.247317679892722,
+                  "lng" : 117.8838446298927
+               },
+               "southwest" : {
+                  "lat" : 4.244618020107279,
+                  "lng" : 117.8811449701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ecec310a0b31d8ef8112ba80e08e2c9a11d91c9",
+         "name" : "KFC",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102059930534077552809/photos\"\u003efhieyan zholank\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhHYqABvXgBcii-n0Drv200QvGrv_QEk0JsvpZLO1VNEVmK6D_nUCIr3ksk1dMJbnFq06rai_gjS1Cx_5yPk8P0CjegdmCjZ0N09Cge1t7YUqukJ6i9UTPkRxyc6Bci-hEhAE4K4z0b7442cTnIZcnyYCGhRbg9JapoL1eOVVWG6M4VBiz8LtNw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJscJnuHyeFTIR1almucS0_I8",
+         "plus_code" : {
+            "compound_code" : "6VWJ+9X Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWJ+9X"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJscJnuHyeFTIR1almucS0_I8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 229
+      },
+      {
+         "formatted_address" : "TB319, Block 38, fajar Complex, District Tawau, 91000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2455691,
+               "lng" : 117.8923568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.246919779892722,
+                  "lng" : 117.8938146798928
+               },
+               "southwest" : {
+                  "lat" : 4.244220120107278,
+                  "lng" : 117.8911150201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "110d43905804a618e5837d79c18fb5d5efb0cfd7",
+         "name" : "KFC",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114002465315675186471/photos\"\u003eNick Hunn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyw7HpXOs4f7iwopHtQgbkHbUQtOF2kdkFylOOb_fyuIjj-bKL-0P0Z83Dfr9b50Kz6LEQiae0Dr2MiSMqWmthb-mtTLo3z-8o_iZH79aBZbyzxXvvU76YdLZeILD_6bJEhBM5i3NnmhNnp8ToHYJRm3UGhRsjHggod8bWkUcIGmMEOGkYMtR_g",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJX8FXMXCeFTIR_Y3bQSH9Blo",
+         "plus_code" : {
+            "compound_code" : "6VWR+6W Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWR+6W"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJX8FXMXCeFTIR_Y3bQSH9Blo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 213
+      },
+      {
+         "formatted_address" : "KFC BALUNG, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.360487,
+               "lng" : 118.0990872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.361873729892722,
+                  "lng" : 118.1004031798928
+               },
+               "southwest" : {
+                  "lat" : 4.359174070107279,
+                  "lng" : 118.0977035201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "100c0319a2d39b43c1ede84bc5a478e2c43da0df",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115192519763013929234/photos\"\u003eAdams Apple\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgAHSR8ZxcjqwQ_RZ14duF-YqALsWsS7W80jWa-dlrk3GaLuUHSaII4dqi8ciqtaKxtt_6W91BcGczHzxVBBfbQN32DOoQ1ye4YiJn8nsHI9P9QcEF3cKpkTHdX3ZkBbrEhBq6tlmjDn5VUmFk6V62ij3GhTaRzLMVTllNvRwLnVziEe72b4ryQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUZsf3yV7FTIRuTS4rWNtf68",
+         "plus_code" : {
+            "compound_code" : "936X+5J Taman Sri Balung, Tawau, Sabah",
+            "global_code" : "6PPW936X+5J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJUZsf3yV7FTIRuTS4rWNtf68",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 150
+      },
+      {
+         "formatted_address" : "K02, KM 5 1/2, Jalan Chong Thien Vun, Off Jalan Apas, Sabah, 91000 Tawau, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.257569999999999,
+               "lng" : 117.920331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.25911667989272,
+                  "lng" : 117.9216926798927
+               },
+               "southwest" : {
+                  "lat" : 4.256417020107277,
+                  "lng" : 117.9189930201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1209ac8f5253d48d8cf905fcb6e24aa0467ff9ee",
+         "name" : "Big Apple Donuts & Coffee",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101263929731952255856/photos\"\u003eMolly PeiLing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOEeTgWBONqGupEPq1RYwzC2e46HEbrvjnYmCqNkFYDho22ck3W9Bo7yGDdiPKM9g6PesnZWAPlwXpGy6HmbRkFdFSMbc2xJNkrCVA4I760m5XpasyP3QzyuEZBhYJB7BEhA4Aq2aGwSwGvFvjDTOC3CtGhQWK1HmLyE468fvkTtkmo6PrXGmjw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJj-5USvmdFTIRadpeFHmG8lw",
+         "plus_code" : {
+            "compound_code" : "7W5C+24 Taman Megah Jaya, Tawau, Sabah",
+            "global_code" : "6PPV7W5C+24"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJj-5USvmdFTIRadpeFHmG8lw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "201, Jalan Haji Karim, Bandar Tawau, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2464632,
+               "lng" : 117.891916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.247815379892721,
+                  "lng" : 117.8932202298927
+               },
+               "southwest" : {
+                  "lat" : 4.245115720107277,
+                  "lng" : 117.8905205701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "97315f9af3f35415c00f229f6c7ddf9cdd0c8d24",
+         "name" : "Kedai Kopi Yun Loi",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115733684255602920166/photos\"\u003eHizkia Maran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX5ILwt29qjUW0g8_lcCOWU4VGrgJ3j856tGesYwTSd2qT4QtyNUVJ8hJiM3PFFf3wHPsXx4aNOKapQCp1KP-YUWH2Dpht-Z-rI53Dym3nI7-AjDQfhWLqQyrR2u3taYdEhAM0NIdPOvyDmmIA4q7-K3GGhTVVYT1XKlglxRNyv8YJ64tNOQLGQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJjyFRRXCeFTIRREvrQxAD0pU",
+         "plus_code" : {
+            "compound_code" : "6VWR+HQ Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWR+HQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJjyFRRXCeFTIRREvrQxAD0pU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Peti Surat 1299, Felda Umas 2, Sabah, 91037 Tawau, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3016292,
+               "lng" : 117.914787
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.302717479892722,
+                  "lng" : 117.9159627298928
+               },
+               "southwest" : {
+                  "lat" : 4.300017820107279,
+                  "lng" : 117.9132630701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1af1a3b12ed1bae971f534f2a0424e2540b9af86",
+         "name" : "Perusahaan Keropok D'Umas",
+         "place_id" : "ChIJSaJQomWdFTIRQsk8KPwTzzE",
+         "plus_code" : {
+            "compound_code" : "8W27+MW Taman Air Panas, Tawau, Sabah",
+            "global_code" : "6PPV8W27+MW"
+         },
+         "rating" : 5,
+         "reference" : "ChIJSaJQomWdFTIRQsk8KPwTzzE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Taman Semarak, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.300125,
+               "lng" : 117.885128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.301472579892722,
+                  "lng" : 117.8865531798928
+               },
+               "southwest" : {
+                  "lat" : 4.298772920107278,
+                  "lng" : 117.8838535201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3407e3548919d81fb03f1545204d9f796a91c8ed",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104226515093158088771/photos\"\u003eDwan Fasuri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2XyQ6yASOgPk58nHncL_1k-LKno-yoCNnif-YuIr-c29uQRVKF5LzmFzhQr9nkzO_uLGm6TrmpZ7mmA9o4xq44yYe11XzHI73EGpLBMwxpocX2w8fHqWEh9stkLwKPbdEhBLUVUBipvVU7HCd7dWtrm4GhQAvgpZoVzzZHeBXIsrAY_2kt7mjw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJMdfXYC2dFTIRLaNhjLu2XlE",
+         "plus_code" : {
+            "compound_code" : "8V2P+23 Taman Semarak, Tawau, Sabah",
+            "global_code" : "6PPV8V2P+23"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJMdfXYC2dFTIRLaNhjLu2XlE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 106
+      },
+      {
+         "formatted_address" : "Malaysia, Sabah, Tawau, Bandar Tawau, Jalan Bunga, MPT 258, Kompleks Cahaya Baru邮政编码: 91000",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2449161,
+               "lng" : 117.8891845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.246268129892723,
+                  "lng" : 117.8904952298927
+               },
+               "southwest" : {
+                  "lat" : 4.243568470107279,
+                  "lng" : 117.8877955701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d41580379ccadeba294c70b1d5f33e234848db5",
+         "name" : "Uncle Bob Fried Chicken",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107817000802403466304/photos\"\u003echee vui chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvKJdoyesnikz6Beth1gdZ19Kqa9cZFrBu8yuLv_Rqfm75-KcXJMZQbKFYYG-w_Q9OvqncMYKme8EyR-9z2mcySqCwlHUeURgWjnlIlvtOpU7if3o8DJOt93aVjdpZNBFEhA-DcDpjQpq_yUvAAvKHrn_GhTBjoB2WB_AOuv11GfFIxkdWBWUxA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJa3K2ogCfFTIRK1ClelRNW20",
+         "plus_code" : {
+            "compound_code" : "6VVQ+XM Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VVQ+XM"
+         },
+         "rating" : 0,
+         "reference" : "ChIJa3K2ogCfFTIRK1ClelRNW20",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Ground Floor, No. 271, Lot 5, Block 28 Fajar Complex, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.245743,
+               "lng" : 117.8898226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.247088429892721,
+                  "lng" : 117.8912295798927
+               },
+               "southwest" : {
+                  "lat" : 4.244388770107277,
+                  "lng" : 117.8885299201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d151587033c817ed0b411c82888229ba3183116",
+         "name" : "Pizza Hut Tawau, Sabah.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114312377685327793245/photos\"\u003eEnos Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANl7r5lf-fG0hnzUCR7f2QG_LHEyGyO-LL_GnyyPod2k_au_ANxe6NBO_EKki8hHB8tDoB8t8PmgTrgk0h4OE7WN_YJN1OkJXpc9w95iYv9nE19K8wKkTyqIXNTdWQYkGEhDOpxnkJspNRszaMK7bbmzbGhTvfhe5Gpmz6hizR9KCpJS85vMPYg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJp3YhOlMSPjIR6_bsYCqRtFU",
+         "plus_code" : {
+            "compound_code" : "6VWQ+7W Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWQ+7W"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJp3YhOlMSPjIR6_bsYCqRtFU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 416
+      },
+      {
+         "formatted_address" : "CL. 105509868 At Mile 4, Jalan Apas, Tawau,Malaysia, Sabah, 91000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.251749,
+               "lng" : 117.92078
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.253036679892722,
+                  "lng" : 117.9221239298928
+               },
+               "southwest" : {
+                  "lat" : 4.250337020107279,
+                  "lng" : 117.9194242701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "51cc9291b2640cf3a79aba920315434f2c1124da",
+         "name" : "McDonald's Jln Apas Tawau DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJYcu_jnOfFTIRWcz1uGudxpo",
+         "plus_code" : {
+            "compound_code" : "7W2C+M8 Taman Megah Jaya, Tawau, Sabah",
+            "global_code" : "6PPV7W2C+M8"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJYcu_jnOfFTIRWcz1uGudxpo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Chen Fook, Bandar Sabindo, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2425411,
+               "lng" : 117.8895694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.243949479892722,
+                  "lng" : 117.8909102298927
+               },
+               "southwest" : {
+                  "lat" : 4.241249820107278,
+                  "lng" : 117.8882105701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f8a3440a9dc595a45b895f8ef2d2c6a9876fc37e",
+         "name" : "Kam Ling Seafood Restaurant 金陵海鮮樓",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2346,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111101759830574575321/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPx_HrA0locnm0LoI3zS3urLFGTDtn9NONhYSMHDiK6yodLynum2jr0gNqW88Jx1TVv_xm9eu2bOrqbLQ3I38tXW3wMDYR6U5TGl873_PdrhEKHrTryA97OxkveCxcvroEhAObf2woKqeUqDBJN7coZZHGhRumFmzbMxN_xhNUZWMEBaNeH3n0w",
+               "width" : 4171
+            }
+         ],
+         "place_id" : "ChIJl3D6GIWdFTIRFxf9evZ2HL0",
+         "plus_code" : {
+            "compound_code" : "6VVQ+2R Taman Sabindo, Tawau, Sabah",
+            "global_code" : "6PPV6VVQ+2R"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJl3D6GIWdFTIRFxf9evZ2HL0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 721
+      },
+      {
+         "formatted_address" : "Lot No. G1, G2 &G3, Grd. Floor, Giant Superstore Tawau, 91000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2459141,
+               "lng" : 117.8825732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.247269529892722,
+                  "lng" : 117.8838991798927
+               },
+               "southwest" : {
+                  "lat" : 4.244569870107278,
+                  "lng" : 117.8811995201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9faaa4c908f8bf14558715b4002541032c39b0e2",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104089272213535454093/photos\"\u003eSoul 1987\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgkM6T9K-d-flxtfGiKMdVA1RZN4vOTkB43qc3VF45Tlal3c5eN9wjdfLKELx00Am1KFTPcRR_tLpgF8M337wPtrp7o7B-gNbeE0yWBXAgWwwcQNlF0wOG5gBKo_XiXWwEhAuOS4BVCvOEPKDEdaVMY2GGhSflczGKohypdDK14lfFjFAsPbQ9A",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJm685v3yeFTIRSty__Y4tlIw",
+         "plus_code" : {
+            "compound_code" : "6VWM+92 Bandar Tawau, Tawau, Sabah",
+            "global_code" : "6PPV6VWM+92"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJm685v3yeFTIRSty__Y4tlIw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "TB2540,TAMAN, Jalan Chong Thien Vun, 91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2589161,
+               "lng" : 117.9123545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.260330029892722,
+                  "lng" : 117.9137126798928
+               },
+               "southwest" : {
+                  "lat" : 4.257630370107278,
+                  "lng" : 117.9110130201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0751693abb5c2f3a44dcd54ffa89dd0b7014f3a",
+         "name" : "Olive Bistro",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106430070984375052190/photos\"\u003eOlive Bistro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyX9hgSNFdARx-sJqcAmwjUdvD6Y75V4utkiTqeV24G83N3oXba1tqkTc3Yxs1QIfYSAIM3AChL5mPtn0Mm5u04ZG1MBtsK4Olm_Ajlykxg-EvyttH68IiGtummWC_D3hEhC4mKMMivdYpPB2x5ZG4PaYGhQz7oadnvd7JGDjgtD3BCv17wCulw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJzacXjnqeFTIRAuUT4EP-ag4",
+         "plus_code" : {
+            "compound_code" : "7W56+HW Taman Mulia, Tawau, Sabah",
+            "global_code" : "6PPV7W56+HW"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJzacXjnqeFTIRAuUT4EP-ag4",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 254
+      },
+      {
+         "formatted_address" : "91000 Tawau, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2490835,
+               "lng" : 117.9112226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.250455379892722,
+                  "lng" : 117.9125753298927
+               },
+               "southwest" : {
+                  "lat" : 4.247755720107278,
+                  "lng" : 117.9098756701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "61b9b4016d50b56329e87c88f43e0a913184725d",
+         "name" : "Sri Titingan Seafood & Steamboat @ Tawau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110962971232375735514/photos\"\u003eDavid Liew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARnW8Rd5EaLQIxjlAZ6i5uKQLWTy5QJuXL7na4mDQIw0SRHKq_i_vSf0kZMcOvY5_kiaDrmdKfx15ucoNde_gRc39v_CNPadMgR8D3wsPuSGczWs4uNdqfeQPXBpstUs_EhDxF00o0DQfk9u2JsnYtpmeGhTlg6snIKu2mX-NFHDLjbJOFiQVdQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJQXBMx-adFTIRR8pY8wwBvvQ",
+         "plus_code" : {
+            "compound_code" : "6WX6+JF Taman Mulia, Tawau, Sabah",
+            "global_code" : "6PPV6WX6+JF"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQXBMx-adFTIRR8pY8wwBvvQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 631
+      }
+   ],
+   "status" : "OK"
+}

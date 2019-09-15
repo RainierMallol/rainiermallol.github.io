@@ -1,0 +1,855 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-QEAAMeUuBlAFq-7e7cU5tWrkFNtNgfouN3xuTFgJZ8Xj92w6diVC_ufyjTGA5_lfZDWijBD0jT2gAYv5MajbSTaM81PD60Svkb_65u032NuHEh_Kfh8Ue_z9XL601vT7rntSgeynWo_mEsNBtD6C6VzwzKpc9FUqmRKcpXnu1aUo45MMJqQdxy5QfwzSQQ5purK-jr4Z_72GULhxQ4NIqvIosRJOspQu6KZtYbggcSXysUn-oIwlIHO3D5dQpYJa-Yp1NHAPNsE4HehW_3JDtYH0N-NlXxs27v4EA_byr--VmPA06VLT4jb3CTQZRvke6RTfYsuJNGO9gTtwlj7E4rL9UPLSr13GEJi31lWm-w2Mafl3WP8nmh7qTyAuaypDl_su4tb_oWa16vM6GffEyLQbKCsPTErtwdMSI7G1VjNyzPLHjJU2Bb2eGBLHph4YjEp9pZIjP4i36Cyxwg9a-Aq-UhA-f2PvohC8ZbYADJip1TETxTFFqtbiDu2RzVnzLCh1OZ-zCqv2GHNhs_GG6sZuYWA-0A8HxAEuvuVHTwsiYLaGAZ5qgr_rvafU1Cz1_44sApS3NZY4Gf5NIlpyCbk6gsDNQqJMTcTxo4nK706BKScaQDcAPoNvoLcWogZI9fTykfzUrI95Tn7IMhubvoshLwn_D-I-aAEvudKeeoPl0POEhCIAYg0MjP1cYLS7MkMLnBoGhSNhDxM9mFfgplvklU9tmFOPYTT6A",
+   "results" : [
+      {
+         "formatted_address" : "kampung sungai ud, 96300 Dalat, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.7489342,
+               "lng" : 111.9420432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.750343329892722,
+                  "lng" : 111.9433622798927
+               },
+               "southwest" : {
+                  "lat" : 2.747643670107278,
+                  "lng" : 111.9406626201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ac3a6611371335b2c2893a52e839ac891743634b",
+         "name" : "Yummy Abc & Burger Dalat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103215240780047203216/photos\"\u003eIrena Syakirah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAulFRjLfe4OSgHoBVwouNVBqjCL8Bt04nep0tVeKwCgBGVgPOkvQlas0twSnJy-J21WVx4kEhGcTNl25s-19aLgVFECGrB5OZqmgmshJHU6vRMj2xh9Ya85COZRXBgzLCEhDtlAlpS0PZDKTcavN8pBDhGhTmccSQZwb1Xm5SNaiIpGERjg6qiw",
+               "width" : 607
+            }
+         ],
+         "place_id" : "ChIJgfOuOc-o9zERIe82pf28QCg",
+         "plus_code" : {
+            "compound_code" : "PWXR+HR Pekan Dalat, Dalat, Sarawak",
+            "global_code" : "6PJHPWXR+HR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJgfOuOc-o9zERIe82pf28QCg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119
+      },
+      {
+         "formatted_address" : "PASAR OYA 96410, Oya, 96300 Dalat, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8566994,
+               "lng" : 111.8751485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.858036579892722,
+                  "lng" : 111.8764692798927
+               },
+               "southwest" : {
+                  "lat" : 2.855336920107277,
+                  "lng" : 111.8737696201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2864b5ed916adbeed48df60e8aad238a44f957cd",
+         "name" : "JARANAH CAFE , Gerai Tamu Oya Mee Udang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115119540214133076192/photos\"\u003ejane daniela\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT1o6eGwr4SGNASoWgEIqFak-IcmbVjwtl5eCORBXgCJX1EllIYObJPl1cQ06dO0g4jfCJTi_Bvy41EghzI5OFMPsAIAYkgtZVq0IJKamH0q870HMx1k88dydk4rN2YxlEhCZktWfsA10uYgwE_yXnYpcGhQxvK472YbhgRCAiixMsisxRkhVzg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJD0jzAb6q9zERRER7Cp1YQx8",
+         "plus_code" : {
+            "compound_code" : "VV4G+M3 Oya, Mukah, Sarawak",
+            "global_code" : "6PJHVV4G+M3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJD0jzAb6q9zERRER7Cp1YQx8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 187
+      },
+      {
+         "formatted_address" : "Mukah New Township, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8924035,
+               "lng" : 112.0902103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.893754379892722,
+                  "lng" : 112.0916045298927
+               },
+               "southwest" : {
+                  "lat" : 2.891054720107278,
+                  "lng" : 112.0889048701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b4dd446da7b7dbc9e40aea383ef2e1450c29680d",
+         "name" : "SugarBun Mukah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109341841601179718192/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASyesRGIxSQtvJ_sv1WtxlyzAJTtTckhM2Hv9VVIXmNpBs_wuleG5uewes_UlprFw2gGUNDprvtlebemxLWOs3yd6vV3TKY6dv6QRw6MQLS_blD1hphmFAAPErp6ay6jdEhAb96THhwinx8HeaRTyqltKGhT9Uois9e6MwgyWg_V3opRNiSHFUw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJN4xvxR5N9jERJNVmd9vfNoI",
+         "plus_code" : {
+            "compound_code" : "V3RR+X3 Mukah, Sarawak",
+            "global_code" : "6PJJV3RR+X3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJN4xvxR5N9jERJNVmd9vfNoI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "formatted_address" : "No.36, Jalan Lintang, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8968002,
+               "lng" : 112.0948563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.898185329892723,
+                  "lng" : 112.0961901798927
+               },
+               "southwest" : {
+                  "lat" : 2.895485670107278,
+                  "lng" : 112.0934905201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d68cf0d403a68feb467695c86ccf3702d064c7e",
+         "name" : "2 + 1 Fastfood",
+         "place_id" : "ChIJvRHHZB1N9jERH-_roPnga_Y",
+         "plus_code" : {
+            "compound_code" : "V3WV+PW Mukah, Sarawak",
+            "global_code" : "6PJJV3WV+PW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJvRHHZB1N9jERH-_roPnga_Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lorong Wong King Huo 3, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2920622,
+               "lng" : 111.8422888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.293503479892722,
+                  "lng" : 111.8435592798927
+               },
+               "southwest" : {
+                  "lat" : 2.290803820107277,
+                  "lng" : 111.8408596201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "418238d6a2de17ae25c15eea4bf6a2853f4caa5b",
+         "name" : "Pelicana Chicken Sibu @ Medan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111412401473161668506/photos\"\u003eLUCAS Y氏\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4ccbchL_qAC4s_nMeqktzsZcastlejAYGJ4wIy5rPTs82MYh8XFPFkAQE180D_v7BRkiCRXryHWkKV6ntk0ZJirC0TzRAuxYYM_FNIKDCWfD8ZiVNrm0cylnuDo-5wBdEhBpqesF5kQd1QtI4MWGNhXaGhSDUScayuCBRu4A280icY5yztI5Jg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJT_CkdOV_9zERLaFPXl7HsZg",
+         "plus_code" : {
+            "compound_code" : "7RRR+RW Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7RRR+RW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJT_CkdOV_9zERLaFPXl7HsZg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73
+      },
+      {
+         "formatted_address" : "NO. 1, GROUND FLOOR, Lor Indah Timur 3, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3466426,
+               "lng" : 111.843332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.347952629892723,
+                  "lng" : 111.8446837798927
+               },
+               "southwest" : {
+                  "lat" : 2.345252970107278,
+                  "lng" : 111.8419841201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a27b973fef47b364ba9553f14f1afcf3a701345",
+         "name" : "SugarBun Taman Indah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108914546499350553545/photos\"\u003eM Mickee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsFoQOaaq3J5E5I44zXS3SLHCahCcWqutO0nKEfeTz8RHvfW_vWvAbVDhxnlhPXdP4S_t_19ekZdlFPIAF7pKa_WxzoP9PiAeqWFM1PWIrW_isf0hywEPIINwmi2u3KREEhC_cZYFl3K5JTwjDA-7EEfcGhQkDMzGJkUrghjm3AkKDlH8_zc-WQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJuxYSO0V_9zER1O0KzPsJj9A",
+         "plus_code" : {
+            "compound_code" : "8RWV+M8 Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8RWV+M8"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJuxYSO0V_9zER1O0KzPsJj9A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "formatted_address" : "LOT 2157, SHOPLOT 1, GROUND FLOOR,MEDAN MALL,, 96400, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8907358,
+               "lng" : 112.0933639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.892087079892722,
+                  "lng" : 112.0946838298927
+               },
+               "southwest" : {
+                  "lat" : 2.889387420107277,
+                  "lng" : 112.0919841701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "04e526254943553d886970bc770c1d0108aca0c0",
+         "name" : "SugarBun Medan Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111570762303362993716/photos\"\u003eMOHAMMAD FADRUL MIS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFAGQC6sAjsWCMr0wQRb_ny__0brbaxgYZhyY3e13tXXOT_w5gOHHe9gkWQXvoK5_QpT6a8qaYVCqgI0teLWzoR3M3QsP6X3fgV0zQ3QtguE7CdnW8xTrrVIM2w2_ECsvEhBNG3dP1lb0ODaikYdWL-27GhT-PBFlQaGQ8eK_OYqoBK4EncZXeg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJiX2Tux9N9jERTAF0PBtmq_U",
+         "plus_code" : {
+            "compound_code" : "V3RV+78 Mukah, Sarawak",
+            "global_code" : "6PJJV3RV+78"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJiX2Tux9N9jERTAF0PBtmq_U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Ground Floor, Lot 226 & 227, 96700 Kanowit, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1005723,
+               "lng" : 112.1571671
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.101911629892722,
+                  "lng" : 112.1585622798927
+               },
+               "southwest" : {
+                  "lat" : 2.099211970107278,
+                  "lng" : 112.1558626201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "15dbaf036c966f8299eac2b339938f4037f18746",
+         "name" : "SugarBun Kanowit",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116444017302806800963/photos\"\u003eJuliana bugat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuSCxb_BlZIqu1WfjT4komAYyNelKVy-FjrXg5zyFf8O49yXP3et6H4-mZ5k1tFPB6_p6iiFNqwFxy_9z2ITekgSm6lhenKOOTmxfuoiP7qOo2WJbaXmFMGYbpg5ZB0C8EhCV5PbGvXrP1hKTljdxWN31GhTpHmz3OlDHvDtJVCxRCtGSomVSXg",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJ01mDzYg8-DERJj2ZD2y5R34",
+         "plus_code" : {
+            "compound_code" : "4524+6V Kanowit, Sarawak",
+            "global_code" : "6PJJ4524+6V"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ01mDzYg8-DERJj2ZD2y5R34",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "LRG 25 B4 LOT 3475, Jalan Ulu Oya, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.300912400000001,
+               "lng" : 111.8501816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.302173529892722,
+                  "lng" : 111.8515837798927
+               },
+               "southwest" : {
+                  "lat" : 2.299473870107278,
+                  "lng" : 111.8488841201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a978c00fe70b195b626daa37f5b945981a41a450",
+         "name" : "SugarBun @ Oya Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101992989025271802501/photos\"\u003eEileen Chua\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0Ph1b1vlQ0n4_ajMbmnOYT-gR4tmp6c3mJA6ln3aaWHk7xc46HhFAbt1p0sfNcdlVR2IpH7nBECC3pK0BvhHJiL6yqurD1uHn3fultyGFe2rouQ2jMjuuPuB5O2pZb8kEhBhwo-D9wfoXL78XryiCRzNGhTq-mEzBA9QBlIycY4N2gO1NOXegQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJy_m8Z_N_9zERQn4cpqnymzs",
+         "plus_code" : {
+            "compound_code" : "8V22+93 Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8V22+93"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJy_m8Z_N_9zERQn4cpqnymzs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 403
+      },
+      {
+         "formatted_address" : "Jalan Ulu Oya, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2958247,
+               "lng" : 111.8960312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.297182879892723,
+                  "lng" : 111.8973221798927
+               },
+               "southwest" : {
+                  "lat" : 2.294483220107278,
+                  "lng" : 111.8946225201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86df0eb1642bcf15a6c0091c676938ccb7ce3629",
+         "name" : "SugarBun @ Jalan Ulu Oya",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107368207051857379752/photos\"\u003eLily Harith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFXGxp-N3Ci7e19aAK_RX6Re4RYPuzDChcwG1WKwxF_Nk1je0THB3gznMGs_tBKMQBh4WsEESnrR5I6zbp3iEmqpoSrc7cXwbfPgVgQfL201KWCDrnZhAcQ2pMsT5Nd7qEhC2Ra-SIlrRJDi9AJTb3cqhGhSjNxoD48cJ5XhxrKEQxa2cJgiDqQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJcf1ANmSA9zERpi1w9ufI9IE",
+         "plus_code" : {
+            "compound_code" : "7VWW+8C Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7VWW+8C"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJcf1ANmSA9zERpi1w9ufI9IE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "GF, 10-12 , Giant Hypermarket Sibu , 2 , Lorong Ling Kai Cheng 12A , 96000 Sibu , Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3257944,
+               "lng" : 111.8536238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.327250129892722,
+                  "lng" : 111.8549576298927
+               },
+               "southwest" : {
+                  "lat" : 2.324550470107277,
+                  "lng" : 111.8522579701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2fa97750509eb3e83734f20256acd0e5d04bb636",
+         "name" : "SugarBun Swan Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107480206184012226675/photos\"\u003egeorge lau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApyFiyaxoykdNSaTWkNNXT1lhm-asT3MzITTAF4b0wkYrVeoyc2HKFJa6ScTgDsjujx6ZTNbgqfxAr04jcvJfp-xDk8Rwwo08tKZh9RseBGofbRRIO6psrl6J09a-ZelIEhAQ-n3V4y9bJfyHG-fVOuCeGhTzM7jE6T0sMTr8U9QlBEgQM0mVig",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJY7oAMHx_9zERaLJhwSZH628",
+         "plus_code" : {
+            "compound_code" : "8VG3+8C Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8VG3+8C"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJY7oAMHx_9zERaLJhwSZH628",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "New Township Extension, L924 & L927, Sublot 1142, Jalan Orang Kaya Setia Raja, 96400 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.502659,
+               "lng" : 112.315669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.504042229892722,
+                  "lng" : 112.3170070798927
+               },
+               "southwest" : {
+                  "lat" : 2.501342570107278,
+                  "lng" : 112.3143074201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3878f44f825ddd169264c4249d5bc12bd5abdf5d",
+         "name" : "KFC",
+         "place_id" : "ChIJkZwi2fPr9zERk-7n7uiKyjo",
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJkZwi2fPr9zERk-7n7uiKyjo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "LOT 8231, BLOCK 11, SLD 17 11B,, 15, Lor Ulu Oya 16A, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2959165,
+               "lng" : 111.8960285
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.297273579892722,
+                  "lng" : 111.8973272298927
+               },
+               "southwest" : {
+                  "lat" : 2.294573920107278,
+                  "lng" : 111.8946275701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98bf5541aea2636b9bdc2e218e039284e873f013",
+         "name" : "SugarBun Permai Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104813395677979113280/photos\"\u003eShikh akbar70\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaHbZOSAO7WuLQ1sOpdXnSaah5Bzoiiay0VqurQ14fk5gy9kvAAMXgqZpXaktvEPNKxvPuvLqVO8YlSYsThrGYnW9qVUqfHiGUlVdmV5SJ0BiXdrOPDi2THewalfdS4IOEhC8duobZnOUulFc9OTWQ_lcGhQ5vGiAxTg9tgs0EX29ACKLr4eONQ",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJaVKLgWaA9zERhc9lfatZhwY",
+         "plus_code" : {
+            "compound_code" : "7VWW+9C Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7VWW+9C"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJaVKLgWaA9zERhc9lfatZhwY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.305112100000001,
+               "lng" : 111.86424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.306594529892723,
+                  "lng" : 111.8655149798927
+               },
+               "southwest" : {
+                  "lat" : 2.303894870107278,
+                  "lng" : 111.8628153201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0d86f590743d5883857b7ab933b61d847e18c1d",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115110858838329460220/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHo5ftyUPu5tnanaBEHHGop-WsvT4iEVfBI050NCZVb-3EqXPjyINlIG17JYJ1s_2yeGIxSmod4xWW9vSLKUo627F400RSA8FnddbHpCMHDXOxzDXV8stL-XDZjd0I4pJEhD5BAdm4pbW8iiGcWpIoPpeGhQp84Mp5CkDMv4DVugKYMbOCgWNMw",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJQQtGxyOA9zERp2EolaDJMs4",
+         "plus_code" : {
+            "compound_code" : "8V47+2M Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8V47+2M"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJQQtGxyOA9zERp2EolaDJMs4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "2, Jln Kampung Nyabor, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2907574,
+               "lng" : 111.8260588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.292130279892722,
+                  "lng" : 111.8273547298927
+               },
+               "southwest" : {
+                  "lat" : 2.289430620107278,
+                  "lng" : 111.8246550701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1bb5c64e9c4993d40509476d9181d787e18d602b",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111474656841892986795/photos\"\u003eAi Zhen Siew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgrFhIzJtRN128KOHKpsErUxSJ9fDiBk_KrKezLCgUeLXV1PiWCVy0UdszogXBAB2ffEz7CHiARllgvTiemYpUFsIetqV_RdOw7yawRrXD3uaHRmlF2HbS6hLfDvAH0k8EhA4-UGeCDMr8o-zLgSYWDwyGhQu-ZZ7lPxckRyF8JZ4nlxzOuuOQQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZxfy0d1_9zERvNdIzg9Zc-k",
+         "plus_code" : {
+            "compound_code" : "7RRG+8C Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7RRG+8C"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJZxfy0d1_9zERvNdIzg9Zc-k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 888
+      },
+      {
+         "formatted_address" : "Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2873976,
+               "lng" : 111.8306725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.288759229892722,
+                  "lng" : 111.8320700298927
+               },
+               "southwest" : {
+                  "lat" : 2.286059570107278,
+                  "lng" : 111.8293703701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9841adb8a0eb5483f915df331a3c6a93d6e7c84a",
+         "name" : "SugarBun @ Sibu Gateway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107797059872559714656/photos\"\u003eSaif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqXvNPiCneL1cji4a46pq9zR3ph-8B9faRL_TmWQrVWA_BTdkCznkIwM5OxdM8ZfOSXxHOWSWeRwnLPv7q08YzqwE82qvyicAxrxyvpKS0fgQhTVhltzDkwu16tiPxH8eEhCHK6uMarwKOOc1t2WFizF_GhRT5dCNaw2qsyOP_Jchk7yoIW6-ow",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJad3qXN5_9zERk7kboSvH2ic",
+         "plus_code" : {
+            "compound_code" : "7RPJ+X7 Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7RPJ+X7"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJad3qXN5_9zERk7kboSvH2ic",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100
+      },
+      {
+         "formatted_address" : "Jalan Pedada, Taman Seduan 8, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3109532,
+               "lng" : 111.8463916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.312343429892722,
+                  "lng" : 111.8477626798927
+               },
+               "southwest" : {
+                  "lat" : 2.309643770107277,
+                  "lng" : 111.8450630201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b9574932ddf984715ec0059709177c49598db88",
+         "name" : "SugarBun @ Pedada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112062884448651728409/photos\"\u003eTiger Ddt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACvZcieLefu4FA-HpNq4pNy59SO4wK0JzjZen9lwIN8_t4oFqpq0FZVYrWNIlBr7edIEewlIyrrKIOqx4p9FPcLh_GAmx7vHuwVGsrsB_XyZW-HrHgOxp6gQmNthlYBAJEhA1MyIPMMraPRCQ492hTAEMGhQNcXeLgKSNQG7FDTgk_gKAECOzCQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJwSpWjY9_9zER7W3is0qNY1M",
+         "plus_code" : {
+            "compound_code" : "8R6W+9H Taman Seduan 8, Sibu, Sarawak",
+            "global_code" : "6PJH8R6W+9H"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJwSpWjY9_9zER7W3is0qNY1M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 69
+      },
+      {
+         "formatted_address" : "96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2664061,
+               "lng" : 111.8623373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.267797729892723,
+                  "lng" : 111.8636323298927
+               },
+               "southwest" : {
+                  "lat" : 2.265098070107278,
+                  "lng" : 111.8609326701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b4dadc7bbb19afcc5a38fc8f2aae154de4e9e53a",
+         "name" : "SugarBun Salim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112063078215933073435/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVg_BejTRfmSriPZvbGTedUqVz9bFIRysUIO74LHlcp4PVKChaBLpxA5jf8QR93t4br-Rpyvhc1o0zuTaeE7w5csO0-u6ZIQBW-PATQuiFgh2oxJDNL4rMZmVkF61Pz-FEhAl2wSV0dZrCIljQfAi93SwGhT6UE_Qiuy8g76d8khyeB0QTlY_CQ",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ1-lo57Uq-DERkt3d4BFdHJo",
+         "plus_code" : {
+            "compound_code" : "7V86+HW Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7V86+HW"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ1-lo57Uq-DERkt3d4BFdHJo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "Lot 1286, Jalan Oya, Kampung Hijrah, Sarawak, 96000 Sibu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.300631,
+               "lng" : 111.833663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.302083929892722,
+                  "lng" : 111.8350156798927
+               },
+               "southwest" : {
+                  "lat" : 2.299384270107278,
+                  "lng" : 111.8323160201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "33996fb109a2d1ac6f2207d173478f1c546d9a65",
+         "name" : "Homemade Enterprise",
+         "place_id" : "ChIJXdN0hep_9zERnKvb6NSx40s",
+         "plus_code" : {
+            "compound_code" : "8R2M+7F Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8R2M+7F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXdN0hep_9zERnKvb6NSx40s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "No.3E, Lorong Sibujaya 20D, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2490325,
+               "lng" : 111.9647937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.250412529892722,
+                  "lng" : 111.9661437798927
+               },
+               "southwest" : {
+                  "lat" : 2.247712870107278,
+                  "lng" : 111.9634441201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e824a52d9307ce0e09acfe552912b5eeacb1788e",
+         "name" : "Burger Babi Grill Iban Troll",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108378441020288738884/photos\"\u003eBenedict Mattlazie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq1wHMfXQHK3LbZx2HugDZv_nnLJFpcOoiFyNKHBmUnv3Lcqg2SKgZdZe1xygRGcdVQoIOxDFjeORg4AtoT5DAtOUDFPunTZbqXgnJZyUnvAEMNriIE_tz8CvW3TbKGieEhCuqtVXvZS7r-VulPm5ncGbGhQ44xetXkeK2ic4DYVKlNYRqzCncw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJe-Qwt5wp-DERVksXdnvxSE0",
+         "plus_code" : {
+            "compound_code" : "6XX7+JW Sibu Jaya, Sibu, Sarawak",
+            "global_code" : "6PJH6XX7+JW"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJe-Qwt5wp-DERVksXdnvxSE0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34
+      }
+   ],
+   "status" : "OK"
+}

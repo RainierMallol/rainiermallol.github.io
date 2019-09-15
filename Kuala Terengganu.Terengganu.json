@@ -1,0 +1,806 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEBwIAACEb6aAE_tS7ZnqkjR5pMEpLGWGzE4w8fwhzFz7dLuu11qf9cERYa_axYsk3y93Dr--zNeh3p9WgMUsecGUi4JDYfkV3YMoGRY8TDZyug3sJbA9CpYnFI2fF6cb2F_evh7BZ_n2w5pQiv-tZb5GYYo1fDztFWrQajT8aDtq0NMdorxdibExGEUmMoXhADS4cpFft3LxA52VsbedmIKsqxjYOjdG7El1Rcyb-fmuRhLF4HZE1V6F53ABDPekrhsbfYIuYUto_FWKYvjSBk38RX5t9tPFEtJ8xi-KU5eELc3vOutP5bKoT8FN8BKuRZM1NX5GmqE5qKkEX0jVWUm76i1vIOCb9N7_9bnG7XExzi-DuHEMhJKSvVXmHd1i9kp8WYQ8rlx6UWYKdKpN3Y4154yqDPG-9WfuUpGzM0u-4eyWhkaTLvwsTBaXWzzJZdtHgsYXQlxkAyIKtcIYlDV6DSbgbG03mNb9daX2Tqg3ey9JC_bbTOI7H9UiBj94Y2EzPa1XcTlAxYGOHx_MGvKQ9egwF915MyjZXAFIPQ5pbRiBROq7Yw91GeNHHDgyvyRZYZR0ZIRUlC-w5NltHm_oJoDTZfjowCcVV5HlVBX8HKauCc2y6kIGj4pEcySXcVTRrw_xc0l-9uyNatg9m4JXWe9vxTcL38SlDqtTZkIomIt6n1EqXUCAfTVf6740z11X94hIQptU__WMJ2bSopoAzVTuU9BoUIyhnNQaMCdBrfwnVAA3CGGR5B7s",
+   "results" : [
+      {
+         "formatted_address" : "499A, T100, 21070 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2661817,
+               "lng" : 103.1684036
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.267483679892722,
+                  "lng" : 103.1697713298927
+               },
+               "southwest" : {
+                  "lat" : 5.264784020107278,
+                  "lng" : 103.1670716701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "294d2eb3ed45aabba2ab44e328105942d203302a",
+         "name" : "Zideen Fastfood House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110632869451535949561/photos\"\u003emustafa ghani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANO4hAwiNhLRkMrzVwVsYP1Ny6904Z7CDqCbzjYM8tUzTJcMkGgPS8XxHtiFwyGgIwCkqUJ5C3C-oTyY9vlEIu_YjhcYnhna3aafhbMf_-P49J5O2UEKBHW_GKhkEiGdHEhCPgGM71X5_RYMfKieoXIWTGhQrOe3KtaVSfoXH7VfRyHvSX7o6hw",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJJXyvh-O_tzERBgBvUt16jzQ",
+         "plus_code" : {
+            "compound_code" : "7589+F9 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ57589+F9"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJJXyvh-O_tzERBgBvUt16jzQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Lot 3540, Jalan Sultan Mohammad, Padang Hiliran, Kuala Terengganu, Malaysia, Terengganu, 21100 Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.310236,
+               "lng" : 103.129434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.311571129892722,
+                  "lng" : 103.1307425298927
+               },
+               "southwest" : {
+                  "lat" : 5.308871470107278,
+                  "lng" : 103.1280428701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3228ee1235284e08c91b4d86bbb2ce3c79586fd0",
+         "name" : "McDonald's Kuala Terengganu DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117350739402085083109/photos\"\u003eNik Dotmy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ8C4gENjY3EdYnDFRlJh1qpJ71BVKCF2DDTIf09gra-E6fIn5BGmzvOHRsXPkLlHucu6PC5MYgvbvgW77D0KjaaYQljtk_adD6l-bWXv1jJsy69dZXOWJt7b2eKUx55fEhBP7DqqZL3RqR1ysh8G6G4SGhT-Dy8uaaBJx9LpMgNE3JygAThQvQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJcdr6N1--tzERcHCEY0FyNv4",
+         "plus_code" : {
+            "compound_code" : "846H+3Q Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5846H+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJcdr6N1--tzERcHCEY0FyNv4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1379
+      },
+      {
+         "formatted_address" : "Jalan Pantai Batu Buruk, 20400 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3239407,
+               "lng" : 103.1540844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.325265529892722,
+                  "lng" : 103.1553928298927
+               },
+               "southwest" : {
+                  "lat" : 5.322565870107278,
+                  "lng" : 103.1526931701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d7244b1187b42fad4cbe64bf0ea88e6026edda1",
+         "name" : "A&W Pantai Batu Buruk",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102119002224016663503/photos\"\u003eAkmal Bajwa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-nzZs1WWwkJnVwY8ld3sm2gDvoPzTS2snR4PasO06EQvnzWDx4G_3Cjm9jG7XRkeuy1CFXQGJWFDKilzLNMQlXBfMsAmgM_XWa1uM5yGVM1qCsuen3DAKL_ghJm8Da3bEhDnJSlsr8WlzriGY-PNNQUEGhTrcFCb7mTYYKaF9JN1QzQjzz5xIg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJA9UgfRK-tzERQhwuIFQR1HA",
+         "plus_code" : {
+            "compound_code" : "85F3+HJ Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ585F3+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJA9UgfRK-tzERQhwuIFQR1HA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 578
+      },
+      {
+         "formatted_address" : "Lot No 9154 GM4340 Jalan Tengku Ampuan Intan Zaharah Mukim Kuala Nerus 21300 Kuala Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3981578,
+               "lng" : 103.0848536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.399455229892722,
+                  "lng" : 103.0861979298927
+               },
+               "southwest" : {
+                  "lat" : 5.396755570107278,
+                  "lng" : 103.0834982701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ca6a8250bde026e168c118f4d79d8cd486fd1815",
+         "name" : "McDonald's & McCafé Gong Badak Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109837143940279156151/photos\"\u003eBro Naim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAefRmbcQ_yB5th-fL7rExQwDwa2wZCVrxam8v76Ys8adivGy50yJObGeEKIyqem1H5m-Qg9uH5-xrOWjj2sfEDDUFbDPOOTKcG0bpczLumAsBhYBm477Tptn9INnNlU_tEhDJPKK9j1nlF6edpAL81HnRGhT-GV_V_Ic3klE3v57Nwu_JHvM0jw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJQ3un06G8tzERW2e1oCcwznA",
+         "plus_code" : {
+            "compound_code" : "93XM+7W Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ593XM+7W"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQ3un06G8tzERW2e1oCcwznA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1292
+      },
+      {
+         "formatted_address" : "Lot PT35511, Kampung Banggol, 21300 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.355516199999999,
+               "lng" : 103.0954362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.356813929892723,
+                  "lng" : 103.0966347298927
+               },
+               "southwest" : {
+                  "lat" : 5.354114270107279,
+                  "lng" : 103.0939350701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "261ef0e06e6f7b12111718dcf07f2cb1d41881f4",
+         "name" : "A&W Gong Badak (Mydin)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111800265974708396154/photos\"\u003eMohamad Fazeri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa0I_nsxYaCPEDvhdQxpSTQbLeSqunYsGGxyWSLhBporZtAJ9smj4Xa9gsSoudPBHO-bAe0B6RTS44SVpDh1XhPhKqlZ_Q9QygUP_kTaO4-GtiC_tXmaQA8SWShfLdvfDEhCaX_RKxzTATa5sxCuGvCXDGhSDKAroMG3LIREuqfinuOap6TW1ng",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJXUdj2xK8tzERtbaXR7IdTXM",
+         "plus_code" : {
+            "compound_code" : "934W+65 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5934W+65"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJXUdj2xK8tzERtbaXR7IdTXM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "Lorong Kemunting,, Jalan Pasir Panjang, Kuala Terengganu, 21100 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.299803,
+               "lng" : 103.136512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.301151079892722,
+                  "lng" : 103.1378909298927
+               },
+               "southwest" : {
+                  "lat" : 5.298451420107278,
+                  "lng" : 103.1351912701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5c1cac6170b7c627d707e0a71773d73d43066ad9",
+         "name" : "Nasi Lemak Kukus Kak Dah CD",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100474572176272577715/photos\"\u003earman faiz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJCctDiZXLBunMf9CyuXtmEQcIvnymzxqYspYS3DCQ1fp5opMCwOrwTkLg1xijVwKKFPH4QA8gURnWu9dvJqqIicKT85pB3QVCOrKrWQhfZECLFvc5GLFK0FHdw0HutTSEhD_XGu1BCA_niNQyTGmqyqbGhS04VNCAFmLnf70Q0R_BzFRskmw7w",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJaUpQf1G-tzER1f4B4t2laoo",
+         "plus_code" : {
+            "compound_code" : "74XP+WJ Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ574XP+WJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJaUpQf1G-tzER1f4B4t2laoo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 147
+      },
+      {
+         "formatted_address" : "Lot No 9943, Jalan Tengku Ampuan Intan Zaharah, Gong Badak, Mukim Kuala Nerus, 21300 Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.392001,
+               "lng" : 103.0815792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.393406929892722,
+                  "lng" : 103.0828924798927
+               },
+               "southwest" : {
+                  "lat" : 5.390707270107278,
+                  "lng" : 103.0801928201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2293a88b7f54c6adc459efe601f28a1c2ccf625f",
+         "name" : "KFC Gong Badak Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112875995655562954314/photos\"\u003eraziatul aeina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8BCz6XH4YTO99rM0lhQwAsT2xxp7f5b9CewLydjzSa7eDnSloZjj5_xBiPQJd-Ne_YQcJdORmZbWvq7eejG33SUt8NtpY5EhZTdWYLzgGU03-9GWzUqw-OYIpm-e4NqVEhDeyGjYBxV5oMvNvTumpgAMGhRmfLQiMGRytlVcai36elIDBK-P9w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUxHCcGK7tzERps9kXI2CRmI",
+         "plus_code" : {
+            "compound_code" : "93RJ+RJ Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ593RJ+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJUxHCcGK7tzERps9kXI2CRmI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 793
+      },
+      {
+         "formatted_address" : "No. 22A & No. 22B, Wisma Low Hai Whan, Jalan Sultan Ismail, 20201, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.331047300000001,
+               "lng" : 103.1332889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.332329429892722,
+                  "lng" : 103.1346318798927
+               },
+               "southwest" : {
+                  "lat" : 5.329629770107278,
+                  "lng" : 103.1319322201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c0803a3c21b0c3456aca5d3abb8ffd7e653e54cc",
+         "name" : "KFC Kuala Terengganu 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106131829706984388706/photos\"\u003eKwanweng Leong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9WfDqfpFV7MO2fh9CwZxQEygSiaWCaiyR1JspkNlosPK8f9-Q_5Tsqk--NnbhSkJbVv1y1cTJUJY63PbXEGYU0DCre0-vbP8uaX_Wz8MzTiIh_U3PC2GFm1mNfkJoQBIEhCiRck0nOfNP7lTjFVyQd8uGhQfPyLvHat77_OCZrGrYFUX6pi9ow",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJv_JaBxK_tzER6RuW7p99ByA",
+         "plus_code" : {
+            "compound_code" : "84JM+C8 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ584JM+C8"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJv_JaBxK_tzER6RuW7p99ByA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "A1,WISMA MBKT KEDAI BULOH KEDAI BULOH, 21070 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.251739199999999,
+               "lng" : 103.1298782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.253089029892722,
+                  "lng" : 103.1312774298927
+               },
+               "southwest" : {
+                  "lat" : 5.250389370107278,
+                  "lng" : 103.1285777701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a70d377453980aacf064e09f0aae667b0fd88661",
+         "name" : "Dsara Fried Chicken Kedai Buloh, Kuala Terengganu",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105433370553764879307/photos\"\u003eZairul Fazwan Md Zainordin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhHpwZqaC7vVXM4PmVBE4Qpo6Ym3_biNQl71mM7RaM1d2N_-6m7iqSzbE4dJ4xxDGwRFjaltk3BOmYltCP6rJLYMUJ3zLYj0h6t-aqXvwqzJXLDyrTn9fm2Ha_HSJJVzFEhCicBzW2j4OmA35ADJyi3SMGhSGQEkk1puIf413TXC2go6Df-mGkA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5WESjuHBtzERhZ5M799taD8",
+         "plus_code" : {
+            "compound_code" : "742H+MX Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5742H+MX"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ5WESjuHBtzERhZ5M799taD8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "1G, Jalan Syed Hussein, 20100 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.332504000000001,
+               "lng" : 103.137628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333828779892722,
+                  "lng" : 103.1389498298927
+               },
+               "southwest" : {
+                  "lat" : 5.331129120107279,
+                  "lng" : 103.1362501701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "006fb17f1ddcfd4ce9c3d4ad29fbab1c3ba216fe",
+         "name" : "Crepe Signature Kuala Terengganu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106096167902852503401/photos\"\u003eCrepe Signature Kuala Terengganu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlhMr7c8XTfuq9Zei38bz4hgeLzRTmjSyNtwB-8eCwZjMPM2QSZVWnCLG3vIGpzYOVduIPXWVkYwjC6BfQYLW_g1VQItoAZR_TJtKd7WVGuMNfBe5heqH152MlwkmrIgiEhARfuoq1TCl7VA92cHTd4agGhS-F7aFgx58p5HHmqZG1DpRleW54g",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJx5iHs3m-tzERphuh9CMuu2c",
+         "plus_code" : {
+            "compound_code" : "84MQ+23 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ584MQ+23"
+         },
+         "rating" : 3,
+         "reference" : "ChIJx5iHs3m-tzERphuh9CMuu2c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "PT 1482, Taman Ibai Landmark, Kuala Ibai, Kuala Ibai, 20400 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.284424,
+               "lng" : 103.165765
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.285749779892721,
+                  "lng" : 103.1670340798927
+               },
+               "southwest" : {
+                  "lat" : 5.283050120107277,
+                  "lng" : 103.1643344201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d8663f840870bca36f26753a5e32808cee4dae3",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104183301635856870100/photos\"\u003eGasket Koyak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlYw-xV-vWMlfdXZx71DoUn6HkVBrjbvvuAGbeckyTyhv1Mu83lOmglPrDXynLhcumGhavXNqTzpWU2VnRcCV4OS6VB1TrRfIcut9s63bVlvk62wENoGbQS55NwA_9MBOEhBhtirvKmE1kOJYtGngeatSGhSt2R12JQDQO32MCF4ti1QnSyJdvA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRQTSjtC_tzERgav40jwkC-8",
+         "plus_code" : {
+            "compound_code" : "75M8+Q8 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ575M8+Q8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJRQTSjtC_tzERgav40jwkC-8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Kampung Batu Enam, 21060 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3476148,
+               "lng" : 103.085909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.349039229892722,
+                  "lng" : 103.0872613298927
+               },
+               "southwest" : {
+                  "lat" : 5.346339570107278,
+                  "lng" : 103.0845616701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd671e6e36343c76ab76ca6bdca0a6054f1e8436",
+         "name" : "Sate Ikan Kak Ning Tok Jiring",
+         "place_id" : "ChIJ3XY2lAi8tzERNXuHcZyCYKU",
+         "plus_code" : {
+            "compound_code" : "83XP+29 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ583XP+29"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ3XY2lAi8tzERNXuHcZyCYKU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Unnamed Road, Kampung Padang Air, 21060 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.346882799999999,
+               "lng" : 103.0731404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.348229579892722,
+                  "lng" : 103.0744724798927
+               },
+               "southwest" : {
+                  "lat" : 5.345529920107278,
+                  "lng" : 103.0717728201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d15501474d380d301572239a41b0cccf54ddcfd9",
+         "name" : "AuRaLicious🏠K.Terengganu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1350,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107706895466255038811/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmQb9JXpz4B7RsogYm_OLDLQMK9_mpVFBV16pu4RH6OwPoqy3cYp8EZBi-BLeEhvyg7726tLTGpoMdUmLpcC7MStunyt0zF8dPdAHaJoHpoNfVBZanOUEsbviHDWLjadXEhDlfI_QQeMsu0LCkrxHjIylGhRFPiJHvxftlsbDCy_Z31oAq0ecwA",
+               "width" : 2245
+            }
+         ],
+         "place_id" : "ChIJ5TkHZAu7tzER8soNPudgnLw",
+         "plus_code" : {
+            "compound_code" : "83WF+Q7 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ583WF+Q7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ5TkHZAu7tzER8soNPudgnLw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "F11, Lot PT 1485, Jalan Padang Hiliran, Chabang 3, Terengganu, 21100 Kuala Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.310268000000001,
+               "lng" : 103.128399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.311528779892722,
+                  "lng" : 103.1297540798927
+               },
+               "southwest" : {
+                  "lat" : 5.308829120107278,
+                  "lng" : 103.1270544201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8b025b9d3f62d7d32e3fdf9dd7ff6e5b0cfcd790",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJYUtlUV--tzERCaKmI3XbpEU",
+         "plus_code" : {
+            "compound_code" : "846H+49 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5846H+49"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJYUtlUV--tzERCaKmI3XbpEU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "87, Jalan Tengku Ampuan Intan Zaharah, Kampung Banggul Tiang Kulat, 21300 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3552368,
+               "lng" : 103.0959013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.356499079892722,
+                  "lng" : 103.0969283798927
+               },
+               "southwest" : {
+                  "lat" : 5.353799420107278,
+                  "lng" : 103.0942287201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "06ad523f3ebce820aa3d90c59a2a78d117d4e665",
+         "name" : "Marrybrown Mydin Gong Badak",
+         "photos" : [
+            {
+               "height" : 2204,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103288129491337371730/photos\"\u003eKhairun Aisyah Che\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfOZfSmhymnw6ATjQWtFedOfHvpCVowY1WwGH1cIPmpYFaS9o9xvn2I7_7jhL9y68FTUQE26hyb4m-xeVWfaMcStxs5A5fkPy52K1f1uJFioQYgeP0kSD4qexQ2O8TsZHEhD7pIAUdXJs2xXjzhKEbaVgGhQP-_7vqPBjNgFcojMLQmZkRsTr9A",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJq8G44BK8tzERCZG4QV1ciQ4",
+         "plus_code" : {
+            "compound_code" : "934W+39 Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5934W+39"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJq8G44BK8tzERCZG4QV1ciQ4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Tingkat 14/5 Kompleks Kampung Tiong, Terengganu, 20000 Kuala Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3320498,
+               "lng" : 103.1346241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333375329892722,
+                  "lng" : 103.1360411298927
+               },
+               "southwest" : {
+                  "lat" : 5.330675670107278,
+                  "lng" : 103.1333414701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01b3122d31d56aef198fc8a6cca4deeb9f2dad73",
+         "name" : "Keropok Selamah",
+         "place_id" : "ChIJ5wQ9O3m-tzEREuymgz6-Zr0",
+         "plus_code" : {
+            "compound_code" : "84JM+RR Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ584JM+RR"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ5wQ9O3m-tzEREuymgz6-Zr0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Lot 3540, Jalan Sultan Mohammad, Padang Hiliran, Terengganu, 21100 Kuala Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.310578,
+               "lng" : 103.129213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.311944429892721,
+                  "lng" : 103.1305578798927
+               },
+               "southwest" : {
+                  "lat" : 5.309244770107277,
+                  "lng" : 103.1278582201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "468d7f496ac879598ac27d3b4837e3389cdc3247",
+         "name" : "Senang Sensasi Sdn Bhd",
+         "place_id" : "ChIJzULFR1--tzERzf9BakK7ybk",
+         "plus_code" : {
+            "compound_code" : "846H+6M Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5846H+6M"
+         },
+         "rating" : 4,
+         "reference" : "ChIJzULFR1--tzERzf9BakK7ybk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Tapak Uptown, Terengganu, 20000 Kuala Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.311737,
+               "lng" : 103.119912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.313162379892723,
+                  "lng" : 103.1212036798927
+               },
+               "southwest" : {
+                  "lat" : 5.310462720107279,
+                  "lng" : 103.1185040201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f08065a5734d5c346228b7b43b4d529060fe1b33",
+         "name" : "Kedai Burger Rokiah",
+         "place_id" : "ChIJqSS6sPO-tzERC9dSkBRPGs4",
+         "rating" : 0,
+         "reference" : "ChIJqSS6sPO-tzERC9dSkBRPGs4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "G-K11 Paya Bunga Square Lot 3133K, Jalan Masjid Abidin, 20100 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3312979,
+               "lng" : 103.1369139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.332720929892722,
+                  "lng" : 103.1382817298927
+               },
+               "southwest" : {
+                  "lat" : 5.330021270107278,
+                  "lng" : 103.1355820701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2bf22a8ab972c8ca785e132c3d32ed7cbc6efb62",
+         "name" : "Subway",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106928730743047518347/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXzEkSvPUFGqz9jjxyrMBtfbo6J4d3vmU4UGlprHnki-QbIgc-qGZ_OXAl1O3uYX2e5sXeU0LgTe9QGdDyjWJHT-2sjkpIQkZUN6tLOjeAG80hhHa6j8J8h_nl71p-CA6EhBA_tlSAbdpKnkBpW6iqjCiGhR0RU-ok4mFPUyEzgqFtWcI3Wgcng",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJC-B_JLy_tzERvWzh4Nz_N4s",
+         "plus_code" : {
+            "compound_code" : "84JP+GQ Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ584JP+GQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJC-B_JLy_tzERvWzh4Nz_N4s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "Kampung Makam Lama, 20100 Kuala Terengganu, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3129428,
+               "lng" : 103.1210578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.314357729892722,
+                  "lng" : 103.1224062798927
+               },
+               "southwest" : {
+                  "lat" : 5.311658070107279,
+                  "lng" : 103.1197066201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a88c4d5dad1138cc41b6a8a975d09c5c7bf07a98",
+         "name" : "Gerai Pisang Goreng Wan Rahmah",
+         "place_id" : "ChIJ____c_O-tzERiJWW0CJffZQ",
+         "plus_code" : {
+            "compound_code" : "847C+5C Kuala Terengganu, Terengganu",
+            "global_code" : "6PQ5847C+5C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ____c_O-tzERiJWW0CJffZQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

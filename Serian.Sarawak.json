@@ -1,0 +1,861 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAJi6PeF8iOA08FDXbiTQRLLQvcpoW3OKN--9ZLKDdOzo_ivIkKBH5a4uPgbbR35fG4uT2zW6FlmFYpf86QX_GB_WzaMpIgq4x9jHIjdjQYRldu7-ni7G2UC0qKBruI8gDEPiHz7xoLqGQ5WN2JhFl7_iVzsamwXazkiMp0lZLHpQ6D4MIvnQidxyKXMOIl6FAme6JdIEJkbdjYVt8cWzzyvNUqKYAGZPLc9Z4zsSckoqNCuoDsGj21kqxiC1L-wtA1b1NGHcOzPSVOvA3pQuNVY-Ro0gAKzpo6TQy77DkSnAl9aS3QPHLhPvLJFF7jyAa7jc4d3JrUte0XJSe-MrOk6XGyfPZVhKOcZBJzpJ7IXkUcQh2aH8umynH41MjcrRiE4xNrYHSZV6AfvaNcvZg9WLtNcY62SVn4drl2Hj3XFAfVicrBVZ2aZ5zD5UQN18sMN3L4DlovWKw4m51sQ2xRUCHBjglwQ7lg31KZIbSiTKyC-uttBlv0BMuaHT2lHTeG-ROaTPQ8WOTn3cTgs5DyZMRQig3hfQ7DGPbVjuXNH3eRvP9nk-NlxX7ufxgkt7ua3Q8DRBWjAY7AXTxxwY1OWCkOBDVMtBtB2D6E59z2uWSro-RCKGGPSTxxLBse3TDiSkUKDnfQ2pJonjhKE1wQvK-KTInXJJ2z8bB7bJcvrZEhDmeWJi2YIXJuj2QX14INfPGhQXIjeFnuHr-vgrsHlg2SmZA__9CQ",
+   "results" : [
+      {
+         "formatted_address" : "Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1789904,
+               "lng" : 110.5651299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.180411579892722,
+                  "lng" : 110.5664733798927
+               },
+               "southwest" : {
+                  "lat" : 1.177711920107278,
+                  "lng" : 110.5637737201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fdecfe3d96d87bd406d694b6955015c5dd76f20f",
+         "name" : "SugarBun @ Serian",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 684,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103756277220213043637/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4KxEUhFu48-GxoEBY5fEGPVOIcaSHZwvpmUXR_0iOQKi73LHOl07Dbcpq58i83IOK2KQMYgZq5C7DpX37OeGqDoCwYHmiaE2cfBz5ZaiIvXK0e_q4JJVsc85Pvhnk2kQEhCLYSOviZYpLzqytbavL-faGhTuWuWIMHx5WOjr7ZUkbB0AMXxRFg",
+               "width" : 912
+            }
+         ],
+         "place_id" : "ChIJQxNNxPyI-zERt_vCEs0SGsI",
+         "plus_code" : {
+            "compound_code" : "5HH8+H3 Serian, Sarawak",
+            "global_code" : "6PHG5HH8+H3"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJQxNNxPyI-zERt_vCEs0SGsI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74
+      },
+      {
+         "formatted_address" : "Jalan Bandar Serian, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1679534,
+               "lng" : 110.5651114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.169335779892722,
+                  "lng" : 110.5665563798927
+               },
+               "southwest" : {
+                  "lat" : 1.166636120107278,
+                  "lng" : 110.5638567201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "240efe5ae183d324ef477c5cf623c1e1d95086bd",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106805544815923516248/photos\"\u003eabg abg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkIe-rsYfd5gddxDCVjzqRbSoz25yDN-am2j3c-fv8_3eO0ZYUZw_DsgnVW9SJYxFJDsD0GAVmh4L-aqwbgFwS2qdWvYiLKX3iRSnqiV5TyirNOIJeStf62pX9_xqZUEXEhB5vBrz_BgPd3Kk5MOkmi8PGhR7QSET6VLjYYn6h0k1b3RMm_sCXQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJlcx4RlSI-zERl1efiXJKSMA",
+         "plus_code" : {
+            "compound_code" : "5H98+52 Serian, Sarawak",
+            "global_code" : "6PHG5H98+52"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJlcx4RlSI-zERl1efiXJKSMA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "formatted_address" : "Lot 1163,Ground & First Floor,Wisma Cinmuk,Serian Town District, 94700 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1792948,
+               "lng" : 110.5652167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.180644429892722,
+                  "lng" : 110.5665883298927
+               },
+               "southwest" : {
+                  "lat" : 1.177944770107278,
+                  "lng" : 110.5638886701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c6f971f6069f6b4e258374afcdd8e793521d7323",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112926899871553485427/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtdvDF15ZybKhCQW-N_zuR60dZ8berAsEpUM-xWtYeFU0Y1rdOiZNHpW08ja0HmmBlgsIz5mzpUQRVh8-kB79kAAY3sHdua-dgbCJm3T3aqZ7IGI7wYXJbcAm3Eli7gOIEhDSbAL3gWpSHDDWwlkqLJT-GhSy4W4kJW9rsiVu7Catde7EposVUQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ1ZwNxvyI-zERT8XyyIgVJuQ",
+         "plus_code" : {
+            "compound_code" : "5HH8+P3 Serian, Sarawak",
+            "global_code" : "6PHG5HH8+P3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ1ZwNxvyI-zERT8XyyIgVJuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79
+      },
+      {
+         "formatted_address" : "Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1698289,
+               "lng" : 110.5691451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.171178679892722,
+                  "lng" : 110.5704949798927
+               },
+               "southwest" : {
+                  "lat" : 1.168479020107278,
+                  "lng" : 110.5677953201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "37c365e946a95e82c3d2d009e54349b657f3d626",
+         "name" : "Curry House Serian Indian Muslim Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117154549251083401971/photos\"\u003eYeo Qi Joo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPD-l-cEXOzhLEFrXM4Dy2i5GuixtpCjcMy_ByaZUzQ789HbU2Vjo3rncdV8_NC8kOP44LaDYwBScoPcIToZO5nGDNwStMXy7nI_dbo0UxTxKgT2_8Zq8bL0yS4kYPYJ8EhD_qeSGvx5nHh6G2OhOvYncGhRfDOosBg4-beIgzeHtYN8AFytlyw",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJfcW-SlWI-zERV8CjgO74-uQ",
+         "plus_code" : {
+            "compound_code" : "5H99+WM Serian, Sarawak",
+            "global_code" : "6PHG5H99+WM"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJfcW-SlWI-zERV8CjgO74-uQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 298
+      },
+      {
+         "formatted_address" : "Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1695269,
+               "lng" : 110.5702495
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.170897079892722,
+                  "lng" : 110.5715605798927
+               },
+               "southwest" : {
+                  "lat" : 1.168197420107278,
+                  "lng" : 110.5688609201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da8b9f8fa31c2d3a007d485991b399582b6baea9",
+         "name" : "Ummi Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117244830794333002067/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYN3KpTJZC2JweFMjXZVo0Cmi6vWMiKw-poMo-qmzD7msQwH2FnnBz6Inbx_t_z9IjDTTtI8dcM9--O-pHaRkWnmc-7tk_pfySYDY1rnqPaFaf6uD5UDQNNHVcTzAEY-5EhCQ0tyYizXNZi346xXEufFLGhTyHjHGLxZv33diVhYZPJUufLny9g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJG73uyKqJ-zER5FVh6tCbieI",
+         "plus_code" : {
+            "compound_code" : "5H9C+R3 Serian, Sarawak",
+            "global_code" : "6PHG5H9C+R3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJG73uyKqJ-zER5FVh6tCbieI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 86
+      },
+      {
+         "formatted_address" : "Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1655748,
+               "lng" : 110.5703732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.166915279892722,
+                  "lng" : 110.5717412298927
+               },
+               "southwest" : {
+                  "lat" : 1.164215620107278,
+                  "lng" : 110.5690415701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9bcba6f49d9a424c45b3eb534c7ab4f19caf458",
+         "name" : "T-View Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112165395478452896019/photos\"\u003engauding chika\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqEUWmXhb9VJldAn6p-5ZzYkr5Akd65sL1o2WfITkYwIPpbvq0SAsiSjCSvfYArOImozuLogv2H2ewIN1B8HPp1rpLJZT9nNrArQDN_bdDuKT0-C6_s5hrzFjBDbUQ6M6EhBTnEnitsD5oAlTpi_aCYoBGhRmSUXeyKmLYJmnAUO2P-Ll1axYWA",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJZ48PvKyJ-zERbcU6YKQMVnM",
+         "plus_code" : {
+            "compound_code" : "5H8C+64 Serian, Sarawak",
+            "global_code" : "6PHG5H8C+64"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJZ48PvKyJ-zERbcU6YKQMVnM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "Jalan Kuching - Serian, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1791714,
+               "lng" : 110.5652311
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.180527179892722,
+                  "lng" : 110.5665811298927
+               },
+               "southwest" : {
+                  "lat" : 1.177827520107278,
+                  "lng" : 110.5638814701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2bd711cdf284cd7a2f16ea76081ffd6dec61f169",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109040231868833978275/photos\"\u003eChin Ping Sia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvQZvyPrjNV7g20rSzNcdfehHuG9vgPobVcKVDktW6pD0qDEkApOb8Qy7T4ZVMMhxgnC1cR9iLCMEm1afGAcsbPpuxCVfON_Kg713zuPowKKvvfV1HPSZKHUZ6Y-zfMdiEhCY_5k9GZT6F5NR7RQkcab-GhSans-eBiYFhlRjCT00iKC71n-_kQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJWRjQxfyI-zERPdb9ible2co",
+         "plus_code" : {
+            "compound_code" : "5HH8+M3 Serian, Sarawak",
+            "global_code" : "6PHG5HH8+M3"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJWRjQxfyI-zERPdb9ible2co",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1756869,
+               "lng" : 110.5659201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.177019579892722,
+                  "lng" : 110.5672143298927
+               },
+               "southwest" : {
+                  "lat" : 1.174319920107278,
+                  "lng" : 110.5645146701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "267b115834ab7093010eaa36364f93c88745735f",
+         "name" : "Pondok Selera, Serian",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104648324938430364041/photos\"\u003ePuji Baik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm6E0Cb47b7apdM2ZMf5Zw8e9Sh4z3kQRmC9Qtx7LHo8HFCLEOc323l3RUJWHGmwq-QhtnzpE02dq0DGfNBuCsjEyXifdcsIVB__1ZQ00j6yKgIujXgXhoVU5Obf1spHaEhCefKUY8CfotPOyybD9eYIMGhTJj9-JVfsyuxFJcE9vCcziP-cg_g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ7cXwK_yI-zER442yKwlLx70",
+         "plus_code" : {
+            "compound_code" : "5HG8+79 Serian, Sarawak",
+            "global_code" : "6PHG5HG8+79"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ7cXwK_yI-zER442yKwlLx70",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "Sublot 10, Lot 537, Block 9, Louis Junction, Bukar - Sadong Land District, Sungai Pasir, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1791087,
+               "lng" : 110.5652284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.180486579892722,
+                  "lng" : 110.5665551798927
+               },
+               "southwest" : {
+                  "lat" : 1.177786920107278,
+                  "lng" : 110.5638555201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f11739060a79ebc824c9735fe6d82f8bcd034222",
+         "name" : "PHD SERIAN",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJRyt611OJ-zERO7HDoOqVN90",
+         "plus_code" : {
+            "compound_code" : "5HH8+J3 Serian, Sarawak",
+            "global_code" : "6PHG5HH8+J3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJRyt611OJ-zERO7HDoOqVN90",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 1984, Block 6, Santah Segu Land District, 17th Mile Siburan, Serian Road, 94200 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.3639922,
+               "lng" : 110.4026471
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.365379979892722,
+                  "lng" : 110.4040529298927
+               },
+               "southwest" : {
+                  "lat" : 1.362680320107278,
+                  "lng" : 110.4013532701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "65d0d8023e6c608fd9df44854cf90b1f71b1e933",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102509652732408998095/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAStsDYihuCW7HlUMYtRhVZp3lC4vdFgLi6sZT4uK7nN8H5T16xT8bMPRixCjPYWNKZJQH8fAdrg-U1xKdPo5EtFv6JMtmk5o2EtBtCjPXx2PnG7d6b_ubHFGKfK8y7Ty6EhAKDzJOeqxGl5umJwhj1aOZGhSS735hRgl7Tn6ppPyy-OCiQK9CAA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJk_oefL2e-zERYibolFFnbp0",
+         "plus_code" : {
+            "compound_code" : "9C73+H3 Siburan, Sarawak",
+            "global_code" : "6PHG9C73+H3"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJk_oefL2e-zERYibolFFnbp0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 115
+      },
+      {
+         "formatted_address" : "Unnamed Road, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.167702,
+               "lng" : 110.5671341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.169050029892722,
+                  "lng" : 110.5684360798927
+               },
+               "southwest" : {
+                  "lat" : 1.166350370107278,
+                  "lng" : 110.5657364201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c17aa5cf3e32e580c8e553045f833409d222df5c",
+         "name" : "AVS Restaurant, Serian, Sarawak.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115260970004325224358/photos\"\u003eAjie Arief\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2NHcZDNfxsh-8LI5kguPij2OSzP9rxEhXzqybszxAQm5SGxoKRkYFt9xZ7L3jEvGo0JPwXvAzE-64YLRlAZ3W_xeyJzc2VsHU-rWUzJYLpGMa7QfLOkuFj15vxbhN-C9EhAZ9cVULPne42viGoh5AdKNGhQ5GpvimEKG2ARmOADq4RMSAmUpcA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJzXKw06-J-zERj8h35NeAh6M",
+         "plus_code" : {
+            "compound_code" : "5H98+3V Serian, Sarawak",
+            "global_code" : "6PHG5H98+3V"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJzXKw06-J-zERj8h35NeAh6M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "No.98, Serian bazaar, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1672391,
+               "lng" : 110.567772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.168575279892722,
+                  "lng" : 110.5691173298927
+               },
+               "southwest" : {
+                  "lat" : 1.165875620107278,
+                  "lng" : 110.5664176701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18cc8b4fe098bf440c3bbb945439cb720754d808",
+         "name" : "Ah Guan Pau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112014490398846776945/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP02g_xj4aHByVcUYwSAO2iE6tdT7OeJQ6hfWsa4tIRowd59RPYjdTFM5NiM9a097TTIktok1TUbwdznSmIiKZwNPGJ7oAjM_RbrOK2IJkQ3jm5hgGiZq0dnYVzZKg7I-EhB3HOhq7h8cdzl6tx5PJWkfGhSq8oGFmxJaL6zv48nHl7pz1n65Fg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ62yKlVSI-zERDzMIhZTmUDI",
+         "plus_code" : {
+            "compound_code" : "5H89+V4 Serian, Sarawak",
+            "global_code" : "6PHG5H89+V4"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJ62yKlVSI-zERDzMIhZTmUDI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "1-17A Jalan Serian By Pass, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1650476,
+               "lng" : 110.5686162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.166389479892722,
+                  "lng" : 110.5700937798927
+               },
+               "southwest" : {
+                  "lat" : 1.163689820107278,
+                  "lng" : 110.5673941201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6d87334080afeecdab670573588fa6a0cb67b686",
+         "name" : "Pasar Malam Serian",
+         "place_id" : "ChIJ4xxwhrKJ-zERhfd3OD94IuQ",
+         "plus_code" : {
+            "compound_code" : "5H89+2C Serian, Sarawak",
+            "global_code" : "6PHG5H89+2C"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ4xxwhrKJ-zERhfd3OD94IuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 171, Jalan Pekan Baru, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.256082,
+               "lng" : 110.470299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.257534579892722,
+                  "lng" : 110.4715630798927
+               },
+               "southwest" : {
+                  "lat" : 1.254834920107278,
+                  "lng" : 110.4688634201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ecc3f8a38f3392c9d121f934d37970889af494a",
+         "name" : "Golden Bakery & Confectionery",
+         "place_id" : "ChIJpxYFt-OE-zERGv_a8J3txtU",
+         "plus_code" : {
+            "compound_code" : "7F4C+C4 Serian, Sarawak",
+            "global_code" : "6PHG7F4C+C4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJpxYFt-OE-zERGv_a8J3txtU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No 269, Pekan, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1684066,
+               "lng" : 110.5686979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.169760579892722,
+                  "lng" : 110.5700694798927
+               },
+               "southwest" : {
+                  "lat" : 1.167060920107278,
+                  "lng" : 110.5673698201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4f788a081f374c82f68abd884435d38c9da8b825",
+         "name" : "Ted Joon Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100065548691296496532/photos\"\u003eliew chinwei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPpOY1nhXuZ-pCTmjIrfJM2d5Kqk2HVU1VAc8O5Nw7cRX9gl6p3x8cMMVFS3DrEBn97zF2nt9_vY7xSNbtshdsiiCtkmkUpf8YeGJbE_IWwobXQjAVOC9VXpBTMdnrWEeEhAsG7CkuZmk6-DF8LxbO9l7GhSt7H_9oCpzMKn8ImMmVK24V6Cxcw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJge7a1lSI-zER90iil5CVx80",
+         "plus_code" : {
+            "compound_code" : "5H99+9F Serian, Sarawak",
+            "global_code" : "6PHG5H99+9F"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJge7a1lSI-zER90iil5CVx80",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "500, 1-17A Jalan Serian By Pass, Bandar Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1685876,
+               "lng" : 110.5687029
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.169934379892722,
+                  "lng" : 110.5700366798927
+               },
+               "southwest" : {
+                  "lat" : 1.167234720107278,
+                  "lng" : 110.5673370201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "775f3d041f3a124eee34507a714ce9a5456f3800",
+         "name" : "Deli Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103479972551347987505/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0O1pbogZ3DBGrp4qjJ2ATM-TpYj5wa082HVV7DwuCOicDaUZTlr9TuLUqqPsCkHhfOahvCSxMHZCCdn6dVHaWohkx3YCGyltD-XXLHRSZZZxGE8VyNUNsrp4P5pZ1ItiEhAzDNEMs7YXT2HPdLqiDfMtGhQVgd_y16YpfYZzxKdWxGePh_2ALA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJdXA31lSI-zERI0f7sEUMdGA",
+         "plus_code" : {
+            "compound_code" : "5H99+CF Serian, Sarawak",
+            "global_code" : "6PHG5H99+CF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJdXA31lSI-zERI0f7sEUMdGA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34
+      },
+      {
+         "formatted_address" : "Taman Danau Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1602876,
+               "lng" : 110.5678515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.161590179892722,
+                  "lng" : 110.5690834798927
+               },
+               "southwest" : {
+                  "lat" : 1.158890520107278,
+                  "lng" : 110.5663838201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ed1c0b08675f4c3d6552c6e948eb19edb364d9c",
+         "name" : "Lake View Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108809412520544488567/photos\"\u003erhona gudem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYSDqPFVnMGSKBIPTRO4IN4ypwoxlw9JSlcNueBfTg0t-sgMi44W2A1GYRpTJHvwMAiQdRxjoT5XYLAwEDa7Jqw6ApiZPbkTY5gV6E5zfBfUL-xs8vauiA28RjhQ2uv9NEhAXTBICN9rUaeWncz2uSau1GhRzcymg90QzBHCbIXCKUEwv520xfQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJGVwWPU2I-zERrG__9-unADI",
+         "plus_code" : {
+            "compound_code" : "5H69+44 Serian, Sarawak",
+            "global_code" : "6PHG5H69+44"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJGVwWPU2I-zERrG__9-unADI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45
+      },
+      {
+         "formatted_address" : "94700 Simunjan, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2696782,
+               "lng" : 110.6558881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.271021479892722,
+                  "lng" : 110.6572816298927
+               },
+               "southwest" : {
+                  "lat" : 1.268321820107278,
+                  "lng" : 110.6545819701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "062effe3ee22023ced82f1a94e2a7e767137ebcf",
+         "name" : "Mi Udang Gumpey by Haji Bukri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113558750746816968746/photos\"\u003eAlice\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkx01nWFaz8QvaHrIRqEvbSwo31KLf-BKHXYkDi3VJObWxNCQRB0HZK7gfciJxBMn_5e--WonLUvOXds9LuuKvLWpvrC2Zwe9jh64GZc0Uvv6l4uSg-6GGIGTQtQmas0iEhAGDdqoUmJc370vsNhyMoSKGhSK33jHT0CZFfbV6_8h4TqnTLxIOQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJEygk1ISN-zERRQvn-YrjxOc",
+         "plus_code" : {
+            "compound_code" : "7M94+V9 Simunjan, Sarawak",
+            "global_code" : "6PHG7M94+V9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEygk1ISN-zERRQvn-YrjxOc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "38, Jalan Kuching - Serian, 94700 Serian, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.1845142,
+               "lng" : 110.5652341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.185823479892722,
+                  "lng" : 110.5666412298927
+               },
+               "southwest" : {
+                  "lat" : 1.183123820107278,
+                  "lng" : 110.5639415701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c505ea4c46c7764121c71393a806f8f4d4e9c6e",
+         "name" : "山珍餐馆",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102871118538111691633/photos\"\u003eMildhea Risnovia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkHun1hrKowkSN2SPH8azKBD_QQr0c3m3yM_OOO40fvdIUn9VkBM-TJCSCMqeNyTLAJcZ5Fx1zBSQGSNW0oUgV4Slhi5RkGJzmpfTHCH0LyZjer9nFpRv5wPXmZ4y_rniEhBRBK2cRGc-mpno1Mc5sg30GhRD5MxYn3T1Om2f9WmDKL6f1OwQ6A",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJi-9BYuGI-zERUiX4OT8Lf5o",
+         "plus_code" : {
+            "compound_code" : "5HM8+R3 Serian, Sarawak",
+            "global_code" : "6PHG5HM8+R3"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJi-9BYuGI-zERUiX4OT8Lf5o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Lot G42, The Sumer Shopping Mall, Jalan Dato Mohd Musa, 94300 Kota Samarahan, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.455118,
+               "lng" : 110.4580297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.456469579892722,
+                  "lng" : 110.4592318298927
+               },
+               "southwest" : {
+                  "lat" : 1.453769920107278,
+                  "lng" : 110.4565321701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93c5cf0747cc6f96a353c5be263b5962a378d939",
+         "name" : "SugarBun @ Summer Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109821664856873785479/photos\"\u003eChenal Abydin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgZq0bQTA2S3143zIT1BVRq7DbK1yDYEZWyJit7ea25Y8yBkCarTPtLcFI8se6-KUTsWIxzAsxzPTlLBaAT26Jm4RTIrRSDdk4KqGKF8xxg8-yJAdohCwFsqlmi9K-O-qEhC6P4amAg3okbK7V4yMF-iIGhSa1g9O7SPMfGVbphlQtYlKLuv4fQ",
+               "width" : 3984
+            }
+         ],
+         "place_id" : "ChIJcU4L706i-zER4l1qyQue9J8",
+         "plus_code" : {
+            "compound_code" : "FF45+26 Kota Samarahan, Sarawak",
+            "global_code" : "6PHGFF45+26"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJcU4L706i-zER4l1qyQue9J8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      }
+   ],
+   "status" : "OK"
+}

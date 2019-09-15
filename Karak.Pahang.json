@@ -1,0 +1,491 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "No. 42, Jalan Besar, Kampung Baru Karak, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4139142,
+               "lng" : 102.0349716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.415247629892722,
+                  "lng" : 102.0363402298927
+               },
+               "southwest" : {
+                  "lat" : 3.412547970107278,
+                  "lng" : 102.0336405701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "10d0e98ec0c45753a820165a8952fe0a0e65c8f9",
+         "name" : "KFC Karak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107854381532593087896/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtWSfpe9IYIUb3C--XxfDYnlTQBAGEtQD5QmvIFkJY8tbaWP4oq9cYY7wFoR7Bi1h81Lcmeuk2_13FCYNaKckPMhEFahQ5NacvfWABe2HSTCGnfunskR4ZsFnxx_3Cf0mEhBbyhlVQ8ec3wQWWHwJV33GGhRBFwMRuzXikFFl3nv_8A_8WdGhtA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4WeVYRwfzDERxv9ilbIREv0",
+         "plus_code" : {
+            "compound_code" : "C27M+HX Karak, Pahang",
+            "global_code" : "6PM4C27M+HX"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ4WeVYRwfzDERxv9ilbIREv0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "640, Jalan Lama Bentong - Karak, Taman Karak Indah, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.419912000000001,
+               "lng" : 102.027794
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.421243879892722,
+                  "lng" : 102.0291008298927
+               },
+               "southwest" : {
+                  "lat" : 3.418544220107277,
+                  "lng" : 102.0264011701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9480c98abd9582941c5fa6e06068fd3d4ba7988b",
+         "name" : "RESTORAN NASI KANDAR D'PERMAI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109448128965858454639/photos\"\u003eDanny Chai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5RUoClyndEp9vjZhKOBh5i7YmFW1PwgQ-fjU6cvyrGaw0qRapYkcdXga5BK3wWJMsZa45oxtjR2x_4zI7SHqC7tJfxX3pnR6izoBXEeTtPHP-ck3Zw5Md_fR2Soim9wcEhB2T5krIbqBBv-XzBduYIvSGhQs5YzyyDynMdRfpI0_FK8JvUzipQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJq_Boan4ezDERVKUhsXTao7I",
+         "plus_code" : {
+            "compound_code" : "C29H+X4 Karak, Pahang",
+            "global_code" : "6PM4C29H+X4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJq_Boan4ezDERVKUhsXTao7I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 60
+      },
+      {
+         "formatted_address" : "Kampung Baru Karak, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4133549,
+               "lng" : 102.0354688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.414643879892723,
+                  "lng" : 102.0367602798927
+               },
+               "southwest" : {
+                  "lat" : 3.411944220107278,
+                  "lng" : 102.0340606201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "476ab33bf30ffc147b9532a3eb7017eec54b1e04",
+         "name" : "HAMZA BISTRO",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2997,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108245763535954819376/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGcj0o6lJrtnbjjzHZxWB2UH6n6AKRJOxr6OZwlvfovauG1y6UD8trUffJXKlj007pV6qwpSy1SbsBOvzpg1ifswCnaJ1XQ0QcoRZaXSIGZLP2DtuhW6iWIgb3nArarjPEhAG1F3IlUYjrRwbvebhbOsfGhTiUiwI0YaZBn3jMgZCesbWZRXkdw",
+               "width" : 5328
+            }
+         ],
+         "place_id" : "ChIJPdbvMWUezDERhgKxZHqYC9A",
+         "plus_code" : {
+            "compound_code" : "C27P+85 Karak, Pahang",
+            "global_code" : "6PM4C27P+85"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJPdbvMWUezDERhgKxZHqYC9A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 168
+      },
+      {
+         "formatted_address" : "31, Jalan Besar Karak,, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4136518,
+               "lng" : 102.0346243
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.414966329892722,
+                  "lng" : 102.0360082298927
+               },
+               "southwest" : {
+                  "lat" : 3.412266670107277,
+                  "lng" : 102.0333085701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d8a3cab124fac746e49a433052ab03de5afc542",
+         "name" : "Restoran Najath",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101600066014399404131/photos\"\u003eMohamad Ashik Bin Abdul Kadir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA51AnpPRwOwKi1g_Kr8Vny8wYT-z_qFH3DwDWvcRDpePkQ3BZFUbF6zgYKkGh7IHDaTIXD5x0TRGpGSwau_1Oa_V9gzWOG57nxw_EUGyaFirXb0svFRu8jx34wNn2i0n3EhDxgf5UGC1noz5Urg_GFLETGhTyrZrPpjbt_5BmOwX3rjLcYoQdWg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJXRWQ1WQezDERxFslzSe2Rzo",
+         "plus_code" : {
+            "compound_code" : "C27M+FR Karak, Pahang",
+            "global_code" : "6PM4C27M+FR"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJXRWQ1WQezDERxFslzSe2Rzo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 158
+      },
+      {
+         "formatted_address" : "Jalan Lama Bentong - Karak, Kampung Sungai Dua, 28500 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.437088,
+               "lng" : 102.0066542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.438430529892722,
+                  "lng" : 102.0079899798927
+               },
+               "southwest" : {
+                  "lat" : 3.435730870107277,
+                  "lng" : 102.0052903201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ece74fc6c777d0f3fb8218dd42401df2fcedf803",
+         "name" : "Cafe E8 Karak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105319995443146635562/photos\"\u003eAzian Yeop\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuPKF-kwEzPYvub-SYIqlL33IaeAZF5WwratWDb5KTczMxhV7AWfazMq9sy4OF4Yo9RYzlJGQZpZ9che7Eg3jJMSKjlnKiEY3Ko0YAMfE455cqSzW2nP705-1TsHVQdE4EhDbQBoxlIkCqndQ346UevH6GhRFyz8zBCL8JsazmCjl0yw38fIPsw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ1SlWTjwczDER9x_0OITeO00",
+         "plus_code" : {
+            "compound_code" : "C2P4+RM Karak, Pahang",
+            "global_code" : "6PM4C2P4+RM"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ1SlWTjwczDER9x_0OITeO00",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Jalan Kenanga, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4182653,
+               "lng" : 102.0290868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.419614029892722,
+                  "lng" : 102.0304414298927
+               },
+               "southwest" : {
+                  "lat" : 3.416914370107277,
+                  "lng" : 102.0277417701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1992bf8f043b06c6037c58dce71ebb62b37aed75",
+         "name" : "GPC KARAK. PAHANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116896383180930811963/photos\"\u003emohd hafiz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn4_ZvXXhnusp_YPty-sG0Lk-7-l3915Dywdz2b_qELXDQOo3i-GNdHNEcg07ZLgzB6OfOSPjx-gwMP9Rk_bUF2E3OpZhg9S_AhGgzrc2yRi4gFOsjR5PyqEjO8uqnY4eEhCNjq1d1ZvlIuR9iXT8GMW7GhTP7xI50WDycZlky-rErW83VvWMKw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJW0zvJfUfzDER_FkUmPtJV3Y",
+         "plus_code" : {
+            "compound_code" : "C29H+8J Karak, Pahang",
+            "global_code" : "6PM4C29H+8J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJW0zvJfUfzDER_FkUmPtJV3Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "20, Jln Utama Taman Karak, Taman Karak, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4137846,
+               "lng" : 102.0348258
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.415142479892722,
+                  "lng" : 102.0361836298927
+               },
+               "southwest" : {
+                  "lat" : 3.412442820107278,
+                  "lng" : 102.0334839701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24702684959fe90f93673faf0329993a79083117",
+         "name" : "Mau Kee Restaurant",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109200994776041727728/photos\"\u003e朱嘉宝\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs9XBnjooVFruGP-ke3-ZMAWWK3Y32rKfT88UDyjXE_C7vFY5lXNdQdKneKzfHLfgDpHu6zRheHtlUOLUIXR9AXmj3-PUYkIweLDq9NPz8pnXmVcLoJqNwtF1ttCMTxtHEhCoIVZj_fIu5j2dSB7-K9w_GhRsPD1jm08pgfqwsp2tT_CsVVbmxw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJn3E91XoezDER0p6ZoHPQhDs",
+         "plus_code" : {
+            "compound_code" : "C27M+GW Karak, Pahang",
+            "global_code" : "6PM4C27M+GW"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJn3E91XoezDER0p6ZoHPQhDs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "BHP Bentong Station (KL Bound), Karak Expressway,, Bentong, 28700 Bentong, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4659664,
+               "lng" : 101.9031025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.467393329892723,
+                  "lng" : 101.9044137798927
+               },
+               "southwest" : {
+                  "lat" : 3.464693670107278,
+                  "lng" : 101.9017141201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "604c4e4263a0c36189305a53deff9197eaa9bc7a",
+         "name" : "KFC BHP Bentong Karak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110571512278066721487/photos\"\u003esonza yeap\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs0Fg9o2eufavetqVxT6UEEpI1bVfRFBdMOPGS7fhAceZAt5cXbbzIYpD7diXfjb_n0O4NfhT7OCWFAIDBzaTT2dtxKS7P3opmveVIJSrLzNtKaTXGcYEbz1vEaZyUbTvEhCRAvNeog53fmVH0iNd-qrsGhTVy0Mdxgw-ELvLlXAcJsIGNlbOEQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJZxHQNYgazDERco3n_7wADbA",
+         "plus_code" : {
+            "compound_code" : "FW83+96 Bentong, Pahang",
+            "global_code" : "6PM3FW83+96"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZxHQNYgazDERco3n_7wADbA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 207
+      },
+      {
+         "formatted_address" : "28700 Bentong, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4430571,
+               "lng" : 101.8929168
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.444434229892722,
+                  "lng" : 101.8947302298927
+               },
+               "southwest" : {
+                  "lat" : 3.441734570107277,
+                  "lng" : 101.8920305701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7700efd71a6d50ac4daa2ac231ac857fa91be81",
+         "name" : "KFC Petronas Bentong DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109090655293743836359/photos\"\u003eGS CHIA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV8F-sD2XKC57okb00KGi_p95F6rW6lZLztYdJqoWQlFAh8uU1qBSoX4bVmin6FH3Mqo-MGcAELIVlIvsE1ngNu1lVtFJ7YEmDNCF5-G0f66zNllOQNP_YrrXzo04x_8VEhDWxrbiMYT0FhiJQiUUt0VTGhR2GJTBNFldztoY-ITfgOuxGTqEeQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJJZ-tD9MbzDERKesg7PgJYvc",
+         "plus_code" : {
+            "compound_code" : "CVVV+65 Bentong, Pahang",
+            "global_code" : "6PM3CVVV+65"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJZ-tD9MbzDERKesg7PgJYvc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "Kampung Baru Bentong, 28700 Bentong, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5141536,
+               "lng" : 101.9135054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.515495679892722,
+                  "lng" : 101.9149153798927
+               },
+               "southwest" : {
+                  "lat" : 3.512796020107277,
+                  "lng" : 101.9122157201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "31224bfd75b83f541ede29862d69d85b16ca22cd",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110691485130545696021/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgcyGOE_eBOslH5wd2Bau7cg9C3ffAp9KpUQJICAEaeyLZhDmDcA1pW23-as5tJJ4OT1wMfLPnGYaGlFaolXsxQmFckfX7EbTihqp5bCD8tA_0iI_PUDKd35akbb8yDzOEhCN350dNGSO28de1frvNPyjGhS1tAwqhIoIh4FnwdfS5nrYKWwK_A",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJwbHqijcFzDERHMlkiUNEsP4",
+         "plus_code" : {
+            "compound_code" : "GW77+MC Bentong, Pahang",
+            "global_code" : "6PM3GW77+MC"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJwbHqijcFzDERHMlkiUNEsP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 268
+      },
+      {
+         "formatted_address" : "640, Jalan Lama Bentong - Karak, Taman Karak Indah, 28600 Karak, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4207942,
+               "lng" : 102.0277196
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.422134729892722,
+                  "lng" : 102.0290388798927
+               },
+               "southwest" : {
+                  "lat" : 3.419435070107278,
+                  "lng" : 102.0263392201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ce3774d737151c7a1eb0de5dbacef982fd869062",
+         "name" : "Restoran Raub Baru Karak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104749283239579853242/photos\"\u003elord Voldermort\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAMq6ikDoFo_ZKWd-xIx6L0QdWnJRjftcOTUYWlPIkDIVbd66TpeVbnJYLP50WGm3xmmmoySTETF-ScYk9kulP-zFispIF0D5wyBCSCjKACD0U9FL97Xf2sXZcBaRhWzNEhDTBBXVahEVyOKXOwc68b2BGhTWGoqcjlmA80PYDM2khh1N4YJPJA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJtwumSX4ezDER0qfq7AnpZZE",
+         "plus_code" : {
+            "compound_code" : "C2CH+83 Karak, Pahang",
+            "global_code" : "6PM4C2CH+83"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJtwumSX4ezDER0qfq7AnpZZE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 66
+      }
+   ],
+   "status" : "OK"
+}

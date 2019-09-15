@@ -1,0 +1,858 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAAJgIUa3vzHpYnTvi1Tw-LCZOu3OAF3ZKHnc4fIX_GP1xqVNBYmWQ5w_KvX7MYj1FsNvY_oIiH2-4WAaJTgKVzUAGY68ihM1202-ERLufz4lHB_nKlwFiMyuvZS_65h-9q_WfQVs2FZjzOEucFKbFu9bQFQMQl50YqIV1NokSXBK3gkKqJ2js-eynTi9Ec9-RDBAsCvggByFGkM1VY3v0LLVcduIymRQjK7dzp1thG252fR2ekVDUYhKeaomaJfD9Nod-okNb9spYbhRGoJUkeeBDVVkLzaNM7E84oPsyKx8vmguETOR2Ab_6UW9KJhQ8_MTjoI95Ys620egcTE6LAvCajXahtjeD11sBcyOOJN6L_y11OKF62GHVEJxUwrOz9sPF2i_8Pqdwj92ThPp9wFNLQc-cz5iRehQSgOC1XJ474QIDqJl6VzoCWryS3qXRtVCRFwjFGb5ob7WTICzMOWNlhPqg86nQ_QI6Rp9OpXpqad2ibSFIUuSLs-fdCq10vEqyEHXNAa8R_-K2HCWXxLuWUlocR4jKh3lefUSBE1kREvTO4yhD0PXDFmYhtSpkHiozFKblFWPT1rI8foroOVo-njzBQKwYce0cyknrsQ5UFkYbGVjE7bMiljiRFglIh0gI9wD0kPMiYxDK3KvIH7An9s7E4idTBvocuSKQN7hcEhCIPOdQBZg-HaiUzetggYufGhRS1MMN-tw1RQ9mSo-O_PX0k2X2vw",
+   "results" : [
+      {
+         "formatted_address" : "Kampung Dusun Nyior, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2291102,
+               "lng" : 103.4282565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.230439029892721,
+                  "lng" : 103.4297071298927
+               },
+               "southwest" : {
+                  "lat" : 4.227739370107277,
+                  "lng" : 103.4270074701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "acfa88ea392653e897eda9c416217f78864ba813",
+         "name" : "China fastfood quán hoa giấy",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102482137216481907628/photos\"\u003eXuan Thanh Dang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGBP-vuaRj-tTiMzs_54K7Mo9Tg7gxI2S1VAgB3xkAcUSyMljEDhHNw-8T4PE2njivJuA9Ml4o1ODzaiVndmQhjIWQBo8aAM7KUTxY5dZMW2PCiJt9atjAIFACfhts2HNEhDydfTBTmJiJCF1TLOgKo7VGhR5NX_IQGJxmLzRJ6gsK5Rw0eYUjA",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ2cpk5syHyDERbd4RXaxUpjk",
+         "plus_code" : {
+            "compound_code" : "6CHH+J8 Chukai, Terengganu",
+            "global_code" : "6PP56CHH+J8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ2cpk5syHyDERbd4RXaxUpjk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Limbong, Kampung Gong Pauh, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2294757,
+               "lng" : 103.4199527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.230819479892722,
+                  "lng" : 103.4212760298927
+               },
+               "southwest" : {
+                  "lat" : 4.228119820107278,
+                  "lng" : 103.4185763701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "953945788ec1c031983fcb12f0139a1975644270",
+         "name" : "McDonald's Chukai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108711220230458107029/photos\"\u003eKrystphr H.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQS31lsiNpeQImfVrGzI1EzNzTRcBEl7E0woA9oS9XVAOf65iqdOb4EyTKWDHzWH4GqXMLl5bgYOcfP61PxgSQdnsXfLZMAZrZjrGRLlXqtDPtomwn2Y9sr89uVSNFJBiEhB-MWceY_geBjRBI3PNJEtNGhTwxzcdH_dczA_fKaBvTuMdzuczrg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJa1IhpeWGyDER2aOcOCgiOTg",
+         "plus_code" : {
+            "compound_code" : "6CH9+QX Chukai, Terengganu",
+            "global_code" : "6PP56CH9+QX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJa1IhpeWGyDER2aOcOCgiOTg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 751
+      },
+      {
+         "formatted_address" : "Jalan Limbong, Kampung Gong Pauh, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2332025,
+               "lng" : 103.4217052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.234519229892721,
+                  "lng" : 103.4230421798927
+               },
+               "southwest" : {
+                  "lat" : 4.231819570107278,
+                  "lng" : 103.4203425201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c033ec2dd17cdd61992571960ee69c758b0a2fa",
+         "name" : "A&W Kemaman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100967532090465840762/photos\"\u003eNasri Halim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAALBzItB2YVytMNo6cnCQWxaKvuLfcIwZmGQ6qo8qAYuxlLRJ-7sUFYflkOI9reRCPBA5KO8RfkQqNZp2VnWZ6_2FfgTuIuD54sczLa5o5_hUkp6hwo9xDJ9MGsGbQOW3JEhDLj8n4hnV_FwYz9e8hC97RGhQWHFDCryJSo4OT52UBZLdzr_H-Cw",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJIWNF-uOGyDER4nv7XT5-gPs",
+         "plus_code" : {
+            "compound_code" : "6CMC+7M Chukai, Terengganu",
+            "global_code" : "6PP56CMC+7M"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJIWNF-uOGyDER4nv7XT5-gPs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 154
+      },
+      {
+         "formatted_address" : "24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1259778,
+               "lng" : 103.2356678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.127380129892722,
+                  "lng" : 103.2370090798927
+               },
+               "southwest" : {
+                  "lat" : 4.124680470107278,
+                  "lng" : 103.2343094201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4eaac27854580d4ccb00d694926bb0e96b2b1e1",
+         "name" : "AuRaLicious🏠",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1748,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107410402668635968545/photos\"\u003eAzli Imran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5LmtD2ZFNWOtxFBQ_U_1tGjF302TapRGart3UTZoRvC7ybyVRMVLWmlm0yq4Jk4tTwh8XpW4fjJW-APR3DcaueGZOIh0OGq0Au9k7zTa6BWuKOLB4Rfl-hL9tZUAGpgOEhBlBHcFfZ9NEj6ey5lRTJYJGhQv2JeD4wFfblPcjWf-EsKp8Y2r7A",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJGaq-v8yNyDERb_1SnjFw9zw",
+         "plus_code" : {
+            "compound_code" : "46GP+97 Chukai, Terengganu",
+            "global_code" : "6PP546GP+97"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJGaq-v8yNyDERb_1SnjFw9zw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "K-378 E, Bangunan Mpk, Jalan Air Putih, 24000 Kemaman, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2306433,
+               "lng" : 103.3658633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.231950479892721,
+                  "lng" : 103.3672459798927
+               },
+               "southwest" : {
+                  "lat" : 4.229250820107278,
+                  "lng" : 103.3645463201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "166878ba52710a477b1614bc6eb08f32d2f8f578",
+         "name" : "Crazy Cheezy Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 583,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102909615957810439199/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUoiyyA3k3na1jgKM8haNzyuU15gKUFmmdIvsEq6VQ-E_a6x00hI-6Xq1CrBFuMWo727yifv5MaL2OJ1tUj6Y19vnrQMiTvw58S_LFvGMvFUlJdOqHMY8MLZga_UVLqO1EhDnqe_Tjp6BF5zdsmojIDdNGhQxsn6sP6tnaRg7kn8cnNEek58eXA",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJpy_kUsiHyDERrOUtwZshbbA",
+         "plus_code" : {
+            "compound_code" : "69J8+78 Chukai, Terengganu",
+            "global_code" : "6PP569J8+78"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpy_kUsiHyDERrOUtwZshbbA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Jalan Mutiara, Kampung Cik Ibrahim Daud, 24000 Kemaman, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2312753,
+               "lng" : 103.3687788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.232620329892722,
+                  "lng" : 103.3701967298927
+               },
+               "southwest" : {
+                  "lat" : 4.229920670107278,
+                  "lng" : 103.3674970701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e52f3a15e4099215f337732951070410e4813f68",
+         "name" : "ROTI BELAH",
+         "place_id" : "ChIJ102SumKHyDERr_8l7f9G2f4",
+         "plus_code" : {
+            "compound_code" : "69J9+GG Chukai, Terengganu",
+            "global_code" : "6PP569J9+GG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ102SumKHyDERr_8l7f9G2f4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Melati, Kampung Gong Pauh, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2332105,
+               "lng" : 103.414087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.234563779892722,
+                  "lng" : 103.4154390798927
+               },
+               "southwest" : {
+                  "lat" : 4.231864120107278,
+                  "lng" : 103.4127394201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b581ae2fd3b49284fc3cf3326c9e47d0ffe08db2",
+         "name" : "TNS BURGER @ ZUAN BURGER",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101102156577363084857/photos\"\u003eHariyani Othman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1fPo5xQGz4oTOlMtvC4aFCWzlx4GGfIp_DipDmPn8h3sd2wiZqs3VFr-OD7MNXFBSrk4G6Jh4roXLJ_uhpRIbXawvd1Ui2mmzakizXOt8VKUqWIDqhItgeeMpROWHF2fEhBrv4JXlRza7OD-kXqhv8BtGhT_b534rmtmcQOtM-wsWPGa3lOmSg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJA9RFgvyGyDERSVPtoXrwtK0",
+         "plus_code" : {
+            "compound_code" : "6CM7+7J Chukai, Terengganu",
+            "global_code" : "6PP56CM7+7J"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJA9RFgvyGyDERSVPtoXrwtK0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "K 53, Business Centre, Kemaman Centre Point, Jalan Lebai Saras, 24000 Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.232756800000001,
+               "lng" : 103.4237976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.234082479892722,
+                  "lng" : 103.4251342298927
+               },
+               "southwest" : {
+                  "lat" : 4.231382820107278,
+                  "lng" : 103.4224345701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "22abba039f2e21905383cbe8fe79c87ccfc0798c",
+         "name" : "KFC Kemaman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1959,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111901709458500394522/photos\"\u003eJ Wawa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwelV4v49GFdjSrekIsLn4L5TOYY5AFfUtJ5Z27tYK803n6srIrDQdE6bwmRF_5YVz6nbsH91kPD3Dey9ertVStWMQlDHIIu4FielTVGGsugo3g8IIGsYeT9EmB_hBrzHEhDrfm3gCZ5WU6T_ayB6r1NaGhQKrV9JuTjavcQWa8qssxwKLz0zlQ",
+               "width" : 3032
+            }
+         ],
+         "place_id" : "ChIJQdYby-aGyDERvrw4bKaZG4A",
+         "plus_code" : {
+            "compound_code" : "6CMF+4G Chukai, Terengganu",
+            "global_code" : "6PP56CMF+4G"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJQdYby-aGyDERvrw4bKaZG4A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 503
+      },
+      {
+         "formatted_address" : "47, perumahan lot 144,24000, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2481095,
+               "lng" : 103.4190679
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.249432629892723,
+                  "lng" : 103.4204185298927
+               },
+               "southwest" : {
+                  "lat" : 4.246732970107279,
+                  "lng" : 103.4177188701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "64422b9d6d31c0e6b102184aca728e3386de797d",
+         "name" : "goreng pisang pok saling lot 144",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111653166844515248008/photos\"\u003esaling jusoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO5aHkXebPV1deV2xf3ZfyVUzQGDj10pPbfGODzuOUUxTsvw7u4o9yDQ_pNKf31KemfD-2sWG9zlK3-cIVeifMXHBPuqmr5qegn_dP8bnVW-YSM7z8Ov1DwSn6q7k-IDyEhAokN9GnRh-mSAvmoQIZDSjGhTs3PPDpwDYIYUf1sEVYcrG-TxmlA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJseZJXESHyDERncSJJXEhmEI",
+         "plus_code" : {
+            "compound_code" : "6CX9+6J Chukai, Terengganu",
+            "global_code" : "6PP56CX9+6J"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJseZJXESHyDERncSJJXEhmEI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Unnamed Road, Kampung Gong Limau, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2481135,
+               "lng" : 103.4190387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.249462779892722,
+                  "lng" : 103.4203646798927
+               },
+               "southwest" : {
+                  "lat" : 4.246763120107278,
+                  "lng" : 103.4176650201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cb8c52e84fbc2f65798608577ae06f668501525b",
+         "name" : "Telur Gulung Kemamam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117684189556685484975/photos\"\u003eAmir Saling\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2BP2-zIAlrVYn_j-fN_3v2d8xKWOpNfvh1usLyT5eiL_ZXZFadQ_nOzPpomSyVXRcnm22sdgupaZgzj3Zf2hwu_To-E-z1a6GGFn73w7NrP0oPXEKKkUdkQ6kjErtnTmEhBoiZyVCMqGZc4JOVczyCexGhTolT8-RsgYOJfplcrtbwyA5rcVjw",
+               "width" : 490
+            }
+         ],
+         "place_id" : "ChIJZ-mKQ4yHyDERgEpyvsJEOLQ",
+         "plus_code" : {
+            "compound_code" : "6CX9+6J Chukai, Terengganu",
+            "global_code" : "6PP56CX9+6J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJZ-mKQ4yHyDERgEpyvsJEOLQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "843, Jalan Limbong, Kampung Kubang Kurus, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2331557,
+               "lng" : 103.4228475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.234494079892722,
+                  "lng" : 103.4242215798927
+               },
+               "southwest" : {
+                  "lat" : 4.231794420107279,
+                  "lng" : 103.4215219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80636a25920b8c653a69279d2b337fb49f39573b",
+         "name" : "Gerai Lori Keropok Goreng",
+         "place_id" : "ChIJLZBOUuGGyDERFEXSaiVPyHc",
+         "plus_code" : {
+            "compound_code" : "6CMF+74 Chukai, Terengganu",
+            "global_code" : "6PP56CMF+74"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLZBOUuGGyDERFEXSaiVPyHc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Kampung Pulau Tempurung, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2369467,
+               "lng" : 103.3867754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.238342179892721,
+                  "lng" : 103.3881627298927
+               },
+               "southwest" : {
+                  "lat" : 4.235642520107278,
+                  "lng" : 103.3854630701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1bb71c96ed88b5e96d8aeae09b9500bf0056e027",
+         "name" : "Keropok Lekor Hj Long",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109912389000476249150/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt8hW3jlMhGlb9G7M8HDJbtuXIyvQowhos23Mhlyj2G5aUcYMmbmR9L8fR2DU-ffBscWC8mxy8PNf7vQX4bDGP_e91YjcGETLHl5w2_-oiPZiaw0nh0pf642DakNm-V3vEhC53x9A2t2BQE58FltlQRvQGhQZBquIH8Nqa4KI3Sy0asWmmpQR2w",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJXdk9b0uGyDERUo8RdCINXY8",
+         "plus_code" : {
+            "compound_code" : "69PP+QP Chukai, Terengganu",
+            "global_code" : "6PP569PP+QP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXdk9b0uGyDERUo8RdCINXY8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lot 5422,Kampung Chendor sempadan Jalan Kuantan-Kemamam, 26080 Kuantan, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1824351,
+               "lng" : 103.4279929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.183796679892722,
+                  "lng" : 103.4293832798927
+               },
+               "southwest" : {
+                  "lat" : 4.181097020107278,
+                  "lng" : 103.4266836201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "279a972288ff7b3c8efd0628990e294b53c57cae",
+         "name" : "Keropok Setia81",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107929240716779533168/photos\"\u003eSetia 81\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnDrhdpT9d0G1m-9NDUBjpWyTr1Z_jM0ZE4m8nGm-TW7oaW84HcBTQpQEIcW_Gr_k-b9hMJ9LvALH0_zrmdOIbDew7lea4QZPuGCXDObl25_yL7VnEYR45PqojwDCqu4VEhDmz6LN3-nfoL5abkd10-1PGhQxoMdxZgmJ-b6w3YLUwLjZR1cUxw",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJI5WHGFKEyDERFpdrqyKxy4w",
+         "plus_code" : {
+            "compound_code" : "5CJH+X5 Chukai, Terengganu",
+            "global_code" : "6PP55CJH+X5"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJI5WHGFKEyDERFpdrqyKxy4w",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "No 2 Lot 1472 Jalan Kuantan - Kemaman Mukim Sungai Karang, 26100 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.93277,
+               "lng" : 103.367304
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.934146279892721,
+                  "lng" : 103.3687633298927
+               },
+               "southwest" : {
+                  "lat" : 3.931446620107277,
+                  "lng" : 103.3660636701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "15d1b976a37f86939661135ec9ad05cbace471cc",
+         "name" : "KFC Balok",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107556446920581071001/photos\"\u003eSue Suriatie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAON1SQyatZEZhUM-yJs2kf4pWox8q_ZbZMi-jzhmLRd9P0YXy8T2pFy8pCpNstj_SkWs_CpjkCxZzIDdsjGoNPiCrcvLYCqQNUM1q_Sqx7YZ4DknHx-KEHII3WYXgXccJEhBthywYoxDb4nJkUcHwX5FDGhT4rwqAwBMLqwednCenOVMU75_0xw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ7QvjVxeYyDERhFwA20oQkJM",
+         "plus_code" : {
+            "compound_code" : "W9M8+4W Balok, Pahang",
+            "global_code" : "6PM5W9M8+4W"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ7QvjVxeYyDERhFwA20oQkJM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 550
+      },
+      {
+         "formatted_address" : "Lot PT 13696, Taman Chukai Utama, Kemaman, 24000, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2211181,
+               "lng" : 103.4188365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.222475129892721,
+                  "lng" : 103.4200777798927
+               },
+               "southwest" : {
+                  "lat" : 4.219775470107277,
+                  "lng" : 103.4173781201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5fb214ceb2284931a196a8ad6d0405726a1f676",
+         "name" : "Fast Bakery Supplies",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114105245092269722525/photos\"\u003eAzahar Abdullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB1QoxoiUb0U8lhtOw2zxww1ZtBkCPmlK7H6bv7NBL0ArDoGMair-jsKPGTfhg9Y5BlOT-Z86GRgkmS7cpCnccKNAZzjEL7wHoo_PWA-pOK1YsuVNS32yg4MvdQ5r7iEPEhCQOcT4Aj3lADQidU1oDCJcGhQ8BvEqDOolGpda-6-aMol6paq5iw",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ0dYaB-SGyDER0mlMuwKRy_s",
+         "plus_code" : {
+            "compound_code" : "6CC9+CG Chukai, Terengganu",
+            "global_code" : "6PP56CC9+CG"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ0dYaB-SGyDER0mlMuwKRy_s",
+         "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 68
+      },
+      {
+         "formatted_address" : "Beach Resort, 10, Persiaran Melor, Kampung Meraga Beris, 24100 Kijal, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.386415,
+               "lng" : 103.453212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.387730629892721,
+                  "lng" : 103.4544644798927
+               },
+               "southwest" : {
+                  "lat" : 4.385030970107277,
+                  "lng" : 103.4517648201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f59c4f8ea3513ffc8ad8d6578607d32d38a088a3",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106458279376292032249/photos\"\u003eMuhammad hafizhun Othman sahari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn8PWFeS3lLWonXSRtNcqL-aP6kitlTSXUmawPdzKGGcHPrvtUPqX4I59XUYaqKRri3VfaGFyVL1m1szMQAriYxBoiehdT8Xr82c1I8fDZvPirJFv11Pt0KvjrjVurnMWEhBbGWR37GNVQTu8i_wISdrmGhTD5sJo5HCMXfkSICUQKOkbE8V79A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJJ9Ul6GJ5yDERkaW4cGteDnc",
+         "plus_code" : {
+            "compound_code" : "9FP3+H7 Kijal, Terengganu",
+            "global_code" : "6PP59FP3+H7"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJJ9Ul6GJ5yDERkaW4cGteDnc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 208
+      },
+      {
+         "formatted_address" : "4997-1, Jalan Taha, Kampung Gong Pauh, 24000 Chukai, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.234529,
+               "lng" : 103.418909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.235851229892723,
+                  "lng" : 103.4203431798927
+               },
+               "southwest" : {
+                  "lat" : 4.233151570107279,
+                  "lng" : 103.4176435201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "3469c7cc597548d6b99a978821af196b8a396a5c",
+         "name" : "Banafsha Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117939298929498729493/photos\"\u003eNor Affaf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABywQj6dhgPhp2BRCVTDycb8-B74h2CAXngL4ce_5s785nBnyY_TCNCodJoI0vDdZ6ODJnZf4sfdD-bU21Q-QMtHg133tNTI2TFfEXj2EHaDF2V_3GUlHSmtxtmSu-sLZEhBie02adVsuzJQqHV4A6VPkGhQ1MraTZ7zCn9vDjltxNGTuRnaByA",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJZaQ7DOOGyDERsrXR3HDUo84",
+         "plus_code" : {
+            "compound_code" : "6CM9+RH Chukai, Terengganu",
+            "global_code" : "6PP56CM9+RH"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJZaQ7DOOGyDERsrXR3HDUo84",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 306
+      },
+      {
+         "formatted_address" : "Kampung Baharu Batu Anak Dara, 24100 Kijal, Terengganu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3273147,
+               "lng" : 103.4474757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.328727129892721,
+                  "lng" : 103.4488388798927
+               },
+               "southwest" : {
+                  "lat" : 4.326027470107277,
+                  "lng" : 103.4461392201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1bde3ceddbc1d1717c77dd2bc208c8116cf37e30",
+         "name" : "Black Warung",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJawQYuFt9yDERbY-cTPBpnGk",
+         "plus_code" : {
+            "compound_code" : "8CGW+WX Kijal, Terengganu",
+            "global_code" : "6PP58CGW+WX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJawQYuFt9yDERbY-cTPBpnGk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "9711 Jalan Kubang Kurus, Taman Chukai Utama, 24000 Kemaman, Terengganu, Malaysia, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.221491299999999,
+               "lng" : 103.4192581
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.222840879892722,
+                  "lng" : 103.4206187798927
+               },
+               "southwest" : {
+                  "lat" : 4.220141220107278,
+                  "lng" : 103.4179191201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "dfcfee72842571c2e9b04b23e66f2b6128b76ee1",
+         "name" : "Kemaman Station Kopitiam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114921192000734103906/photos\"\u003eZainuri Hamzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHS7flxe5F1Si1cSme985mr_yazmXoyVWZo4gQznGwjPBis0S4W1PgTvEqzWCvgL7XMXWDetAl3qAa3CA7PWJb8kJhqfQ1kuQkXRIeWI-cYxg3zKL86nsbF-DhnVQtKGyEhBp5sPGjXIEiZyp-l-d-FphGhSYnzuFmnZ7aLaI-ZhPJkEZBgBBAg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJt66FtO2GyDERCl5cfWX5J88",
+         "plus_code" : {
+            "compound_code" : "6CC9+HP Chukai, Terengganu",
+            "global_code" : "6PP56CC9+HP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJt66FtO2GyDERCl5cfWX5J88",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "Kemaman, Terengganu, K-3753, Jalan Sulaimani, 24000 Chukai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2347041,
+               "lng" : 103.4218514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.236024279892722,
+                  "lng" : 103.4231836298927
+               },
+               "southwest" : {
+                  "lat" : 4.233324620107278,
+                  "lng" : 103.4204839701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "92215bb265a4caf8811219b2a2620c44e5e0d7d7",
+         "name" : "Kedai Kopi Hai Peng Kemaman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2240,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103055910271039491152/photos\"\u003ewong jj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_6MBo1Bq9Poi0sN3pBdFJpuzt5qIyueure7-4CpOp3M1u-PsDhyInugT32Un2Psovw2cbWR40HO6hE4Oq0VS7PuqmXO0gUmIlDWKFNStahfS3TpRIf_NfRwJcJGa2hOmEhB2sJ1KjPKcjZhQixLDEA7rGhTQEo1P44tiw8BAubwQ6DqFKJWZ_g",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJZbyxKueGyDERbQzTxrc6yKU",
+         "plus_code" : {
+            "compound_code" : "6CMC+VP Chukai, Terengganu",
+            "global_code" : "6PP56CMC+VP"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZbyxKueGyDERbQzTxrc6yKU",
+         "types" : [ "cafe", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 1179
+      }
+   ],
+   "status" : "OK"
+}

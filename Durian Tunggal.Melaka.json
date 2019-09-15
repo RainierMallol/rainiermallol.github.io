@@ -1,0 +1,873 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEAQIAADpf3tA7vSrKkm1nEKEWvDOy-b2rKwqXmFT62bE815dR7o1pOv2gzBFbuUeTDbrxyKPASwG8rnhH_EYqlQCR1MgBjabcUZKyAlDZyhWun24pvHENeu1-cHF-gdD8AIChVnMuYlFoBN4LnqDtlHCFrJNcPuzigBF4KZMUM48MQpE-E_Qka2gAUp-RMQD4pr1cl82RBAa48Ve34cU1Hg0WTjuZUOZ_jB_2iLyXM2petLKWo3QdSv3fBIckn1WuCYyjMF9xFdlkaSv58YeiBTfT4YwP2HpFKWifo3CTYm83GIg1-lJQKmu8U1cgEu6AenhZeadZTBQRQvAE1ztdD7FY0H2loMZvm_GKAsUy-khtWso2tNeUrV0IDBsgQwwsq0uUo5T6VYBOd12UPkWs3hkpB0UIdrM8t8pSkS95aNBQRRBBlXbZMmMnbFRqBmQtFHM7kyuQKj1PoItMX3sFJskrOZGzOVby336ZnVtZc-rk6GmZWtxQObAquknbDDrU32VMC2iW6qqh0a8usEUWDOb99_r9VCwsReGXTf6LysjQ2H4fFALYuuANHGD3xr4L4B7QgRnQm3HjqKEDuSISACPlxH1U3bH78V_JoD4ayETJiWiLv_lM5yyFeR_A4Y963NqoOxn2-TXUgU0Q-c6czO9L6Y42Vu312AtX4BWESNAawMhCopL9lfOAXfMHs9r7is2kpRIQph10DrPd1T2fGk-FUWkSlRoUn9jmLfNp4eKNQSzyHdd54qye9yk",
+   "results" : [
+      {
+         "formatted_address" : "78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3632905,
+               "lng" : 102.246035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.364754429892722,
+                  "lng" : 102.2474829798927
+               },
+               "southwest" : {
+                  "lat" : 2.362054770107278,
+                  "lng" : 102.2447833201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "817eaf3952519b9d1dfecca0a4ec968a8818d8f4",
+         "name" : "Idaman Fast Food Corner",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101974672172156580546/photos\"\u003eR Santoso\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzfyop2DzRFB2xyUWKIKG0iw4MZfMLa2ayOlrGSgtPpKsKKuv4WvYRqGNNesGPkLk4bBYAAX4_6m0Xx4CWkqpaXSTzFqk9T5Vmg7O7ibcCtaO0fkfMa8RI0aDbDldkFfsEhCsxKDAhqJbrfHS_qnwGt1kGhTsmd0rNR8_CjvKI7TG1zG41M7NpA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJAbh70b_90TERaRuy5dZGM7s",
+         "plus_code" : {
+            "compound_code" : "967W+8C Alor Gajah, Malacca",
+            "global_code" : "6PJ4967W+8C"
+         },
+         "rating" : 1,
+         "reference" : "ChIJAbh70b_90TERaRuy5dZGM7s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "4570, Lebuh Ayer Keroh, Taman Buaya Melaka, 75450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2775684,
+               "lng" : 102.2982247
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.278863529892722,
+                  "lng" : 102.2995235798927
+               },
+               "southwest" : {
+                  "lat" : 2.276163870107278,
+                  "lng" : 102.2968239201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e539b0ff83ea6ae7beabc445f929fdba0313a5d",
+         "name" : "McDonald's @ Taman Buaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4248,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108375005069358706455/photos\"\u003eLee Ling Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlDAUuCucKINadRDkSQh0becu_nP4tq_jN2zF8yMIocBY7H4U7yL2_64-xNiAcsbZjSZTEjS7LUAE0D6Wt8a9jYlOSPhD71SIvnrlj15egV0QGe-sXSZKqrc4POWVm3wkEhBZ6e03K0Wg0GMzZWYoFe4jGhTZ312eusRDwNER0oHKePvhliNuYQ",
+               "width" : 5664
+            }
+         ],
+         "place_id" : "ChIJpxFez3Ll0TER0JzF0Y8dIcU",
+         "plus_code" : {
+            "compound_code" : "77HX+27 Ayer Keroh, Malacca",
+            "global_code" : "6PJ477HX+27"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJpxFez3Ll0TER0JzF0Y8dIcU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1513
+      },
+      {
+         "formatted_address" : "Lot 1639, Jalan Alor Gajah Lama, Kg. Air Semubuk, Melaka, 76100 Durian Tunggal, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.318169,
+               "lng" : 102.279011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.319480979892723,
+                  "lng" : 102.2803444298927
+               },
+               "southwest" : {
+                  "lat" : 2.316781320107278,
+                  "lng" : 102.2776447701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4136d47702580970420d9e8525e9da728e835891",
+         "name" : "DOH Ka Ting Farm",
+         "place_id" : "ChIJu2hyFpjk0TERf5XpmO73jHk",
+         "plus_code" : {
+            "compound_code" : "879H+7J Durian Tunggal, Malacca",
+            "global_code" : "6PJ4879H+7J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJu2hyFpjk0TERf5XpmO73jHk",
+         "types" : [
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Kampung Gangsa, 76100 Durian Tunggal, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2854827,
+               "lng" : 102.2624819
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.286825479892722,
+                  "lng" : 102.2637761298927
+               },
+               "southwest" : {
+                  "lat" : 2.284125820107278,
+                  "lng" : 102.2610764701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df3b8f5a8ac6f5d9e38c1c2ef891e12369b0717d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114184221739413232743/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM1cJMbLDWHS09Dh7JyApS-KCrXCA_qoG0FVVmXVah3vAnHwTLtEhsR3e3heoX_IPBwVqJeuhfp2roqclAbmTCnrFZdumOj5xSHQ3tHSG5pwlBTeR8xT0-1vJlDRFM5gDEhDuGVgkdfNC-TFopAftcKebGhQY1T4_tCiy32nmgCevvUfWLopBHw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJA41td-7l0TERQeUZ9A6w_-0",
+         "plus_code" : {
+            "compound_code" : "77P6+5X Durian Tunggal, Malacca",
+            "global_code" : "6PJ477P6+5X"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJA41td-7l0TERQeUZ9A6w_-0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 79
+      },
+      {
+         "formatted_address" : "jalan KJ2 taman krubong jaya, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2963624,
+               "lng" : 102.246441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.297731029892722,
+                  "lng" : 102.2478021798927
+               },
+               "southwest" : {
+                  "lat" : 2.295031370107278,
+                  "lng" : 102.2451025201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8beda808510afceabb3ba5be145d287284a6d886",
+         "name" : "Bubur Ayam Dan Ayam Goreng Cik Kiah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJQVBOUi770TER-HEjrGzj178",
+         "plus_code" : {
+            "compound_code" : "76WW+GH Krubong, Malacca",
+            "global_code" : "6PJ476WW+GH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQVBOUi770TER-HEjrGzj178",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan TU 41, Taman Tasik Utama, 75470 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2726406,
+               "lng" : 102.2808817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.274002179892722,
+                  "lng" : 102.2821917798927
+               },
+               "southwest" : {
+                  "lat" : 2.271302520107278,
+                  "lng" : 102.2794921201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "38f0d4c88258e8bd592503685444d18f3735a183",
+         "name" : "Burger Zam",
+         "place_id" : "ChIJx8EWShTl0TER3eXj1qIw6_w",
+         "plus_code" : {
+            "compound_code" : "77FJ+39 Malacca",
+            "global_code" : "6PJ477FJ+39"
+         },
+         "rating" : 5,
+         "reference" : "ChIJx8EWShTl0TER3eXj1qIw6_w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lot 15702, Mukim Bukit Katil, Daerah Melaka Tengah, Hang Tuah Jaya, Malaysia, Melaka, 75450 Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.273468,
+               "lng" : 102.28563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.274913679892723,
+                  "lng" : 102.2869608298927
+               },
+               "southwest" : {
+                  "lat" : 2.272214020107278,
+                  "lng" : 102.2842611701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5f88d038a284513d58a4bfd769481c7f32f6e8be",
+         "name" : "McDonald's MITC Melaka DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117664869659022255513/photos\"\u003ejiunnshyuan cher\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPJOm8yRLows_b_TfzRZg9fLG0TYssY9pncSIqW8Nm1NlNWIqHB9HJuDaw-2D3TwLx6w6V4hn1JlMjpoXh_B1eUVdStVuchPjHD6Murqv42q_0nDlw0RgZ4RRi2Ly7zWqEhCfInn6nDhWH52lIwLNImBdGhTo42SC-husXP05jqXSiIaTOSmKnQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJYTXmwnLl0TERcpU9Ar1RUtA",
+         "plus_code" : {
+            "compound_code" : "77FP+97 Ayer Keroh, Malacca",
+            "global_code" : "6PJ477FP+97"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJYTXmwnLl0TERcpU9Ar1RUtA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1110
+      },
+      {
+         "formatted_address" : "Lot R2, Lebuh Ayer Keroh, Taman Ayer Keroh Heights, 75450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2537244,
+               "lng" : 102.2911863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.255134279892722,
+                  "lng" : 102.2925389798927
+               },
+               "southwest" : {
+                  "lat" : 2.252434620107278,
+                  "lng" : 102.2898393201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "15b8c04201e0b96ac813497fd56fd4d68cd4295f",
+         "name" : "KFC Restaurant, Ayer Keroh, Malacca.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 928,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117713999841672502052/photos\"\u003ePierre Chan Hong Sang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF7YLdCdT2pv-FNqyXjunDCM9oaGoB949lmyzkowbCe8rmrYx4StBhPJfAaqzRqkTaAMn9VnR9B5KC4RCjcM6NKSYqWAghbsOHil4k9Vls9w_zShEnuODMis_4jhLuXEBEhC1_gPS5T4TUSBwF9pSBOuLGhRO8iO8caKo10B0SuVuKMnAse_I6g",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJEXyTjXzl0TERj3vv4FAIEcg",
+         "plus_code" : {
+            "compound_code" : "773R+FF Ayer Keroh, Malacca",
+            "global_code" : "6PJ4773R+FF"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJEXyTjXzl0TERj3vv4FAIEcg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1073
+      },
+      {
+         "formatted_address" : "Lot No G14 & G15, No.1, Jalan Inang 3, Taman Paya Rumput, 75400 Utama, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.281517,
+               "lng" : 102.215917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.282866479892722,
+                  "lng" : 102.2171598798927
+               },
+               "southwest" : {
+                  "lat" : 2.280166820107278,
+                  "lng" : 102.2144602201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "640b2e2a8bc6052a8404cd8aa8ef5f947f7b29c2",
+         "name" : "KFC Tesco Bandar Cheng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116130035050903831368/photos\"\u003eSyaiful Zul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFbb5vlJfJui-YW1Cg2UfkbsUYW6AVvhoo2vcy713kOSJR2cguo3egXD2W_g7183FBps266qpMdVCNsY-7bkna88XkaaHPS_DWPIXDun74KO8ipRFbSgIsUrTiGdw0zhUEhB0fcDyDo0mvkz7j2XFPmQrGhRbivriupb6xk4ZgAwih8jPxcYqNQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ10ivNPr60TERsP0p-5CNw1Q",
+         "plus_code" : {
+            "compound_code" : "76J8+J9 Malacca",
+            "global_code" : "6PJ476J8+J9"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ10ivNPr60TERsP0p-5CNw1Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "Ayer Keroh Lot R3, Ayer Keroh Overhead Bridge, Restaurant KM210, 78000 Ayer Keroh, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.397904,
+               "lng" : 102.2216832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.399294379892722,
+                  "lng" : 102.2231326798927
+               },
+               "southwest" : {
+                  "lat" : 2.396594720107278,
+                  "lng" : 102.2204330201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "240c5cdbdb7a097b992aceed893d5c5be46207ff",
+         "name" : "A&W OBR Ayer Keroh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108283666845815621575/photos\"\u003eMieulium Biblio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdTyvk8hoXjbmN2iErEkEeVsUfJE8rXg5qQ4XzzJekpFToiC3jDesxDe5I_JNdqwlz75FYkwklFfZpCZW2EHQC5tqmlLjNzhkPETM6ZR6YntQ-aoaahWxm4IM-U63C3I7EhCq7R2vLsHXdiyO1_33RXspGhTGOgiXBdj4PIGuEM0_N2Ls4-5ozQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEz_cK3v90TER3NYxycvu1Ws",
+         "plus_code" : {
+            "compound_code" : "96XC+5M Alor Gajah, Malacca",
+            "global_code" : "6PJ496XC+5M"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJEz_cK3v90TER3NYxycvu1Ws",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 529
+      },
+      {
+         "formatted_address" : "Jalan Hang Tuah Jaya, 76100 Durian Tunggal, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3138884,
+               "lng" : 102.3211577
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.315353629892722,
+                  "lng" : 102.3224727298927
+               },
+               "southwest" : {
+                  "lat" : 2.312653970107278,
+                  "lng" : 102.3197730701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ae1b70971b53736270096b8a7a8b52ca10e793b2",
+         "name" : "Universiti Teknikal Malaysia Melaka",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100242061418215464902/photos\"\u003eComputer Centre, Crim &amp; Icnet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASYI9udOcRAFSgLMQuh60ofEqwu5dXXLu6xLVm0e9hyv68hJIBmWZd19A0Y2zlPcygqLDFTNVgLcA6-yCzldcp7bwTZLDJwDN3KrJU3t5iwcCWm40DzulyQCSqqintUe1EhAvw1grFX332Izh5qI8fpwWGhROXVRa7n0XA9fjWQWMQG0x9udWSg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJm4aqbmzk0TERiGhT41dZk7g",
+         "plus_code" : {
+            "compound_code" : "887C+HF Durian Tunggal, Malacca",
+            "global_code" : "6PJ4887C+HF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJm4aqbmzk0TERiGhT41dZk7g",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 125
+      },
+      {
+         "formatted_address" : "Lot 2940, Jalan Ayer Keroh, Off Jalan Plaza Tol, Ayer Keroh, 75450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2981159,
+               "lng" : 102.3115186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.299454079892722,
+                  "lng" : 102.3128613298927
+               },
+               "southwest" : {
+                  "lat" : 2.296754420107277,
+                  "lng" : 102.3101616701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2c975f2af3646b2f1e843ce0b5e8b41cd21ff786",
+         "name" : "Philea Resort & Spa, Melaka, Malaysia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1073,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106561972715534040220/photos\"\u003ePhilea Resort &amp; Spa, Melaka, Malaysia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABKu7VJ0u2B63zNmMlTIURhgyN9-8WmVeUzzwpSyHBUJ4cVTAU1qrRRmM2Fw2uHEc1LGf6SJxKuKvcj311H3IBBkKnYetBtk0b0z6Bv4bxYGku0xf49DSLG5-GR5TyQOKEhACL3LqkVi9C4z98jHA-xkWGhQ98NHjPeQwhMhjLksRX64SfPbqYw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJIwuzslrk0TER-EQ3PQVgx10",
+         "plus_code" : {
+            "compound_code" : "78X6+6J Malacca",
+            "global_code" : "6PJ478X6+6J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJIwuzslrk0TER-EQ3PQVgx10",
+         "types" : [
+            "spa",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 650
+      },
+      {
+         "formatted_address" : "No 53, Jalan KP 1, Taman Krubong Perdana, 76250 Durian Tunggal, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3292604,
+               "lng" : 102.2494032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.330608229892722,
+                  "lng" : 102.2508017298927
+               },
+               "southwest" : {
+                  "lat" : 2.327908570107278,
+                  "lng" : 102.2481020701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f809d6d2d35d3c8236455c360dad4575fd8c4b0",
+         "name" : "Bunga & Tembok Cafe Melaka",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 532,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115961893637306294796/photos\"\u003eBunga &amp; Tembok Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXlHr27nVGyGVr869f5DMmEpg4kz7pcp74OZE8S_5cBRfIfAXEbBgpys2zbTBQDkKOajhlykRuoB69yLZu5DsRUDH7RwiEt8wTIOVYAhsxphfNzrTy3Ia3t3Mi0QiLCCmEhD7Zn6Z8Wqs506MqFPdxpA3GhStGmgcDKBC5KyMe1ck4Hbm4qiGfg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJx5RVLKr80TERECb2c6IqTFM",
+         "plus_code" : {
+            "compound_code" : "86HX+PQ Durian Tunggal, Malacca",
+            "global_code" : "6PJ486HX+PQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJx5RVLKr80TERECb2c6IqTFM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 255
+      },
+      {
+         "formatted_address" : "No 1 & 3, Jalan Desa Idaman 14, Taman Desa Idaman, 76100 Durian Tunggal, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.308032,
+               "lng" : 102.28326
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.309391429892723,
+                  "lng" : 102.2846066298927
+               },
+               "southwest" : {
+                  "lat" : 2.306691770107278,
+                  "lng" : 102.2819069701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9dbc5dd835ac13188297a70ff955325b086ada1a",
+         "name" : "Idaman Villa @Durian Tunggal",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108230195069644299400/photos\"\u003eIdaman Villa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALwFEFBP5oXJJd5ENOHqR2dvhM9y9VRUFnpxzkvPzjReiv2fAKeG7kT9EpOWYMmrfULgXX2iFhmR8QONGAkol_Pd2NedltRdb89KuW2I1LLFOReuUUhQQOTNtGa1rV4eEEhC3Y5lwQQ8j_BfRq6sRXoT8GhT1maB-SxuGkifffh9OLirzNHs7cw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJaSVsaevk0TERKbDPi3Ak7lU",
+         "plus_code" : {
+            "compound_code" : "875M+68 Durian Tunggal, Malacca",
+            "global_code" : "6PJ4875M+68"
+         },
+         "rating" : 4,
+         "reference" : "ChIJaSVsaevk0TERKbDPi3Ak7lU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "23, Jalan Sri Rama 2, Taman Muzaffar Shah, 75450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2519709,
+               "lng" : 102.2895307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.253340829892723,
+                  "lng" : 102.2908807798927
+               },
+               "southwest" : {
+                  "lat" : 2.250641170107278,
+                  "lng" : 102.2881811201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9eb970e3da2e4a35e0deae4223aa22abdb9fdec",
+         "name" : "Havoc Burger Melaka",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115258493038705261537/photos\"\u003eBlue\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8T7t4kruZYAiqxaCWXioMZlaxj_oYT-jEVud3814CuRVt2oxlBhhIFkYn4NAyXJI2lgIJ1_BqY5JYC9_oRc-sBmVCndKDV8H80e_fDS8VVIhBKSxlg8N8VViEgzIAyPTEhAIgtF-rgrl3tPKn9OBdJsNGhTAzIG32aIJVEENQSaNHsAuvEC5lA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJu296KX3l0TERZBhuV8NbaRc",
+         "plus_code" : {
+            "compound_code" : "772Q+QR Malacca",
+            "global_code" : "6PJ4772Q+QR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJu296KX3l0TERZBhuV8NbaRc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 104
+      },
+      {
+         "formatted_address" : "64, 142, 76100 Durian Tunggal, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3133796,
+               "lng" : 102.2821482
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.314727079892722,
+                  "lng" : 102.2835564298927
+               },
+               "southwest" : {
+                  "lat" : 2.312027420107277,
+                  "lng" : 102.2808567701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c22c85b7ef0117e65be81f0316e9dee22a5132a",
+         "name" : "Beriani Roket Durian Tunggal",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109270927095754281511/photos\"\u003eSha La Laa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArKTD5igwD2ZUJwcG64b4iPmdFJL1p_8zqdHQCqtRk7RYdu0os9qAwQ4-3jc1zKDZS61T9fADWCJmtlhSdt1Y3Gk2UvUjyuvIfC1hVfgQjzWg8l4ME-5XvxhIYpnsnSkqEhBf6YzDgodH6_IcT8OXlHk7GhR0oteKfNS1-oXaIIyDhPhcShi3qw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJG6R9vpbk0TERsPjjeuHQg2g",
+         "plus_code" : {
+            "compound_code" : "877J+9V Durian Tunggal, Malacca",
+            "global_code" : "6PJ4877J+9V"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJG6R9vpbk0TERsPjjeuHQg2g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 150
+      },
+      {
+         "formatted_address" : "64, 142, Taman Tunggal, 76100 Durian Tunggal, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.311775,
+               "lng" : 102.2815987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.313109279892722,
+                  "lng" : 102.2829640798927
+               },
+               "southwest" : {
+                  "lat" : 2.310409620107277,
+                  "lng" : 102.2802644201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44e6cdd0331b901b85e6e450ccaa4d0fcce6714d",
+         "name" : "辣椒炒米粉",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113673273987168198069/photos\"\u003eKokHong Mooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKJTCjQTR7Szkxv_v82wTasKqqd3V7JjUgI4ta4Xrrd0MPzo37SLH00el_2JI1xNr1cjl3cBN1FNvDzaRRWaBNjR4GHFt9W76l2LjrPzkAG4LGTX4c2i1ZaNSIF4noly0EhCh_DuGFLM3aPyFjUeK7gvnGhTRgmQ-PRoUOOMjN7_ihhlLcenW0g",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJhSkaO5Tk0TER-NBCFg8jcdc",
+         "plus_code" : {
+            "compound_code" : "876J+PJ Durian Tunggal, Malacca",
+            "global_code" : "6PJ4876J+PJ"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJhSkaO5Tk0TER-NBCFg8jcdc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 111
+      },
+      {
+         "formatted_address" : "Malacca International Trade Centre, 75450 Ayer Keroh, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2710822,
+               "lng" : 102.2918659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.272476329892723,
+                  "lng" : 102.2931923298927
+               },
+               "southwest" : {
+                  "lat" : 2.269776670107278,
+                  "lng" : 102.2904926701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f7d1f087be4245853367056e955af2e3d709efec",
+         "name" : "Subway MITC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118111639139299105247/photos\"\u003eAmir Javid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_CA1s285cGfY_ppb2ehMlPGy6SOUdT8pGPR5sYHegkuzJSLJXwt1FCV21fRhJpm8qMn0UqThpVjo7fxhcl38NFtxoU_QfPz5SSZpRRCapQe6qfSVyLAlGx6Fm2gPtDVJEhCQleul9to65xKophiuD5ifGhRzmzu2eJux2-wA1e1YFKyWvZGcCg",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJx0smAg3l0TERX3sBR45w3pU",
+         "plus_code" : {
+            "compound_code" : "77CR+CP Ayer Keroh, Malacca",
+            "global_code" : "6PJ477CR+CP"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJx0smAg3l0TERX3sBR45w3pU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 105
+      },
+      {
+         "formatted_address" : "Lebuh Ayer Keroh, 75450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2319284,
+               "lng" : 102.2818098
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.233477729892722,
+                  "lng" : 102.2830574298927
+               },
+               "southwest" : {
+                  "lat" : 2.230778070107277,
+                  "lng" : 102.2803577701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "858556a3057e04221d6be6847998ea5f76b3fc1b",
+         "name" : "Restoran Marrybrown Melaka Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105785998843100630593/photos\"\u003ecjc shop\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6TWiIP3qlLClqRcXgIFi45Iudgm-xFzIoHv7RIyhabw-BFeziyV-7jnAkvc7c337K7U3RNW8Rkp2g4tOkcdG9UDSWEewyjsoA4nwyRrAEfcSgW-OTvgj57713t6hlmmKEhDigfkryyqLgS9FTBrumtQ9GhQ2IqdHapWrTnop0KZpuzx3biFCDA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJwbZuv5Xv0TER31-z9GMOjoE",
+         "plus_code" : {
+            "compound_code" : "67JJ+QP Malacca",
+            "global_code" : "6PJ467JJ+QP"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJwbZuv5Xv0TER31-z9GMOjoE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "No 17, Prima, 78000 Alor Gajah, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3803474,
+               "lng" : 102.209684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.381699379892722,
+                  "lng" : 102.2110022798927
+               },
+               "southwest" : {
+                  "lat" : 2.378999720107278,
+                  "lng" : 102.2083026201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f4132d8fe0bf4fddd6681034345aa7a5636cc78",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110324812916719930227/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFePXrmLGGr_q_Wp9gXIfOFWISvJfNkizsJ-fambDTOt0C54VY_G7b0pwWkkDTmau5-aMMvtHhlHynX_0-LxAm95s2q038zL9e5843lG70DjKWboA_bj3pLpfiKcTIof1EhBG0CgA44_W9f0CDzKZuqYVGhS9yIrxKwiC7N_X7b7AMKdX2_3uwA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJu-vx-Qn90TERkzSB67xPF2E",
+         "plus_code" : {
+            "compound_code" : "96J5+4V Alor Gajah, Malacca",
+            "global_code" : "6PJ496J5+4V"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJu-vx-Qn90TERkzSB67xPF2E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 614
+      }
+   ],
+   "status" : "OK"
+}

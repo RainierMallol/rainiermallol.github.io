@@ -1,0 +1,830 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAADT2658fpWDYdN45DzCysYxuZv5c-cCWq92IO_3t0XYumQ96Pp3jZ4sXB3QbgdkxCSLMlzehq_AYlPBYI1yFIBH5CmeaTHlpez5awIdTVrcGhu5tWwV0Ybod5RkflUcad6kbCDwUFcIB4yOLbd4wkdLj16vrvLyEJ5vHP2pWfyjcq76K-vE4NwDENM1vf5S4oDK5Wdys7Eq7ejdLBh-a7FboT15VzmenMlEMllE9-CP-ZoyYB1nhAjlCUwdEoWt0lw4p7OQQiQwjs4YjjewI6mNUJ9k2fRlEP71Q_CxlQxDupF225ef8ey19Hq4HIvqwoHLS5uq3StZsrGxEnNq7c2lpUhEw0mbf77X-rbmBOv5MSMDyQ47iEAqR1NRP7rKklTUfJTpfIvB_YYhYsKR0RuLn1hOxGtvxsrENaOUTzfhsTq0MaVmgv6-rOqbvDjpmkHGuq7pBBpzO3TOpM3gtyTmozPV8enRG1yvfYH8Z3JrVjaP6sI7nj18hveGtjOybeukifmN7QLYGF15YQ8OltgkPp_6RUcG1hXI-pDbcbWUp4Pf-rqmdVzrJqZiOVk4nfFUIsoAIIbmEYAcY355LmjTlc7NrYE9ss5-XgOOHMr4TjZtMJG3L7QlzajUyLIAaxbQO69VhfH-5HgEY7XioT68vrZGkZP8Z8LNIeCbUCCflEhDKjNoooRrOtJE1YRzAgDkzGhSksOQD_RakuklPd2419UOm1JRsXg",
+   "results" : [
+      {
+         "formatted_address" : "Laluan Kelebang Ria 1, Taman Putra Permai, 31200 Chemor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.685175300000001,
+               "lng" : 101.1205834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.686525179892723,
+                  "lng" : 101.1219257298927
+               },
+               "southwest" : {
+                  "lat" : 4.683825520107279,
+                  "lng" : 101.1192260701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5cc21f2dac1b019bdcdbf890dc1df099f468257",
+         "name" : "McDonald's Klebang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109878781869073276187/photos\"\u003ePrashath Thiyagarajah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv4bVuGNh0ZnxLdevjekg1PQ-TrMlcNBVMiIIqjY0IYmPHICqk0roHxu1KsZm_4HX0W0tydbV1dF1EASLi3_idfrEST3BI7lbLq1tZtPHLo3cIdr-Xu-JGyFWXZ91ggaZEhDXBeTTdO3zATCXUluCUW56GhStmYofh2MRZ_Qo9LNLl1e7d3AqXw",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJbU_rilOSyjERFkXTeFeGjt0",
+         "plus_code" : {
+            "compound_code" : "M4PC+36 Ipoh, Perak",
+            "global_code" : "6PP3M4PC+36"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJbU_rilOSyjERFkXTeFeGjt0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 849
+      },
+      {
+         "formatted_address" : "Medan Klebang Restu, 41, Laluan Klebang Restu 1, 31200 Chemor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6839015,
+               "lng" : 101.1278797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.685320179892721,
+                  "lng" : 101.1292401798927
+               },
+               "southwest" : {
+                  "lat" : 4.682620520107277,
+                  "lng" : 101.1265405201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5227c2e2bd606be7eb745d99bf91a91dbe8b8e55",
+         "name" : "Restu Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111826340666314365647/photos\"\u003eSyamil Mifzal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZHhwtJNA__8iD_1J6qWcG3v983GzK_MJYjlKX6kFghCN4TWrPVNMrkp1HiKuSQwQuKm_sCgl6BRyc8rCEEAMxxyasIfHGA-GFjmVJUTmxgo7m9BPNHfa9_SvV_Hp9vJqEhAUpGTSWvZWdAa5rBLCnYMYGhTM5V8SYxuG_PQJsrKBwE8qVxvXTQ",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJR7qw4VmSyjER_TR1KIB_QKM",
+         "plus_code" : {
+            "compound_code" : "M4MH+H5 Ipoh, Perak",
+            "global_code" : "6PP3M4MH+H5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJR7qw4VmSyjER_TR1KIB_QKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "31200 Ipoh, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.685045,
+               "lng" : 101.1188346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.686395579892722,
+                  "lng" : 101.1201633298927
+               },
+               "southwest" : {
+                  "lat" : 4.683695920107278,
+                  "lng" : 101.1174636701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db13f7006c63241286adeb455373a5bd3c1b85ee",
+         "name" : "Bakso Kak Ti",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101722681607307111386/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-8Q3n0oiiDmHuqcaqIjWHzx_EsDFuh0lHYuQPn3l6hqXyOVv_h30dG8OigpfjJJdgFAtmgDpcJFKHzr6F3ATts9DwNmxip8gompHLZQ0-xCXdQPTIRTek2HjR--v0EdWEhCMlTjJkuqf2xnwavJ04NCuGhSvXuB-kSnRAV_sIm7emKfcdZtdCQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJG_clycmTyjER0bios6k5a68",
+         "plus_code" : {
+            "compound_code" : "M4P9+2G Ipoh, Perak",
+            "global_code" : "6PP3M4P9+2G"
+         },
+         "rating" : 3,
+         "reference" : "ChIJG_clycmTyjER0bios6k5a68",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Unnamed Road, Taman Klebang Jaya, 31200 Chemor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6779826,
+               "lng" : 101.120682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.679338229892721,
+                  "lng" : 101.1220007798927
+               },
+               "southwest" : {
+                  "lat" : 4.676638570107277,
+                  "lng" : 101.1193011201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9ef2489a991d6e943937fc690922831134d67ee6",
+         "name" : "Ayam Goreng Singgit",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102820306209868642556/photos\"\u003eAzfar Zhafran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALLbXj2gbctPubGugXWgrGqJmXBMKIcJ3ndoYYCV0Kpiqc2cShy4wxE8eKzEfCpTYXGz53bHad2AXk7aIPQZese2vQQTIOHt7O13-8GH5euuOn3gRe0eKaDEZ5IGoX6q7EhAWrRE1m0xO_PthJXCOKZU4GhTnzX0IdI72QDPUHP941BQOBRsBgQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJy4somI-TyjERgSf1-2qy0B8",
+         "plus_code" : {
+            "compound_code" : "M4HC+57 Ipoh, Perak",
+            "global_code" : "6PP3M4HC+57"
+         },
+         "rating" : 0,
+         "reference" : "ChIJy4somI-TyjERgSf1-2qy0B8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Meru Bistari A2, Bandar Meru Raya,MukimHulu Kinta, 31200 Chemor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6707256,
+               "lng" : 101.0772889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.672117079892722,
+                  "lng" : 101.0786757798927
+               },
+               "southwest" : {
+                  "lat" : 4.669417420107278,
+                  "lng" : 101.0759761201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c6b9e259eddb89a754b6910deaa38811d6b6f6e",
+         "name" : "McDonald's Meru Raya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111606214095533429650/photos\"\u003enurul ain idris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_qiT9GpMmLFbCqKFGDfuBhrJsKVjKXzgbWL3N4p_r3gwQA-TkNCpH2v6a7CiB6p5cFeEMwPSUa-toMCZZGCTyyIVcvCS1dqhv8XY6kkhMg6pstn3R6PAgx4NZ2dVx8cOEhB1GyVpW6i61oNV7mt-eH4RGhRHbRc9iZiPk_t3lf81urNHXOWc6A",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJT_dmTnuTyjER2gLTd-s1OZw",
+         "plus_code" : {
+            "compound_code" : "M3CG+7W Ipoh, Perak",
+            "global_code" : "6PP3M3CG+7W"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJT_dmTnuTyjER2gLTd-s1OZw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1085
+      },
+      {
+         "formatted_address" : "AEON Mall Ipoh Klebang, Lot 12080, Klebang Perdana, Chemor, 31200 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6774222,
+               "lng" : 101.1231233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.679325579892722,
+                  "lng" : 101.1244769298927
+               },
+               "southwest" : {
+                  "lat" : 4.676625920107278,
+                  "lng" : 101.1217772701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "849ca508c2314fabd6282bca28a1c68b7e67238d",
+         "name" : "Shihlin Taiwan Street Snacks AEON Mall Ipoh Klebang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103720381750810552289/photos\"\u003eFarah Affandy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA78Qv9OH-SATbOWfZCo85vK32vCr25HIFad5H1koNk9EDFf6YhJHduwka1FVftvLDCcvB1exBYpL_5Lhh0-UuaHpJjrAwgq06FVtlUTB7JOVnOw86SUVw-etouPxM-1jjEhDBfpMmt2tHJiY6QOp08hZ9GhRbJ_uCQ6KY0k8xvFsqfF1jjhbmSg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ-YZXJ_mSyjERfvfFOQjSR1w",
+         "plus_code" : {
+            "compound_code" : "M4GF+X6 Ipoh, Perak",
+            "global_code" : "6PP3M4GF+X6"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJ-YZXJ_mSyjERfvfFOQjSR1w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Lot S05-S06, 2nd Floor AEON Mall Klebang Klebang, 31400, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6773733,
+               "lng" : 101.1226484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.678449079892722,
+                  "lng" : 101.1236902298927
+               },
+               "southwest" : {
+                  "lat" : 4.675749420107278,
+                  "lng" : 101.1209905701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7210a99232453f38b927adc9121e4c45c62eacf",
+         "name" : "KFC AEON Mall Klebang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100057562002989998376/photos\"\u003echris yong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwatrQhJwp-y6DY53G34z4fCUNBJIk48a_L2Hu_sujrwD_SNZ8TNNfFnGeP2m2s0SRfFAjSGvJKVubvoFM8NVfSuLpamUD1hHXkFlO-LCBpGB4-UfwwZIZpZGPYCWy-b0EhDJSk5oalfMBe4FphaetM5wGhQ229PUcw6-ef4-vuYqrr4Xp28wuQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJL1-v2PiSyjER5_hgE9RgewM",
+         "plus_code" : {
+            "compound_code" : "M4GF+W3 Ipoh, Perak",
+            "global_code" : "6PP3M4GF+W3"
+         },
+         "price_level" : 2,
+         "rating" : 2.6,
+         "reference" : "ChIJL1-v2PiSyjER5_hgE9RgewM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "No. 67, Tingkat Bawah, Lengkok Kledang Raya, Perak, Taman Kledang Jaya, 30250 Ipoh, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6737033,
+               "lng" : 101.1178602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.675158329892722,
+                  "lng" : 101.1192102798927
+               },
+               "southwest" : {
+                  "lat" : 4.672458670107278,
+                  "lng" : 101.1165106201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "56d3aaebd9617337f65859431c90755d29d1921c",
+         "name" : "Mama Chops Papa Grill",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113794528397379010731/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuA-yL-DZa2PlbT_RK1DZcjLtCXQFT_xNBt3KGnPYhON3H-_esUWJ2blLCX2m6p5LQzNY9Ba_Hxxiav_MwHlEi_VtmEn9HdM_hUpwpaQVHNSYGUN_FYnN2gawbUpLkD81EhCCqIVgc2hhuRfn-TQ2f_SyGhR83g-c-OUHb9NHkrMra_MQpuGVCA",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJVVVVlf2SyjERFWkw3sipWTU",
+         "plus_code" : {
+            "compound_code" : "M4F9+F4 Ipoh, Perak",
+            "global_code" : "6PP3M4F9+F4"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJVVVVlf2SyjERFWkw3sipWTU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "PT 238632, Persiaran Klebang Putra, Taman Klebang Putra, Chemor, Ipoh, Malaysia, Perak, 31200 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.684858,
+               "lng" : 101.120571
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.686205679892723,
+                  "lng" : 101.1219211798927
+               },
+               "southwest" : {
+                  "lat" : 4.683506020107278,
+                  "lng" : 101.1192215201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b8bd495d3875a807b8c78bfb5c781c857b9db6b9",
+         "name" : "McDonald's Klebang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJvxQtEhOTyjERwxBefAf3whI",
+         "plus_code" : {
+            "compound_code" : "M4MC+W6 Ipoh, Perak",
+            "global_code" : "6PP3M4MC+W6"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJvxQtEhOTyjERwxBefAf3whI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot PT 241415, Medan Meru Bistari, Bandar Meru Raya, Mukim Hulu Kinta, 30020 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.672459,
+               "lng" : 101.0758333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.673737979892721,
+                  "lng" : 101.0772645798927
+               },
+               "southwest" : {
+                  "lat" : 4.671038320107277,
+                  "lng" : 101.0745649201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c239c87a7ef0627821f1f104ee3a78bd2b584668",
+         "name" : "KFC Meru Raya Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103727690950868723675/photos\"\u003eHuda Khalid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvTB32FQx2SQPAPhexbcM8xWjK3L-6WNHH8EeZaSdvcGf_yAHnF8gCVop-rkVOp5bi1nzCel6m1Xus1WsTdl1OaslWYq-ORIuB6YMlsigYjuc4JAcYlrEsrokW9gJQ_KIEhB5BJe0s8DawOlr-c2uYvCEGhR0Gk9mP0tKiXvljSD1voe927dX2w",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ2zEWjnyTyjERbxAD0Khy-Ok",
+         "plus_code" : {
+            "compound_code" : "M3CG+X8 Ipoh, Perak",
+            "global_code" : "6PP3M3CG+X8"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ2zEWjnyTyjERbxAD0Khy-Ok",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 631
+      },
+      {
+         "formatted_address" : "G2, Jalan Meru Jaya Bestari B2, Bandar Meru Raya, 31200 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.671271,
+               "lng" : 101.074928
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.672654329892722,
+                  "lng" : 101.0763047298927
+               },
+               "southwest" : {
+                  "lat" : 4.669954670107278,
+                  "lng" : 101.0736050701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "942a144c73b55adf0f56f17ed6a5a9c503968287",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106328968246972011149/photos\"\u003eELMI IKHWAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI8G3Gk5g6hxlkla6cNvsSoN0J2Y49tjn9nwhdYvlHK_7CZ3v-kx8n1Hvm1WPZfk4unn3NFThXcM-VdBMw2zTe2Oop74bijOvttjxB1hpq9B6-DUSB49ygHDQMDn22GMAEhDy6Tg2EYn4NCueMdjGUimIGhTGWzdJ7gCIrUb0p4Dc6pCnl-qg3Q",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJo_WZxXyTyjER_CRny9l76hU",
+         "plus_code" : {
+            "compound_code" : "M3CF+GX Ipoh, Perak",
+            "global_code" : "6PP3M3CF+GX"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJo_WZxXyTyjER_CRny9l76hU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Lot PT 217643, Jalan Kuala Kangsar,Taman Tasek Mutiara, 31400 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.653716500000001,
+               "lng" : 101.1074648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.655087929892723,
+                  "lng" : 101.1087872798927
+               },
+               "southwest" : {
+                  "lat" : 4.652388270107279,
+                  "lng" : 101.1060876201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83ca9ddaea01b6a7bf6a9220d33f8f138a38ee63",
+         "name" : "KFC Tasek Ipoh Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104769082607197039238/photos\"\u003ejoanne xuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAo8AXM1pMQiU45YVSjwb6gRD3ezkOk98CwJlkyr_nFrdtkksThcdghO51QO7svSIwDzqV-rFqvS57s9kpm6pNEB8qKsKJae1vIJKSAr7yhT8CaNKZb9Sqn4XryGokbCSQEhDxayViprSEqXdt5vp3Ao8qGhSuJhDxt6mPffKye92-WHXs7Bs9jA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJC_jWiySTyjERFbIqbj8Pf2o",
+         "plus_code" : {
+            "compound_code" : "M434+FX Ipoh, Perak",
+            "global_code" : "6PP3M434+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJC_jWiySTyjERFbIqbj8Pf2o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 475
+      },
+      {
+         "formatted_address" : "GF6, Mydin Meru Raya, Jalan Meru Raya Bestari B2, 30020 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6711719,
+               "lng" : 101.074416
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.672702529892722,
+                  "lng" : 101.0759382298927
+               },
+               "southwest" : {
+                  "lat" : 4.670002870107278,
+                  "lng" : 101.0732385701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0afc434387758ce69038bee691e96bb79ed85d9",
+         "name" : "Hot & Roll",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJWwW70HyTyjERoSkcgdfVmxg",
+         "plus_code" : {
+            "compound_code" : "M3CF+FQ Ipoh, Perak",
+            "global_code" : "6PP3M3CF+FQ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJWwW70HyTyjERoSkcgdfVmxg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "1, Mydin Meru Raya, Jalan Meru Jaya Bestari B2, 30020 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6711409,
+               "lng" : 101.074468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.672666729892723,
+                  "lng" : 101.0759856298927
+               },
+               "southwest" : {
+                  "lat" : 4.669967070107279,
+                  "lng" : 101.0732859701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "905d49f8a3ea384f5cb7bbceeda9eb233320b0f2",
+         "name" : "Joe's Delight",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJVaiU0HyTyjERUgHSCx-Vcfc",
+         "plus_code" : {
+            "compound_code" : "M3CF+FQ Ipoh, Perak",
+            "global_code" : "6PP3M3CF+FQ"
+         },
+         "rating" : 1,
+         "reference" : "ChIJVaiU0HyTyjERUgHSCx-Vcfc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Mydin Meru Raya, Jalan Meru Jaya Bistari B2, 30020 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.67054,
+               "lng" : 101.0751739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.671825629892722,
+                  "lng" : 101.0765928798927
+               },
+               "southwest" : {
+                  "lat" : 4.669125970107278,
+                  "lng" : 101.0738932201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5dfd78052019828325848634e1038062ff23935",
+         "name" : "Cool Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJydHINGOTyjER3ChBVFZjpHI",
+         "plus_code" : {
+            "compound_code" : "M3CG+63 Ipoh, Perak",
+            "global_code" : "6PP3M3CG+63"
+         },
+         "rating" : 3,
+         "reference" : "ChIJydHINGOTyjER3ChBVFZjpHI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "In Rasa Village, Jalan Meru Jaya Bestari 82, Bandar Meru Raya, 30020 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.670248,
+               "lng" : 101.074467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.671571679892722,
+                  "lng" : 101.0757923298927
+               },
+               "southwest" : {
+                  "lat" : 4.668872020107278,
+                  "lng" : 101.0730926701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "46b0e8667a14f9f95dabffbe45aed00de0fbd29d",
+         "name" : "Putu Bambu World",
+         "place_id" : "ChIJRa-eLmOTyjERS4FblqJYBL8",
+         "plus_code" : {
+            "compound_code" : "M3CF+3Q Ipoh, Perak",
+            "global_code" : "6PP3M3CF+3Q"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJRa-eLmOTyjERS4FblqJYBL8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "PT234517, Kompleks Terminal Amanjaya, Persiaran Meru Raya 5, 30020 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6694879,
+               "lng" : 101.073605
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.670990779892722,
+                  "lng" : 101.0750828298927
+               },
+               "southwest" : {
+                  "lat" : 4.668291120107278,
+                  "lng" : 101.0723831701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0cc9ea4100932678a1bfbab13680f2a4307e02c9",
+         "name" : "Nelson's",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115364135571866982258/photos\"\u003ePaul G\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlTcXWa-EX4FKVQ4nZIOEckQiWQicjSk0xVRZSOreAn2hUsNnhJuTmhpE97aq6GHe42C2yOlDZFV5-4vns1guMwTD_NzOi28UJGu3WQTp5GHIdIpcMOWjUvdIXUlP7oGCEhAyXk3cM1hTjzF0-6R9sEgFGhRQSL4csMwo81KexbT7iHUb-x_ZFw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ86Uy3GKTyjERwoDKI-Z8sB0",
+         "plus_code" : {
+            "compound_code" : "M39F+QC Ipoh, Perak",
+            "global_code" : "6PP3M39F+QC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ86Uy3GKTyjERwoDKI-Z8sB0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No.1, 5, Jalan Silang Dua, 31200 Chemor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7184067,
+               "lng" : 101.1207816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.719759129892722,
+                  "lng" : 101.1221760798927
+               },
+               "southwest" : {
+                  "lat" : 4.717059470107278,
+                  "lng" : 101.1194764201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b4be5536b3cf04284ac7f71a69a4a413adda8cc",
+         "name" : "Chemor East Ocean Restaurant SDN. BHD.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107988751843361222485/photos\"\u003eJames Chun Yong Sing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsVlUUpvnNLGd4zwKJE-TXMWCmSW4zUyr-9D7bpmpTifS8NI-l4u1kXXIi5rP4ePujuhVUiaThhIyAKbFPaVd-YgUhJCXOWZtqjttkx2u7OwCj04s_8bDUeYVwY33RiZcEhCR2frXRFaOHSVVL_gT39-8GhQI0cRTMAkJLJaxD8KisqNRUQ_YMA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJoSS9NSqSyjERrxhoxZIW-WA",
+         "plus_code" : {
+            "compound_code" : "P49C+98 Chemor, Perak",
+            "global_code" : "6PP3P49C+98"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJoSS9NSqSyjERrxhoxZIW-WA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 334
+      },
+      {
+         "formatted_address" : "Taman Tasek Damai, 30010 Ipoh, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6527578,
+               "lng" : 101.1056844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.654125429892721,
+                  "lng" : 101.1070063298927
+               },
+               "southwest" : {
+                  "lat" : 4.651425770107277,
+                  "lng" : 101.1043066701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "79c7456222c2920fde392bca5efcc0e89acbf5ec",
+         "name" : "Amoi Burger Stall",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113380060808862987371/photos\"\u003eViral Semasa 1.0\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAubCTTBkwe7SWyjmzdiUszl5e_1U9xCJu2L8wU6WeBh0lrnN_oIrzJahgIm0fg7OEbF2ZMBVXpUZRD302ZaIFDeoTDt-WMcXT8MaAa3ld6f02nI04Tuiwh9WFQxgNNtPPEhBj0gav4tdQvTvDXJdJ3ikWGhTbTejVjfnS4p4bie_HZAw5qCDOdg",
+               "width" : 3928
+            }
+         ],
+         "place_id" : "ChIJeWp64KaTyjERTcUaEFIj434",
+         "plus_code" : {
+            "compound_code" : "M434+47 Ipoh, Perak",
+            "global_code" : "6PP3M434+47"
+         },
+         "rating" : 0,
+         "reference" : "ChIJeWp64KaTyjERTcUaEFIj434",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "bukit tanah hiram, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7257944,
+               "lng" : 101.1440732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.727248879892723,
+                  "lng" : 101.1454202298927
+               },
+               "southwest" : {
+                  "lat" : 4.724549220107279,
+                  "lng" : 101.1427205701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "458c8751e938a3c9adf3d1f892467c2e31ff6398",
+         "name" : "Restoran Chee Kong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1710,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109489798050449619829/photos\"\u003eKJ Carlos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKuJWSVAxQBJaZ6tCFiuzLyi6P4N1efDU79F1EMX-4h4nQjFKbWLogVdXYhKElRqu-XVUyvybx39qPtCzqVzJ27OdYRBodhOmPsPfyS9PmhAiREzWooFuCN5ArQ7h7XqyEhCF4hKlPdIfHsdJlKW4gO-oGhSbLeqbxX7WoULvi6qusOZ3LHbDJQ",
+               "width" : 1321
+            }
+         ],
+         "place_id" : "ChIJSQdz-vORyjER4O5zLQqM_gI",
+         "plus_code" : {
+            "compound_code" : "P4GV+8J Chemor, Perak",
+            "global_code" : "6PP3P4GV+8J"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJSQdz-vORyjER4O5zLQqM_gI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,882 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_AEAAHQYIwGpBtYEXwdzQdifnwBMnetlkv64bt8HB8EPAezQWqqFPklVexqMftVHakpdsZRj9eFrZUkhFiB_oE9UyEd6vDq2owGuSWDWV4d4-SFmT78jFzQOgVVscIomG5k8KlIRpXxXlwxNP0dHP9DtDAnO6yLMXSHfutBUznnALsV-qmdh-EjHYB_2zReIbug8VlCQdNn18FlJOGewOgbhE56xv2xIKg8dwIV1IYIJDJp_XwbkAh58uXfbQeeuTMKQY1gDxPaig2ksbQMgnGZAfHidbH3mVtd0Wj_fSZcY-j45vb5MUqvzBzmI1s6OuNz3nEZidgPdjBDDPIwja95zfw7dcaATvIyJddcgHUFHKUb5Q7RV2q4oTNEin2Te2LR1tL9iqxLISrW7qaUfRKvwI8-baO_WHNkFxtRBSQlGAzu_ipT9i-6Lxm486OD1hz6kw_bjprgUqflIfDlqyTT9bunpTNnI0j36ByFtPJ_976CVuXC-RMjdKFUnc8tcL6MknKKordCqMmBheXT4e92kG4xVIStJ7y6OfQhm-cpDxYqBsHjIRKu_sEtx9zLp5NR0F8f-7MrPnI3xoKAlSl37kgufWmAjSNdCGUYSsCODSmGxIMtXdGHl4rA_YcHt4NG9d32JlJjyBgtkp1KFnkTrQx806Ke6L7gHRcTxH-m1wAL0EhDrys4ZVVLYDFngTXqiv_m6GhSW0WGC_ygML7kam8Gsvlemb0fvFg",
+   "results" : [
+      {
+         "formatted_address" : "Aman Central, Level 1, Lebuhraya Darul Aman, Kampung Lubok Peringgi, 05150 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1252317,
+               "lng" : 100.3666285
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.126562779892723,
+                  "lng" : 100.3681422798927
+               },
+               "southwest" : {
+                  "lat" : 6.123863120107278,
+                  "lng" : 100.3654426201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b64223a945f834fd8601a016cd4fb6455b6307aa",
+         "name" : "McDonald's, Aman Central, Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106631045767824823526/photos\"\u003eSiti Zaitun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0RTEhR5a-Ji8mZE002CPqwBJN06doMEKo8KTbnjfZNGSYqT8ms4fGbyb-KH24BUFoh0wT9l96C40M4dCRNCRJxD6-e8gz0WTPNlG0aJE945tNhUkLfHJflslcFH_Sx_BEhAN4VQRalUv9GvNPVaQES7nGhS6jLJdjwuY4GtnzOpVRwvIPDCiTQ",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJIdUHKbpESzARrTo5-6UTvDA",
+         "plus_code" : {
+            "compound_code" : "49G8+3M Alor Setar, Kedah",
+            "global_code" : "6PR249G8+3M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJIdUHKbpESzARrTo5-6UTvDA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 281
+      },
+      {
+         "formatted_address" : "No. S6 & S13, Lot 92, Jalan Istana Kuning, 05000, Alor Setar, Kedah, 05000 Alor Setar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.125039999999999,
+               "lng" : 100.3689443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.126533879892722,
+                  "lng" : 100.3703614798927
+               },
+               "southwest" : {
+                  "lat" : 6.123834220107279,
+                  "lng" : 100.3676618201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb1032f2e37b893abadeb505c33f5f99c9c35f46",
+         "name" : "Subway Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100609804517209229711/photos\"\u003eAzhan Abdul Hamid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXaTQHpXkFq7A0jbIhH73qwFdJre9RlYrdGQiEEdqVM_d7yKZlna42CwxNfQgyPzqITnSFGFbMt81EJ4XwjugPpIEVw9lb3GQ4DIsUXE4dCfR4jD1sctCTw5vAIKb8euAEhAqNNyi6ZD8jP13cysFFrkxGhQxNopgWIqemk31nWBL46dF-Hvgbg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0frVvrlESzARx0Sib5OKuJY",
+         "plus_code" : {
+            "compound_code" : "49G9+2H Alor Setar, Kedah",
+            "global_code" : "6PR249G9+2H"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ0frVvrlESzARx0Sib5OKuJY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82
+      },
+      {
+         "formatted_address" : "Jalan Stadium, Bandar Alor Setar, 05150 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1346761,
+               "lng" : 100.3727319
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.136038829892723,
+                  "lng" : 100.3742760298927
+               },
+               "southwest" : {
+                  "lat" : 6.133339170107279,
+                  "lng" : 100.3715763701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80b5ef7b423dff16fe920dccc601d9a6425a2e54",
+         "name" : "KFC, Jalan Stadium, Alor Setar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103009167885282000898/photos\"\u003eAnuar Kara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEW_xDxcIn0gpZUCdU3Hp224vrpGKiAW9uss8i00U2hfwGeZkDC3BHinkBhCOJGIkSmIqA3Ub314sYEb2zd9DAjdz5nGSFPYQBF1HSoP7k61d_DX9nBS7CG8U_yy8CkGzEhADTRWayabTiJvE8UV3HUMoGhTWu6yhW0eXtn4klXHreIamqgtYbw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJEahpl8pESzAR9KpRWZ-JHbU",
+         "plus_code" : {
+            "compound_code" : "49MF+V3 Alor Setar, Kedah",
+            "global_code" : "6PR249MF+V3"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJEahpl8pESzAR9KpRWZ-JHbU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 858
+      },
+      {
+         "formatted_address" : "No. 8A & 8B, Samila Business Centre, Aman Walk, Lebuhraya Darul Aman, 05100 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.123213499999999,
+               "lng" : 100.3664515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.124512479892721,
+                  "lng" : 100.3677862798927
+               },
+               "southwest" : {
+                  "lat" : 6.121812820107277,
+                  "lng" : 100.3650866201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "88792484cb4510aebcb064edf7f10365d1fd0119",
+         "name" : "Texas Chicken Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1425,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103936754523258579955/photos\"\u003eHairirizal Hussine\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA09Zdx97-rLqtzb-9_crN99nTRkbIvXst92XIyXKTjLvkgVKmDRXT4K9rWxCCrSfSNcSBZ26vxLiWwDrFBXAIOsXs9IC0p_6PBWHIQtjznqrz-1ZhYdrHVYrEnO_67GFtEhCIPadGEuaoGtudcRYLgeVJGhSHwJk5iw-KoazDtlsdYVLbauLfHQ",
+               "width" : 1900
+            }
+         ],
+         "place_id" : "ChIJqTiR1LtESzARJks8Ga75Hvw",
+         "plus_code" : {
+            "compound_code" : "49F8+7H Alor Setar, Kedah",
+            "global_code" : "6PR249F8+7H"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJqTiR1LtESzARJks8Ga75Hvw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 585
+      },
+      {
+         "formatted_address" : "No 8-A, Jalan Alor Mengkudu, Alor Setar, Malaysia, Kedah, 05400 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.096132,
+               "lng" : 100.376143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.097550729892722,
+                  "lng" : 100.3775303798927
+               },
+               "southwest" : {
+                  "lat" : 6.094851070107278,
+                  "lng" : 100.3748307201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1571c14e4d00b9ff4d989f8e26d11983bc08c79d",
+         "name" : "McDonald's Alor Mengkudu DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109597795170609481249/photos\"\u003eKung Shin Jie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAopjSSlwupgS767jJhxJX5vKZEHF50w8yTqrJqrkGZvPHUzMmsZaYMHMXoPwoaZpGGCYn2peXOuWzKw6facyMs_823GGLpvCSd9OZ5GZEj4rJXmDMz9shg-0lqwi_5TYIEhCbZqr5-WlaMfT3iJVZpXbrGhQK5xkw984V2W80eeWeQwvmeN_fJw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJPTqovvVESzARyZ193heGYVA",
+         "plus_code" : {
+            "compound_code" : "39WG+FF Alor Setar, Kedah",
+            "global_code" : "6PR239WG+FF"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJPTqovvVESzARyZ193heGYVA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2446
+      },
+      {
+         "formatted_address" : "Alor Star Mall, Kawasan Perusahaan Tandop Baru, 05400 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0818542,
+               "lng" : 100.3609446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.083252829892722,
+                  "lng" : 100.3623550798927
+               },
+               "southwest" : {
+                  "lat" : 6.080553170107278,
+                  "lng" : 100.3596554201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e6dd851eab6a05e75e709f4c130069167f21ddb",
+         "name" : "Subway, Alor Star Mall, Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100458815739370805354/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd9f9I1JZprO0ZmNgle9aOgUHF0muq5rW1pNcieCnhsgd8XXEP54b2a4jM7nesETh6u3SoTOa6WfEVcPnXdB4GO_V4676pQnKXj2SI3a4UXHTING4KK00OlihUvPMvQDMEhB64QBDqtqiYDukzyqi-lDxGhQoQl3Cp9SUoJB280ne4n-NjbAvNA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJVVVVJm5ESzAR_FEsWNx1Ukc",
+         "plus_code" : {
+            "compound_code" : "39J6+P9 Alor Setar, Kedah",
+            "global_code" : "6PR239J6+P9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJVVVVJm5ESzAR_FEsWNx1Ukc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "L1-1 Bazaar Souq Al-Bukhary No 1 Jalan Tun Abdul Razak Alor Setar, 05200, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1347044,
+               "lng" : 100.3897696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.136040829892721,
+                  "lng" : 100.3911679798927
+               },
+               "southwest" : {
+                  "lat" : 6.133341170107277,
+                  "lng" : 100.3884683201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5fd225d3275ee2d4c2444bb066a12a8165e2562",
+         "name" : "Marrybrown, Giant, Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105451997482421668179/photos\"\u003eElly M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGNxhUMlt_hfcuXqAtRNn6-luCWCZ69xp3aYYHbpFxKtzgKeK5QFYH2KiPyeghNVNd2av1Xqh1QTp167A8nN_usiLcaXl9BXL4uMnOwxELIWEZHc2GcJz-Q47C7oZ6lVhEhAZkLKTw6KV_DTuzr65G24CGhQxpL23gWiWHeIsXqZ8q1LuauD0YA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJmzhAYNNESzARHQy18guFcJk",
+         "plus_code" : {
+            "compound_code" : "49MQ+VW Alor Setar, Kedah",
+            "global_code" : "6PR249MQ+VW"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJmzhAYNNESzARHQy18guFcJk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 82
+      },
+      {
+         "formatted_address" : "Pantai Johor, 05150 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1671219,
+               "lng" : 100.368244
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.168474429892721,
+                  "lng" : 100.3696302798927
+               },
+               "southwest" : {
+                  "lat" : 6.165774770107277,
+                  "lng" : 100.3669306201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "955ce3c0f2ef6503eaba8bf6800e9fa409c8a600",
+         "name" : "Cussto Cendol Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 495,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116680554045631069663/photos\"\u003eSyed Amirul Reduan Bin Syed Shikh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaJmSgj8C06kuPujTBajkWY6RMWWTpy3RK0nJpszW7SwEKrHBKEsXXfXhY6NDOYR4feVWA4xO-Dx2t04SEC58u3BLgaaBkaV7KWNeocu0_RdnmmWP689eq6JJtkKjKUQ2EhB8EDXEOZpd2nghh6Y0athDGhSInSGSxu8a8KwWVHA3ENm7i32QsQ",
+               "width" : 740
+            }
+         ],
+         "place_id" : "ChIJ-cddkm1bSzARFtDoJAY8VqE",
+         "plus_code" : {
+            "compound_code" : "5989+R7 Alor Setar, Kedah",
+            "global_code" : "6PR25989+R7"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJ-cddkm1bSzARFtDoJAY8VqE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37
+      },
+      {
+         "formatted_address" : "Darul Aman Highway, Jalan Sekerat, 05100 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.125515,
+               "lng" : 100.365773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.126888679892722,
+                  "lng" : 100.3671314798927
+               },
+               "southwest" : {
+                  "lat" : 6.124189020107278,
+                  "lng" : 100.3644318201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6129ac2847636f327b51f116fe315c73b312329c",
+         "name" : "KukusHouse Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112099712266016708866/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5j-uLPsb4AP5rX8HoklQxFKDmoTURWUoj6NRtqhGvFzs7Aycv_8FHZfpyj6sGmEK9lbWhV94_0Z3wRz87fX-jtbUtiiKhdUbMrLTt71cUAsm1nZWqkjC8CdKiJ-yTAFjEhCNKdSz_enYUma3m4VC2YV0GhSVahYev3ZEFCl3Quxm7ZjXXvtUug",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ5fPND7pESzAR_wFYdeMWKZQ",
+         "plus_code" : {
+            "compound_code" : "49G8+68 Alor Setar, Kedah",
+            "global_code" : "6PR249G8+68"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ5fPND7pESzAR_wFYdeMWKZQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lot 310, Jalan Limbong Kapal, Bandar Alor Setar, 05460 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.116098500000001,
+               "lng" : 100.3668441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.117514829892722,
+                  "lng" : 100.3682045298927
+               },
+               "southwest" : {
+                  "lat" : 6.114815170107278,
+                  "lng" : 100.3655048701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fa1a6fdea5c10d4bafc408ac4e4263c659d86cc5",
+         "name" : "KFC Limbong Kapal Drive Thru (Alor Star II)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102069739926229747502/photos\"\u003eLily Gan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgE61wmByXjhjcTy-iouKbkiy_maMF92WYLwDszqe-pBptK40aIdtNh4HlmctfIxMK4WnQSlJVCHDXL4bIi6APaXjMNqp5Zg_4gwb1xcH2bqCAHIsXveBmA6NNW9PZEIeEhDGDdsm-U6jK5u6FmT-ru6FGhQVQe2eyoGwcIxwromSvPeQY1wdkw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5eXiA75ESzARPDCUMf_3qt0",
+         "plus_code" : {
+            "compound_code" : "4988+CP Alor Setar, Kedah",
+            "global_code" : "6PR24988+CP"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ5eXiA75ESzARPDCUMf_3qt0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 451
+      },
+      {
+         "formatted_address" : "Bandar Alor Setar, 05200 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.122387799999999,
+               "lng" : 100.3731658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.123693729892723,
+                  "lng" : 100.3746151298927
+               },
+               "southwest" : {
+                  "lat" : 6.120994070107279,
+                  "lng" : 100.3719154701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70bf8f6f1a17d98634e25df89a270557091d8e0b",
+         "name" : "Marrybrown Star Parade Complex",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113041339963253799647/photos\"\u003ekang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgCT2r3GkRDOUIccQfs9EowpKHEDwiyeo2AnNygbiKJkCM13kQ1Y587U6A_SFWUolbxMcDJAIN7Kh1ud7qxGUP7Jt4S-ltbPFMY8et9mtpkhsd6UMXXg55Kfie0VmjVVTEhDCJx1nCpO8mfJnfkLDXdOWGhS-3-bd3FUegqYKIulf7tG6Y7j-9w",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ2cRBccdESzAR38eM0E__wFo",
+         "plus_code" : {
+            "compound_code" : "49CF+X7 Alor Setar, Kedah",
+            "global_code" : "6PR249CF+X7"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ2cRBccdESzAR38eM0E__wFo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "1-10, Jalan Shahab 1, Shahab Perdana, 05150 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1420882,
+               "lng" : 100.354692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.143502079892722,
+                  "lng" : 100.3560358298927
+               },
+               "southwest" : {
+                  "lat" : 6.140802420107279,
+                  "lng" : 100.3533361701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aad1074efea7a49ab4f7c056ed09d1bb135cadfe",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109701865045298864194/photos\"\u003etaufiq782\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVcmlT5Ks9HVu41LTwaCVc1s_yKiPOv5UUNxkGFDtNOTGf-aNRsQUquSSeRjPRUp28TVhD7Wt5eyX-dfuXbN7OAT8O3aT-X_vjYMAjhQyoybJzkkwuOEtePzDXUOQ7H0hEhAFkl85v1zTTzXegxdD6nTSGhRVzMRxxLxFxy8CbtfISyGS3owUNw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJA1Tgp1ZbSzAR1slG_W-u2FY",
+         "plus_code" : {
+            "compound_code" : "49R3+RV Alor Setar, Kedah",
+            "global_code" : "6PR249R3+RV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJA1Tgp1ZbSzAR1slG_W-u2FY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 190
+      },
+      {
+         "formatted_address" : "No.PT 3297 Mukim Alor Malai kompleks Sukan MPKS Jalan Stadium, 05100 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.134805,
+               "lng" : 100.3727618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.136041779892722,
+                  "lng" : 100.3741184298927
+               },
+               "southwest" : {
+                  "lat" : 6.133342120107279,
+                  "lng" : 100.3714187701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "34a8a48978dce363626684d55efa50055766310d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100327572588942949338/photos\"\u003eAlia Marini Abdul Majid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAShxnD30lvTbA3p_ydwz-ItEm_jI9yXi9t7Hj1lxQDZv24vvXpdZn3nKup-yLvEXmbh4qi4k2ClLA0FD-rKqhq7bL0yHtpbb1AnYKmRLN1b3OPKDdmMYDzF9J-Efdtw2GEhD3J7cLuVZVIFpCqkAeMkCaGhSULLDnwrE3KMGSbo57C9rFEGVn4w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJmXwVmpFESzAR4FIhMf-wV74",
+         "plus_code" : {
+            "compound_code" : "49MF+W4 Alor Setar, Kedah",
+            "global_code" : "6PR249MF+W4"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJmXwVmpFESzAR4FIhMf-wV74",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "Lot 13883, Caltex Petrol Station, Jalan Alor Mengkudu, 05400 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.096586400000001,
+               "lng" : 100.3751402
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.097905079892722,
+                  "lng" : 100.3763944798927
+               },
+               "southwest" : {
+                  "lat" : 6.095205420107278,
+                  "lng" : 100.3736948201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f0683936d6ace161ed9db30be8a3b259a951ef6",
+         "name" : "KFC Alor Mengkudu Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105646499158144156499/photos\"\u003efaizal hakimi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArYnz_xUXFCluKhW-GNwgFuvQI8kXQkr8VMr18JlsZQF1MnGHyf6kBq5B2lmYhi33rSky38JrrGGXI1XzK9iuu7TqEMVXe8FBV9yyK-wESgd3B7uuT4ZxO7css4B-mKQqEhD0V_uQN7VjVOJhg-vi1tTSGhSaC7jZiOUOXLxmPevKREIaIUo1_w",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJG3OJqPVESzARgoy5C0dL28k",
+         "plus_code" : {
+            "compound_code" : "39WG+J3 Alor Setar, Kedah",
+            "global_code" : "6PR239WG+J3"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJG3OJqPVESzARgoy5C0dL28k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 326
+      },
+      {
+         "formatted_address" : "GF7, City Plaza, Jalan Tuanku Ibrahim, Alor Setar, Malaysia, Kedah, 05100 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.118144,
+               "lng" : 100.370047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.119516229892722,
+                  "lng" : 100.3716049298927
+               },
+               "southwest" : {
+                  "lat" : 6.116816570107278,
+                  "lng" : 100.3689052701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd3edc243b5ddfc03ff2f397131f91eef989a7c4",
+         "name" : "McDonald's City Plaza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111497276820390631726/photos\"\u003ealif 1997\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3VMb_N73M_PzB0Z-hcfuPH__OXIuWH8x67Kht0OnUAaUIz_YYpRkGs8wNpT8ji7vAoXAs9SuTj2V9VnK08nC5ZBQyLYFONzqF6ZZkDqyShdn0FuBTpKbEHJ-JZu7tBv4EhBI9UazxEkZXRAAaIAWAPAaGhQMlERORt9rOtpnIB4Ez95jCYhJ4Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJQ6Hfrr9ESzAR0v_JYWM8hu4",
+         "plus_code" : {
+            "compound_code" : "499C+72 Alor Setar, Kedah",
+            "global_code" : "6PR2499C+72"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQ6Hfrr9ESzAR0v_JYWM8hu4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 453
+      },
+      {
+         "formatted_address" : "Jalan Stadium, Alor Malai, 05150 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.130862,
+               "lng" : 100.373107
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.132212529892722,
+                  "lng" : 100.3745289298927
+               },
+               "southwest" : {
+                  "lat" : 6.129512870107278,
+                  "lng" : 100.3718292701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "25909388e87a9d000f39d36e38bc093cadb7a6fb",
+         "name" : "Laksam Pak Syed",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJS9DX88lESzARgcwRnJ9qf-o",
+         "plus_code" : {
+            "compound_code" : "49JF+86 Alor Setar, Kedah",
+            "global_code" : "6PR249JF+86"
+         },
+         "rating" : 4,
+         "reference" : "ChIJS9DX88lESzARgcwRnJ9qf-o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "No. 32, Jalan Indra 1, Taman Teratai, 05460 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.148874999999999,
+               "lng" : 100.411445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.150222979892722,
+                  "lng" : 100.4127690298927
+               },
+               "southwest" : {
+                  "lat" : 6.147523320107278,
+                  "lng" : 100.4100693701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "805555cc3dcbbd2beb0961587e9cc43636aa4352",
+         "name" : "Ars Gemilang Enterprise",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107772758420337162589/photos\"\u003eshabudin shaibon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAupNUFEx26JAB0qWrfCF07Swh6asjjBLWDLiPxE0oBsBlJqu3CXkCaMQEBgAwKGT5nMBZ2rLT12BHE7e1em21dg-WWmJ6U2wV0qyhluJ1zntTq4m2GIqO6LJXL47aOVu-EhCzFoCUfm9XK_OB6Lkjfw_rGhQJVXAvrPpwliqn9TFo1JFAReMuPw",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJkbfxKsRaSzARqn6sbYeqhIo",
+         "plus_code" : {
+            "compound_code" : "4CX6+HH Langgar, Kedah",
+            "global_code" : "6PR24CX6+HH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJkbfxKsRaSzARqn6sbYeqhIo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan Datuk Kumbar, Kampung Pengapi Batu, 05300 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.120949599999999,
+               "lng" : 100.4075775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.122260529892722,
+                  "lng" : 100.4089295298927
+               },
+               "southwest" : {
+                  "lat" : 6.119560870107279,
+                  "lng" : 100.4062298701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f9fdf917c9f1962f50890d669e58660c14448a8a",
+         "name" : "Kery's Ayam Goreng",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ8worx81FSzARSf9sSH9Z2cA",
+         "plus_code" : {
+            "compound_code" : "4CC5+92 Alor Setar, Kedah",
+            "global_code" : "6PR24CC5+92"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ8worx81FSzARSf9sSH9Z2cA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "1a, Jalan Mahdali, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1232378,
+               "lng" : 100.3664807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.124521679892721,
+                  "lng" : 100.3678110298927
+               },
+               "southwest" : {
+                  "lat" : 6.121822020107277,
+                  "lng" : 100.3651113701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eec9c78ad789d1852853efac306c946c18a7dbac",
+         "name" : "Texas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108361944135058200570/photos\"\u003ekoay edward\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK0QuDBSiyOCcY4Z5-Rg94UAIkix4zW--fS2IDmfSQtO-WZe-CcgVql7vNUjzZNQbWOE8blSmtIMVN0pgspNpQA5zCU7VsQtRtQb5ThlGO1tWzCONJLABRmktEGDgfLZDEhAkKdbgIurVex4EDLdR1z-wGhQDg9IzwekmNvy-iBzByRMSO5t3Bw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJXHGzrtESzARnhDQ5msS1m0",
+         "plus_code" : {
+            "compound_code" : "49F8+7H Alor Setar, Kedah",
+            "global_code" : "6PR249F8+7H"
+         },
+         "rating" : 4,
+         "reference" : "ChIJJXHGzrtESzARnhDQ5msS1m0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "81, Lorong Setia 15, Kampung Ulu 1, 05050 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.1097828,
+               "lng" : 100.3459179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.111118229892721,
+                  "lng" : 100.3472520298927
+               },
+               "southwest" : {
+                  "lat" : 6.108418570107277,
+                  "lng" : 100.3445523701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aed389032548ab4414e1bddb049c63b38bc975cf",
+         "name" : "The Break+Fast",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112537694622157917586/photos\"\u003ewhykin leong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApMMcDTQUQoHg5wRO9jNJBT3kU5WY6P1C-RpNtw2ypIY5zHjA2XZ7gKEkP-9GasKfkLvNN3bJ3unvIeJq1nFORr-0qbBhTjdIEqMl1rnUhkgIX_QpNJ7jL3QWC5nE50R0EhCyjLPBjb2Fai2FfyPsQWBJGhS-t3n6dR-QRcgbA4IQGlo1y60GuA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJPc_UxmNDSzARJFX1KotKPw4",
+         "plus_code" : {
+            "compound_code" : "485W+W9 Alor Setar, Kedah",
+            "global_code" : "6PR2485W+W9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJPc_UxmNDSzARJFX1KotKPw4",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

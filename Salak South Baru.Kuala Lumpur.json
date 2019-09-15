@@ -1,0 +1,899 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQEGgIAAPe3hO7avBLiR1a0ceylD6wykwnnSMVGSW5vR_rIm6ukPKGy-YMsbx26ni2LYsbvEx3IlJDsp-1x408CIpsEQKWHSilc2ewRpbDc7Pn8bHI3mX7t53m_FyJBtd8VAzw8bVRqd-mh1ChgDgyboAu1lY8OMvcv6cO02mYP1IeEWP7gawOoKw1OFIlBdZx45FbC7AGUs2W0yvWHt4iwmUWkD20PLicfToNowpYXN8NMatUXMAOUOe3npOqCKrceiy4fKvXsGsUKmDm9mUfU3CcM90Il_QZopZy7ja03DGnvBzX1nOJ7XOuigyaVmXDoePpv7ldHiSZ2KrRRQxy4tIjzaI9sXwXBXWsCJJnC6He1zFTrwCterovldby4k4eymvzD09oFWn9NZyiA2O9KCN7xCNQMCJ9D4CsQuVOdsdtnOSWqIkHi2NEQRZ9YSjO0dSDTAJAw4pJHLvVWDIyYocUJRDCoWJnPtYwnloXYMNnq2oib3AZTG4DjxOVkNJRGc-eArMJY5pOXtkzhtMt9f-5Y1fATu8jg_XAtxSj8CAl3YrCouVWs7bFV2WNJ-5mCw2F8tzosDhposOSS4ZCyVOxaVJzTgY-nOW0gmxZ0wwJdG0VAEidtXjmJZH7rzizONc9Va1gQ5lclyzpfU_UmQnr5XhVRRP4LYtrrLGFvRFHoJT3GxNdNweSeiYb3AKcp8h9onGIdb8nT55eNL_28r-BlqlgSELpCH7EMTqlQLKpz6ZnUl7YaFE1RFx8-MUkw5g_tESQPuZ82w0Jb",
+   "results" : [
+      {
+         "formatted_address" : "26, Jalan 7, Salak South Baru, 57100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0899954,
+               "lng" : 101.7025091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.091426029892722,
+                  "lng" : 101.7038260298927
+               },
+               "southwest" : {
+                  "lat" : 3.088726370107278,
+                  "lng" : 101.7011263701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ce2b2a485526351055f9db15517644295491d88d",
+         "name" : "KK Food Court",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114998894046420306778/photos\"\u003eDarren Yatashi Suzuki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEvqvIKe6h9KEEYCoQHGeRT8w-LnZBsEEJQZibdBu8Km4Z2lMFqAg9TayiAs3PqNRmATtLzZ_RWkd6ODkDvAgVExoTVwRZAaxO_IBJDiJdcFd6bqJfQFmT0oKbxKQFx0-EhDFODnzwNlpliMR5dLofaJ8GhScsX44Q11fqh6bm_SMniULStF-hA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRTA1i3RKzDERP7wnOISY_hw",
+         "plus_code" : {
+            "compound_code" : "3PQ3+X2 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33PQ3+X2"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJRTA1i3RKzDERP7wnOISY_hw",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "No. 42, Bukit Bintang Street, Wilayah Prerekutuan, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1449696,
+               "lng" : 101.7089779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.146338279892722,
+                  "lng" : 101.7103137798927
+               },
+               "southwest" : {
+                  "lat" : 3.143638620107278,
+                  "lng" : 101.7076141201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0d5e802dbb4db474b0787e554592ec670fddb1fd",
+         "name" : "Syriana Shawarma & Fastfood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 750,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111950755063787619814/photos\"\u003eJoseph Tzidikmann\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkUpc7-o77fTgpSdI9KS_ilUt6L7K1zuj5VPN2Z6BYaNnkmPPZ7Wv1fmR0pHKtaiSLLuM6XWHJBR2uUvd4bQ0sJy4KfoMR3E_BIHSOQYmWPCC4oYV2OGaWkYVJR1wtIdzEhDA5qrXIcaLWeoUHlGw0lIqGhSt8qPHY_dkUjLmS9BZIKFRlk7QOA",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJT1_CUSw2zDERqEE2y7BUwyc",
+         "plus_code" : {
+            "compound_code" : "4PV5+XH Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PV5+XH"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJT1_CUSw2zDERqEE2y7BUwyc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "Jalan Dwitasik 2, Bandar Sri Permaisuri, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1006025,
+               "lng" : 101.7129912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.101952329892722,
+                  "lng" : 101.7143410298927
+               },
+               "southwest" : {
+                  "lat" : 3.099252670107278,
+                  "lng" : 101.7116413701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d29a0070d7b56cc1f5bb81b094cd9ba0f98b5199",
+         "name" : "The Galley Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101941965371094938421/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArdsoJfUE8FxtluZcl_ZA30hOkzJOeOwqZCV83d92YhJ2ZS7ulqUDH-w4mlBwswcGbRbFzdQvsc72RMe2PPgTZIK7hCf6DO5GavLeUSsJCmEn9iNk8S0svtdKoaqsuC2mEhBHmZ5reA8dlskl2_bgm6ktGhSeFgsLJQYlkqALv1uiI-JUMWu2ow",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJQff3wrM1zDERsZwx-OGR0o4",
+         "plus_code" : {
+            "compound_code" : "4P27+65 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P27+65"
+         },
+         "rating" : 5,
+         "reference" : "ChIJQff3wrM1zDERsZwx-OGR0o4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan 1/116B, Off, Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0873308,
+               "lng" : 101.6901525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.088680179892723,
+                  "lng" : 101.6914384798927
+               },
+               "southwest" : {
+                  "lat" : 3.085980520107278,
+                  "lng" : 101.6887388201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "db38b8274ad6cb24425a1edef620d90881a3f60b",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106498974656688960915/photos\"\u003eOrang Pantai Dalam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm0CBDOUTkSQ979R4HvBBLqtrkK9BzXS6lcFLAwzb_nHWwokQQz4ZiOaYNsPyIp_pL68XhbasW8DfAZfhk2dcaGFNpISWQdq0WgX9xp6RxNuCIZ_q685JIOaSp98kikzQEhA630XBXhB757DRg2Ra6HFcGhQwml32xC6L_8JJNVcoOBwnj6aLqg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJR26KqW5KzDERICmdy9_YceA",
+         "plus_code" : {
+            "compound_code" : "3MPR+W3 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33MPR+W3"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJR26KqW5KzDERICmdy9_YceA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1284
+      },
+      {
+         "formatted_address" : "Lot 14083, Jalan Kuchai Lama, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.09249,
+               "lng" : 101.6861167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.093702729892722,
+                  "lng" : 101.6873715798927
+               },
+               "southwest" : {
+                  "lat" : 3.091003070107277,
+                  "lng" : 101.6846719201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b4add1d5ea1ab245637413508684022471cab70",
+         "name" : "KFC Kuchai Lama Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112652660321668490524/photos\"\u003eHakim Asyraf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPO3wniAaTSWfk8hAJ0fjYx76z2w0vtJwkKGwhceRq0ixs4-NZe86O0dzXbApoDyz8QuDvq2NldCHsaCQJzJacNYYE-p2b9O9MNBiDSRGGv8AyPhQgaLOHU5wbrN5ox7AEhDBO8xIakSA1sXadcH-sld5GhTCCko-ucO8gk_MNXvWiPuP_WrPLA",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJNaHYzWpKzDERWqRv_JaHo74",
+         "plus_code" : {
+            "compound_code" : "3MRP+XC Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33MRP+XC"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJNaHYzWpKzDERWqRv_JaHo74",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1011
+      },
+      {
+         "formatted_address" : "Jalan Cheras, Taman Pertama, 55300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1054392,
+               "lng" : 101.732453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.106725429892722,
+                  "lng" : 101.7336954298927
+               },
+               "southwest" : {
+                  "lat" : 3.104025770107278,
+                  "lng" : 101.7309957701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "605bbbf06a0f8466056fa21071db7cd3adf77d9e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175823952251934728/photos\"\u003eWai Ming Liew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7NCHz1S7PlbL5y-GZZIYK7RWl7MCBci-ubFiyLLpXuVi3U4K81puz2rv8bRCpSX8lX3OQS-6GulMBdB3A5vfdIO6s9RsRt92ESarNu7I4puas3w3kOkaLdvDFx4hIlVhEhBRfak8kGPvfAbWqq521oWFGhRpISAS_kruVYk-IQUY4toh2h-7sA",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJIZRetN01zDERoYZTSfQZ0tQ",
+         "plus_code" : {
+            "compound_code" : "4P4J+5X Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P4J+5X"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJIZRetN01zDERoYZTSfQZ0tQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 484
+      },
+      {
+         "formatted_address" : "No. 40, Bukit Bintang Street, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.145007,
+               "lng" : 101.708943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.146334779892722,
+                  "lng" : 101.7103091298927
+               },
+               "southwest" : {
+                  "lat" : 3.143635120107278,
+                  "lng" : 101.7076094701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "79ad0a59d42233b1bdcaa1d8916af09a165eb832",
+         "name" : "Syriana Shawarma & Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102366038197103577566/photos\"\u003eFaysala Elhag\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqctMV0eCT5uWyb1ReXfhtFKy6HRORHh1CI1lOqDOD5F3gRFC77Qg-DB9eFtevM43ha4Gtr__-O2S2pXV7A77p0gLrI6RSBK4MqXs_sU--GRZ_c6b_zUaCgY5oHFvTvYEEhCy1_khKa2Mp5Faw0N4G7-4GhSDKYEUq-7JuZmY5EQ06WnFsYmOOw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJqdnVvCk2zDERuN9PrYqgrrI",
+         "plus_code" : {
+            "compound_code" : "4PW5+2H Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PW5+2H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJqdnVvCk2zDERuN9PrYqgrrI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "44, Jalan Cerdas, Taman Connaught, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0813627,
+               "lng" : 101.7380336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.082791379892722,
+                  "lng" : 101.7393796798927
+               },
+               "southwest" : {
+                  "lat" : 3.080091720107278,
+                  "lng" : 101.7366800201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7cbd9665c1f032de1c6aa1311633af6e602630a8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105310007687505152357/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWzo-81fyKLIXshKCqR4iSN0HIqCMI_zOn4mm7ZZfd-mnfvBKLVYflGYDGgmaX1atWpFsAXTpS2FpFSz79tXdKmHS2PN1dWpGKNAJ5rmewTXXwuNsZiY_L3didFX4AIQFEhBH86uGorjJI7RkMcBl1rs0GhTYUv4xdLetj2vtmUe5sZoewYY4dA",
+               "width" : 544
+            }
+         ],
+         "place_id" : "ChIJ2boR2aQ1zDERo3HoYOoNCoY",
+         "plus_code" : {
+            "compound_code" : "3PJQ+G6 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33PJQ+G6"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ2boR2aQ1zDERo3HoYOoNCoY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 332
+      },
+      {
+         "formatted_address" : "120-120A, Bukit Bintang Street, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1467117,
+               "lng" : 101.7108853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.148072979892722,
+                  "lng" : 101.7123977798927
+               },
+               "southwest" : {
+                  "lat" : 3.145373320107278,
+                  "lng" : 101.7096981201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e35f16e10a7129e0b6f0a83ded74aa14082971c",
+         "name" : "McDonald's Bukit Bintang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 730,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102108537869806946990/photos\"\u003eFerri Ramlie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ9zmN3gpFV6t9UNDz1XiMBpn9fuL6uB4KZ_DXHm7mBaZTzZRTvioPI0zLWvRk820Z9cEjbHnLJsriQYOvuj21ZipOv6UH_n0zqkfvOrk_Ox1UXAe9E423sejfkRkeNw9EhAeamSAkGeIt7WD9MN7paidGhSXZg2L_kR5RNUn5DmbozhObPC3GA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJTV7I3Ss2zDER9TNVDfiXk84",
+         "plus_code" : {
+            "compound_code" : "4PW6+M9 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PW6+M9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJTV7I3Ss2zDER9TNVDfiXk84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4441
+      },
+      {
+         "formatted_address" : "Bandar Seri Permaisuri, 22A, Jalan Dwitasik 1, Dataran Dwitasik, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1022419,
+               "lng" : 101.7130598
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.103622229892722,
+                  "lng" : 101.7143730798927
+               },
+               "southwest" : {
+                  "lat" : 3.100922570107278,
+                  "lng" : 101.7116734201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "97547aac9a87ed359e88b1b0ddfb788157b56e35",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117997928710572119645/photos\"\u003eDarren Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9eNOf5jRAEig7cbZLINZwm3dLxH33D7eH9FFcDKKI__-WiEO5GDJZwxjqjROsaBrpooKVk6imrOqiEuOSH2pVYWwhylHUNL7eq5IgYbgONemJvbsQdCg_nk5ngaFOFMJEhAxrUZm9vItvI3hGbA8mtPcGhTL1gVlaAnoDj-DY9ao73cZflLHug",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJT1txB_o1zDERRoChQYovHUk",
+         "plus_code" : {
+            "compound_code" : "4P27+V6 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P27+V6"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJT1txB_o1zDERRoChQYovHUk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 506
+      },
+      {
+         "formatted_address" : "Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1170848,
+               "lng" : 101.6765654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.118520079892722,
+                  "lng" : 101.6777472798927
+               },
+               "southwest" : {
+                  "lat" : 3.115820420107278,
+                  "lng" : 101.6750476201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "412f11f05ff2b44a7431d11419d985fb05efa85a",
+         "name" : "Kim Gary Restaurant @ Mid Valley Megamall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101905480381831087009/photos\"\u003ekimberly lawlaw\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPSJ-MY7tymMwLU9qwo3PkeobCg4QS76fyx-_aKwaUE2K62pga-oauEZ5Cej6bA6wVa8RpWxGs0aZrdQyIUwzyr7OLqErSvNBsX9b5bMrq8l13izYlmND2Uyc-lSwULp6EhBLtLLm4pXn6ZAPIFYQDnyjGhRsqopWAblN0i44ZLc7jrTzXdmJHw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJp6_-s45JzDERM601A4XBZhw",
+         "plus_code" : {
+            "compound_code" : "4M8G+RJ Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34M8G+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJp6_-s45JzDERM601A4XBZhw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 775
+      },
+      {
+         "formatted_address" : "Mid Valley Megamall, T-029, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1163335,
+               "lng" : 101.6770322
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.121223200000001,
+                  "lng" : 101.679892
+               },
+               "southwest" : {
+                  "lat" : 3.114703599999999,
+                  "lng" : 101.674678
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8bc6eb110f1419d63286ed20f690d02582bdd95",
+         "name" : "McDonald's Mid Valley Megamall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100882974936336690117/photos\"\u003eIvan Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA-LYvwgkUv_hArCcILMaqhLd0KnIF_ZS486IUav8UO-JIymXfb69YtPhqXwj2hm-4O037WMrYwObLG6f4mYYmcQWpL88cSiI2WvXM-aC9D0L9afTs_8ws-llzAoxN4kWEhAtFj1mnDCbn3pnTqORxKUwGhQHYaNJQ5RXv5RwpbDYUoyPreb52A",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJp6_-s45JzDERTUakd0gPJzE",
+         "plus_code" : {
+            "compound_code" : "4M8G+GR Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34M8G+GR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJp6_-s45JzDERTUakd0gPJzE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "Taman Danau Desa, 58100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1009934,
+               "lng" : 101.6860474
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.102334579892722,
+                  "lng" : 101.6873968298927
+               },
+               "southwest" : {
+                  "lat" : 3.099634920107277,
+                  "lng" : 101.6846971701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "710af04cac08ee451d2ff3dcc1c95445d686b441",
+         "name" : "HASHIM ROY BURGER",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116468471125960266388/photos\"\u003eKALITHASAN .J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjXqim7TEO7JNbsRy3j9qMZ9GwHBjE7rKGcBUdmfeZNNqrU8hAfNPligY2nn5yZXF0EE9sPk4_2lx6JceZcgnBDMuRc1YRDkLJ8ii14uHAQ-VqBwRwzrc1ufF69xN2XiLEhCxAN52J0lmFKXxPWl4PBInGhSjJ6oOZs-k6mS-HM7BzRvKKjEs1A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJeRgJSXlLzDERSWrMELxDAkU",
+         "plus_code" : {
+            "compound_code" : "4M2P+9C Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34M2P+9C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJeRgJSXlLzDERSWrMELxDAkU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Shell Jalan Cheras, Lot PT 7430, HSD 111856, KM5, 5, Jalan Cheras, 56000 Cheras, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1047541,
+               "lng" : 101.7328955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.106071879892722,
+                  "lng" : 101.7342051798927
+               },
+               "southwest" : {
+                  "lat" : 3.103372220107278,
+                  "lng" : 101.7315055201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9722f5a6650c18b2b35b2eda352a4be8da5dfa78",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100381435872823343373/photos\"\u003eAdam Cares\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQOFxqepesHL6VZMyAuvG0lUb3bYRPk54kx1Pvh_hjz2-mDy4dWQNb0ItM5wB5BpJo56QfnuxVTm1tWSzXaaswe6_ujTmp26ZSz6oIJRHmVBmFqIadTS43edyo6nEoVR0EhBgGhNiUyGy6U7NIrNvt1lzGhQ08G3QFEBWJST9e7lj5wchXgCxaw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJO4CAUdw1zDERuVQBplVglBY",
+         "plus_code" : {
+            "compound_code" : "4P3M+W5 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P3M+W5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJO4CAUdw1zDERuVQBplVglBY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1743
+      },
+      {
+         "formatted_address" : "182, Main Sreet, Salak South, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1012892,
+               "lng" : 101.7056684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.102639029892722,
+                  "lng" : 101.7070182298927
+               },
+               "southwest" : {
+                  "lat" : 3.099939370107278,
+                  "lng" : 101.7043185701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "afcb5c9c50a7d3b8aca51ac8212cfaaf9da53ef3",
+         "name" : "Restoran Hakka Seafood",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105182234976754893762/photos\"\u003eMarcus Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8k40463EIKGDN39Ix0etyd-2DXqgXtkxQyBcW_02WuqsbUs7HB5_Ybf96xwnDaUBbZnG4394CQooqSamYqjPLDO_rpPrJ3Dg5LSVuJEwl7p-vjOSfDbyTYlJNM-u9-ZfEhBp1iSoV6moh71trL3ckh56GhS1lVU34Dv9JSya9F1v6lDiTdK6SQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJi2NPEQhKzDERZXoWJPbELxo",
+         "plus_code" : {
+            "compound_code" : "4P24+G7 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P24+G7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJi2NPEQhKzDERZXoWJPbELxo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "G032 & G032A (GF), Plaza Low Yat, No. 7, Jalan Bukit Bintang, Bukit Bintang Central, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1443477,
+               "lng" : 101.7098828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.145773179892722,
+                  "lng" : 101.7111717298927
+               },
+               "southwest" : {
+                  "lat" : 3.143073520107277,
+                  "lng" : 101.7084720701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "19ef8f7fa309f55c9e55073ec1b78ee5581a27d9",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107747854557832441200/photos\"\u003eZmay Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAASHLrjh2Pbz3W7-OxwKzhxaYft3uMTubq5Xg04hQQXIyTyFEtEn28IqAsjh_AbhQYPVBdIpbgPoKKksYSHtCraWcLj_coGhYo0sE1O9YjLRyR6wnQMCP32ZJoGTgUEMYsEhD_ThKkKjo68IeTKsPV-ZKAGhSNYAWkZkumEVlNu_gReH32n9CS7A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJF1hNBik2zDERZ_dWQEjj_FY",
+         "plus_code" : {
+            "compound_code" : "4PV5+PX Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PV5+PX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJF1hNBik2zDERZ_dWQEjj_FY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 391
+      },
+      {
+         "formatted_address" : "Kuchai Entrepreneurs Park, 58200 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0873207,
+               "lng" : 101.690057
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.088670579892722,
+                  "lng" : 101.6914061798927
+               },
+               "southwest" : {
+                  "lat" : 3.085970920107278,
+                  "lng" : 101.6887065201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "16d67fcc88dde90e3fde0e3ddb0353d503452bb2",
+         "name" : "Laksamana Shell Kuchai Lama",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114480793793823195547/photos\"\u003elinus soon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlNNGWiY82umsHwB-tWu2fic5_zk4l_jQ2WH8JZA0BjF_FWVgOk10W5IZeNb3x1qEJ89DjdS5mBINnZuqSvP4nm6X1w_6NzS73XLI0EHV4PHO1ICvMkxC5OcrIKJDOo4wEhDaoPbb2e2lgD0QZ_Dz-fbWGhT6cKMLZ6-Y3heyFYt9SXgIuSyysQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJW4vwq25KzDERd4-94hjHv2I",
+         "plus_code" : {
+            "compound_code" : "3MPR+W2 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM33MPR+W2"
+         },
+         "rating" : 1,
+         "reference" : "ChIJW4vwq25KzDERd4-94hjHv2I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Wisma Fui Chiu, Lot G.02, Ground Floor, No. 32, Jalan Tun Tan Cheng Lock, 50050 Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1455216,
+               "lng" : 101.6975007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.146797079892722,
+                  "lng" : 101.6988561298927
+               },
+               "southwest" : {
+                  "lat" : 3.144097420107277,
+                  "lng" : 101.6961564701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7c32f15925e432837db9fdef633051e34ef68eb",
+         "name" : "Texas Chicken Wisma Fui Chiu, KL",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108859457602756465177/photos\"\u003eRizky Fauzan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfJ_cATkU_03oy-RBfYSiGaCHo8-uDDwXj6lPoRpljKYhZY7EoQYWtiqrfpt9UL3vt5sidwJ1nKM4d79BNRrwedBFTg8othQUWvdfZCcSG2T1GBbUDWbLH-Y0hEOtqr4oEhCYe0cUv5W6PzoPGdXCg9R0GhRjnMOHWW0V4YpVHd_f7jUozX2OMg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_VbivqtJzDER4THgn3mVP2Y",
+         "plus_code" : {
+            "compound_code" : "4MWX+62 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34MWX+62"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ_VbivqtJzDER4THgn3mVP2Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 279
+      },
+      {
+         "formatted_address" : "Mid Valley Megamall, LOT T-023, 3RD FLOOR, 1, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1170473,
+               "lng" : 101.6770586
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.118586079892723,
+                  "lng" : 101.6780371298927
+               },
+               "southwest" : {
+                  "lat" : 3.115886420107278,
+                  "lng" : 101.6753374701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab23d29758abb792e41cd52f54b1a1f98a1f97ca",
+         "name" : "Carl's Jr @ Mid Valley Megamall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114577302484878719528/photos\"\u003eSalee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHN4sp1K9iVNRh_YQVbqK-1sC_QVbAh1SuW-XVuWGyo8K41MMlPJ0ivQATurtK3urHmZvohFlE9zBGK1usfyUrdCdlpHP-rfzgqNUIa0iOdAxGUWpy2Sqplc3P8xW11gZEhA6YAVAlZaV_hh5cYqx_DgoGhQkVPH42P2u11Qu2xMCjLxW-JwrrQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJiaZUNolJzDER2W5MNaR0erU",
+         "plus_code" : {
+            "compound_code" : "4M8G+RR Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34M8G+RR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJiaZUNolJzDER2W5MNaR0erU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 173
+      },
+      {
+         "formatted_address" : "199, Main Sreet, Salak South, 57100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1010527,
+               "lng" : 101.7053878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.102393579892722,
+                  "lng" : 101.7067764798927
+               },
+               "southwest" : {
+                  "lat" : 3.099693920107277,
+                  "lng" : 101.7040768201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2c1c352457014497af49c86e240423ec0a7091f7",
+         "name" : "SekMeChoy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103700075327693841144/photos\"\u003eWoodz Packer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFgLvfEfv_lPmPjE6fzIslNtXr84NsEYTIlsIcuS0pEFn_kpZ9oN-gQ8U900O_jhHAotHiC4f7ROrZLvX0dXvN2fRSj5Q_FnVU_x53JSP8-y_iJz0BB7NHLhbBH9CqQYmEhCa1L7uD98wqTDvCeMC4jY2GhRt0HReYJFmNxVnnquelpcKisbp-Q",
+               "width" : 5333
+            }
+         ],
+         "place_id" : "ChIJGcVgEwhKzDERktd2jhsBwQI",
+         "plus_code" : {
+            "compound_code" : "4P24+C5 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34P24+C5"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJGcVgEwhKzDERktd2jhsBwQI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 289
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,515 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "19, Jalan Arau-Kodiang, Kompleks Tok Arau, 02600 Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.427125999999999,
+               "lng" : 100.272674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.428439129892722,
+                  "lng" : 100.2739607798927
+               },
+               "southwest" : {
+                  "lat" : 6.425739470107279,
+                  "lng" : 100.2712611201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "552e7779c4b0f2bd8d605ae5e58f716f5679ed42",
+         "name" : "KFC Arau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108037230015340696890/photos\"\u003eLai Leng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJdL_XYVl4mR5aw1TmVsioe67vwlIRgPe0sGJv61s7qZSZCcIYUFXyCRk0OEoxHvcY1BKjdXLWiA85anBr5m3BF-_w1B6NVrXE1PyvolYtlBSI-qWmahQN_bQX_OJJwuaEhByiX_pDt1a0VkmgclS4pOHGhQedwHZWKSMP2vCVu4YTJRKpKYjmw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJVVVVVZqiTDARuDqv9dBILt8",
+         "plus_code" : {
+            "compound_code" : "C7GF+V3 Arau, Perlis",
+            "global_code" : "6PR2C7GF+V3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJVVVVVZqiTDARuDqv9dBILt8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 819
+      },
+      {
+         "formatted_address" : "Capati Arau Perlis, 01000, Arau, Perlis, Malaysia, 01000 Arau, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.429179599999999,
+               "lng" : 100.2737785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.430565179892721,
+                  "lng" : 100.2751538798927
+               },
+               "southwest" : {
+                  "lat" : 6.427865520107277,
+                  "lng" : 100.2724542201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c2b528ee542ac69d7fc3189ff697af6f9e5cf5d",
+         "name" : "Restoran Capati Arau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114577357921644533255/photos\"\u003eVilCherd Teoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYjPwjCmc6OXqPciBaPwEob8Gk6rUr6J4JsZws-qaxrC2Rrpe7iIoxjZYX0axkSI9p5iXujuyrDN_Uoe1hkuwYIQfWt5iCvTEhDRIFZ1Tgld_VGz1gh4mmB_YjlmIV6NrEhCOxEnwkVmBF4Lk5hluSkc4GhT6PiZa15TJK5g72Pcs6US26CvVuA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJObWzI32iTDARUKHHo0eAuJU",
+         "plus_code" : {
+            "compound_code" : "C7HF+MG Arau, Perlis",
+            "global_code" : "6PR2C7HF+MG"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJObWzI32iTDARUKHHo0eAuJU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "Jalan Penjara, Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4397616,
+               "lng" : 100.1957493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.441141929892722,
+                  "lng" : 100.1970804798927
+               },
+               "southwest" : {
+                  "lat" : 6.438442270107278,
+                  "lng" : 100.1943808201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2072fafdd316228f892dc8ba27cace946bf21dcc",
+         "name" : "Garden Cake House & Fast Food Centre",
+         "place_id" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "plus_code" : {
+            "compound_code" : "C5QW+W7 Kangar, Perlis",
+            "global_code" : "6PR2C5QW+W7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No 281 & 283, Jalan Kangar - Alor Setar, Taman Pengkalan Asam, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.435944800000001,
+               "lng" : 100.1882432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.43728007989272,
+                  "lng" : 100.1896231798927
+               },
+               "southwest" : {
+                  "lat" : 6.434580420107276,
+                  "lng" : 100.1869235201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "479fa4f4d526b31a9b06d010551e2fdeef1a679d",
+         "name" : "Modern Time Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105432027803622574368/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQtHreX5jVakY_0YZcMx-2cQZC-xJegDk4oUD3yaBr9ysx6PmHFz-BPzPOtlp5AIOtoP8oIHQlueetIEbsEWTimHtzBTaVUKMjTjhiOj-EAc5j1-q5BLMnmc57i5S0vqWEhAZTBaYYJLHP9cIBPT0ysshGhSgmrtteEEH-wtwub8zXzupyjxbbw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "plus_code" : {
+            "compound_code" : "C5PQ+97 Kangar, Perlis",
+            "global_code" : "6PR2C5PQ+97"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Lot 9, Dlarrez Cafe Kompleks Serbaguna Univeristi Malaysia Perlis (UniMAP), Jalan M.U. 10, Medan Universiti, Pauh, 02600 Arau, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4594399,
+               "lng" : 100.3600457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.461058979892721,
+                  "lng" : 100.3616003298927
+               },
+               "southwest" : {
+                  "lat" : 6.458359320107277,
+                  "lng" : 100.3589006701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "62e4a1e4caf10da669d18b1a322e0d61246feffa",
+         "name" : "DLARREZ CAFE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104400751447336768556/photos\"\u003eDLARREZ CAFE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwvzIK7VPrJDdZSz2DVueIrHngpix9MThLTQHRzPa6FVrYhHVf-wIfPhWlKnckU4yIeBFmVnXJE0G3reZevF9GCKyQgCVnz-5LpZ4dmzwbgXdDtilrJVPb0jbZjp9XMEtEhA0UcGf1u6PNuY1ZwIbO-_vGhRZ3lpRhRGtJ0TO2OkJARNMqNIM2g",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJVfkVrp6lTDARXhxbjUk3Qes",
+         "plus_code" : {
+            "compound_code" : "F956+Q2 Arau, Perlis",
+            "global_code" : "6PR2F956+Q2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJVfkVrp6lTDARXhxbjUk3Qes",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "16 Ground Floor, Medan Seri Lanchang, 02500, Kampung Mata Ayer, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.449523,
+               "lng" : 100.2428252
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.450773379892723,
+                  "lng" : 100.2443264798927
+               },
+               "southwest" : {
+                  "lat" : 6.44807372010728,
+                  "lng" : 100.2416268201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5855cfdc465bb38bd61ddc890793f057d3d8b7bb",
+         "name" : "Fryay! Malaysia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJw5TnyDuZTDARLMSlLLthuIU",
+         "plus_code" : {
+            "compound_code" : "C6XV+R4 Kangar, Perlis",
+            "global_code" : "6PR2C6XV+R4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJw5TnyDuZTDARLMSlLLthuIU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Taman Seri Firdaus, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.437396100000001,
+               "lng" : 100.2079202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.438781679892721,
+                  "lng" : 100.2092431798927
+               },
+               "southwest" : {
+                  "lat" : 6.436082020107277,
+                  "lng" : 100.2065435201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6527c86d90d21251180e3585dcdf3176b936a338",
+         "name" : "Family Burger Original Recipe Since 1987",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105530267284181794566/photos\"\u003eHilmi abdul hafitz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8JTXkkmOBODpUPYFKiS8U4j-3YkP0xlq_HLpTQa523QwHZwMfAhBt3TG24_jtJyMrn8ts65YUzIXHOeVtOMTzI_82hfLcQNyL8riHeY_YjP1xKHiwoiJFB7vLmfC4raREhAGoIwg3Ylcu4Bz8RRqOIuLGhRUYp6_cHU6Z6obEwdOrNUt1QMqtA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJDWMgI6mZTDARoRVkbmOvFA8",
+         "plus_code" : {
+            "compound_code" : "C6P5+X5 Kangar, Perlis",
+            "global_code" : "6PR2C6P5+X5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDWMgI6mZTDARoRVkbmOvFA8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "703A, Persiaran Jubli Emas, Kampung Tanjong Gorah, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.445663799999999,
+               "lng" : 100.2262699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.447021729892722,
+                  "lng" : 100.2276152798927
+               },
+               "southwest" : {
+                  "lat" : 6.444322070107278,
+                  "lng" : 100.2249156201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "822d4d04ec148014996feb8cae00782b2dadf0c2",
+         "name" : "Wan Koteow Kerang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110585113649759017949/photos\"\u003eAnastasya Anwar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAueAnzYDwj8Qdslu09XR5v5Gy511SfzKO27OO1ENZbWBs67mwcb9rzprUDKACQMZaQN8XCBllpteGAimRahRHlq-8pJenDaNMJ-9X_QsmpPd2nTIYlyrN2rJV4IxKuX-LEhCuqKtrsqxbsfxVHSkwayHxGhSb0LzyORosvfFrRg3Jm1NP3ZRqdA",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ8Zz1gE-YTDARZOhuEq4EuH8",
+         "plus_code" : {
+            "compound_code" : "C6WG+7G Kangar, Perlis",
+            "global_code" : "6PR2C6WG+7G"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ8Zz1gE-YTDARZOhuEq4EuH8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "Jalan Kampung Bakau, Kangar, Malaysia, Perlis, 01000 Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.432713,
+               "lng" : 100.196706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.434177179892723,
+                  "lng" : 100.1979451298927
+               },
+               "southwest" : {
+                  "lat" : 6.431477520107279,
+                  "lng" : 100.1952454701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e3e3e8ae7144e5b3624bf817d8bba52416b0391c",
+         "name" : "McDonald's Kangar DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109059559070395330632/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALCey4rTuxOuQhhwhuopgtTYqzLye4EldaO08EQwDPUli11ZhzyWDcneHiAaBrtWy94mctdIbykpFhgPTkIM2gPyjZ0HET8iStoJwN-u18PlZglWnfdxb3l3MRQinJBqLEhDnMUcEGJDar0LZ7KP5aKPAGhS0yr5aHlWD_BtY1mpc40cuS67Q0g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJwRn6cQqZTDARzbjghIB3nHA",
+         "plus_code" : {
+            "compound_code" : "C5MW+3M Kangar, Perlis",
+            "global_code" : "6PR2C5MW+3M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJwRn6cQqZTDARzbjghIB3nHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2139
+      },
+      {
+         "formatted_address" : "Jalan Kangar - Alor Setar, Kampung Simpang Empat, 02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3447019,
+               "lng" : 100.1909351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.346078779892722,
+                  "lng" : 100.1923541298927
+               },
+               "southwest" : {
+                  "lat" : 6.343379120107278,
+                  "lng" : 100.1896544701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "caec89d374be8c20d259ba019cfba0e13cfd4cce",
+         "name" : "Mangga Kaww Simpang Empat Perlis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107576164154584936450/photos\"\u003eAzlan ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAhRp6zKaWUNCYpU4t3wK03W_T6DJXsmU_kmQLTQfYhFF7ElWd879_9FNY5Zd1F3f29-4ZyC5xKdjeUUJYo-PQ3ElQOixsQxV3EMPNNds9d-gHi9RZETknyH1uF0B9hVeEhBZh2AB7qPO5KldncZc7C1-GhQ39a6od85gnMms3gkuj0xtigmYsA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "plus_code" : {
+            "compound_code" : "85VR+V9 Simpang Ampat, Perlis",
+            "global_code" : "6PR285VR+V9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Kampung Hutan Lembah, 02600 Arau, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4596165,
+               "lng" : 100.2716177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.461051129892721,
+                  "lng" : 100.2730638798927
+               },
+               "southwest" : {
+                  "lat" : 6.458351470107277,
+                  "lng" : 100.2703642201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f37aad06e50dc3e5ff1219851049cf92b0955c0",
+         "name" : "Warung Bang Teh",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106359803773958270988/photos\"\u003eMuhammad Rifqie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjHaK270A_tNIFClbhBwhuQS7B9XV_5QkI6n82T69YeDKliDimqYab65IMLVDCuK7bVsK5e-DAXe40Ni2PiWhlRiz1BqibSWKyZPE7XZ1um4cRgXNIyddy5FXE21RwT0lEhDTAEcNGglEjLnB8CTgMZxtGhSVWN4DhzgLV8XkGigB489tj4SonA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJByetZbCiTDARDez-LO7PWtg",
+         "plus_code" : {
+            "compound_code" : "F75C+RJ Kangar, Perlis",
+            "global_code" : "6PR2F75C+RJ"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJByetZbCiTDARDez-LO7PWtg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 632
+      },
+      {
+         "formatted_address" : "Lot 38-39, Kompleks Arau Jalan Arau Pekan Arau, 02600 Kodiang, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.428539499999999,
+               "lng" : 100.2728042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.42991547989272,
+                  "lng" : 100.2740631798927
+               },
+               "southwest" : {
+                  "lat" : 6.427215820107277,
+                  "lng" : 100.2713635201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2b4a53e26e4ea8687fcfc84f3e4aca17fc566065",
+         "name" : "Subway Arau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101279389649373157028/photos\"\u003ekai xu tung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-YZnS5HeLp_NAOvJuB4F4ePJoEWtNAA3A4_87_GtVn6Sc9fcY0DY6jCWfazc3LEbYN6yIt5Law_7EAbTGuAp5ID0r6yDHqPR6ZS72SPL4udam-A0mi5Ej9RViqJqDGpeEhCOyQ73AUc_IsMTgwyXhXDdGhThcqhmDn1AGBi70FUNx69dg9ZQeg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJFVENGGOiTDAR3jduHj00aRU",
+         "plus_code" : {
+            "compound_code" : "C7HF+C4 Arau, Perlis",
+            "global_code" : "6PR2C7HF+C4"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJFVENGGOiTDAR3jduHj00aRU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 320
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,862 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2035522,
+               "lng" : 113.057983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.204862879892722,
+                  "lng" : 113.0593568798927
+               },
+               "southwest" : {
+                  "lat" : 3.202163220107278,
+                  "lng" : 113.0566572201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2172a0a452d2d1c344d3443d282cd513a70ce4a0",
+         "name" : "Marry Brown Medan Sentral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106164070181064718493/photos\"\u003eRonnie Adisatrio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuacfkMiLLWeHJk0MgaUMhZhyMsFWp5LgQeZO7QvzjAILkuyBujsAKZ-Jk9DZ0itDHux6G8h90ZzJuKMfEFCsBDUA5m5bwd3hGZ1KxKpicSLATGeWypBKYBr6_p-C652rEhAehX1Rjr9QBvn0qTy4K82fGhT1BgT8ADgWuKQELCYAlGtRL0NDbA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJAfPRK3PBHTIRVEzPgTHSS_0",
+         "plus_code" : {
+            "compound_code" : "6335+C5 Medan Jaya Commercial Centre, Bintulu, Sarawak",
+            "global_code" : "6PMM6335+C5"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJAfPRK3PBHTIRVEzPgTHSS_0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 155
+      },
+      {
+         "formatted_address" : "LI HUA PLAZA, LEVEL 1, GROUND FLOOR, LI HUA PLAZA 97000, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1697483,
+               "lng" : 113.042118
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.171108479892722,
+                  "lng" : 113.0434736298927
+               },
+               "southwest" : {
+                  "lat" : 3.168408820107278,
+                  "lng" : 113.0407739701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "69f7529cddea1313d2fefffd7348c847b7935772",
+         "name" : "SugarBun Li Hua Plaza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116658898468330400021/photos\"\u003eaɨt SAIT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYLRKFITfonmgp953GIb_8lUI-y0swnXHwN4t4QQ5AMZOEezogUvrlQhAEJEnqxb10F2QmZy04q3HrCwO2vLPOmMskIiGEo1XM6lS-afELkOiHMl-UMYebr4j7H9_CjCPEhAcPQH0dSvswGJvhrxwVZmHGhTEwznMaSwBIzIWHk9cC2DSA3fAvA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJowCZEFzAHTIRJNVmTm24KuY",
+         "plus_code" : {
+            "compound_code" : "529R+VR Shahida Commercial Centre, Bintulu, Sarawak",
+            "global_code" : "6PMM529R+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJowCZEFzAHTIRJNVmTm24KuY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "No.12, Jln Law Gek Soon, Shahida Commercial Centre, 98000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1711771,
+               "lng" : 113.0410207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.172500079892723,
+                  "lng" : 113.0424211298927
+               },
+               "southwest" : {
+                  "lat" : 3.169800420107278,
+                  "lng" : 113.0397214701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aee2b2b760a606edf9a01b13a31a5185d3445967",
+         "name" : "Chicken Delight Fried Chicken",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100072658771752965047/photos\"\u003eTonny Ung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASxMaU1twpFCoZ04aQVe_DAPBKc0-UWWtM3ubVLLI53N6kVhEFYuydYFA9iH71JNqoz4FiqGtotMNvYWx5h8saY_309D9aiprLCCVfjotJNQ78dVFBtAD47ghP_hBnecpEhDCXUxlgkeUP5dkct0QII_sGhSM8vTK2A3OC9HxfLOrsxdhU2SFBA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJeSTblFvAHTIRx2k1K25xvNg",
+         "plus_code" : {
+            "compound_code" : "52CR+FC Shahida Commercial Centre, Bintulu, Sarawak",
+            "global_code" : "6PMM52CR+FC"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJeSTblFvAHTIRx2k1K25xvNg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "SENTRAL,, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2037346,
+               "lng" : 113.0575337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.205139479892722,
+                  "lng" : 113.0588186298927
+               },
+               "southwest" : {
+                  "lat" : 3.202439820107278,
+                  "lng" : 113.0561189701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4e033f4197dfc633f7652464cbf27b98fef078fa",
+         "name" : "Sugarbun Medan Sentral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116452741050173535860/photos\"\u003eShah Rewl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1xLdpLL4u4wEU2lyVXc47T8Bx0qcmTUFapP4uwZTsaziKC3pUZeiiLwZYPWQ4IAKWkiI2C-xK4_pZCxosaqT-V9mnFNdue8_ZR6SRQUjS8K6cgd7nzes03Mm8I7u0ZoNEhCypiiqNt7PsFxk6nTI3KuhGhRG2TIYo9njYP-RIts2ch2ryAmu7A",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJhwGURw3BHTIRNfIeb5V7wzI",
+         "plus_code" : {
+            "compound_code" : "6335+F2 Medan Jaya Commercial Centre, Bintulu, Sarawak",
+            "global_code" : "6PMM6335+F2"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJhwGURw3BHTIRNfIeb5V7wzI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35
+      },
+      {
+         "formatted_address" : "Level, 1, Jalan Tun Ahmad Zaidi, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1840298,
+               "lng" : 113.0381937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.185394929892722,
+                  "lng" : 113.0395835798927
+               },
+               "southwest" : {
+                  "lat" : 3.182695270107277,
+                  "lng" : 113.0368839201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "163d6949f7dd7023f64236fe17f804f05cad663c",
+         "name" : "Marrybrown Bintulu PCM",
+         "place_id" : "ChIJu1llt1LAHTIRo6fKjsh0BB0",
+         "plus_code" : {
+            "compound_code" : "52MQ+J7 Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52MQ+J7"
+         },
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "ChIJu1llt1LAHTIRo6fKjsh0BB0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No. 204-205, Assyakirin Commerce Square, Jalan Rakawi Yusuf, 97000, Bintulu, Sarawak, 97000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1972049,
+               "lng" : 113.0551536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.198604679892723,
+                  "lng" : 113.0564982298927
+               },
+               "southwest" : {
+                  "lat" : 3.195905020107278,
+                  "lng" : 113.0537985701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e214cdab1a7133d5293e010c2ad2077f630ece64",
+         "name" : "SugarBun Assyakirin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101856713291181159901/photos\"\u003eAwang Norrahman Awang Mohammad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZi8fSufMgPD8HmtBC__3O1qClseyZ0xceS_FncESpFqvM3ufQq4HIs82KJCFLfX2ECG-IRh23i8zOQEkkHI-OjWgeqZOEVefzr3BVSURnwceJk0QLsfoCI2Y2-_BpQK-EhDKgbNTZ1ofHr836L4yCa7JGhSpSIyDOI0W4hbL5i10sXjX0nttnQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJJTs-janBHTIRnPkpcgw5Kkw",
+         "plus_code" : {
+            "compound_code" : "53W4+V3 Kampung Assyakirin, Bintulu, Sarawak",
+            "global_code" : "6PMM53W4+V3"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJJTs-janBHTIRnPkpcgw5Kkw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 62
+      },
+      {
+         "formatted_address" : "Lot No. 22, First Floor, Times Square Megamall, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1973101,
+               "lng" : 113.088198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.198686979892722,
+                  "lng" : 113.0893248298927
+               },
+               "southwest" : {
+                  "lat" : 3.195987320107277,
+                  "lng" : 113.0866251701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1b05a4c1c3a80ca5f436a969fcdabb0856b33698",
+         "name" : "SugarBun",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJe5FqLDHBHTIRNj4euOhWDoQ",
+         "plus_code" : {
+            "compound_code" : "53WQ+W7 Taman Putrajaya, Bintulu, Sarawak",
+            "global_code" : "6PMM53WQ+W7"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJe5FqLDHBHTIRNj4euOhWDoQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "formatted_address" : "Lorong 1, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1704474,
+               "lng" : 113.0550037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.171803079892722,
+                  "lng" : 113.0563596298927
+               },
+               "southwest" : {
+                  "lat" : 3.169103420107278,
+                  "lng" : 113.0536599701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ad960796f68056ea1296ccb2de77e553ab8ee3b",
+         "name" : "Kemunting Burger Stall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104165507340953011611/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjKT_6IO-ZvRXpq1CFTZ1Up8lQcW5rWxcY4uokckuKIAKvqAlm2yqeX6bRUEcmtlJFsz9uf135N2rEb0uT6MJ-q4BR9b-m71wIhNyQ0Ljob8XNehTCQSLhXr6Crke6rloEhCKhyn3C238sagbGGFtk1_jGhTWIz5RrQiEZ_FS-IpWVBjaS7r5DA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJD79fVPHAHTIRUo0pg7p8qaU",
+         "plus_code" : {
+            "compound_code" : "53C4+52 Kampung Kemunting, Bintulu, Sarawak",
+            "global_code" : "6PMM53C4+52"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJD79fVPHAHTIRUo0pg7p8qaU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1804815,
+               "lng" : 113.0342531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.181831329892723,
+                  "lng" : 113.0356029298927
+               },
+               "southwest" : {
+                  "lat" : 3.179131670107278,
+                  "lng" : 113.0329032701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e1094f5f658a806bd62f06869427642b6f28152",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107079448131646878262/photos\"\u003eNelson Lau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADeVzkTxXlA1DuKiKwHJ84Tt3GqDCp7Zcif23lWd1srcbRs6sTSUVUg6evop2-rrVZmzHELEjbBnBjsdq27vCXkEcxTMYc5--MC39R5f-RojJHh-k-2o04Dq4wKou03EvEhDhXUhlRxuQWfAYMcgdojq1GhT2o0q771x4RFReMT9rHBZWL4BAmA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJTarR0l3BHTIROqmQU-Qni94",
+         "plus_code" : {
+            "compound_code" : "52JM+5P Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52JM+5P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJTarR0l3BHTIROqmQU-Qni94",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "No.126,Lot 8349, Behind NU Hotel, Assyakirin Commerce Square,Jalan Tanjung Kidurong, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.197603,
+               "lng" : 113.05767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.198947879892722,
+                  "lng" : 113.0590591798927
+               },
+               "southwest" : {
+                  "lat" : 3.196248220107277,
+                  "lng" : 113.0563595201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d55a18758f8104c7de0080ff009dd2e61508dbe5",
+         "name" : "Family Garden Food Court",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111741100539246523329/photos\"\u003eCharly Lau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx25zP438IDETypIjAEtkk_lhh2mUqajOcnQLYeDcEbRAnfdBG9xQ2jlcdiW2iNZhMs0aRbHcmDNIRdbcFCQQ3ORCZrMOWFbaXaNnY296c-2GF7-8_SQ4SGV4gs3TXwodEhCSjfqmtNSDnupaAuXAxa_WGhS8E_bjIRC9K_svbSEu8V5wioMe9A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJt3qkhw7BHTIReW4n6e8rqMA",
+         "plus_code" : {
+            "compound_code" : "53X5+23 Kampung Baru Bintulu, Bintulu, Sarawak",
+            "global_code" : "6PMM53X5+23"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJt3qkhw7BHTIReW4n6e8rqMA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Bintulu Airport, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1236883,
+               "lng" : 113.0238111
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.125070479892722,
+                  "lng" : 113.0253247298927
+               },
+               "southwest" : {
+                  "lat" : 3.122370820107278,
+                  "lng" : 113.0226250701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "90cb7bda0d48bd7129037646a2069685ec7a8350",
+         "name" : "D'Safa Waffle Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102339277497038453412/photos\"\u003eFara Ghazali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvz1eUBHzIFeNOJU5mi7eATraSsDwxQk2WUX14AiJw5FycRx_Mx-ftxYhqRKgSxqJtTy_2gUXUIU2xjcUp3jshAioNdukIiQX_IWuaeU3frlBfndMawoMEBmsi_q2Mre1EhCzfC4QIAl9eU0vI6WH3i5HGhRR9qGcl7rHzC7oEFe8sW0crY4i6A",
+               "width" : 992
+            }
+         ],
+         "place_id" : "ChIJ97hsQMe_HTIResnkjq0kdro",
+         "plus_code" : {
+            "compound_code" : "42FF+FG Kampung Baru Sebuan Besar, Bintulu, Sarawak",
+            "global_code" : "6PMM42FF+FG"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJ97hsQMe_HTIResnkjq0kdro",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan Tun Razak, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1811714,
+               "lng" : 113.0340587
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.182579879892722,
+                  "lng" : 113.0360108298927
+               },
+               "southwest" : {
+                  "lat" : 3.179880220107278,
+                  "lng" : 113.0333111701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c093b9d70ee5d4c52548891995f5fda0a56694af",
+         "name" : "Potato story",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104011532308212554204/photos\"\u003eJames Loming\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlNMID1jvnll04uZeZYdmdldLAXItMxSdRQOMkgjpBMcGukigj1kMGplQmwOrqVTNpzeqImUnyc0DxzJt9nfHkdQ-dNxzNMBY_-k-4b6Ea1JImi-iXp0Bg5f4RprXDtWtEhCwGfiSFx81wpwyGdC0OXpLGhQ6cKq6JNcnlEyv5hvDipxYj9v82w",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ-306czHBHTIRiBOAzA6QGnA",
+         "plus_code" : {
+            "compound_code" : "52JM+FJ Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52JM+FJ"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ-306czHBHTIRiBOAzA6QGnA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "176, Jalan Sebuan Kecil, kampung jepak, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1611954,
+               "lng" : 113.0485856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.162492179892722,
+                  "lng" : 113.0499093298927
+               },
+               "southwest" : {
+                  "lat" : 3.159792520107278,
+                  "lng" : 113.0472096701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "59588098076355f99601acf1f199d6e2d49f4bc9",
+         "name" : "Sariyati Family Hot Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112162876457789518400/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAactscpu8fF0J38VTlFo8EBn2bIXyiftmc4vjicUMrWHy8RvyheCV-plviZMKv2CSRBap9mm4STh25i6lhUZrZGaz4s96Svj3ojPJstlRwZCsSfHOQCRDK4hWqqVV9fWKEhC5zVtH5bsKAHd5Ay2ekvvSGhTOo28auvxp5bhED0o5IyCqawx8Aw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJpc0KUEPBHTIR5ByVj-m6G6c",
+         "plus_code" : {
+            "compound_code" : "526X+FC Kampung Baru Sebuan Besar, Bintulu, Sarawak",
+            "global_code" : "6PMM526X+FC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJpc0KUEPBHTIR5ByVj-m6G6c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Lots 119 & 120 (State Land), Block 32, Kemena Land District, Jalan Tun Hussein Onn, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1975625,
+               "lng" : 113.0796334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.198758229892722,
+                  "lng" : 113.0809762798927
+               },
+               "southwest" : {
+                  "lat" : 3.196058570107278,
+                  "lng" : 113.0782766201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "11d488d6a403cfafb023b2e3a1dd0ed704821939",
+         "name" : "McDonald's Bintulu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114846012062374009548/photos\"\u003eAnthony Kong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmuC9BgWGHquqaZ3bFi7CMgm6Akzpo_gik5YiYK9__AP-7VPpFyMlOtseyVA4_qdEwRPZ-6MBURzWVvaz_DAJ7enemn_oU7p6cRQuOMnWS68y5fLKNzmEvtVwKtubm5RTEhAsIGr4O8r_gxOLS6_kshcnGhQEgC4FSDg-0Duu9Djb20XzJzBdHg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJVfGbWDnBHTIRkNo9FRMX5Bo",
+         "plus_code" : {
+            "compound_code" : "53XH+2V Taman Putrajaya, Bintulu, Sarawak",
+            "global_code" : "6PMM53XH+2V"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJVfGbWDnBHTIRkNo9FRMX5Bo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1422
+      },
+      {
+         "formatted_address" : "Malaysia, Sarawak, Tanjung Kidurong, Kampung Sungai Plan Lot, Unnamed Road,邮政编码: 97000",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2620237,
+               "lng" : 113.0942357
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.263373429892722,
+                  "lng" : 113.0956021798927
+               },
+               "southwest" : {
+                  "lat" : 3.260673770107278,
+                  "lng" : 113.0929025201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fbb2fbed358b4f69e9d6c4e6133684b92fcd8074",
+         "name" : "SugarBun Kidurong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106681454976546589776/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALTLnj3n_0fgIZ999Si3bR7Sig8M5QoX3E0mNEueUq9Nxrv4g0KvNttSGq0u9BTd9OP9t3Vhastz1UBQBGJ55dom1Cot-c5UZRiQ3RO1NM-KEt0rHS1_oDC3WaRNJWwTBEhA73CpOVCitmX1Rp9TmNigjGhR8zkkXg4cq3sOQL9ju_osWFtqYsw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJfQlxd37DHTIRUvHcAkd9LVI",
+         "plus_code" : {
+            "compound_code" : "736V+RM Tanjung Kidurong, Sarawak",
+            "global_code" : "6PMM736V+RM"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJfQlxd37DHTIRUvHcAkd9LVI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46
+      },
+      {
+         "formatted_address" : "97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1986514,
+               "lng" : 113.0561101
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.200033979892722,
+                  "lng" : 113.0574915298927
+               },
+               "southwest" : {
+                  "lat" : 3.197334320107278,
+                  "lng" : 113.0547918701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef4ce09bce8d142d11585a379a82bc92636a385c",
+         "name" : "Brew73 Degrees Gastropub",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1087,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103191532074807211904/photos\"\u003eHP Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgbti7eQ5ifpy5nNp67aMD97K77cZrglQ7odmTsNgtaTauXCu1lFsfi0X2QmV9AuNDAbs0CTsyTraPNX8ZSmMxUG-N4TrGuylRPhvH_hslt8UA63s7tZ-UM8zWF6cV8hPEhBAJHxBJIb4WSEGeUQ2Dx32GhSB5yGz2p5fQsNDuEUiNY3DpDWmTA",
+               "width" : 1530
+            }
+         ],
+         "place_id" : "ChIJlYloGAzBHTIRnQTLpExuxTI",
+         "plus_code" : {
+            "compound_code" : "53X4+FC Kampung Assyakirin, Bintulu, Sarawak",
+            "global_code" : "6PMM53X4+FC"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJlYloGAzBHTIRnQTLpExuxTI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 475
+      },
+      {
+         "formatted_address" : "No. 78-79, Lot 3364, Parkcity Commercial Centre, Jalan Tun Ahmad Zaidi, 97000, Bintulu, Sarawak, 97000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.183962,
+               "lng" : 113.0412959
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.185370429892722,
+                  "lng" : 113.0425948798927
+               },
+               "southwest" : {
+                  "lat" : 3.182670770107277,
+                  "lng" : 113.0398952201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "412f142e76a2878daac24443e01aa7db24ccc2ae",
+         "name" : "Apple Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111411112610621581886/photos\"\u003enik rosdi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHrSZmdkPo87CHrFDWMBvowf6pVEO0o9e0gcn0fpFmGGquXv10zYkAfjpcfa3HJ7RbdBH75PJ9kT2vQ-kNfM3kxoiRtfeNos7_YMh6JzSSbIdm6hwZI8WyfoEGIzTvginEhBSDfHAgSpnQ4BgxQfoV4LKGhSTyVBvhvNYTY1L2iJP5kp1bmIANA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ1wH_WqrBHTIRHee-sXR-9Vk",
+         "plus_code" : {
+            "compound_code" : "52MR+HG Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52MR+HG"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ1wH_WqrBHTIRHee-sXR-9Vk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 166
+      },
+      {
+         "formatted_address" : "Lot 193, Jalan Tun Ahmad Zaidi, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.18027,
+               "lng" : 113.038551
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.181654379892722,
+                  "lng" : 113.0399373298927
+               },
+               "southwest" : {
+                  "lat" : 3.178954720107277,
+                  "lng" : 113.0372376701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "22a6e91c5c9e1b3730b9241ab33ae2cfabf3641a",
+         "name" : "Mid Valley Seafood (Halal)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1046,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114978447091651177129/photos\"\u003eMid Valley Seafood\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs6vVxdjcMCDKCTso2_rbFsBBx5z1z15Jt0Garzb5hLgLq-BbEjK0992bAB9hTt7MPf4_xj21tuRIJ25LCsLMb4bAYB9m-VWyRw3rwREi5gR0RrfcYXQfl6Rsm6XWCDK4EhB5DiEe-hr5JqT1GnEH6D6dGhTwWXgf3ycyyQ_mlOY1Wl3vJP7Ndg",
+               "width" : 1047
+            }
+         ],
+         "place_id" : "ChIJCz-WW6rBHTIRvu6FslOGYSc",
+         "plus_code" : {
+            "compound_code" : "52JQ+4C Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52JQ+4C"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJCz-WW6rBHTIRvu6FslOGYSc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 447
+      },
+      {
+         "formatted_address" : "2609, 1, Jalan Tun Ahmad Zaidi, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia, 97000 Bintulu, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1828849,
+               "lng" : 113.0428615
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.184318429892723,
+                  "lng" : 113.0441384298927
+               },
+               "southwest" : {
+                  "lat" : 3.181618770107278,
+                  "lng" : 113.0414387701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "60c3aa343870665cf9ddfae0fe9388c305d592b4",
+         "name" : "Satay Johor Mak Siti",
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106513471843598676906/photos\"\u003eIban The Sea Dayak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT_9vCdZoMVzAcW8MbQ5jNQnKGN0hrW9YXX0t2BoJhSB8HEIKSSLcMrHv2FNab11ezAsfGTLtL6hfMux9t0egL9jkkug2RXmnIfnwNiImm9pCmLutBvMn5T7_fhldnc1dEhBiNc1Ss0UnJFOlRfEC9dN7GhR1y3ARX2JzU0xW5Zg1J5G9_WJkxA",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJu4F8YlPAHTIROLkm1QzIA34",
+         "plus_code" : {
+            "compound_code" : "52MV+54 Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52MV+54"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJu4F8YlPAHTIROLkm1QzIA34",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "No. 282 & 283, Phase 4, Parkcity Commerce Square, 97000, Bintulu, Sarawak, Parkcity Commerce Square, 97000 Bintulu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1809576,
+               "lng" : 113.036234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.182314229892722,
+                  "lng" : 113.0376527298927
+               },
+               "southwest" : {
+                  "lat" : 3.179614570107277,
+                  "lng" : 113.0349530701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f73379889189e2c07ea2f99278941b2f9870a603",
+         "name" : "Ezy Plus Bar & Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112340908110763002815/photos\"\u003ewoowhan Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGKmevH-OKZILy5FgjJ5Mbj4WidBBClQwGDYK5acBJDoElTBI1s9vHiui_K7QocAmBSURCYPQyT-yzw1ewBsPTRZUMlktaNNAzu4mvGHl1j95zdAop-kYwcHJnJkRRANvEhB5gJezCCcHpYxU9M8NOhtMGhTQdDyIaqSuwP8M-qhN9s3McKGoSA",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJ3XoZ6FLAHTIRBCnjfytgWHU",
+         "plus_code" : {
+            "compound_code" : "52JP+9F Parkcity Commerce Square, Bintulu, Sarawak",
+            "global_code" : "6PMM52JP+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ3XoZ6FLAHTIRBCnjfytgWHU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 161
+      }
+   ],
+   "status" : "OK"
+}

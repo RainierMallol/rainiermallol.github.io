@@ -1,0 +1,483 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "34200 Parit Buntar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1173,
+               "lng" : 100.486821
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.118668329892722,
+                  "lng" : 100.4881281298927
+               },
+               "southwest" : {
+                  "lat" : 5.115968670107278,
+                  "lng" : 100.4854284701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1499f96e9948632733b2f0dc55775c54be957f63",
+         "name" : "ALAKAZAM Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110761375409514794994/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWRqz6v9RBD0H6WWfBLwqKtnqQz3oxa0C8ouTJy7G-4TQulWBf31pY5YC292IT5mlGrrU0XUKWur7XXS85E9k44s7iBINxnuqkeCBgY514uLkLENQ9AhkPq73SRBb_8RXEhBEitHI2RSD1JmpWuG0Zb0IGhSkjilVJCBDW-FKY-soifucUrO6eQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJg1GV-kquSjAR7vJ3SbKWbes",
+         "plus_code" : {
+            "compound_code" : "4F8P+WP Parit Buntar, Perak",
+            "global_code" : "6PQ24F8P+WP"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJg1GV-kquSjAR7vJ3SbKWbes",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "27, Jalan Temenggong 2, Pusat Bandar Baru Parit Buntar, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.117020000000001,
+               "lng" : 100.48644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.118341229892721,
+                  "lng" : 100.4878559298927
+               },
+               "southwest" : {
+                  "lat" : 5.115641570107277,
+                  "lng" : 100.4851562701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a3f0ef9d266e025f6a7014fc9095ad5646c3830f",
+         "name" : "Restoran KFC Parit Buntar 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115818719358995843115/photos\"\u003e陳萬塘\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARG3ZiO3XNNxtkpIasKp8NBwSWbUMXKSJX0nKQs9GlvoU-4CcPPxaNhaFd883Cdhlp5eclnbZWpHMeASH75KBOYSa7eel9eVmO0oOgojiTv4CcvRb4_tXpJZwCxUv7NwQEhAtj_bhj59vZSDqMTOhircgGhTld0qZLZtTVRJpWkaFgZ4IK5Oyqg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJJz7u40quSjARCNwLRFvRn0I",
+         "plus_code" : {
+            "compound_code" : "4F8P+RH Parit Buntar, Perak",
+            "global_code" : "6PQ24F8P+RH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJz7u40quSjARCNwLRFvRn0I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 535
+      },
+      {
+         "formatted_address" : "Jalan Bestari, 34200 Parit Buntar, Perak, Malaysia, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1137087,
+               "lng" : 100.4854645
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.115093529892722,
+                  "lng" : 100.4867969298927
+               },
+               "southwest" : {
+                  "lat" : 5.112393870107278,
+                  "lng" : 100.4840972701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ab674a4b2758d2998caf5931bd54febdd92b5ab2",
+         "name" : "Sass Cafe Parit Buntar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116153687348508747949/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1xHmglZKug8T7WgfUIk9F6FnjsE6hp4912mh13md0hBybbx4w-EB3BaodjGZe8RxjYeviD3cc3m_FE3OCJcv1CkMXzt36TXmr9JerRvWjxwVMtNL-u0IHWGX4yukgkyaEhCb2SfSMgQbiXp4E-b7lWipGhQbfY2HJF-GcvORQEl2cjw5jnh28g",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJNZEHpUyuSjAR2ZBJCElUVoI",
+         "plus_code" : {
+            "compound_code" : "4F7P+F5 Parit Buntar, Perak",
+            "global_code" : "6PQ24F7P+F5"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJNZEHpUyuSjAR2ZBJCElUVoI",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "1420, A9, Kampung Permatang Tok Mamat, Kampung Permatang Tok Mahat, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.129971299999999,
+               "lng" : 100.4907044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.131293679892721,
+                  "lng" : 100.4920894298927
+               },
+               "southwest" : {
+                  "lat" : 5.128594020107277,
+                  "lng" : 100.4893897701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "344b75d53b67fe4e44ce6dc66a1fcf1ba6b6df09",
+         "name" : "Fruit King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102866799899657418806/photos\"\u003eMohd Saufi Bin Ahmad Ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFaxqGfORi5l3WB_kR0_JM9kG7X_GmISWVpceadkPQpfW8Df5R1jApW2OVgLvJnMlo24siw9MsE3iPp-BXe2xwMVRCE0bSjp4d7B1sm4TkCPpmHtrZPGqjPtq64v4mbWhEhAl9xfFcT8cUQZoUTlXY5FqGhRqCPH6lEr6W516kT5JClMNCqHorQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJfNLBC6uSjARrDM0b8Bqah8",
+         "plus_code" : {
+            "compound_code" : "4FHR+X7 Parit Buntar, Perak",
+            "global_code" : "6PQ24FHR+X7"
+         },
+         "rating" : 4,
+         "reference" : "ChIJJfNLBC6uSjARrDM0b8Bqah8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 168
+      },
+      {
+         "formatted_address" : "55, Jalan Perwira, pusat bandar baharu, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1202521,
+               "lng" : 100.4867241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.121609629892721,
+                  "lng" : 100.4880573798927
+               },
+               "southwest" : {
+                  "lat" : 5.118909970107278,
+                  "lng" : 100.4853577201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9c797766dabf8933e8cb3622d6bae20bd017899",
+         "name" : "Brader's cafe Parit Buntar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 414,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113822595827227755138/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIu1lLGIexmIPKnzlnIYmpPbvBRqklpuu135ywsbvx4QZRsMLfReu4FtilQRAhfJzcikHCgoJlusMOMStKFLYdycb7qzvGY3Ky_4HemQF6f4i0Gusn7UOivNw3rSUHbKVEhC1revj0lpF-EXd0CtVaDm6GhT6bK3i3_1Zh8uDpgWuY4gyvxC4NA",
+               "width" : 495
+            }
+         ],
+         "place_id" : "ChIJFzNeHDWuSjAR_nMjcrj3aOU",
+         "plus_code" : {
+            "compound_code" : "4FCP+4M Parit Buntar, Perak",
+            "global_code" : "6PQ24FCP+4M"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJFzNeHDWuSjAR_nMjcrj3aOU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 296
+      },
+      {
+         "formatted_address" : "Lot G03,G04,G05 & G06, Mydin Mall, Lot 23252, Jalan Sekolah, Kampung Permatang Tok Mamat, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.128538,
+               "lng" : 100.4827749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.129848879892721,
+                  "lng" : 100.4840051298927
+               },
+               "southwest" : {
+                  "lat" : 5.127149220107277,
+                  "lng" : 100.4813054701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6bd0afaf57406c215dc6165dd789f59fd75061ac",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115831243289573125423/photos\"\u003eAbi Fa&#39;iz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlGXgKltPlaXYrd7l7apkSWdQ6BOqx9TW_9kAp9vtyJKIjdefxmSrNfdAxqRC5Y-m0ARgwApx6Z8beB4JUapoM8kj2Y-JlDqATdSkMJw1DjQ1UvqIgyV4MPGHoSf1SHAzEhDJYwgAS6AEJRMPdC5UvqJbGhRMqkYrw0yMZTsEfLX81Uz3kW70Tg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJSe1dbM2vSjAR044tOHejBBE",
+         "plus_code" : {
+            "compound_code" : "4FHM+C4 Parit Buntar, Perak",
+            "global_code" : "6PQ24FHM+C4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJSe1dbM2vSjAR044tOHejBBE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51
+      },
+      {
+         "formatted_address" : "Lot No, 16, Jalan Wawasan 4, Taman Wawasan, 34200 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1123313,
+               "lng" : 100.4817271
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.113644929892722,
+                  "lng" : 100.4830087298927
+               },
+               "southwest" : {
+                  "lat" : 5.110945270107278,
+                  "lng" : 100.4803090701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b676066d9fbec28552f31eaa4b64921a1a4d50e5",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112819504049581138488/photos\"\u003eAsh Jelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF_izo0YJjm-l0UMFbAbXYQx1lWHhh1OefoO18X-hhud25fYk6Dbgotz-BEuIVNX3Wdf-64wbCojdoZ2PKm0fIpGkXpeO4IkEAu8jUsJjwgWV4YHah4xWbbpMdAnVhAMvEhBOTJyGXor0RQc1n4MPeRNIGhSamsaKqC9Kzea1M91JD2yFE1_2Eg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJzcfOp7OvSjARgq1JuxiGzm4",
+         "plus_code" : {
+            "compound_code" : "4F6J+WM Parit Buntar, Perak",
+            "global_code" : "6PQ24F6J+WM"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJzcfOp7OvSjARgq1JuxiGzm4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 328
+      },
+      {
+         "formatted_address" : "34300 Parit Buntar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.063958299999999,
+               "lng" : 100.5072292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.065283629892722,
+                  "lng" : 100.5085337798927
+               },
+               "southwest" : {
+                  "lat" : 5.062583970107278,
+                  "lng" : 100.5058341201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7bab4f9a4db3df0598630357978f99413f1860a3",
+         "name" : "Cendol Pulut Dan Jus Jambu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116753207788047465671/photos\"\u003eHidayat Hamzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQlxaLndsUGC2StD07ydrrumXvpm9-TmOWRFBVfPIdsAWuvNLaryDiU_zoVIe1AugeILT4LK569ApmJ0dd-U4Wvl5zbYk9R1QkO8foKoVYyOBsKG9oNqWoyEBe5SrT8z5EhDHiBu7SWM1CfxfOnWLdzexGhSnyK64re6pAqb3On9LvMQ4ua-rKw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJb5ZbILauSjAR8sJgi9xGSVc",
+         "plus_code" : {
+            "compound_code" : "3G74+HV Bagan Serai, Perak",
+            "global_code" : "6PQ23G74+HV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJb5ZbILauSjAR8sJgi9xGSVc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Parit Buntar, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1472169,
+               "lng" : 100.4219169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.148636129892722,
+                  "lng" : 100.4232688798927
+               },
+               "southwest" : {
+                  "lat" : 5.145936470107278,
+                  "lng" : 100.4205692201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3378efa28ae9cfbbdf4256b377be62d62680447b",
+         "name" : "Non's Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJSa4U-F27SjARqWz4Ojqg3_0",
+         "plus_code" : {
+            "compound_code" : "4CWC+VQ Parit Buntar, Perak",
+            "global_code" : "6PQ24CWC+VQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJSa4U-F27SjARqWz4Ojqg3_0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "34950 Bandar Baharu, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.142359,
+               "lng" : 100.504519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.143725429892721,
+                  "lng" : 100.5058385298927
+               },
+               "southwest" : {
+                  "lat" : 5.141025770107277,
+                  "lng" : 100.5031388701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2a91b6b1919951570346c38af2007021d64b6c9e",
+         "name" : "Pasembor Haji Romli",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117676252670842621014/photos\"\u003eSiti Aishah Romli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA9M9Iv1vqZ-Y7Qt4xCjDHB3Ncfv3D1SFY9-GFsCLrGIB4LRFiTQT899Bo4puKOFj7lTvvr3knwYW7vHwHI3iU0TGlm-5kThB4-VSTcviJZhqFkTWCq6jKJxbJmKLclCJVEhBUwyqNo_0EUWI7w7pipAMIGhQzqpczVj_vQUM7LlphF_a561iddQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJsZE3VN6xSjARpGAiZuRuESA",
+         "plus_code" : {
+            "compound_code" : "4GR3+WR Bandar Baharu, Kedah",
+            "global_code" : "6PQ24GR3+WR"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJsZE3VN6xSjARpGAiZuRuESA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "22, Jalan Wawasan 4, Taman Wawasan Jaya, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.1126358,
+               "lng" : 100.4815278
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.113956929892722,
+                  "lng" : 100.4828235798927
+               },
+               "southwest" : {
+                  "lat" : 5.111257270107278,
+                  "lng" : 100.4801239201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0f243246abbf84d5328d6044febc66a5dde4732",
+         "name" : "D' Paradise Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104742286149268407196/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADJOESppXS0c94eQFFW2LSW8vM2tulRM2q7I1TKYo5_sScKo-tItgSF7mGyT8CJmueZnYLXrqcNHbpFVSifPVLO8D0IWC_rJcofNSis1ZeJ2hzVL0e6pPVOtfM0zQbQ6NEhDd89AVN_eaOncWUYuUYjN3GhQg-nDwSJIAOJ4VmbKU7CqqXdlxmQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ_19UprOvSjARgIU7n1E5ljQ",
+         "plus_code" : {
+            "compound_code" : "4F7J+3J Parit Buntar, Perak",
+            "global_code" : "6PQ24F7J+3J"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ_19UprOvSjARgIU7n1E5ljQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 150
+      }
+   ],
+   "status" : "OK"
+}

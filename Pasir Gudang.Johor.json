@@ -1,0 +1,853 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAAN70V-pewmvuAAMLI2kZkvhWaWKEpOYbuTaD856Q8Zte-e3pt9Nufm6SQMRNpRGr2lE6Yjo7__tnVva98Hil5zcVqR9_iY4RtVxHzjXA1hoiTo5WGVUjXQzz6AV4PvWm9oWA37e1gtB7D_31Ik17oH-JQiEOz96ZpDMr1Jch3Z1JWf1TqgPxVxUFU6rm5pZhoy9Pd8oxQImUSyj1GDhPocP2KwVVAJood1Hb7Fad0l8Ff--yJGBFesZGQr_HLKF_atT3Lbp0JvMl5iTdkZvDdBRPcEVuunlacYn0ehf9VnffNNTBVdKqs1wnzqLZG-TErwRgLVMToOyYio6_Qw5bsKT7mlEzJmptVs5nwp7eHopZMkzVws1Y39nPhqK0QyodILRO1l3aPM5OGJE52gu1NiDIw5cLGSomp2yfO_H0S30ddW8JWHuV987ll429YAgx2oVvFCrL9N6ggY0bTG6WqebOmh1eB5JlYUwUM0CaW3g03GudfUtsMsNPwvDuV_f0IHqPgwCWmsi6vfzOhga3rDj7x-2YGEVHwvFIDzBEci8lggjTCQbKK2fMe5Y6ndnfe6kMXdeHH4IeJbHDl7CufBzF-HUvbYmGb4OfIBtsZ-z82F8OhkFE8ymxweGSBm-36Av1UVyr6vmIH4hYWHYg1cA9dhbXINlCzkNC8aXu-bQ8EhBkf3IyNRo1oUSIUlqgKRMcGhSIhAmYMub4w0oj2TgPq1gn3mj8iA",
+   "results" : [
+      {
+         "formatted_address" : "Level 3-27B, Level 3 Kompleks Pusat Bandar Pasir Gudang, 81200 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.466638,
+               "lng" : 103.901547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.467925579892722,
+                  "lng" : 103.9030339798927
+               },
+               "southwest" : {
+                  "lat" : 1.465225920107278,
+                  "lng" : 103.9003343201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2a1c3655f6dccbdbcd620d6792bd844a10f71100",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1932,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111711701047286710683/photos\"\u003eMirza Waqas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXqmgsI9OmsY_4CvI9BfshPVaXJqBsQebZa9vhA2bcT6MbSIjsuw5mVQ3nxO1u4eIiD-RqrwS0iGCtCKd8kSu7624BD3FzaD2PUtMGXQd9Lbuw6TjuAf7lVC9tQdVfkLeEhDiWyX_e1WRXhL-21EUTvRKGhTlwITlLpPOJYtn384ORLSuItY0bQ",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJUeq8XEUV2jER0rCa29r4azE",
+         "plus_code" : {
+            "compound_code" : "FW82+MJ Pasir Gudang, Johor",
+            "global_code" : "6PH5FW82+MJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJUeq8XEUV2jER0rCa29r4azE",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "No 16 Jalan Perjiranan 9/9 Taman Air biru, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4581804,
+               "lng" : 103.9132878
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.459453529892722,
+                  "lng" : 103.9146379798927
+               },
+               "southwest" : {
+                  "lat" : 1.456753870107278,
+                  "lng" : 103.9119383201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "26acf556dbeeddf6a98c2d126fa1cd6cd4bbaa00",
+         "name" : "Marrybrown@Taman Air Biru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101483104213502822453/photos\"\u003eKamaruzaman Awang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2jUPqmbL4VLQ0NDypZFFyUcJQbVDqlk1caAej0RjleP3HVs0Y3i_u61yZ3s-WFJIlS9vnwI1rszamGtAer6-4QphGMTe3TszjoSHEQ1C6s6JSQK9lW8FDEPVgsLrKrbVEhBRFUysnDAvhDmO9D-29VOVGhSeUhJnkpB_I1FLOZbNZpiMG_QoCQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJIx50-F8V2jERBAmN-2mCgVA",
+         "plus_code" : {
+            "compound_code" : "FW57+78 Pasir Gudang, Johor",
+            "global_code" : "6PH5FW57+78"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJIx50-F8V2jERBAmN-2mCgVA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 166
+      },
+      {
+         "formatted_address" : "Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4818464,
+               "lng" : 103.8921687
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483206079892722,
+                  "lng" : 103.8935877298927
+               },
+               "southwest" : {
+                  "lat" : 1.480506420107278,
+                  "lng" : 103.8908880701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de70641bc6b6f4b3af185dcd2434fd6855f91cb2",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105831927526845443581/photos\"\u003eAbdul Muizz Zulkifli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgLy6aViXVVAe33Le06eKlDvMzUpqP3X7ENRWkZH-Bh02iPtAjMp8hI-bJJMs3GVQ0PsfjTKnZJhZMaV1jh849FppRWp4_JnmJ3qcQNfrx90pll4Wb9TzNxcX87UBpU6hEhBLR_s22f-iLvEkXYJ8jG5LGhTMpcskz6CA9RP7XGvNZiqV1gXuxg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJk_xYFrZq2jERf_RszwIh_Y8",
+         "plus_code" : {
+            "compound_code" : "FVJR+PV Pasir Gudang, Johor",
+            "global_code" : "6PH5FVJR+PV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJk_xYFrZq2jERf_RszwIh_Y8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 564
+      },
+      {
+         "formatted_address" : "1, Jalan Tembikai 2, Taman Kota Masai, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4840823,
+               "lng" : 103.9530139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.485553829892722,
+                  "lng" : 103.9543620298927
+               },
+               "southwest" : {
+                  "lat" : 1.482854170107278,
+                  "lng" : 103.9516623701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ccd2bbc73ec36b219ea59f58b84ae714593e7c6e",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113346795696393117041/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM3V3ANZpl2U1wbkRMpuOEHK4ITQyNUwnof5iFFltPzHCuYwffs_kWoxVDHn1PQwg-dta6tEs_pxG9n-4gfkEhXuWT4EoYoi-tqcV68A1BaACAT-JQ_CHvSSnntayPFvPEhCt12UwFz2yOYs97H78QeybGhRoxw5y72yTHkIwnQodsniSPLmytQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJjYh32HtA2jERRu9qg52OPUU",
+         "plus_code" : {
+            "compound_code" : "FXM3+J6 Taman Kota Masai, Pasir Gudang, Johor",
+            "global_code" : "6PH5FXM3+J6"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJjYh32HtA2jERRu9qg52OPUU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188
+      },
+      {
+         "formatted_address" : "Lot S73, Kip Mart Masai, Jalan Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4820529,
+               "lng" : 103.891137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483481779892722,
+                  "lng" : 103.8925275798927
+               },
+               "southwest" : {
+                  "lat" : 1.480782120107277,
+                  "lng" : 103.8898279201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ff3ffc65ae144d22dc3552f21755af390f90ff1",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105682724185435350885/photos\"\u003ecik siti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmDzP4D1IhACNFEwe0QESLTe8UNXFkgeK-80DOPhzZUq6pNHvsCSdOPb8MonXAwOsDnHm8G3QZaJyu_yPoxvvHZwrqITIgBNQnwVKDzWx36IxqSgXZ0NymJmGkSwW8-4VEhBamaaGUNiuv8IhR8ccNiqvGhS6_ffUq0p4SP3QK0vB7gPIOy8CsA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJG5Xp4clq2jERaHptJYHjF_Q",
+         "plus_code" : {
+            "compound_code" : "FVJR+RF Masai, Johor",
+            "global_code" : "6PH5FVJR+RF"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJG5Xp4clq2jERaHptJYHjF_Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4872543,
+               "lng" : 103.9161251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.488625329892722,
+                  "lng" : 103.9174524798927
+               },
+               "southwest" : {
+                  "lat" : 1.485925670107278,
+                  "lng" : 103.9147528201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed4f4750c4d4341b673677decf46c29d8c84f561",
+         "name" : "GPC PASARAYA ECO PASIR GUDANG",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJCTneswxB2jER-PQ21nsYNKU",
+         "plus_code" : {
+            "compound_code" : "FWP8+WF Pasir Gudang, Johor",
+            "global_code" : "6PH5FWP8+WF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJCTneswxB2jER-PQ21nsYNKU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "FK 1, Jalan Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4821929,
+               "lng" : 103.889342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483465829892722,
+                  "lng" : 103.8906574298927
+               },
+               "southwest" : {
+                  "lat" : 1.480766170107278,
+                  "lng" : 103.8879577701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "001f690c4733e490d93e11f5bfbb4901f9bcc69a",
+         "name" : "Fast N Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaSBulslq2jERWctZB1H6kqQ",
+         "plus_code" : {
+            "compound_code" : "FVJQ+VP Masai, Johor",
+            "global_code" : "6PH5FVJQ+VP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJaSBulslq2jERWctZB1H6kqQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 85821, Taman Kota Masai, Mukim Plentong, Pasir Gudang,Malaysia, Johor, 81700 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.492281,
+               "lng" : 103.918818
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.493702379892722,
+                  "lng" : 103.9201393798927
+               },
+               "southwest" : {
+                  "lat" : 1.491002720107278,
+                  "lng" : 103.9174397201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b4fa8d8fac1314948a43d82161adeac87357592",
+         "name" : "McDonald's Kota Masai, Johore.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116202316683038381284/photos\"\u003eKamalia Selamat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjxkydePmaOZywtFC7KpiuuBVO743fdthiiuGwtnRZdXy1WEgX_osH-k6nbS1JFFl7TrDXIy0fpyZKJAW6qJzpb52akOXsz_RFP8yCWEIbKphYxXqTODFwqs8AqDPWTG_EhCfX5S7vB_h5Sqy1FK_xBx7GhR8tNJ8TS9abnpnub_bNp0kQvIEfQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ46U05h5A2jERbR7Gbpsj1Gc",
+         "plus_code" : {
+            "compound_code" : "FWR9+WG Pasir Gudang, Johor",
+            "global_code" : "6PH5FWR9+WG"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ46U05h5A2jERbR7Gbpsj1Gc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1126
+      },
+      {
+         "formatted_address" : "Jalan Tembikai 2, Kota masai, 81750 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.48441,
+               "lng" : 103.954594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.485728329892722,
+                  "lng" : 103.9559442298927
+               },
+               "southwest" : {
+                  "lat" : 1.483028670107278,
+                  "lng" : 103.9532445701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "42d89bcfe84ca6ea86fa6bf32caf64385870306a",
+         "name" : "Kebab Ahmad",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111584898397688675915/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFAEn-l5HB6GKPDsUIYcIzBLlodfl6LXsTefY8J8Ci_f3hf_7a9SPPWCnf3B8Z3B6xcLzXNG-P1_ujvZL6Hr45gOraypknl9LtJOk3IwU_jxzXi_-VhGqJOdVAooJ0-L1EhDTRC-I5w_cZZJmy_J-n99qGhTpiwS-hVK6AQNgBBhqoyKc27Itdg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJfay8m4hB2jER9MAfHkYacFo",
+         "plus_code" : {
+            "compound_code" : "FXM3+QR Pasir Gudang, Johor",
+            "global_code" : "6PH5FXM3+QR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJfay8m4hB2jER9MAfHkYacFo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "4 Jalan Asli 8 Tmn, Taman Pasir Putih, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4774748,
+               "lng" : 103.9319264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.478802229892722,
+                  "lng" : 103.9332767798927
+               },
+               "southwest" : {
+                  "lat" : 1.476102570107278,
+                  "lng" : 103.9305771201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2cf140afb21fac11d9561a3c2858954a7965d494",
+         "name" : "Tonet Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115713036244348090338/photos\"\u003eFarah Wahidah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8CwoOOCgd3PM9PJIqY_tNfLYD-71MOd1JP33FX1AfG_3Q4g8GSf4S7SbcXT_YBq7VZ61wvHWZxI1aLY-qmUvudtYQ7rztnWv7lShjY2R-HrOflZsjvny8VYFlKMgoH3-EhBQeYUkgCOV61L70ZuV_IW7GhS222BCEz2FlR-bJDG8JX0Rs3RkEQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJbeTzZYtB2jER_kJFMlGWcuk",
+         "plus_code" : {
+            "compound_code" : "FWGJ+XQ Pasir Gudang, Johor",
+            "global_code" : "6PH5FWGJ+XQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJbeTzZYtB2jER_kJFMlGWcuk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "VF 7, Jalan Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.482543,
+               "lng" : 103.889619
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483966329892722,
+                  "lng" : 103.8908145798927
+               },
+               "southwest" : {
+                  "lat" : 1.481266670107278,
+                  "lng" : 103.8881149201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c32c52ce3957912159641025e7360b303f65ce4",
+         "name" : "Hasmuni Seafood",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJGaM6v8lq2jERHruMqDUZwX0",
+         "plus_code" : {
+            "compound_code" : "FVMQ+2R Masai, Johor",
+            "global_code" : "6PH5FVMQ+2R"
+         },
+         "rating" : 0,
+         "reference" : "ChIJGaM6v8lq2jERHruMqDUZwX0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "FK 6, Jalan Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.482338,
+               "lng" : 103.889437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483744979892722,
+                  "lng" : 103.8906669298927
+               },
+               "southwest" : {
+                  "lat" : 1.481045320107278,
+                  "lng" : 103.8879672701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e72e67e86fa4c21d58496141f33430c04056ddc",
+         "name" : "Yazuda Enterprise",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJMcQRvslq2jERDhKUOPdgP9U",
+         "plus_code" : {
+            "compound_code" : "FVJQ+WQ Masai, Johor",
+            "global_code" : "6PH5FVJQ+WQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJMcQRvslq2jERDhKUOPdgP9U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4822,
+               "lng" : 103.891297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483554529892722,
+                  "lng" : 103.8926492798927
+               },
+               "southwest" : {
+                  "lat" : 1.480854870107278,
+                  "lng" : 103.8899496201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f2d2c335cebec60a6175e46bbd3de46ae778cde",
+         "name" : "Marrybrown",
+         "place_id" : "ChIJLRl0_bVq2jERZCHx3IHHFgQ",
+         "plus_code" : {
+            "compound_code" : "FVJR+VG Masai, Johor",
+            "global_code" : "6PH5FVJR+VG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLRl0_bVq2jERZCHx3IHHFgQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "No. 14, Jalan Serangkai 18, Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.478309,
+               "lng" : 103.8943309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.479682329892722,
+                  "lng" : 103.8956906798927
+               },
+               "southwest" : {
+                  "lat" : 1.476982670107278,
+                  "lng" : 103.8929910201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1205ba037a6c082a3e8c138c7bfc4b982512c499",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108650884448704954666/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAu8wmOCBuUXZe1-2UmSGhN2tbjscL5MISrXnOtR0XTkmoM7KQM1V0R-lszwC5obkStdciSQAKvvRPA-eZCvvwj-_ELR7ssXozuBl8dwN2-8Zf9assW-9M342b8eGBbR2BEhBNmWZpwJzVRuKAJ9H3r8_DGhREtpixlZB8gccBD9z7uXj7dWbEpQ",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJQ5Cw3LVq2jER1A2MBPNsez0",
+         "plus_code" : {
+            "compound_code" : "FVHV+8P Pasir Gudang, Johor",
+            "global_code" : "6PH5FVHV+8P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJQ5Cw3LVq2jER1A2MBPNsez0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 212
+      },
+      {
+         "formatted_address" : "Restaurant 1, HS(D) 360166, PTD 174172, Mukim Plentong, Jalan Suria 1, Bandar Seri Alam, 81750 Johor Bahru, 81750 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.49596,
+               "lng" : 103.87123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497366629892722,
+                  "lng" : 103.8725010798927
+               },
+               "southwest" : {
+                  "lat" : 1.494666970107278,
+                  "lng" : 103.8698014201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7c2e89896479e69507089df1e873df1eed4f8102",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104910029289013641527/photos\"\u003eAlven Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9imMwswaIvmlFWWGYUx3ri26ibB0FPK-pmPCYeUkPmTnfyKd4VetMy4lH1I0ySQVurRf0EifBEeEm4eMuUyzn9Iitoh4thmWxTxVh9Lwc9UZB-YNh38Dhw9hplXIOFiKEhAYxwja8SVzyTmryJyTICXZGhTAkGieG2wT3hlB7-rxZkAjdpbDdw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "plus_code" : {
+            "compound_code" : "FVWC+9F Masai, Johor",
+            "global_code" : "6PH5FVWC+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 441
+      },
+      {
+         "formatted_address" : "17-19, Jalan Intan 13, Taman Cahaya Masai, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.50675,
+               "lng" : 103.922457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508101079892722,
+                  "lng" : 103.9237769798927
+               },
+               "southwest" : {
+                  "lat" : 1.505401420107278,
+                  "lng" : 103.9210773201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b8458697ef8fb44e3d10790dc0c9bd1315b6c91a",
+         "name" : "KFC Taman Cahaya Masai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117793138959018715341/photos\"\u003eSam Apex\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqQVqGtWIxtilNaZmjPkP-uThc9Q6e2INhHO9ActQTGdEX6969JXb7_LcXkHvkD90l4BDFfKspm8VZHdQQWYAPMbgbXcEMtDoByATT8GG0CrqGMEgGqwb8xynyT8mz_FyEhCky2-I7nvbHHi0AbwLr5T2GhQDc6StqXipqoI9uNCMADDOSsW3CQ",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJj3JT_S5A2jEROVk29gZIA3g",
+         "plus_code" : {
+            "compound_code" : "GW4C+MX Pasir Gudang, Johor",
+            "global_code" : "6PH5GW4C+MX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJj3JT_S5A2jEROVk29gZIA3g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 296
+      },
+      {
+         "formatted_address" : "Jalan Pantai, Kampung Pasir Putih, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4342687,
+               "lng" : 103.930709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.435824629892722,
+                  "lng" : 103.9320530798927
+               },
+               "southwest" : {
+                  "lat" : 1.433124970107278,
+                  "lng" : 103.9293534201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ce843f5a0c0ddcc4d2e83aa735db7146e8b02c1",
+         "name" : "Kedai Makan Rahmat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113653345035305528237/photos\"\u003eMus Mersal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl5ZduPjKPRWgAtWyuvTfJNMxQ7Mp10plCpfpo91_wGhbv9VTPaRwNRUajuUHpJa_6xfFFvgb-3XHXP3XTz4kZpITp0DT0aHweNDnd4qGZGIW93wU7ypetZKTMsfvGUVLEhD4U1PHdHEHGKpl0qJfb6NkGhTFi_iMtzx4Tl3WmSqbw_gqNE0nxQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJy-dI6TM-2jERj-uouae8D3Y",
+         "plus_code" : {
+            "compound_code" : "CWMJ+P7 Pasir Gudang, Johor",
+            "global_code" : "6PH5CWMJ+P7"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJy-dI6TM-2jERj-uouae8D3Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1292
+      },
+      {
+         "formatted_address" : "Lot PTD 174172, Jalan Seri Alam, Bandar Seri Alam, 81750, Masai, Johor, 81750, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4961556,
+               "lng" : 103.8708568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497438779892722,
+                  "lng" : 103.8721599298927
+               },
+               "southwest" : {
+                  "lat" : 1.494739120107278,
+                  "lng" : 103.8694602701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40922f8926827db3554814f2c9a3453b34508d8b",
+         "name" : "McDonald's McCafe Seri Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105246538856584636059/photos\"\u003eEncik Anif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAs_bv59nd7oFr0_LiuYRRNwPAERW_4uFKXvt_X7qmKvbWx8Vz9O3e4MsJITtRS8OVgIta0NRY1UwELW2sNKs0be_suTPMsO0NBLqWoIIuN1uYBm_vfnNfG-dZj6gWQHEtEhBCiH-kH-0EA5iLiI7mjZf5GhQ_5IXfujkgLqnkbtR7DDvNfIR0GA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "plus_code" : {
+            "compound_code" : "FVWC+F8 Masai, Johor",
+            "global_code" : "6PH5FVWC+F8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1086
+      },
+      {
+         "formatted_address" : "Lot 1, Oasis Complex, Jalan Jeti,, Johor Port, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.434984,
+               "lng" : 103.9020845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.436408579892722,
+                  "lng" : 103.9033474798927
+               },
+               "southwest" : {
+                  "lat" : 1.433708920107278,
+                  "lng" : 103.9006478201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d30c3adb43574f930b3bf0cb7ff22abe6e178d23",
+         "name" : "Zara Alfresco International Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100972078867118649885/photos\"\u003eZara Alfresco International Restaurant\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAp2a0V_UjCbXRCpMhGEOVVGT8LdTjP0EaIY81Cb_Fo8Z5nC6V1TXY5TwmasFaslyROiqklcbyTCNAHTugkhq7Z08Pv7jrxcL_-0rlul93y218LWqItIihn3SmbPkylMQbEhCKbHedHcYAgO6wNn1wqaS_GhRjgkLFYLQqKAL0pHhgFwXzNL06TA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJOaNjt5wV2jERokPmGqqeU_E",
+         "plus_code" : {
+            "compound_code" : "CWM2+XR Pasir Gudang, Johor",
+            "global_code" : "6PH5CWM2+XR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJOaNjt5wV2jERokPmGqqeU_E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 147
+      },
+      {
+         "formatted_address" : "GK-02, Pasar Raya Besar MYDIN, Jalan Rinting, Taman Rinting, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.490818,
+               "lng" : 103.8667579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.492218329892722,
+                  "lng" : 103.8680395298927
+               },
+               "southwest" : {
+                  "lat" : 1.489518670107278,
+                  "lng" : 103.8653398701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6aa6c853adaeeaa0629eb99fc13c437888316505",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114685312448225739153/photos\"\u003eAsraf Fairuz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKF1UG_nIWKOQ3kvFZ2nDaC6w_63QXKirSGJiiGF5eU66oDy_91BIKyUAyaN1zF92MTvO1TRCvE01HGaf-z7sO6_rdi_TvSIvOS9kct9FUx3g9pOFHznlKrcEVrfcSe0bEhD3D0teE2tueJRHyRNDkn5vGhQy7kEHSa4nufGYouxaT2V3F2G9Dw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJy9RVtCBr2jERMmLffgnx4tA",
+         "plus_code" : {
+            "compound_code" : "FVR8+8P Masai, Johor",
+            "global_code" : "6PH5FVR8+8P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJy9RVtCBr2jERMmLffgnx4tA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      }
+   ],
+   "status" : "OK"
+}

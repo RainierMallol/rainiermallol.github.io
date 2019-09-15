@@ -1,0 +1,873 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_AEAAEyXzUHHCWML6c2Sw0UrNjusyxYuvh0sUqFARt2p59jcVwIx4NfQSt4W748VNEuq0qP3qqRcGUEpJ1kQiC0zWvWRa8Rlt-ERbt03gOeVX8jrFKBCODPyhUmCT1rBK3l6bD6EX-aZJ4poSX3WeZW-VX5xL3enDQ7h7JSG_1UNKguOFyXXfkx7gMpDqxNXeA-DhwSUu2G7-65BTHw-0g2HXmug31JkFhsOxJCBnabu_CY4Pso8hh0-UaOSoYaLKEBt-_lRi52Q9LhJ2-mZJzU3EEJOGgYA-Ik1-Ai9rN4jscX5yd0usaB0_7yr9NxM5o1TvqINiedD6vnO0gKInmuGIZDf6oAhQmnYFrZRwpNIFImyrBu3czaL8SKEzTKKzFP73CBvx_1sXLGZzcu5nj5HdXdOm1uP6t1d30BML_WJ5YCw3kxj_HWvdLmXHodQj09C_KlUpc0ccRRuRF4vu3LmRlVlMsu03hxItgnPfw9ZwbApqk5AZzpEkIMiQeL-9mqzTg9WC26rPEnXxsfZna33ncyw--ZcMMM5iC1hnxY4Njc4c8-_OGrxHzb7kOtFbvJ2k6qzKXHnZiHADYGuckNDzjqfpHWYEoCgkB5XuhTFCyA3PNRH1UIrImYGIXICKIZ0JWlewEIJiv0MSZn53c-Vs4BhpGyj--97ChPw0NgWr4D7EhDGqlzZPxcJIjRW-fJlz1GJGhQ1cvpTmp93nzkkNm96QWdyaGuDiQ",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Cemerlang 4, Banting Business Centre, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8129719,
+               "lng" : 101.5080768
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.814377129892722,
+                  "lng" : 101.5094122798927
+               },
+               "southwest" : {
+                  "lat" : 2.811677470107277,
+                  "lng" : 101.5067126201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f57d209b5e9fa561d142ca1a789dda1b76df581e",
+         "name" : "McDonald's Banting Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100349465143832665215/photos\"\u003eKg Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6x9eUlXafEKJIwqJZDQUXEiqY2sDzd042qPd7_12IC4YXSoYnbOvgy-pE4JmkvbHd8qG7g6ZBY3n-cqyj5a7J3yNgZ_SDy8wWo1dDKe6ugnAFBgi1iokrzf5SkCNIc7ZEhASIUymk8pb6cCY2-5k8LXlGhQSPQKKYOr4LyL1kfK-Rb7dRbgkPg",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJNQ_Hh7ukzTERgt4DMv9n8SI",
+         "plus_code" : {
+            "compound_code" : "RG75+56 Banting, Selangor",
+            "global_code" : "6PJ3RG75+56"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJNQ_Hh7ukzTERgt4DMv9n8SI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1630
+      },
+      {
+         "formatted_address" : "285, Jalan Sultan Abdul Samad, Taman Seri, 42700 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8126751,
+               "lng" : 101.5002982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.814081429892722,
+                  "lng" : 101.5016346298927
+               },
+               "southwest" : {
+                  "lat" : 2.811381770107278,
+                  "lng" : 101.4989349701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c5e5fd581668e8bafc7a891a1f3af2e50ae5003b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107023990571688183496/photos\"\u003eSiti Fatimah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGHpScuw-NWOEDezBnm8-24hZvrgy_1hhX4vUhqXeC2EWh3mMFS3JeRVbGCI0uO6RW35kiZj-qIeDlxG06mHe6xSC0JgPURN_XWBE0ak-XGf6FUfFV1XmcdiH89x45VgfEhA5sZNqY6hkQXzsuKHda8b1GhQWPO6-kRqtPLV5EeLeAOyuDsELww",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJ-b6COpakzTER4lwZ0CCVsZ8",
+         "plus_code" : {
+            "compound_code" : "RG72+34 Banting, Selangor",
+            "global_code" : "6PJ3RG72+34"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ-b6COpakzTER4lwZ0CCVsZ8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192
+      },
+      {
+         "formatted_address" : "Taman Langat Murni, 43900 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.7994888,
+               "lng" : 101.6577192
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.800876479892722,
+                  "lng" : 101.6590255798927
+               },
+               "southwest" : {
+                  "lat" : 2.798176820107277,
+                  "lng" : 101.6563259201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6aa8fd20d3bc2f138d4a618a574ca98c48089af5",
+         "name" : "GPC Taman Langat Murni",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxWFPbCO5zTER9Np0owl6DzE",
+         "plus_code" : {
+            "compound_code" : "QMX5+Q3 Taman Langat Murni, Banting, Selangor",
+            "global_code" : "6PJ3QMX5+Q3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJxWFPbCO5zTER9Np0owl6DzE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Persiaran Majlis, Taman Budiman, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8026657,
+               "lng" : 101.4987033
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.804005079892723,
+                  "lng" : 101.5000500798927
+               },
+               "southwest" : {
+                  "lat" : 2.801305420107278,
+                  "lng" : 101.4973504201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b8879f80567f577fdadb94fd486a4178865001cc",
+         "name" : "EJ-ONE'S BURGER BANTING",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110874721919322483550/photos\"\u003eFuad Subkhi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeeql54gUfiO-jj8dz5Zt5X3ihekHODZ-wGekqdzwvZFHQywKPJG8hRwZo5Ld-1HizbbyM2r9691R5h1MUh-XU10rlusm5NFfPJ_Czfq3aJ8_6OKnoUQ-VHRdy5D8MWrVEhCYfKafvnTwshda59nIjAhUGhTE1IwKabJEx_Y783RvThYNYRVpxw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJoxjgVp6kzTERe5AjnDzv6cg",
+         "plus_code" : {
+            "compound_code" : "RF3X+3F Banting, Selangor",
+            "global_code" : "6PJ3RF3X+3F"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJoxjgVp6kzTERe5AjnDzv6cg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "No 7, Taman Banting Baru, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8176403,
+               "lng" : 101.4558365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.818964729892722,
+                  "lng" : 101.4571868798927
+               },
+               "southwest" : {
+                  "lat" : 2.816265070107277,
+                  "lng" : 101.4544872201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32ca7b323a8e2430ffa2a485d3dcda34ab638e9f",
+         "name" : "Char Kuey Teow Cowboy Gila",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100304739003727507008/photos\"\u003eEl Azrie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1vZpG9oGxMfSiwuJYhAw_nyaLOlefeCTq_R3ucHDz9GpV4kUp6t4_4JaI_TEqiDftfRq14v72byGJCF8w63lMMk3dbztJ8gDgE44huqd_2itrFTW5_LXMExL-hXrj3Q8EhDQa0LSYEmLhBsIqOyFqvmIGhRVE1adn7d6mGLKrS0ZzzzelnVGAQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJdR8Y2hSkzTERwdsZZV3mDXE",
+         "plus_code" : {
+            "compound_code" : "RF94+38 Banting, Selangor",
+            "global_code" : "6PJ3RF94+38"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJdR8Y2hSkzTERwdsZZV3mDXE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "Taman Langat Murni, 43900 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8037324,
+               "lng" : 101.6611864
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.805081529892722,
+                  "lng" : 101.6625370798927
+               },
+               "southwest" : {
+                  "lat" : 2.802381870107277,
+                  "lng" : 101.6598374201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5dea7e939362c40d843af2a5304e1a5f1516c92",
+         "name" : "Yus burger",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108907490165472863765/photos\"\u003eTaufik Meskam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2CjDP8PH5H0UmT7i5_s1FqbIwycyxF9UQUbJb-7QyibmuQ6tdFpGpphG0ioq3G4oNiRHKo2tFwAPQ453HHoFFIMcIwZhbmJcI3Rz1Y5QN_2zBipzGqXIsVoMmmqubRqfEhCYK_zT_vQfhkJLeKCd6UfHGhTAs1vPPFAoHmKFJvovfQ9bqEaN0A",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJXzmM_ym5zTERUZJFA1_BDKo",
+         "plus_code" : {
+            "compound_code" : "RM36+FF Taman Langat Murni, Banting, Selangor",
+            "global_code" : "6PJ3RM36+FF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJXzmM_ym5zTERUZJFA1_BDKo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "No., 11, Jalan Bse 4/25, Bandar Seri Ehsan, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.7711032,
+               "lng" : 101.62608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.772457729892722,
+                  "lng" : 101.6274417298927
+               },
+               "southwest" : {
+                  "lat" : 2.769758070107277,
+                  "lng" : 101.6247420701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c03048f626962f2057ce3bb4738ee9e1b9df2187",
+         "name" : "TBK BURGER BSE",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116170316322146894769/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2g74nH_BZvLoNkwlpMSNezJUxq-_BEKIyAc5jTUcK_0XnhbZc_sBeCzwiTL7tjTYqVjmyHZdVlbtS5XRgYdV9ZstTnR93BnEqTnmXtZJX3vqPGLQQDgyVLIbuD1Cy6o1EhCwPFX7AOVgW1hwKOB3UJloGhQLqZpH_iWja3Vw8PnAV-wkwihS2w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJW07-lZq-zTERrXlGRr07YFE",
+         "plus_code" : {
+            "compound_code" : "QJCG+CC Banting, Selangor",
+            "global_code" : "6PJ3QJCG+CC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJW07-lZq-zTERrXlGRr07YFE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Kampung Sungai Lempit, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8368146,
+               "lng" : 101.5812399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.838164429892722,
+                  "lng" : 101.5825897798927
+               },
+               "southwest" : {
+                  "lat" : 2.835464770107277,
+                  "lng" : 101.5798901201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "00b11b4aeca2a4e4b2c14d9d239abe35f727c1a4",
+         "name" : "AB Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107222752706193800312/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABuwwCYIdgiEIuYHl3qDNMLSs7CxZHxnvPlol9ykyio_SKTNISgUQxFTvQta4h9DI3dYrUy_dI0QsqfDNxaRxa01s8TI61mBkbFsvUtrnkGh6US7Y_b1Q1djZuwE1FrN-EhBvUb-gsy6xWCnqXSubhJ8aGhRUVxYoOp1ALZljeod6cSh8zQjbDw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJebdpe627zTERHz24bl5-jGg",
+         "plus_code" : {
+            "compound_code" : "RHPJ+PF Banting, Selangor",
+            "global_code" : "6PJ3RHPJ+PF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJebdpe627zTERHz24bl5-jGg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Jalan Masjid, Kampung Kanchong Darat, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.791771,
+               "lng" : 101.483534
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.793224379892722,
+                  "lng" : 101.4849721298927
+               },
+               "southwest" : {
+                  "lat" : 2.790524720107277,
+                  "lng" : 101.4822724701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c57c6cba4cea447be6a53cf7774c6e466ab75beb",
+         "name" : "Burger Bakar Champ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104414942742806900199/photos\"\u003ejawa power\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAp7gZWfyUjNxV8UfiIPhdyb8KNpH1aUP-TDWtAYAx2Rh4vSpwRFBlXuN6x-h5hhs48WgZfo83qXgZfP74_SC8PL7w-V2j8chfBWQAknLQ_44N33VPDtkE2zNcuWgXjacPEhC4DhjT6tz-LRPoQOROGhMSGhSzV1LPB_D7lFB5kZq6sGUVRmLWjw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJi17ywXmjzTER95IGMDYP7Go",
+         "plus_code" : {
+            "compound_code" : "QFRM+PC Banting, Selangor",
+            "global_code" : "6PJ3QFRM+PC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJi17ywXmjzTER95IGMDYP7Go",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Lot 98, Jalan Berjaya, Kampung Sungai Buaya, Selangor, 42700 Banting, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.85141,
+               "lng" : 101.451335
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.852765079892722,
+                  "lng" : 101.4527470798927
+               },
+               "southwest" : {
+                  "lat" : 2.850065420107278,
+                  "lng" : 101.4500474201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2115600e826883f9b21b87aa2736ca92b87c5ead",
+         "name" : "Nagatrade Sdn. Bhd.",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115490680438455685246/photos\"\u003eHalim Mahmud\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABcxI4ewcAPsKDNRdS4uXuyhbyUUihogZzvt5VkkZOE7W4crTuhgYFbB4M1STgX9VTXzSGrEVq6lPcdV870rBXgx3HrFB4AJMz9c2Awd8Ck9aJpz1sYP5JOi7HYof04uHEhAVp5SUN084b4p241cdoqRkGhS5QU6D73YsV_q7OvNh59_INwwMqA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ68VOccalzTERFTlhBIYgL48",
+         "plus_code" : {
+            "compound_code" : "VF22+HG Banting, Selangor",
+            "global_code" : "6PJ3VF22+HG"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ68VOccalzTERFTlhBIYgL48",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "2, Jalan Emas 6, Bandar Sungai Emas, 42700 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8232283,
+               "lng" : 101.534164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.824563929892722,
+                  "lng" : 101.5354765798927
+               },
+               "southwest" : {
+                  "lat" : 2.821864270107277,
+                  "lng" : 101.5327769201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2ebeb9abe1e13226d0fdace4c4f46e910eaefa0",
+         "name" : "MD BURGER",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115181931004702331638/photos\"\u003etee honglun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZHl42RAMholJ2p8-OVQhylFLs1n5_wuNUJtiDIgEc-qNbOitQgAPM3BOF0aC0wdO6BUCKRRGnG6cB-4rLVHuniRUbd_qvTvzFuYhHBEMYCKYizhjunNjgVboe2T6e4DOEhCcq3w49PJfk8CiAwTS_MS7GhT3Logu_GJSQVoWOwFxCUIbXPewkQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJh1a4Fze7zTERArg4zNcnVGw",
+         "plus_code" : {
+            "compound_code" : "RGFM+7M Banting, Selangor",
+            "global_code" : "6PJ3RGFM+7M"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJh1a4Fze7zTERArg4zNcnVGw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Banting ( Fajar Banting ) Lot 1256, Jalan Besar, Banting, 42700 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.813925,
+               "lng" : 101.50287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.815257479892722,
+                  "lng" : 101.5041517798927
+               },
+               "southwest" : {
+                  "lat" : 2.812557820107277,
+                  "lng" : 101.5014521201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fe5c4e87898d7f64dd0cb626e5054edc415ff73c",
+         "name" : "KFC Fajar The Store Banting",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109692097128227336335/photos\"\u003eRohaidah Mohd Yusof -\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAumsx_Wq4jAwITrZe6EWdikThVh1zCI-lLV1RozVQEVF9_42URLIAtUr4Vj-1mXmpM8in5GjeXsr9b-pHOrpK_HAU9G_4o3dAAR-Y5b6GmNzhahITZRFJ4i2qFI6EV-VZEhAWrF8HNMusX1TYjM1VllOKGhTb4oY79xFATuZILkDpVqLh91c5tA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ-RRNk72kzTERWY5oY0HK7TU",
+         "plus_code" : {
+            "compound_code" : "RG73+H4 Banting, Selangor",
+            "global_code" : "6PJ3RG73+H4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ-RRNk72kzTERWY5oY0HK7TU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 187
+      },
+      {
+         "formatted_address" : "No. 2, Jalan Cemerlang 4, Banting, 42500 Banting, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.812947,
+               "lng" : 101.507967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.814350629892723,
+                  "lng" : 101.5093028798927
+               },
+               "southwest" : {
+                  "lat" : 2.811650970107278,
+                  "lng" : 101.5066032201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6a5627f42cfe7c35f98aba1ecff6b4fd6fc5b912",
+         "name" : "McDonald's Banting DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100980940088889037034/photos\"\u003eKim Teck Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8WXBL_mzImPtro_woxI04Ezi7UqzhNh6QdmtfYLRPHC7EhZa_to18JDBU9v9iAfjlhJfvexPTD8GswPYP3NuzznrBgOFLRxHlYiplm4RVruvjTCKlXVNGDuBbi0DaXb9EhBPBWgh39bG7aCraG_BQN4OGhQDoMt6icXg6X50HlE2IeGCExlH9w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7dC4zPGlzTERyZR5GtmpFh4",
+         "plus_code" : {
+            "compound_code" : "RG75+55 Banting, Selangor",
+            "global_code" : "6PJ3RG75+55"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ7dC4zPGlzTERyZR5GtmpFh4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "60, Jalan J U 2 Taman Jaya Utama, Teluk Panglima Garang, Kuala Langat Banting, 42500 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9105374,
+               "lng" : 101.470558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.911898079892723,
+                  "lng" : 101.4719002298927
+               },
+               "southwest" : {
+                  "lat" : 2.909198420107278,
+                  "lng" : 101.4692005701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "656796d2f24fb4ed6c0d2a5b5e84892490d74d4e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106405459863250602011/photos\"\u003eNasta Alviks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf_lEJPdx8N-km4Em7NvpP5AEOpcETUixXa2RCSBgV7bD3V0F0YyboUrETEUH4Esi-kSSA4PTP1ILeZUnF8cjEz-kwlh7WGst9OLqyNqGTv8Ejd8N1nhox4xNc_grHz5OEhB1moUQk5ICBRC7rvmk5HBbGhQ9LYr7uf9S8QgKCTB1yGWLk35VoA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJEVi4BgWvzTER8sCPh1OV9Y8",
+         "plus_code" : {
+            "compound_code" : "WF6C+66 Telok Panglima Garang, Selangor",
+            "global_code" : "6PJ3WF6C+66"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJEVi4BgWvzTER8sCPh1OV9Y8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 287
+      },
+      {
+         "formatted_address" : "56(GF), Jalan Warisan Sentral 2, KIP Sentral Kota Warisan, 43900 Sepang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.820721,
+               "lng" : 101.694492
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.822068979892722,
+                  "lng" : 101.6959017798927
+               },
+               "southwest" : {
+                  "lat" : 2.819369320107278,
+                  "lng" : 101.6932021201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "97e4dd6da7115b4728fc7eea9b0fc2cfeeb575bb",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118326848232860900328/photos\"\u003eRyo Yashimura\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANDaFt7n17lGvnrVGjOQ1B_PJR-9natGLloESDd9R8-0eRoaSmQHIg8Mc-dPEOfb-qpRCjXtMuDoTVKzU-vzgSwwr53vOATHsjLJ55cU5soZKVArZPzc_hTL0Hjn-M8PVEhCD1zuEi45nU9fZTp-ysJmNGhRWADukEjAhWXXndqfr2FiRnO0Vrw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJjw3Edpe4zTERh7KG4P9uKjA",
+         "plus_code" : {
+            "compound_code" : "RMCV+7Q Sepang, Selangor",
+            "global_code" : "6PJ3RMCV+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJjw3Edpe4zTERh7KG4P9uKjA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 469
+      },
+      {
+         "formatted_address" : "Gateway @KLIA2, Terminal KLIA2, KL International Airport,, KLIA2 Arrival Lane, 64000 Sepang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.7440679,
+               "lng" : 101.6857621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.745506879892722,
+                  "lng" : 101.6870480798927
+               },
+               "southwest" : {
+                  "lat" : 2.742807220107277,
+                  "lng" : 101.6843484201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "30260c93b2fd1ac8f3553c8c7383691c13db4b42",
+         "name" : "SUBWAY @ KLIA2 Departure",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100408182638112055461/photos\"\u003eHamza Thaheem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbzM8D4rw_VKkNngpodLA4s6-bckX085ZZROSbhtbH2BABq6eKbkccVhwRAze_1JSTb2tMNz4r6MhLoxOOCH0ajMkEvMG7knhoOvnH7PRHZOcbSnRWyKIJHZlun9FL0OfEhC8c7vQaPYUvvcdt7KlKIqvGhQFWKmUWrrETRGJrSXVxwicHWCgvA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAwOXw5W_zTERFhH03LyApWk",
+         "plus_code" : {
+            "compound_code" : "PMVP+J8 Sepang, Selangor",
+            "global_code" : "6PJ3PMVP+J8"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJAwOXw5W_zTERFhH03LyApWk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100
+      },
+      {
+         "formatted_address" : "43900, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.743509,
+               "lng" : 101.6854375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.744775079892722,
+                  "lng" : 101.6868450298927
+               },
+               "southwest" : {
+                  "lat" : 2.742075420107278,
+                  "lng" : 101.6841453701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "59456a5eecf40c3a1056e864fcdae4854988e864",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102366038197103577566/photos\"\u003eFaysala Elhag\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUKPm1pXnEF4d_byvsFPCFc7dM0xBhSZAwEuq7NnVSr_lYRfdZjSwahEWXkwdOo7-R9TzBKRaLWtHd_LjdAXZnubo-Aadd5E63c7pE5BBDuT0ckMkbuSEw6RBfLdFl5grEhChdQA1zHSMsOZZ2g40rPwMGhQyjK9Z_bQHp11F1FiISEFggTpKdQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ1wF4lZW_zTER2xV7BUINv04",
+         "plus_code" : {
+            "compound_code" : "PMVP+C5 Sepang, Selangor",
+            "global_code" : "6PJ3PMVP+C5"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ1wF4lZW_zTER2xV7BUINv04",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 71
+      },
+      {
+         "formatted_address" : "D3-03-07, Tamarind Square, Persiaran Multimedia, Cyber 11, 63000 Cyberjaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9201893,
+               "lng" : 101.6360627
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.921530479892722,
+                  "lng" : 101.6373184798927
+               },
+               "southwest" : {
+                  "lat" : 2.918830820107278,
+                  "lng" : 101.6346188201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6b50520a8b1d4cdd130adfdcee2cdd7250d65ce",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103342615176931797014/photos\"\u003eGee Azi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaBv5G0dKFoPwFp01p3xmVToqXalzrRB3Zti0QjFltZrvN-V6wJpcYZ0FKEnqgZ5Rb12mJoRMpFWMLcC839cZhYbJxyUQW-NOUg66XZCVCzpZ-Q738X7o9_LkZ9PmJMG8EhAyhS80TVKt8oh4w9NzO89KGhQ9TLB0-G46Tv_YXIHEz68QdNoZpQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJMWwvW8a3zTERoRdN3zooR0s",
+         "plus_code" : {
+            "compound_code" : "WJCP+3C Cyberjaya, Selangor",
+            "global_code" : "6PJ3WJCP+3C"
+         },
+         "price_level" : 2,
+         "rating" : 2.6,
+         "reference" : "ChIJMWwvW8a3zTERoRdN3zooR0s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "52,, 24, Jalan SPU 1, Bandar Saujana Putra, 42610 Jenjarom, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9522582,
+               "lng" : 101.5810386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.953604379892722,
+                  "lng" : 101.5823869298927
+               },
+               "southwest" : {
+                  "lat" : 2.950904720107278,
+                  "lng" : 101.5796872701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c921fe191776bf04382938730435569bb56bf299",
+         "name" : "KFC Bandar Saujana Putra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100782316472518907654/photos\"\u003eTanzia Sultana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABe3GZVE3qhAgOZnYmhuWMBEpytBPKhehzshKT_v3uexsmlxetNG1JRE-AAbwneMkGsrpm7-diFtSCzKP40IHVOjR8lNs4hLVT2nAdRL1bojyzmkm8BOFWc7Rg6sJJX5UEhDNWbx7g8rAtCbdgUv9U9dZGhQY4JCGD1IaDp9vI9ff_2OcE3qOFQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJbTHYtnyxzTERuPzpoumQTVQ",
+         "plus_code" : {
+            "compound_code" : "XH2J+WC Bandar Saujana Putra, Jenjarom, Selangor",
+            "global_code" : "6PJ3XH2J+WC"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJbTHYtnyxzTERuPzpoumQTVQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 451
+      },
+      {
+         "formatted_address" : "Lot PT 3906, Jalan Terminal Klia (Outbound), 0, 43900 Sepang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.7646569,
+               "lng" : 101.6832592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.765954779892722,
+                  "lng" : 101.6845079798927
+               },
+               "southwest" : {
+                  "lat" : 2.763255120107277,
+                  "lng" : 101.6818083201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cc4c8783f6a1476094c7424352c2fd114c1c7fe5",
+         "name" : "McDonald's Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112721046786282939303/photos\"\u003eAlvin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcCb8dJPkYjo4O6loSqmZATKayLpo2nC7DSmCeUo6rmLkLo1xCXffvsOyXg5fAByP6XKksC60JgTv0Dx3AR_1rY3NPsI_BTPRp-1K3IvX2zRW4d4ELpXu9qxTFi1Id2mYEhD6TGMpp1nujXaBflDRGBaZGhQWo6gjgyv29eVI-VVmBbABQ_XKxw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJDS-bugy_zTERciD5nWH-_wY",
+         "plus_code" : {
+            "compound_code" : "QM7M+V8 Sepang, Selangor",
+            "global_code" : "6PJ3QM7M+V8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJDS-bugy_zTERciD5nWH-_wY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 767
+      }
+   ],
+   "status" : "OK"
+}

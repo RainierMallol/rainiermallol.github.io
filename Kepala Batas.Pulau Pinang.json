@@ -1,0 +1,872 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAAIVzhIZishQFKVOCK4JvkkqoGQn1w_ay3ckW2wXCakW85FGarx5CCqmKE7Cs7gnIGwHy0qRmzIn0QXRvaToN3w9dknA86cwp2QcbjmM4TBZUDQ0odcQwHNi534ZErTraW6zZ3oRbHNVHzEbs0HHzNP4EoO5e2G7IOUMlFpRBM3Sim-99ClOsGGGczLHLKoesOw5pTUFudUdztYH_JzVuNTttJbjF01rkNle2xW1xHPewjeiwaIt199T0m-Ir98Pbw14Nf5s21OG_dAx5JEbl2J7qpB8M_qJSmP4TT2g46PEcS4yNDY1EGruMnhP0Ue3LkL4zccRMx-W-VKK7_cqJq1w6F6KL2NxegXv0u_7vVQmFWmQcvmi9zaEAFENBE_k2ajfYUxJHa2nwD4EsVUUFocfFXzvhindA3wB9V4qwEIf8QWJhERF7KeplEqcE7zQNvae4XizWq-1ZKYSmVcVJR61AG6ZQyFsYeyDE7qouKrP08_obETE5ug3UR0YQivRL7Z2bewaopXHI7kqtKRqZKiVs7re9wzHbniwJ9gzk9n5-bga9RDrQqFGhVKZzMorXPy7wAb4AXcErxpwKcKQkQPSFUVOZdyqSngx29Qln1SoMBZ-smsVTm99_nfHiwPZhFOnLxSDJKcxWej48KgDJobz51-Gdtfd0K4SDg2wOL8gIEhCPVe8giw819QEQcipK7jj9GhRdfqS-S2SIlntdgeIHjPWaNikiyw",
+   "results" : [
+      {
+         "formatted_address" : "2, Jalan Perusahaan 2, 13100, Kepala Batas, Pulau Pinang, 13100, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5150586,
+               "lng" : 100.430324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.516408179892721,
+                  "lng" : 100.4316386798927
+               },
+               "southwest" : {
+                  "lat" : 5.513708520107278,
+                  "lng" : 100.4289390201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "26ab57e9600340b6714b78852ee888d29d212344",
+         "name" : "KFC @ Kepala Batas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110725860797494762697/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAsJToQ5BfwULQFTUBXG6Um6loNGJd6Z_M8_bQnaqyax0o2yopkrGJSlZuaQrKTipi9OWIMi9sXvzxHFTPuPA_8JtRZe3T-t2oB5y0jgHzRqM0s1pLr8Vt9mTdbXiFn_xEhALrmpaOmLExnPrRRGLJEFjGhTP2gygUfVLw2O7NGLUd8J1b-xNGg",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJtTuuzHnaSjAR5y6EI7NtmXQ",
+         "plus_code" : {
+            "compound_code" : "GC8J+24 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8J+24"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJtTuuzHnaSjAR5y6EI7NtmXQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 351
+      },
+      {
+         "formatted_address" : "Hadapan Telekom Malaysia, Jalan Tun Hamdan Sheikh Tahir, 13200 Kepala Batas, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.516770999999999,
+               "lng" : 100.431662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.518174529892722,
+                  "lng" : 100.4330082298927
+               },
+               "southwest" : {
+                  "lat" : 5.515474870107278,
+                  "lng" : 100.4303085701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "38fa499ed9cacfb34d80b0d136e318b6edafa769",
+         "name" : "Arango Roti Bakar TM Kepala Batas",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102979672249693613779/photos\"\u003eJaNet Teh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP74uJsa-hXXdWcjic9pKlauhh7AB_xEvfqW3UUiwLupbRGWJ5BEa-MGE2hKjMKir0xhKQFD4FS5tecVmHRtxNaBwIfnEMhyCpRDDNQXzwSkh4ERWX6Eh5OFjufQMOhYREhA8NvXO3AWcZD-Nuztbztb5GhT-oW8ztLP9B5UocGFO-uc04Zpq6A",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJsbMdeXzaSjAR6H9F09BlNlQ",
+         "plus_code" : {
+            "compound_code" : "GC8J+PM Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8J+PM"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJsbMdeXzaSjAR6H9F09BlNlQ",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "Lot 8888, 13200 Kepala Batas, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5133816,
+               "lng" : 100.4356773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.514738979892721,
+                  "lng" : 100.4369151298927
+               },
+               "southwest" : {
+                  "lat" : 5.512039320107277,
+                  "lng" : 100.4342154701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6a49ad72772223c44f8ab9fdb15139358eb8fd85",
+         "name" : "Arango Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114166097880534978341/photos\"\u003eKhuzaini Abd Karim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAuW1ENGbzuY8ha-q6-pkjpAzUYk6woeU02tFJ5F2tK2yFZ-aJkZXVYRraWeCLBRgb5sXvG6XCBpcMXYnT4mB5ynOX4I_LAf01NlwMsAH4HVmAY-zW3KHOX1lDBQ8UFFnEhC3NcviyUebuVequ2yJQ0oGGhQ68rgEQLMVagK3lR9ViEC8JQAQkg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4Zn_zsXFSjARLtxKMyO5-DI",
+         "plus_code" : {
+            "compound_code" : "GC7P+97 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC7P+97"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ4Zn_zsXFSjARLtxKMyO5-DI",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 276
+      },
+      {
+         "formatted_address" : "6735, Jalan Butterworth, Kampung Permatang Manggis, 13200 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.515992,
+               "lng" : 100.4223856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.517430829892721,
+                  "lng" : 100.4237262298927
+               },
+               "southwest" : {
+                  "lat" : 5.514731170107277,
+                  "lng" : 100.4210265701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c119d647e63247eb5f3d30c051dabfb7368e3370",
+         "name" : "Restoran Ikan Bakar Din",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113970302297519352670/photos\"\u003ek,rul zam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOsVOtbpXlZ2NC32lDIkSx6oJxCYuA06cI7x0rH_-E97dWbcNBe1ED9gcWMh69MlEClaRrffA6kY9d_9MwN8SEBoM4JJZNNIW3yn59GFwO3E58F0QAIMP2JdwRGWKFKFuEhAlvs37uLC490IZ8amB_FJqGhSfQ5w35UC9BkEfp5SegajG-84VPQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJc2MWXGHaSjARcbUyqjhE2pU",
+         "plus_code" : {
+            "compound_code" : "GC8C+9X Kampung Permatang Manggis, Penaga, Penang",
+            "global_code" : "6PQ2GC8C+9X"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJc2MWXGHaSjARcbUyqjhE2pU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1092
+      },
+      {
+         "formatted_address" : "1293 & 1294, Jalan Datuk Haji Ahmad Badawi, 13200 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.518618,
+               "lng" : 100.4303269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519971429892721,
+                  "lng" : 100.4315918298927
+               },
+               "southwest" : {
+                  "lat" : 5.517271770107278,
+                  "lng" : 100.4288921701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5079a651924b9d0fe2673f95057d46e7978e4e30",
+         "name" : "Kulim's Burgers & Frozen Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117731532581160793517/photos\"\u003eBeach Boy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAikw85R4IDlGPRkIbi7WMnPIDT8hx7-PcznenbnZsfpJrDfcaoWtuAj2CYhqBzcbfkJ1pVi6qph5fB8H1_C2RlYS_E94hSt38CmpbxV34f6VN8Wpx7N7ivht2Jv4KM4cZEhBysrSzX8qlpjpvEiRsjIaQGhQCZRXBfmGQKacelc5u2VF282qpzA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJEdMOEXvaSjARtK8g1xBmVsY",
+         "plus_code" : {
+            "compound_code" : "GC9J+C4 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC9J+C4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJEdMOEXvaSjARtK8g1xBmVsY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 76
+      },
+      {
+         "formatted_address" : "129, P123, 13100 Penaga, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5172398,
+               "lng" : 100.4441528
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.518591329892723,
+                  "lng" : 100.4454832298927
+               },
+               "southwest" : {
+                  "lat" : 5.515891670107279,
+                  "lng" : 100.4427835701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83d78538e53da484cef2be659ca4e4c32c07dcaf",
+         "name" : "Kfc Drive Thru Kepala Batas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110463333925453202934/photos\"\u003enadia zulkifli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_pZ4uZYsIB43V7VztWaGxzdIbwTxLC_ScuTdJLW7gu5-OHk93ujSRGjG3oGqFhomVsQerHOaDCc1vhyCSDgZnRcFDl71-JeYQuZhmU4SZch8RaBczsZwlGfrNjtW5AdeEhAggMkJL5hXkunszTfVSee5GhTR6yJY2XiJcax-Pn_LMKAJTfrthg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZ7gW5oPQSjARYnWc8XtNO84",
+         "plus_code" : {
+            "compound_code" : "GC8V+VM Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8V+VM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZ7gW5oPQSjARYnWc8XtNO84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "2, Jalan Usahawan 2, 13100 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.515041,
+               "lng" : 100.4303329
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.516481879892722,
+                  "lng" : 100.4316812798927
+               },
+               "southwest" : {
+                  "lat" : 5.513782220107278,
+                  "lng" : 100.4289816201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ff563099696c08a0de097a6e0205d3dd7ae8f412",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110952958416003804090/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4LfZM8im9BvUSg6bNllLg-0zteTDZyBWUkpEhEiAZ7WA3Lvv6H4kxiXfJu4YbrGovhmGetzTBdMoNu6ul6CtjeGqbdRvt71Q_LHM-NuXnVUNg0I2Nwnf04V22NcaUcC4EhDO0D42JF7O_Cf2tS7aK220GhSegoKfVr1BKrADJBq8JU315w3ttA",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJ1RQL73zaSjARdNgiTy1wQ88",
+         "plus_code" : {
+            "compound_code" : "GC8J+24 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8J+24"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ1RQL73zaSjARdNgiTy1wQ88",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 20016, Mukim 06, Seberang Perai Utara, Jalan Bertam, Malaysia, Pulau Pinang, 13200 Pulau Pinang, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.517561,
+               "lng" : 100.450309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.518793529892722,
+                  "lng" : 100.4516645798927
+               },
+               "southwest" : {
+                  "lat" : 5.516093870107278,
+                  "lng" : 100.4489649201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8763df984847811891ac3291794da02d7eb8cbe",
+         "name" : "McDonald's Bertam DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114476162427612330494/photos\"\u003eAbdul Basith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaMkxvYcdnGdqUv8eRuzPC3P03aEvYTfJTvA_DT0TxzlWnfJEZquLfeH6G1pGS4bqfVaU9aVJ2lShez6dSQMxVmxyfUAhMPF5Z_1T4DF-a_R46jTY1k3PBjiCIfw_J1DyEhAGPQcjrunfxwwYMqfwTncsGhTF7oEPfZe_cOzHRFT_mUrX7S8x9g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJSeZ07YXQSjARja6qdxL2kTE",
+         "plus_code" : {
+            "compound_code" : "GF92+24 Kepala Batas, Penang",
+            "global_code" : "6PQ2GF92+24"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJSeZ07YXQSjARja6qdxL2kTE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2089
+      },
+      {
+         "formatted_address" : "59-G, Jalan Komersial 2, PUSAT KOMERSIAL, 13300 Tasek Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4843629,
+               "lng" : 100.4893419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.485732929892722,
+                  "lng" : 100.4906674798927
+               },
+               "southwest" : {
+                  "lat" : 5.483033270107278,
+                  "lng" : 100.4879678201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1d93ea6ca3b2526ffe9e84377518d31ea71ec351",
+         "name" : "Wakaka F&B ECO Tasek Gelugor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105813394840362612367/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb1n-3HkxkPKhUuZ8GV5_u13NlopaDI3O_O5EaimxH_of1n9tsHhFRQwS8W6HxUI0Di5FG1rO3_wngEb6c6FQ5-F3G8WMcpKOhThSB2-acGFdsdjiDl2Vmr1sniZ0V35mEhC_wJTpFXV6EcljRXPfbvs2GhSEE040ub5t2ZIHuorX9TBjVk9_lg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJMyiFpyXRSjARIK5SLg7A-i0",
+         "plus_code" : {
+            "compound_code" : "FFMQ+PP Tasek Gelugor, Penang",
+            "global_code" : "6PQ2FFMQ+PP"
+         },
+         "rating" : 1,
+         "reference" : "ChIJMyiFpyXRSjARIK5SLg7A-i0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "123, Jalan Murni, Taman Desa Murni, Sungai Dua, Pulau Pinang, 13800 Butterworth, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4382454,
+               "lng" : 100.4334927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439620979892721,
+                  "lng" : 100.4347580298927
+               },
+               "southwest" : {
+                  "lat" : 5.436921320107277,
+                  "lng" : 100.4320583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df2c4b1f16ba26a3f9caa23333b30942701774d5",
+         "name" : "Thien Cheong Food Packaging Sdn. Bhd.",
+         "place_id" : "ChIJo2v5XHvFSjAR5lidrsqYhHA",
+         "plus_code" : {
+            "compound_code" : "CCQM+79 Butterworth, Penang",
+            "global_code" : "6PQ2CCQM+79"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJo2v5XHvFSjAR5lidrsqYhHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Lot No.39, Lorong Amanputra 1, Taman Amanputra, 13200 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.51817,
+               "lng" : 100.424851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519568079892721,
+                  "lng" : 100.4262181798927
+               },
+               "southwest" : {
+                  "lat" : 5.516868420107278,
+                  "lng" : 100.4235185201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "197624c7777613f08effbeca419e4dda712ab243",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101128042224284965633/photos\"\u003eYu qi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAonVjnL8apKIEcI9kqI3FjTPMCYZ3Gq-ocBzCmxG2EoWWauA4_jmPmD2ZBOs3Rd4E_XJrVY4BzZGOqtKOm5aTr4d5yHMLt5IEBXRhwom_p_OKgzOA88hHWQwZmLy7LRp3EhAC7raachirMVWydhV1l5R8GhSkX6sp0fLKB9KyRhLhdtaaAhJwxw",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJ7XoZaGTaSjARGAEWOwlQ3Us",
+         "plus_code" : {
+            "compound_code" : "GC9F+7W Kepala Batas, Penang",
+            "global_code" : "6PQ2GC9F+7W"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ7XoZaGTaSjARGAEWOwlQ3Us",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "1&3, Jalan Cempaka, Kampung Bagan Jermal, 12300 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4270597,
+               "lng" : 100.3829505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.428422629892721,
+                  "lng" : 100.3843056298927
+               },
+               "southwest" : {
+                  "lat" : 5.425722970107278,
+                  "lng" : 100.3816059701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ff39254e6fb29babc75a6e093010190a7b8599d",
+         "name" : "Texas Chicken Raja Uda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114444074502057111682/photos\"\u003eSaw Chuie Siong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKMB1cZzHWInY3IYC1q1Idw_SsxADXJwep4w7Ff7qaXzhQBJp0xVfBnyGH-ZzlItwqIJBBuW_-1kHSkcOaoFXo2X_gT5XtJyIpkIJ6bJaUF_PwXj8ZsjRcruLZu74Oo42EhDuQAzjPEe-QxUAcaVzERQPGhR8x4VSWZnqWxITI3ZzqdLXTIjTDw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "plus_code" : {
+            "compound_code" : "C9GM+R5 Butterworth, Penang",
+            "global_code" : "6PQ2C9GM+R5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 890
+      },
+      {
+         "formatted_address" : "Pusat Bandar Bertam, 13200 Kepala Batas, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5176186,
+               "lng" : 100.4482026
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519032729892722,
+                  "lng" : 100.4495505298927
+               },
+               "southwest" : {
+                  "lat" : 5.516333070107278,
+                  "lng" : 100.4468508701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c39b0af11ef88b3ab054f42245792f4803e67a14",
+         "name" : "Kiosk @ Bertam Perdana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1296,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112874308186342217403/photos\"\u003enabil fikri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbzLoE1N2zQLi55DmCGTO0-qctPRbbDPS1UGeKICQCU2-d3VEAW9OuqClMukTY0URq2LTz9KjP9mrw53UnQAImuGdzuuICD8jRpDxuWFWpgrVTek2UAuu8PEXXu5NTEJfEhCSuSsArOu6XjcBnx1McKdsGhRoe0QtqJ8zhtR4YM4fUKV5oeFOUA",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJkQFrNITQSjARfXOEMVW0nUE",
+         "plus_code" : {
+            "compound_code" : "GC9X+27 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC9X+27"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJkQFrNITQSjARfXOEMVW0nUE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "7, Jalan Dagangan 9, Pusat Bandar Bertam Perdana, 13200, Kepala Batas, Malaysia, 13200 Kepala Batas, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.517633,
+               "lng" : 100.447559
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519014679892722,
+                  "lng" : 100.4488915798927
+               },
+               "southwest" : {
+                  "lat" : 5.516315020107278,
+                  "lng" : 100.4461919201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9d657eda428f6d89fc6b1f3f768f2bdf247980e6",
+         "name" : "Restoran Mohamed Long",
+         "place_id" : "ChIJ9YnfNoTQSjARzR8p6TXvejU",
+         "plus_code" : {
+            "compound_code" : "GC9X+32 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC9X+32"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ9YnfNoTQSjARzR8p6TXvejU",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Raja Uda, Taman Bunga Raya, 13000 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4383402,
+               "lng" : 100.3864108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439685929892722,
+                  "lng" : 100.3877928798927
+               },
+               "southwest" : {
+                  "lat" : 5.436986270107278,
+                  "lng" : 100.3850932201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e337be6759b0a24f240a2f1458de26ee004ca425",
+         "name" : "Apollo Market Chee Cheong Fun",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107958701473399841641/photos\"\u003eTemmy Thum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdsN03AJGoeI-RJasiE8f8xHEc2FfYPN4jAJuLQkMDJB4Z10yNtDE8foY-Dj9epp4kyEaqQidikCt22IOqcInMGiWEzLGj9TUygJF7rt8HFlVVhoTkZOFGn0RRnUhcuxxEhDf8sFmlKCUPxNV9WbvMANeGhTzpPQNczyZplcH8iwBc-SWYsfp0w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "plus_code" : {
+            "compound_code" : "C9QP+8H Butterworth, Penang",
+            "global_code" : "6PQ2C9QP+8H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "54, Lebuh Kurau 3 Chai Leng Park Malaysia, Chai Leng Park, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3858707,
+               "lng" : 100.391494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387231179892721,
+                  "lng" : 100.3928494298927
+               },
+               "southwest" : {
+                  "lat" : 5.384531520107277,
+                  "lng" : 100.3901497701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7711655b4210506f35f608f1c387de88e9fbea76",
+         "name" : "Sunny Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112588737489800587766/photos\"\u003eJen Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsuPTHDF4TJ0isOmSM77G2RYoZZ-Ckxm4i0Q6N2m88xP_4f3fSXQ72_Iox1_Mv_3MnxJnIrcI61D02sAKOlYvw-9CQSFuq-O96Bs3Kl9AVnTkYd0e5DULzQczOyY-QhG-EhD65kIhVhV0W2EV3fOVjXXFGhRsYckOayTv0LywHjuV_gkB2J9IlA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "plus_code" : {
+            "compound_code" : "99PR+8H Perai, Penang",
+            "global_code" : "6PQ299PR+8H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "No 43, 3, Jalan Dagangan 2, Pusat Bandar Bertam Perdana, 13200 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.517251,
+               "lng" : 100.448388
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.518841779892723,
+                  "lng" : 100.4497722798927
+               },
+               "southwest" : {
+                  "lat" : 5.516142120107279,
+                  "lng" : 100.4470726201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1f9f103e9200b67dd7f777a78f1b4c17494d4d6e",
+         "name" : "KAFE KK92 WESTERN GRILL N PASTA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115069059455439479704/photos\"\u003eAminuddin Osman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArU9_3-xC8SX_AyhBxTje-XXa8jnTSKJO2idHoEf8tcuBqMNLhwL7rCHfkcHwrGSFUqpNXL5X4WnvHCyrHXOdsfIxFVHtDnxo-KVw3mg1N-kyymQdgPriPEzsCVa-nBHcEhAYc8zKv_jItwXDkLkP9lcBGhT6O3b1YVGR0lDtQ7rV0PyOKDhYGA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJIYNz14XQSjARQpXJ7bOrQv0",
+         "plus_code" : {
+            "compound_code" : "GC8X+W9 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8X+W9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJIYNz14XQSjARQpXJ7bOrQv0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75
+      },
+      {
+         "formatted_address" : "Mukim 1, Lot 5730,5731&5732, Jalan Jelawat, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.399795,
+               "lng" : 100.400221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401154729892721,
+                  "lng" : 100.4015271298927
+               },
+               "southwest" : {
+                  "lat" : 5.398455070107278,
+                  "lng" : 100.3988274701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4edaea5f434a116db1817a67d7ea601f4acb21b",
+         "name" : "McDonald's Seberang Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111821879654881474550/photos\"\u003eHock Heng Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfIz369bGsadUlGWt6D4e2-fHmvkyJ2Xzs1Y_sXmxC8IqyM7WC3DkgjaOmjFaFqBI_13Ne2o1A-GHDVxN6uY3xNpKZkHJc0iw2e-fmcXLpJ8Bpkov52Ys4IhhV2_kQ40YEhCOLd3jJPv51C_9UgZprUVQGhS3SqqeHj0BnB-Rqf3nDaFesrVyfA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "plus_code" : {
+            "compound_code" : "9CX2+W3 Seberang Jaya, Penang",
+            "global_code" : "6PQ29CX2+W3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2293
+      },
+      {
+         "formatted_address" : "No.11,11A&15, Jalan Dagangan 12, Pusat Bandar Bertam Perdana, 13200 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5151769,
+               "lng" : 100.4483853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.516599529892723,
+                  "lng" : 100.4497293298927
+               },
+               "southwest" : {
+                  "lat" : 5.513899870107279,
+                  "lng" : 100.4470296701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d10d835dfbe34637b1f50345ec1e419293db68d",
+         "name" : "D'Fiesha Licious Steamboat&Grill",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116615476685447658478/photos\"\u003eNuqman Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALH4U1FnL-XUqZxIHrr39J1CfoVT0jOHLtSRICMQgyOUmLx75ZcSqOegGFsLsILvz1_KFarvBI82Z2rAkJ5CjF0veH8YowwItwxd9mzpl0MvsfXY2Nqm_0f_ThUhjxvLiEhCQwslL9pbBoid59QkAEAhXGhTVZJQ_lgqzfk1VRte3p4Kz3t7_9w",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJj5BPfgLRSjARth0wIlZdqP4",
+         "plus_code" : {
+            "compound_code" : "GC8X+39 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC8X+39"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJj5BPfgLRSjARth0wIlZdqP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 816
+      },
+      {
+         "formatted_address" : "50, Jalan Dagangan 2, 13200 Kepala Batas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5176205,
+               "lng" : 100.4489601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.519037979892722,
+                  "lng" : 100.4503060298927
+               },
+               "southwest" : {
+                  "lat" : 5.516338320107278,
+                  "lng" : 100.4476063701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebcf97d30cbd4af3ef8aa76f55eaf1f07772f0ff",
+         "name" : "BertamLicious",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115028438932815169686/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgv5TiAi7A-b2PYIURZ2QO6kPj54yUMrO9Jha7pzWvvL2OMXi3vQe_RbPHafQRUvrLisA7J1khsgiY4cKb7oWNMlB1k-u0YPlDOcbeQdE6SklRXH5ozf81BDw5servbHgEhDftgwS2HzSfJW5ULed8oOmGhR_sydyLMcN-uDxzm1zFWCNiqdmmA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ89Jr34XQSjARD3W0wSH42DU",
+         "plus_code" : {
+            "compound_code" : "GC9X+2H Kepala Batas, Penang",
+            "global_code" : "6PQ2GC9X+2H"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ89Jr34XQSjARD3W0wSH42DU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 329
+      }
+   ],
+   "status" : "OK"
+}

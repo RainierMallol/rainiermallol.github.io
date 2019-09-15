@@ -1,0 +1,878 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAAPbD34I0Mv_yEAPN4jwtTfTMZw3HKWcpkn42S73oJ06LSJfk_G9FIFk9s0UNw1ZWjscvAF098KdaI3OjoxNGKdhLW_aydBDCBGg3d_mG5hUUwHi2o5IBydlOMa1-7UZrlW4rus80FxBOqSUWReecUHd2g6CK84plHTNWD7Wbhnbeq9MXpkQfkW8J8K_NMdUfkIKd3MQCoTOihGyL8tBk619sQ8_JzScgkYcX0yKGCiwrUVENZ3CFpi_LRL5Dr1XqBLLfqykhyGwm9QUuVwe_3xpWt2EpVi86FDU4qaSWPTJpEW3OEPfK0F94ZQD9YEq8OLRemb6btyoeOfqoOuAQtzqO2Ym_x8UyQO2WN_kurhnyBZuibbR8tE7NOhOZbKyYoT6xyn4HHIS6Rd7aodN6IVXa4ua2p9n4k5AOpwJ90sQP6S6zsYeh5uBTeqPoP52a3MR_yNdk-vQcpQxYV9X0qzgD7gZSvu5IC7hmh10WM4iCtZFVr3Hba7dXZUjKdRzN_W2ZvGIO0oFFjdZsU9YSJAfxYqg1CSPWSX_2HQfxkzkzZU2N45VU4pMgLD4IXrwfUhGmQm9x9mboMqq2hBWyd7e6QtUobxF6ejHuPU3iZ-iXmTfhChIo2hZ0M9Gs4Id6x7zsftc7y1xpCD9uuoKQWyGoIYLoo8bdcNS6oJxKaUsWEhANnU8jIWzaeEFDnLMDGld3GhRRDfzVBstkHYrywnoZ_aV4Q634Eg",
+   "results" : [
+      {
+         "formatted_address" : "Lot 7398, Ground Floor, Jalan 1A/3, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2111306,
+               "lng" : 101.5645514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.212473879892722,
+                  "lng" : 101.5658878798927
+               },
+               "southwest" : {
+                  "lat" : 3.209774220107277,
+                  "lng" : 101.5631882201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35e92ddbe113913c225d49e2d1bcd6f2245c899a",
+         "name" : "Texas Chicken Sungai Buloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102732713975306066974/photos\"\u003emohd irfan irfan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALlk8ORuHWD3INXW4OkmPzzFVG1SgLgaUhRMyUy3UQF8ZkPSF3wisuXuw3OuetG_YI_fy7-f3ZUkl0L3O9TDp-1DvVHc8HaEMNACU6kDVgG50rY8usNeMPtWvtkrPACeCEhAyoHEMjiS4eNxKGayf1XNaGhT9KYjD0drCRJx3V2EEuvypHHEMJw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJQc_jpnRFzDERLw-dTrpKSwI",
+         "plus_code" : {
+            "compound_code" : "6H67+FR Shah Alam, Selangor",
+            "global_code" : "6PM36H67+FR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQc_jpnRFzDERLw-dTrpKSwI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 569
+      },
+      {
+         "formatted_address" : "PT21552&PT21553, Mukim Sungai Buloh, Persiaran Perdana, Bandar Sri Damansara, 52200 Kuala Lumpur, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1950924,
+               "lng" : 101.6077574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.196313979892723,
+                  "lng" : 101.6091692798927
+               },
+               "southwest" : {
+                  "lat" : 3.193614320107278,
+                  "lng" : 101.6064696201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c76f1cd4253bbd27c9ba56f057f8d2ccb446edb",
+         "name" : "McDonald's Bandar Sri Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109105935655069194792/photos\"\u003eKaisin Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGwhpztIG1QGZ2TbvUBd6qsKARjbpoIdvl2pgoZvAfBe-9Eu1VZ3-h9tYgs5G8UGwiq-JjbBEb-sQtcBbQE9vFvJ0f9O74wXf-BqW5otl3jqiuPCbEHrGBzxJrFmkVkrQEhCfTrF4K4sOkS3t2U8bkLAYGhTbce_4_vzojTEr77d_Yw9o5_Z_Ng",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJPQDdEflFzDERvVb61cMcI8E",
+         "plus_code" : {
+            "compound_code" : "5JW5+24 Petaling Jaya, Selangor",
+            "global_code" : "6PM35JW5+24"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJPQDdEflFzDERvVb61cMcI8E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1967
+      },
+      {
+         "formatted_address" : "447, Jalan Perusahaan 2, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.211052,
+               "lng" : 101.567237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.212401829892722,
+                  "lng" : 101.5685868298927
+               },
+               "southwest" : {
+                  "lat" : 3.209702170107278,
+                  "lng" : 101.5658871701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6801a50d5df49e5e4372449834c3740be3f1c617",
+         "name" : "Plonxbox",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111421050694700928971/photos\"\u003eMuhammad Azri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR_5cQc9voXolE7PnHuM-uWaBjL70moaW4lEGuTntzGpAyXnWtVUlpafTgAt0fMAJNNV_vMdivrGrpHTkWR72TPyLUi70hM0w7OiKwInTVL6OmtPK174YRosCqR-aVOR2EhAdEosvC5DM4iCTSnCjGkJNGhSntDmHnHYrBQqyKYW6OC-RiSxizA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ33Y66wpFzDERnEYd3ogO0yE",
+         "plus_code" : {
+            "compound_code" : "6H68+CV Sungai Buloh, Selangor",
+            "global_code" : "6PM36H68+CV"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ33Y66wpFzDERnEYd3ogO0yE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 181
+      },
+      {
+         "formatted_address" : "Kompleks, G35, Persiaran Bukit Rahman Putra 1, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2093089,
+               "lng" : 101.5637014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.210661379892722,
+                  "lng" : 101.5654007798927
+               },
+               "southwest" : {
+                  "lat" : 3.207961720107277,
+                  "lng" : 101.5627011201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0215d1bd322e5d205ef8b35b43b8349e916cfbab",
+         "name" : "KFC @ Complex Sg Buloh (Pasaraya Hiong Kong)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114384974729259398624/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATuqkTGLIKW8qdAcK7QN5pqMRzqvA9ukRrjqGAs4xAc6AVztM6Srfou7gRyaQ95DOBwbPA7i7MlT5g94kQCtQap1HfWWzMpjZ7jM6tBupjGJB2P9LZdBSm9PUztDiczvJEhAkV5p6KYy_8JtalATpLa76GhSkcIyAQkPenshwkds87i2xQZg9TA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAQAAAEFFzDERTzKQJWXtZPQ",
+         "plus_code" : {
+            "compound_code" : "6H57+PF Sungai Buloh, Selangor",
+            "global_code" : "6PM36H57+PF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJAQAAAEFFzDERTzKQJWXtZPQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2018185,
+               "lng" : 101.5578522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.203189929892722,
+                  "lng" : 101.5592295298927
+               },
+               "southwest" : {
+                  "lat" : 3.200490270107277,
+                  "lng" : 101.5565298701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3262fae2e70a1bf877f8a4266d5b7b0b9f827ce9",
+         "name" : "Nasi Kukus Ayam Aliff",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112380805763820095223/photos\"\u003eMohd Azizi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAD7wVThzGFCLFDnlZr6pYfkGH3qnOnk4SxO5wb4rBTna30Mv1mf_A-MYgvH8UthvzQVFvm77cyR1be1-dYz_RJyNGZ97MkGUOk22yu21nD1ITEb6sIuwsa1Ch7jRYbaoJEhAXaoVFi0P9BwrhZsRR_DizGhQ6dzwyjaUBmzabvdpwajq5aWCvrg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJd7t_W2VFzDER6ziGIEbzRu4",
+         "plus_code" : {
+            "compound_code" : "6H25+P4 Shah Alam, Selangor",
+            "global_code" : "6PM36H25+P4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJd7t_W2VFzDER6ziGIEbzRu4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 2, Kepong, 25, Jalan Desa 1/1, Desa Aman Puri, 52100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2109654,
+               "lng" : 101.6165169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.212281429892722,
+                  "lng" : 101.6178675298927
+               },
+               "southwest" : {
+                  "lat" : 3.209581770107278,
+                  "lng" : 101.6151678701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3f60540d958559f9d2a1851a283b3115d412f447",
+         "name" : "KFC Desa Aman Puri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106981958032690326805/photos\"\u003eazkhairul azli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAshWxHperpINjllvc4rKrwEyjIAt2OVhkB7CnY0wW_qVs0FZNEHpRBGV1rb3vJ4VREGZs5F2IQS4J9prm-fpsCxcWJLGdZOVHTC3e1915xQOgQtUEk2_LHm_RWc9cgoNcEhDPFOSjs8hwat6hMYTiBi21GhQKXSHn8bBPEvhLE6DP4_EYghIoDw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ6zrABOBFzDERqOCrDFVVwr0",
+         "plus_code" : {
+            "compound_code" : "6J68+9J Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36J68+9J"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ6zrABOBFzDERqOCrDFVVwr0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "no 1 jalan mp 20, Jalan Matang Pagar, Kampung Matang Pagar, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2381955,
+               "lng" : 101.560919
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.239542429892722,
+                  "lng" : 101.5622329298927
+               },
+               "southwest" : {
+                  "lat" : 3.236842770107278,
+                  "lng" : 101.5595332701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ea3a26c514c0bf04c60eb5cd6ea565a4f130c220",
+         "name" : "Fieda Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107970286860025838977/photos\"\u003eZUL Kifli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2sf42S9o-E3ii7kMgTk657TAv9O7lg78q76gqLuX6I6o1rhox9WkbxJ4qbWiYm2UUOd38AUGInpSDyQXA0M5xtc_Un6uJRhju9ResjQV04EqAxeegPut4WTFtKeorll1EhDgdRvoLt63Y0Yqklz4hbmYGhQL3hucrWWp1VpO15Ha_GPYuQFuFA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJFRwn-fpEzDERsWB1WhwC86E",
+         "plus_code" : {
+            "compound_code" : "6HQ6+79 Sungai Buloh, Selangor",
+            "global_code" : "6PM36HQ6+79"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJFRwn-fpEzDERsWB1WhwC86E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "6, 13, jalan, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2273629,
+               "lng" : 101.5570234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.228715379892722,
+                  "lng" : 101.5584077298927
+               },
+               "southwest" : {
+                  "lat" : 3.226015720107278,
+                  "lng" : 101.5557080701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55342f27ed983bfe7c0710ac7eaa03a30be780c9",
+         "name" : "BURGER CRISPY JLN BRP 6/13",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110627220602861137340/photos\"\u003esharifah izzati\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw3V6aMF9R-OFBemnr337rLVxW1cSvC_KGpPteVIkhHVcTgme8dNFWbmlHz7pZjORLoMbgJt_u3HtetAqa6PO3eC0brpmKR0fSzi-miSiLTRkd1Gw4dO6G2cunwzDu6BzEhAVMCLnuhwg7tCSBeUc-0ltGhSRksxaHe0mOjaVxtl5pGJREmSJGg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ73prMx9FzDERZEUUMYOfkJ8",
+         "plus_code" : {
+            "compound_code" : "6HG4+WR Sungai Buloh, Selangor",
+            "global_code" : "6PM36HG4+WR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ73prMx9FzDERZEUUMYOfkJ8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "30, Jalan PJU 10/10, Damansara Damai, 47830 Damansara Damai, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1949308,
+               "lng" : 101.5913894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.196116529892723,
+                  "lng" : 101.5927446798927
+               },
+               "southwest" : {
+                  "lat" : 3.193416870107278,
+                  "lng" : 101.5900450201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f7126bbfb8d0d8b3fb0682f248f424ff2e3332c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100774142765473972706/photos\"\u003eZulfi Harun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATDUn9wfJx_K1i5y3GE6-jkiM76cPjmBuGgGDuN6_phppZkfIG4hCVkDScDa8tLtmmfdDrFl7Wgu0PHbIhe8diinrRrrQic_8A-r4pug350Ksu_-svCIaZmht9tQfkKLDEhBzLO2Leh6ldFdTC0I1DgP2GhSSy7c-TLZilgUhuBhQHkI1lqwlMA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJQ1koSfVFzDERmgjMl4KrUss",
+         "plus_code" : {
+            "compound_code" : "5HVR+XH Petaling Jaya, Selangor",
+            "global_code" : "6PM35HVR+XH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJQ1koSfVFzDERmgjMl4KrUss",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 648
+      },
+      {
+         "formatted_address" : "Persiaran Perdana, Desa Aman Puri, 52100 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2082552,
+               "lng" : 101.6144825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.209579379892722,
+                  "lng" : 101.6157916298927
+               },
+               "southwest" : {
+                  "lat" : 3.206879720107278,
+                  "lng" : 101.6130919701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a5996b4d2ac21592f266021a83bae72dfbb53c61",
+         "name" : "McDonald's (Shell Desa Aman Puri)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104628056289485884624/photos\"\u003eChong Zhen Hong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZrMNZiBOGZTOczwoSKjaV06pGLjRDUrfLKfgOXeVyVIMHRv25O_UxGO8IivkZ_eL539eyb7qQsg77aTy1lj2S2Be6Be6N8cDa78Uy0Pg4-sHFUhY44gKITAvE70qY5hBEhCRNjPddPtgRDL1eaEdGKE_GhQKrrwBGldGye1HA7rnI_5W4nSV9Q",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ4VsFx-FFzDERn7dTZs447D4",
+         "plus_code" : {
+            "compound_code" : "6J57+8Q Sungai Buloh, Selangor",
+            "global_code" : "6PM36J57+8Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ4VsFx-FFzDERn7dTZs447D4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 640
+      },
+      {
+         "formatted_address" : "23 & 24, Jalan 54, Desa Jaya Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.213038,
+               "lng" : 101.631932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.214404779892722,
+                  "lng" : 101.6333238798927
+               },
+               "southwest" : {
+                  "lat" : 3.211705120107278,
+                  "lng" : 101.6306242201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ec7481082f961af941770f6928f6b5b5bccff5cc",
+         "name" : "KFC Desa Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107214298434561698899/photos\"\u003eAsif Sohrab\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtDQxOp9BHiJ7D97f5Magzi3PTA7CtunSRJ0C0EibH0v6bXvLIXwIUsKfCK8hun8_3nG0avQEjP2iwMkBTQA0oz-ry1WOYOrysClqzkYjxm-ukOT9n-Tm5E4_4mqwkx-IEhC1cL2SnuFn23qOdn659ElIGhRn6QpsIBATfL24mh9Ohmd9dHZQdw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJf9s9HQVGzDERnJdpahrpVYs",
+         "plus_code" : {
+            "compound_code" : "6J7J+6Q Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36J7J+6Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJf9s9HQVGzDERnJdpahrpVYs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 279
+      },
+      {
+         "formatted_address" : "3342, 4, Jalan BRP 3/3, Bukit Rahman Putra, 40160 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2246213,
+               "lng" : 101.5566663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.225979779892723,
+                  "lng" : 101.5580760798927
+               },
+               "southwest" : {
+                  "lat" : 3.223280120107278,
+                  "lng" : 101.5553764201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "edde0597fe8dba5fb6b916d5ce25d18beca98e31",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113042359790729491791/photos\"\u003ehafni haris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW9nE33qrh_h210JvEqcfAa50LXNEdKGil8YkQKIGwJbfQn-nVNSdtGyhb2BHRbHbiVrD5L168dQK9-SZuFgS--xaZ65TiYkTtjAYV-lxeTryEM6Z1o6GZP4CCujQklkuEhDhGcLFWssyuB61_FopaKSBGhQSiBguEcwS13LH_ifxTTU4bu277Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJWde-HBtFzDERE2xtPPxDAqI",
+         "plus_code" : {
+            "compound_code" : "6HF4+RM Sungai Buloh, Selangor",
+            "global_code" : "6PM36HF4+RM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJWde-HBtFzDERE2xtPPxDAqI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 912
+      },
+      {
+         "formatted_address" : "Jalan 54, Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2135639,
+               "lng" : 101.6328035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.214850779892722,
+                  "lng" : 101.6340908798927
+               },
+               "southwest" : {
+                  "lat" : 3.212151120107277,
+                  "lng" : 101.6313912201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b8ea505c847a4811aa7883841d54c51ac10772a9",
+         "name" : "McDonald's & McCafè Kepong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108175986755264417682/photos\"\u003eomar chia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANsJsCfwHS7EOtZGc9lLQQUw_DqUKEs7bkXsmg44o3gwXUp2vLpwSFtb4JKSbSX1ZoLHfFM2rPtMRKr_BbAiSNH8yzAp_DFMFffOlcMJbND1wpjk5sqgBmbrQl2xDstG0EhBtSRHQYKqX5gIAxZQcoytaGhQQkuisFQXYvpq5AZCnpBU1Lg8qLQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ9YjugWxGzDERD3MerlAbuxQ",
+         "plus_code" : {
+            "compound_code" : "6J7M+C4 Sungai Buloh, Selangor",
+            "global_code" : "6PM36J7M+C4"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ9YjugWxGzDERD3MerlAbuxQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1252
+      },
+      {
+         "formatted_address" : "USJ Lot KL G08-1, 2&4, Lower Ground , The Summit USJ, Persiaran Kewajipan, USJ 1, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2119674,
+               "lng" : 101.6325706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.213320779892722,
+                  "lng" : 101.6339283798927
+               },
+               "southwest" : {
+                  "lat" : 3.210621120107278,
+                  "lng" : 101.6312287201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9140cd5314fbf32786dc7f307c8779e5aefa84a",
+         "name" : "Little Taiwan",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107230280690382283165/photos\"\u003eRoland Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfMcLalROYXMTh3CToKhy79pFHhZjF71EelNDGPdUB1h4yHQBwp8cFQozOhdDLXaN1Vp0D0JDZd11G3eCoZVZ6eTsuhNoR3QT7KFideRBDH-ldrKlWN6iudu7wo888llkEhA8lye95OcxPdHuYcSi9pr7GhRZTSUvIf-Kl9Eerc2YPhYwZ33alQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJzb0VpmxGzDER2PVTIPLK1Mc",
+         "plus_code" : {
+            "compound_code" : "6J6M+Q2 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36J6M+Q2"
+         },
+         "rating" : 3,
+         "reference" : "ChIJzb0VpmxGzDER2PVTIPLK1Mc",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "5-13-5B, Restoran Jejantas, Lebuhraya Utara - Selatan, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1887825,
+               "lng" : 101.586628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.190165829892722,
+                  "lng" : 101.5880701298927
+               },
+               "southwest" : {
+                  "lat" : 3.187466170107277,
+                  "lng" : 101.5853704701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "572c0744aeddab7a61bf367b3e7e0e8ffa4d46d3",
+         "name" : "A&W Restoran Jejantas Sg Buloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100406031367591125081/photos\"\u003eKuga Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfXS1fDT4K7t4nt3eu9ZUPxZjbc8IDk_5aV7W9xcYl5teJENr127ADSzEw_ciuQa-31Cf-cT3g_Uip5FAzJ1HBcXmKYBaeePoVbr3bw-La6iGvHI5lXd3Wp6To4q91wPVEhC39bDTt-5Ls5M4dpeofCXTGhQDitYDlXhoXi04u8IIogU4VJKYIw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJo9Bq_GNPzDER-z-qudoZUyQ",
+         "plus_code" : {
+            "compound_code" : "5HQP+GM Sungai Buloh, Selangor",
+            "global_code" : "6PM35HQP+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJo9Bq_GNPzDER-z-qudoZUyQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 824
+      },
+      {
+         "formatted_address" : "Jalan Desa 1/5, Desa Aman Puri, 52100 Kuala Lumpur, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2121659,
+               "lng" : 101.6153259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.213515129892722,
+                  "lng" : 101.6166759298927
+               },
+               "southwest" : {
+                  "lat" : 3.210815470107278,
+                  "lng" : 101.6139762701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4ce99ecc0d6e0ae8c9f6f794c646e6e986a0d0bb",
+         "name" : "Pork Mee",
+         "place_id" : "ChIJKxdz-t9FzDERI2qTBurOEX8",
+         "plus_code" : {
+            "compound_code" : "6J68+V4 Sungai Buloh, Selangor",
+            "global_code" : "6PM36J68+V4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJKxdz-t9FzDERI2qTBurOEX8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jusco Metro Prima Shopping Centre, 1, Jalan Metro Prima, Metro Prima, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2132147,
+               "lng" : 101.6390662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.214774779892723,
+                  "lng" : 101.6404313798927
+               },
+               "southwest" : {
+                  "lat" : 3.212075120107278,
+                  "lng" : 101.6377317201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c10c6c0dbf3a3b8aedc8521f9c51657674a227da",
+         "name" : "Marrybrown Kepong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104152291845649083026/photos\"\u003eMizie ShashinShi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV6v0CVdxRIP6fSa1U9-ra9-To4_-V3GFXLYhwWLADwgJxN5bqfalnh6aTTEMts5e1ESlYcdVd7NVoubxKRXui0LWbYFlsQz2KhQtIpdk5R7k7nd_1D9uFo3SoiYG9ws0EhDxHcc4J99AlRX8HJt0ewePGhTBr9ZSThFsZEX5NXyhYq0kA7JH7Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ840fL0BGzDERoE67pKjQHD4",
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ840fL0BGzDERoE67pKjQHD4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "Lot 2070, Batu 18 Kg.Setia Kuang, 48050 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2397562,
+               "lng" : 101.5354461
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.241106029892723,
+                  "lng" : 101.5367959298927
+               },
+               "southwest" : {
+                  "lat" : 3.238406370107278,
+                  "lng" : 101.5340962701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1bf64dd094ad920790de01b6f59c309ad336f82f",
+         "name" : "Roti John Setia Corner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113039492924924001889/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVT2ZboNPJjdx0ZXAIDxbNCBeifXqpqXzpneCamtCU5e9uvLulAPAcPwJxnLpCDgT7JrMRIwfwOVF1cSuTmqobXs6h0g-k7k8uVXd9eVrO_u3BS20SvMyen3pVeCBumzHEhD0FvTjBCQVjob4OW2yow14GhS9ffUCh0TCowOY5TqTw4lN-Y2KDw",
+               "width" : 607
+            }
+         ],
+         "place_id" : "ChIJ6W3Ui-xFzDER-c8DCTyW8Ck",
+         "plus_code" : {
+            "compound_code" : "6GQP+W5 Sungai Buloh, Selangor",
+            "global_code" : "6PM36GQP+W5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6W3Ui-xFzDER-c8DCTyW8Ck",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "S-10-5B, Restoran Jejantas Sg Buloh, Jalan Lebuhraya Utara Selatan, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.189022,
+               "lng" : 101.58663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.190428629892722,
+                  "lng" : 101.5879377298927
+               },
+               "southwest" : {
+                  "lat" : 3.187728970107277,
+                  "lng" : 101.5852380701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9b5f902e594a64023cb2ef52798294558ce6eca",
+         "name" : "Hijrah Kitchen",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105325367594187962338/photos\"\u003eMohamed Bassyouni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZsNz72a-J_9eXX2HJspnUDHZjCVMh3Yt5SNpJBt0ojjbS9gfuL7hUe0S5YUKeTceiTh-mVkVemUkWXJEb64qgdKuIHn8HEonFEzmqhdE8cQDEpQ2tw-0UZoPidi70cNzEhApBLi7zLBpvSoIBWYt-JmiGhSxY5FdRk7nI0-Hy9LiqHKdYsghnw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJXayq2mNPzDERlO-vvikHcv8",
+         "plus_code" : {
+            "compound_code" : "5HQP+JM Petaling Jaya, Selangor",
+            "global_code" : "6PM35HQP+JM"
+         },
+         "rating" : 5,
+         "reference" : "ChIJXayq2mNPzDERlO-vvikHcv8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lot 2394, Jalan 1a/3, Bandar Baru Sungai Buloh, 47000 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2114703,
+               "lng" : 101.5645749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.212796629892722,
+                  "lng" : 101.5659009798927
+               },
+               "southwest" : {
+                  "lat" : 3.210096970107278,
+                  "lng" : 101.5632013201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8090c59493031793e3b4e923db426c161b8d21f0",
+         "name" : "KFC Sungai Buloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116651281888962284734/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf580k9Ckiy3gdq7I_jBJUHMIJpgHQ4oyE5NTTMIOX3DWX5lONA0ARUWQqNWo3KK9r2iNzuko3MvQDCuV1lnnZHIf7t97KrSbn8LsAK83PkUJVzmAixnzOPucTMVwrjo1EhBcu3yLWUnXEPXtRiED5ERXGhSgMKPrKCJ1EGMlSFyjfNRh-vfpmw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ36saqHRFzDER2dnwH7JrcX4",
+         "plus_code" : {
+            "compound_code" : "6H67+HR Shah Alam, Selangor",
+            "global_code" : "6PM36H67+HR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ36saqHRFzDER2dnwH7JrcX4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473
+      }
+   ],
+   "status" : "OK"
+}

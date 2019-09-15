@@ -1,0 +1,338 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Jalan Kangar - Alor Setar, Kampung Simpang Empat, 02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3447019,
+               "lng" : 100.1909351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.346078779892722,
+                  "lng" : 100.1923541298927
+               },
+               "southwest" : {
+                  "lat" : 6.343379120107278,
+                  "lng" : 100.1896544701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "caec89d374be8c20d259ba019cfba0e13cfd4cce",
+         "name" : "Mangga Kaww Simpang Empat Perlis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107576164154584936450/photos\"\u003eAzlan ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtsPxMMuvk2nVl6T_tNMUuUHJ4faHu4Brw56vdNLiC7Gl42lwuaYm6YGnlNS3nj3_x1_YzC9qvVMCGDDfX8yG5sri9AT9q4kQGscqXSpn-iPT9uYWT8d_HHC8X4roB2yDEhBy_a3yC5_REuwpJQGsmDpeGhS9vP9o8vmoidIK7cOfU54H8lmf9w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "plus_code" : {
+            "compound_code" : "85VR+V9 Simpang Ampat, Perlis",
+            "global_code" : "6PR285VR+V9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3040838,
+               "lng" : 100.1665585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.305435079892722,
+                  "lng" : 100.1679054298927
+               },
+               "southwest" : {
+                  "lat" : 6.302735420107278,
+                  "lng" : 100.1652057701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8bbc064bc30ffe54b422b5f7eb1f8bbb12099ea9",
+         "name" : "Mee Udang Berasap Sungai Padang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 402,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115754890017949937845/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8R-troYZpzUvy5znITNUHZfuFnLerjQnBE7Yo5I0aTu7gVC9giZHs3i_cAGZLo-t6WciJGh42t1sUAcW1WhasWkHUrrjdbn93bu4HwbBDO3aKWhLU4QQF3iub6D9Z3XOEhCSXnZBpka1l41XbvlnU4loGhQr0nSyjYaeb-i2ZsNA6Fw6YZKKkw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJH4hAEwFiSzAR2vOaN1OEJVg",
+         "plus_code" : {
+            "compound_code" : "8538+JJ Simpang Ampat, Perlis",
+            "global_code" : "6PR28538+JJ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJH4hAEwFiSzAR2vOaN1OEJVg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "41, R4,, Kampung Simpang Empat, 02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3418472,
+               "lng" : 100.1915997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.343245429892721,
+                  "lng" : 100.1929336798927
+               },
+               "southwest" : {
+                  "lat" : 6.340545770107277,
+                  "lng" : 100.1902340201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a80aeb325263bceb7e76eb5b0b92121c45f47f8",
+         "name" : "Bihun sup Periuk Besar",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118137889119252585208/photos\"\u003eMuneer Al-Samarrai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaN0Cbzj3GHhZPoU1FLt8tJMpngbib-HeFZjK64DyqRtKhRqmB1a-pJifhXNg7cTDjj4qXD1MaRNnYXNBUJx3Xqjc_COxYIm5kfZ6VDcromVvy88ZAvnANvBPNnExwAXAEhAgTpWOqcCFhYYOWJXNx_s8GhShiFbbshYSMdgsrXyfetTIQujIXg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJtbN0dGeeTDARvKVM-peQwBo",
+         "plus_code" : {
+            "compound_code" : "85RR+PJ Simpang Ampat, Perlis",
+            "global_code" : "6PR285RR+PJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJtbN0dGeeTDARvKVM-peQwBo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52
+      },
+      {
+         "formatted_address" : "Kampung Sungai Baru, 02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.334665299999999,
+               "lng" : 100.1647239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.336015879892722,
+                  "lng" : 100.1660776798927
+               },
+               "southwest" : {
+                  "lat" : 6.333316220107278,
+                  "lng" : 100.1633780201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77f7641f925cccffad27ff2e6e3c0620ca10b9a9",
+         "name" : "Aroma Paprika Western food",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108280309713266603950/photos\"\u003eWan Asyraf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyz_T39121fENpH_sGlAWrLvMNXk4AMXB09ZayA1mnkgkSa_4D2vMp_denMGWNL1FAnMPfyfYC690KYBh9fk9EHmmet3t0SoqiVPENOYoskKWGSWbs6NCedONMYPakCouEhCdzpCgTdFyMk-AU6AVOegLGhS8Xg1nIq6lDN5628jv4mAwXt3wJg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJU-ApVtmdTDARvyXeqxsvpRM",
+         "plus_code" : {
+            "compound_code" : "85M7+VV Simpang Ampat, Perlis",
+            "global_code" : "6PR285M7+VV"
+         },
+         "rating" : 4,
+         "reference" : "ChIJU-ApVtmdTDARvyXeqxsvpRM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Kampung Simpang Empat, 02700 Sanglang, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3415699,
+               "lng" : 100.1908596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.342986479892723,
+                  "lng" : 100.1921880798927
+               },
+               "southwest" : {
+                  "lat" : 6.340286820107279,
+                  "lng" : 100.1894884201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4fdce0aca253904c1cd703be2eb8d6328cedac0d",
+         "name" : "Budget Station",
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117079565757722925009/photos\"\u003eash sham\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ0S9sKJzOo4fkQAdSW_b0__8V-Lf8EM11hDwyKMznFMbul6P-TFcKznPtvCoH_PH7U9YiRo__EyjJiqQ8jW65CmEBz_TvEdY-Gx_AaeaUK2R3aAALa3ZV-tHv4yzAp7hEhDQ6vgUjZPEROXy1rWJ0uh7GhQ3R_XHCW1u-gvPjUCVfFYL3v6PIw",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJTS3b3BqfTDARiBgSTnNFaOs",
+         "plus_code" : {
+            "compound_code" : "85RR+J8 Simpang Ampat, Perlis",
+            "global_code" : "6PR285RR+J8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJTS3b3BqfTDARiBgSTnNFaOs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "No.7, KM 12, Simpang Empat,, Jalan Kangar - Alor Setar, 02700, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3398045,
+               "lng" : 100.192918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.341144179892721,
+                  "lng" : 100.1942394298927
+               },
+               "southwest" : {
+                  "lat" : 6.338444520107277,
+                  "lng" : 100.1915397701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "afca1949a54fb9540d12e5b3ee1fbbe23923ad8b",
+         "name" : "Pokok Buluh Restaurant & Homestay",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102351539743531801943/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIhX_3ReilumeRFA6RquLyjrcyz-9di5DQg320aAbZbfffgUoB4ii850Qw7dlUowvqPg-Hhm5O7cBaP_8JVB_YfIf2cc0q1sE4gOkRq3KHsF2X7s_TQOTa-S39QQ6qblQEhACe9nlKdRhlBUVjvgo3hMNGhQ73oGDYJ4dQNOMAwG80pF4ww_Z8Q",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJb5YgWV2eTDARO-m7C1E1_Mc",
+         "plus_code" : {
+            "compound_code" : "85QV+W5 Simpang Ampat, Perlis",
+            "global_code" : "6PR285QV+W5"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJb5YgWV2eTDARO-m7C1E1_Mc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "Jalan Penjara, Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4397616,
+               "lng" : 100.1957493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.441141929892722,
+                  "lng" : 100.1970804798927
+               },
+               "southwest" : {
+                  "lat" : 6.438442270107278,
+                  "lng" : 100.1943808201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2072fafdd316228f892dc8ba27cace946bf21dcc",
+         "name" : "Garden Cake House & Fast Food Centre",
+         "place_id" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "plus_code" : {
+            "compound_code" : "C5QW+W7 Kangar, Perlis",
+            "global_code" : "6PR2C5QW+W7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No 281 & 283, Jalan Kangar - Alor Setar, Taman Pengkalan Asam, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.435944800000001,
+               "lng" : 100.1882432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.43728007989272,
+                  "lng" : 100.1896231798927
+               },
+               "southwest" : {
+                  "lat" : 6.434580420107276,
+                  "lng" : 100.1869235201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "479fa4f4d526b31a9b06d010551e2fdeef1a679d",
+         "name" : "Modern Time Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105432027803622574368/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQfER7bIqcfuZL6x6qJpDTUN3lX-hGM9QYAXb_gtfj3fmPWGtCir4PMkG1lFafYHHTe7tg0uhBvwvUdELLTGrjGMaodKOgSyO2tPrflM2KNB7E_U8cPpvJBDwgMmWF-ZZEhCYgOLkmeTJGFfWTBWNZfYwGhRfgGbqkQDoxhDlaGjn1_Qo8tNKcQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "plus_code" : {
+            "compound_code" : "C5PQ+97 Kangar, Perlis",
+            "global_code" : "6PR2C5PQ+97"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      }
+   ],
+   "status" : "OK"
+}

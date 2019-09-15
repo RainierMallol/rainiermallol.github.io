@@ -1,0 +1,645 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Jalan Abang Aing, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2368766,
+               "lng" : 111.4598185
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.238155229892722,
+                  "lng" : 111.4611966298927
+               },
+               "southwest" : {
+                  "lat" : 1.235455570107278,
+                  "lng" : 111.4584969701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fddcddb76e94ffd3dbba6dfe851b159204160f3f",
+         "name" : "KFC Sri Aman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJVSDxGDNI-TERd0ZkVCGINW8",
+         "plus_code" : {
+            "compound_code" : "6FP5+QW Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP5+QW"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJVSDxGDNI-TERd0ZkVCGINW8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 329
+      },
+      {
+         "formatted_address" : "Sublot No.5, Parent Lot 792, Block 2, Block 2, Simanggang Town District, Bandar Sri Aman, 95000, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.228536,
+               "lng" : 111.4595954
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.229850229892722,
+                  "lng" : 111.4609576798927
+               },
+               "southwest" : {
+                  "lat" : 1.227150570107278,
+                  "lng" : 111.4582580201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32a2fccd8a97d3962817abc554fc18410e765310",
+         "name" : "KFC @ Sri Aman",
+         "place_id" : "ChIJhZK0htJJ-TEROZ1rzfIhvZc",
+         "plus_code" : {
+            "compound_code" : "6FH5+CR Sri Aman, Sarawak",
+            "global_code" : "6PHH6FH5+CR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJhZK0htJJ-TEROZ1rzfIhvZc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Jalan Kejatau, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2363166,
+               "lng" : 111.4582086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.237667029892722,
+                  "lng" : 111.4596314298927
+               },
+               "southwest" : {
+                  "lat" : 1.234967370107278,
+                  "lng" : 111.4569317701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e734c0e319d0be5187efa62201498f45c66b80e",
+         "name" : "SugarBun @ SuperSave Sri Aman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ4ZQkRTNI-TERw2y7B5_4Xqo",
+         "plus_code" : {
+            "compound_code" : "6FP5+G7 Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP5+G7"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ4ZQkRTNI-TERw2y7B5_4Xqo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "Lorong, 1, Jalan Bayu, Taman Bayu B, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2265264,
+               "lng" : 111.460704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.227863929892722,
+                  "lng" : 111.4620471298927
+               },
+               "southwest" : {
+                  "lat" : 1.225164270107278,
+                  "lng" : 111.4593474701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "303c24588e2d757547a32c8c6a5f6de607d8f2ba",
+         "name" : "The Burger Project",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ3TZjfsVJ-TERtR6at9ZeMtc",
+         "plus_code" : {
+            "compound_code" : "6FG6+J7 Sri Aman, Sarawak",
+            "global_code" : "6PHH6FG6+J7"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ3TZjfsVJ-TERtR6at9ZeMtc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Sublot 19 & 20, Parent lot 1519, Blk 2, Simanggang Town District, 95000 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.236842,
+               "lng" : 111.459843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.238139779892722,
+                  "lng" : 111.4612135298927
+               },
+               "southwest" : {
+                  "lat" : 1.235440120107278,
+                  "lng" : 111.4585138701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72471a10ebc1fd7a0608d85aadb989fde859cb2e",
+         "name" : "KFC",
+         "place_id" : "ChIJ-6v2GDNI-TERW2TDqwFzElc",
+         "plus_code" : {
+            "compound_code" : "6FP5+PW Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP5+PW"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ-6v2GDNI-TERW2TDqwFzElc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "Lot 869 Block 2, Simanggang Town District, Jalan Club, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2386618,
+               "lng" : 111.4623967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.239969179892722,
+                  "lng" : 111.4637801798927
+               },
+               "southwest" : {
+                  "lat" : 1.237269520107278,
+                  "lng" : 111.4610805201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "34c2d1cdd9d9391264a285c8afcbff8d8f6fe555",
+         "name" : "Benak Sensation",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ-xJcZzJI-TERXRlywFSgKxc",
+         "plus_code" : {
+            "compound_code" : "6FQ6+FX Sri Aman, Sarawak",
+            "global_code" : "6PHH6FQ6+FX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ-xJcZzJI-TERXRlywFSgKxc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 147
+      },
+      {
+         "formatted_address" : "Pekan Sri Aman, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2386807,
+               "lng" : 111.4624522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.239995779892722,
+                  "lng" : 111.4638295798927
+               },
+               "southwest" : {
+                  "lat" : 1.237296120107278,
+                  "lng" : 111.4611299201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b6463263048ef17e15f0a45380e314a6087cef8",
+         "name" : "STREET Lounge Dine",
+         "place_id" : "ChIJncp-bjJI-TERwaZ5Z8k1rBg",
+         "plus_code" : {
+            "compound_code" : "6FQ6+FX Sri Aman, Sarawak",
+            "global_code" : "6PHH6FQ6+FX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJncp-bjJI-TERwaZ5Z8k1rBg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "formatted_address" : "Jalan Paya, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2356381,
+               "lng" : 111.4589059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.236952429892722,
+                  "lng" : 111.4602608798927
+               },
+               "southwest" : {
+                  "lat" : 1.234252770107278,
+                  "lng" : 111.4575612201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e84d034475231c19fb365730ba1eabe344093df6",
+         "name" : "Tasty Chicken Rice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJGTerysxJ-TER1DbhWQf9xKs",
+         "plus_code" : {
+            "compound_code" : "6FP5+7H Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP5+7H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJGTerysxJ-TER1DbhWQf9xKs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93
+      },
+      {
+         "formatted_address" : "No. 123, Jalan Council, Pekan Sri Aman, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2374089,
+               "lng" : 111.4619213
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.238737829892722,
+                  "lng" : 111.4632896298927
+               },
+               "southwest" : {
+                  "lat" : 1.236038170107278,
+                  "lng" : 111.4605899701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ea870dce1b5f2f8feba02b4e8916d090a5fe2d43",
+         "name" : "Chuan Hong Restaurant",
+         "place_id" : "ChIJZXEljTJI-TERd9acuzZCNeA",
+         "plus_code" : {
+            "compound_code" : "6FP6+XQ Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP6+XQ"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJZXEljTJI-TERd9acuzZCNeA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "95700 Betong, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4037657,
+               "lng" : 111.5362697
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.405120579892722,
+                  "lng" : 111.5375591798927
+               },
+               "southwest" : {
+                  "lat" : 1.402420920107278,
+                  "lng" : 111.5348595201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "119e1c7777c9c2de15a57a08f38c2fce076298ce",
+         "name" : "SugarBun @ Betong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ12CcjDo--TER75v58gqO_1M",
+         "plus_code" : {
+            "compound_code" : "CG3P+GG Betong, Sarawak",
+            "global_code" : "6PHHCG3P+GG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ12CcjDo--TER75v58gqO_1M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "1-2, BANGUNAN YAYASAN SARAWAK, Jalan Club, Pekan Sri Aman, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2373978,
+               "lng" : 111.460948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.238747379892722,
+                  "lng" : 111.4622980298927
+               },
+               "southwest" : {
+                  "lat" : 1.236047720107278,
+                  "lng" : 111.4595983701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed383d8bb5ebc2a25794c3bb0fd77a3d78865a65",
+         "name" : "Tandang Sari",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJAX_--jJI-TERGPafqtpl2Mg",
+         "plus_code" : {
+            "compound_code" : "6FP6+X9 Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP6+X9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJAX_--jJI-TERGPafqtpl2Mg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 265
+      },
+      {
+         "formatted_address" : "Jln Hollis, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.209688,
+               "lng" : 111.4774472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.211059279892722,
+                  "lng" : 111.4788365298927
+               },
+               "southwest" : {
+                  "lat" : 1.208359620107278,
+                  "lng" : 111.4761368701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4b4c29390323e02417ba239cb6caad6731ba6def",
+         "name" : "JOE CORNER",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJl9lrtgI2-TERJT9LscrKPcI",
+         "plus_code" : {
+            "compound_code" : "6F5G+VX Sri Aman, Sarawak",
+            "global_code" : "6PHH6F5G+VX"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJl9lrtgI2-TERJT9LscrKPcI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119
+      },
+      {
+         "formatted_address" : "95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.226856,
+               "lng" : 111.466307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.228187279892722,
+                  "lng" : 111.4676334298927
+               },
+               "southwest" : {
+                  "lat" : 1.225487620107278,
+                  "lng" : 111.4649337701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5894fbcea7f33c8449666603ae3749dd0e0155ac",
+         "name" : "LaSK CAFE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJnSAFftBJ-TER3rkhia44e-4",
+         "plus_code" : {
+            "compound_code" : "6FG8+PG Sri Aman, Sarawak",
+            "global_code" : "6PHH6FG8+PG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJnSAFftBJ-TER3rkhia44e-4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73
+      },
+      {
+         "formatted_address" : "Jalan Kejatau, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2363166,
+               "lng" : 111.4578438
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.237665829892722,
+                  "lng" : 111.4591177798927
+               },
+               "southwest" : {
+                  "lat" : 1.234966170107278,
+                  "lng" : 111.4564181201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35a0a75ee4980d85faff3a22624ba5d14fabb65b",
+         "name" : "Singapore Chicken Rice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJR1A3WjNI-TERV8EEXb5aFxg",
+         "plus_code" : {
+            "compound_code" : "6FP5+G4 Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP5+G4"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJR1A3WjNI-TERV8EEXb5aFxg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Pekan Sri Aman, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2373383,
+               "lng" : 111.4617172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.238716679892722,
+                  "lng" : 111.4631245298927
+               },
+               "southwest" : {
+                  "lat" : 1.236017020107278,
+                  "lng" : 111.4604248701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "250a614b97efcc7a22c5abf204f5f07efafd2ec7",
+         "name" : "Century Garden",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJXQyP8jJI-TERBbf_lqC5-po",
+         "plus_code" : {
+            "compound_code" : "6FP6+WM Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP6+WM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJXQyP8jJI-TERBbf_lqC5-po",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "Lot 10/G, Rumah Kedai MARA, 1, Jln Hospital, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2339513,
+               "lng" : 111.4645906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.235304579892722,
+                  "lng" : 111.4659278298927
+               },
+               "southwest" : {
+                  "lat" : 1.232604920107278,
+                  "lng" : 111.4632281701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91404833d6a9cbbf5fbc57269e141dd054374898",
+         "name" : "Farihin Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJeRqiUM1J-TERumTtZ5D-JHU",
+         "plus_code" : {
+            "compound_code" : "6FM7+HR Sri Aman, Sarawak",
+            "global_code" : "6PHH6FM7+HR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJeRqiUM1J-TERumTtZ5D-JHU",
+         "types" : [
+            "restaurant",
+            "local_government_office",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 74
+      },
+      {
+         "formatted_address" : "662, Jalan Hospital, Pekan Sri Aman, 95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2353267,
+               "lng" : 111.4624859
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.236676529892722,
+                  "lng" : 111.4638357298927
+               },
+               "southwest" : {
+                  "lat" : 1.233976870107278,
+                  "lng" : 111.4611360701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d39815eb804da308c1f0265278a40d9b369b0d65",
+         "name" : "Nono Cafe (Muslim)",
+         "place_id" : "ChIJl5cFmz5J-TERAgHix2zdWH4",
+         "plus_code" : {
+            "compound_code" : "6FP6+4X Sri Aman, Sarawak",
+            "global_code" : "6PHH6FP6+4X"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJl5cFmz5J-TERAgHix2zdWH4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "95000 Sri Aman, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.2088436,
+               "lng" : 111.4773277
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.210169029892722,
+                  "lng" : 111.4786883298927
+               },
+               "southwest" : {
+                  "lat" : 1.207469370107278,
+                  "lng" : 111.4759886701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e117b14d8798afcf299729699e02f8e9d14b34c",
+         "name" : "restoran asam pedas",
+         "place_id" : "ChIJP2HTMx02-TERb76uLpLZDt8",
+         "plus_code" : {
+            "compound_code" : "6F5G+GW Sri Aman, Sarawak",
+            "global_code" : "6PHH6F5G+GW"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJP2HTMx02-TERb76uLpLZDt8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Gr. Floor, Lot 1968 & 1969 on Parent Lot 1924, Block 9, Batu Api Land District, 95700 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4049337,
+               "lng" : 111.5356832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.406293479892722,
+                  "lng" : 111.5370511798927
+               },
+               "southwest" : {
+                  "lat" : 1.403593820107278,
+                  "lng" : 111.5343515201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6d2c1879b393e600e031e099a3e358c08c1648c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJNcVOuzo--TERcnIVOqRXVk4",
+         "plus_code" : {
+            "compound_code" : "CG3P+X7 Betong, Sarawak",
+            "global_code" : "6PHHCG3P+X7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJNcVOuzo--TERcnIVOqRXVk4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188
+      }
+   ],
+   "status" : "OK"
+}

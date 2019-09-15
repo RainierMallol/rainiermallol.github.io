@@ -1,0 +1,390 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lot 325 - 326, Main Road, 31100 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.818804999999999,
+               "lng" : 101.073443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.820199079892721,
+                  "lng" : 101.0748199798927
+               },
+               "southwest" : {
+                  "lat" : 4.817499420107278,
+                  "lng" : 101.0721203201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "74b9137eba8a69ce593e88f0f1669c1cfb1fe618",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101624612832340791456/photos\"\u003eHannah Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzue2NP8alrVjS2kzyXA0XVw-2S2o5qM2xj80222pt9uWKRpPDHX5VZq5MS3CWH33-xS4JMg3HeWTzls2MdSEfw-VWzrB82itAqxgaj2pENwy-U0b44OJ9cjEoSbF2MPREhChUvb6_APELSy7eY5tt_A8GhRgBXGHXUrjHuaDIe8VJNVRhAR6tw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJI1MrZR6ayjERiNAJtRs6Otc",
+         "plus_code" : {
+            "compound_code" : "R39F+G9 Sungai Siput, Perak",
+            "global_code" : "6PP3R39F+G9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJI1MrZR6ayjERiNAJtRs6Otc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 253
+      },
+      {
+         "formatted_address" : "1955, Jalan Besar, Kampung Baharu Sungai Buloh, 31100 Sungai Siput, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8254811,
+               "lng" : 101.0587967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.826873429892722,
+                  "lng" : 101.0601749798927
+               },
+               "southwest" : {
+                  "lat" : 4.824173770107278,
+                  "lng" : 101.0574753201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f404833d268db2e09190ba346d5ec6dd9d98769",
+         "name" : "Gerai Lemang",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117434749596325267967/photos\"\u003ehideakitam777\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxlVQiQW5EuaxU37XmXrZ74MvqNsn463utlGdBb9y6h2dF-Gy7X2cz3yhJLKdvE-5iCfA0mR_8EkBX16ZBB1PmKRomXyCT3y7lBKPosSJ5YwlfLR7MB0vTpYTAn0fqIKHEhD3a1VbhMWJgjj-YWSoITayGhSzJA92CyfTuh1O1pHr2YLFSfRAWQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJl8bhjZKZyjERbbL0In3VGfA",
+         "plus_code" : {
+            "compound_code" : "R3G5+5G Sungai Siput, Perak",
+            "global_code" : "6PP3R3G5+5G"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJl8bhjZKZyjERbbL0In3VGfA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "Kampung Makmor, 31100 Sungai Siput, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.918773,
+               "lng" : 101.0526682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.920057579892722,
+                  "lng" : 101.0540016298927
+               },
+               "southwest" : {
+                  "lat" : 4.917357920107278,
+                  "lng" : 101.0513019701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6eaee4ee88376efa757b52a035fbdf0254fa1adb",
+         "name" : "burgermore",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112553810214241514707/photos\"\u003eHafiz Othman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeErcE3qSWBJB8B-f7jJTgAaKlfTir7XkFMmPOEuQb4uzRjJLk-utk1m73_TF_FLmcqyztrQmXuIiiMbO15Mfj1h71-VnTPfYE5eEA-4M4GPfpLDqMMPMN_9dlEv8aKTHEhBDgONV8Dn-aE9oTeVbMaKEGhTZPI4slS-su2Vr-E2eJ-HIvFtSAw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJd04IR4yeyjERHenpTdXOvCU",
+         "plus_code" : {
+            "compound_code" : "W393+G3 Sungai Siput, Perak",
+            "global_code" : "6PP3W393+G3"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJd04IR4yeyjERHenpTdXOvCU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Jalan Ipoh, Taman Pertama, 31100 Sungai Siput, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.812408,
+               "lng" : 101.086568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.813849929892722,
+                  "lng" : 101.0880029298927
+               },
+               "southwest" : {
+                  "lat" : 4.811150270107278,
+                  "lng" : 101.0853032701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c044d308e8669c82aaccb068191c38a1e5483b66",
+         "name" : "MH Sentral Sg. Siput",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105496430346277687184/photos\"\u003eMH Sentral Sg. Siput\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPJiu4N8qWrY2FtHz2aRTTMlx9DBEk5i0JIza7K41v9ADoGXojkj5ISA3Agi8as3S7PnOB6XLn8YwCmEFYigN910NzHGsjohbFfEvl5kMJX8feGn9pn2pB5MVOQWU91EJEhC19RvnuIzV91GCPQAwTniXGhQHCX5H58t6tsEphZ1i1b0BdC1ocA",
+               "width" : 1240
+            }
+         ],
+         "place_id" : "ChIJb3BvFQ6ayjERK11WPJGijO8",
+         "plus_code" : {
+            "compound_code" : "R36P+XJ Sungai Siput, Perak",
+            "global_code" : "6PP3R36P+XJ"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJb3BvFQ6ayjERK11WPJGijO8",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 487
+      },
+      {
+         "formatted_address" : "Lot 147, Jalan Besar, Sungai Siput, 32400 Air Tawar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8188175,
+               "lng" : 101.0734411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.820207479892722,
+                  "lng" : 101.0748155298927
+               },
+               "southwest" : {
+                  "lat" : 4.817507820107278,
+                  "lng" : 101.0721158701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "75b3f42c9f2619a9e090c829dd8cd64752ec6ecf",
+         "name" : "KFC Air Tawar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115999319238049408419/photos\"\u003ekarthik karthik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnZ0ExPRoYKbTK6Wa4ITnFD_OFmDKgOmW0pVYBojE0k-bjWsY0o8s6jmPEPxcf68v68Lj6itMs2r3veMJSX-zbLQctGFrMk4ivZpAqMYMarcH8J1uNbjA3fjokkn3b10lEhA_iw-yZadAmIwWC_JikSTzGhSOw5Pr-zSzOzUfwOSCwlJLZYSMtw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJFRyAxzUoyzERDb8LQzovRDA",
+         "plus_code" : {
+            "compound_code" : "R39F+G9 Sungai Siput, Perak",
+            "global_code" : "6PP3R39F+G9"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJFRyAxzUoyzERDb8LQzovRDA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 184
+      },
+      {
+         "formatted_address" : "Sungai Siput, 31100 Sungai Siput, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.830130599999999,
+               "lng" : 101.0799158
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.831544829892721,
+                  "lng" : 101.0812645298927
+               },
+               "southwest" : {
+                  "lat" : 4.828845170107277,
+                  "lng" : 101.0785648701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81622821c5d25b17cd319e18f517ada224a5db93",
+         "name" : "Marrybrown Sg. Siput",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105988328570051938886/photos\"\u003eFirshaz Store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVNBy45KOJIDjixwJUN-Uq7CNvUY6HFRNs2FUjNnRxkiDLiR-_lCjdhk1Q465I0JWaNVL0QJ8B4VTKcWsZa1G3mlXVAr_e4Ll9jvb_ZL1V-vNc2XyiAEpzt_GvDPaZQGwEhDY1DHM_Vo_a-m9q9XvQj6iGhTQuLqg-5UkICavhsL6zcgC_qdlXw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJOzbf8CSayjERiRSL8L5v88A",
+         "plus_code" : {
+            "compound_code" : "R3JH+3X Sungai Siput, Perak",
+            "global_code" : "6PP3R3JH+3X"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJOzbf8CSayjERiRSL8L5v88A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "1, Kampung Tersusun Keledang Utama, 31100 Sungai Siput, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8014147,
+               "lng" : 101.1010248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.802737129892722,
+                  "lng" : 101.1023037298927
+               },
+               "southwest" : {
+                  "lat" : 4.800037470107278,
+                  "lng" : 101.0996040701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f6ae5fc620eeb2d934644d8eb275adc3a9663584",
+         "name" : "Pagoda Foods (Malaysia)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105744684893360033732/photos\"\u003eFS Trading\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbqZicybvzBWV5DDJQsqroWe25IBbERyjAXsSQVnXRY-v-oRWZ4QjGK2yYL-iQqXjP0bQC3e-wAetdEr5EXEyIT0NywH0IJEY3bsCFPHs5XKSlle8ydDCaacHAXZtzOaqEhDRCRS0-xx9ZAr8DnebsikwGhSLeDzGmNF3XBq8B4JqH_f4K1VgUw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJOTd_k52QyjERmCFI16fKwdg",
+         "plus_code" : {
+            "compound_code" : "R422+HC Sungai Siput, Perak",
+            "global_code" : "6PP3R422+HC"
+         },
+         "price_level" : 2,
+         "rating" : 1.9,
+         "reference" : "ChIJOTd_k52QyjERmCFI16fKwdg",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "127, Kawasan Perindustrian Ringan Fasa 2, 31100 Sungai Siput, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.820037999999999,
+               "lng" : 101.09753
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.821383329892722,
+                  "lng" : 101.0988248798927
+               },
+               "southwest" : {
+                  "lat" : 4.818683670107278,
+                  "lng" : 101.0961252201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ce4b83a04daa65f658d35fd13e7b62abbf512dfa",
+         "name" : "Tai Loong Food Industries (M) Sdn. Bhd.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100148370786490537250/photos\"\u003eTai Loong Food Industries (M) Sdn. Bhd.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxc0lDUpD3N1aWJaEEOeI57oYLuC7eYL36sJ0yn5-WndGA4kShApW-DPApHkaFeqzzU7HcJ4ShMt52Ygufslj-W3rNnM7csExKOKS5bRy390KsmXHoJKWlgp_8aEOjSBIEhBkcIpGzqIgQ_OeWDmkEv7TGhQUuUivgLAEnQ0GhWSpwmW-Q_CZlQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ-9nos2uayjERuETkMiSRknI",
+         "plus_code" : {
+            "compound_code" : "R3CX+22 Sungai Siput, Perak",
+            "global_code" : "6PP3R3CX+22"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ-9nos2uayjERuETkMiSRknI",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Ipoh Town No.1, Lot 1, Persiaran Komersial 1, Komersial Water Front, Sungai Siput, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8222334,
+               "lng" : 101.088923
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.823655329892721,
+                  "lng" : 101.0902593298927
+               },
+               "southwest" : {
+                  "lat" : 4.820955670107277,
+                  "lng" : 101.0875596701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0299d2500cc54177fee14c5d9f097eaa66cd01bc",
+         "name" : "Marrybrown",
+         "place_id" : "ChIJQ3b07xWayjERby-yFnT7NzU",
+         "plus_code" : {
+            "compound_code" : "R3CQ+VH Sungai Siput, Perak",
+            "global_code" : "6PP3R3CQ+VH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQ3b07xWayjERby-yFnT7NzU",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

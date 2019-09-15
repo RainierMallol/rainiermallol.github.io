@@ -1,0 +1,882 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAAHerWHFaEQPdVBQG315dLCEbpc39VUw0_VwiP3Y38S5hsjI75hbQQWGTMhylUvXvr12JLJcCXwQIS7jJFXg0Flhn98kWsU385N5VHNdjSXvmgSUj_VnyYv3Ux4fg4w1Kp__FK3D-gw2QmshfMRrFwDqT6H649MtabfaQt5Ob16EOQn2ycZEftlpf0_c5MZhy5tFZF--mDz5AGVQpiOhijiTtoYxa9p5Qs2lg9lnkNVyNIk3HXa34nLM7BcmYgXE936ilK75fXGYF211RitCI6CkKXdXrvivl3pIrOtbBrkdTlFYhBb1VZPltMg-BcUH6DHhAhsWhOoZQJv3kVWKrJivUT5YyPJhf2Hn2TwtSXcMELiSuwgNe2fM5e6KIOv_QrVHjKPHUJJyXu2xnwJsw0kYDHk6gtOjNgcQEkdQqjJ4RdDwYxOVi50J2shwUZIVG2KuMmRmlZYUcosQ9FUGyUiJngQr5SmvCoiJyaSBRtfuuhHH3jsutiZVeDcgT7SeLBEmD4gpQKft9nDmuoEb2xEsmpl82XE-yA2_HN_9tV2v0RS8Aff_3aQ44TZXkG4VFMcAXMlLnmZAkJHluaDeY26ziBJ3lnEroHli_GY4s1Le4OxuF3ZrTmVuCNkcwD1h5NhypMFFvtfAZcCl1j1F_wmHfC5ZDYQKRzvLhSVOqPTr5EhAtbyJ3mxU1wtQEdWxjZIDzGhSv9kkOkC9q8yLl7nadfb0NRZJORQ",
+   "results" : [
+      {
+         "formatted_address" : "Lapangan Terbang, 87000 Labuan, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.294465199999999,
+               "lng" : 115.2492156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.295815479892722,
+                  "lng" : 115.2505661798927
+               },
+               "southwest" : {
+                  "lat" : 5.293115820107278,
+                  "lng" : 115.2478665201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e41c2d08f50666897e36bdd25af18453b18fbfa2",
+         "name" : "McDonald's Labuan Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117671507630188729245/photos\"\u003eMohd. Razi Safarudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOVgUvKiVEGMo4M_PhRkw72CugM6QhEMuNJZsgaYNNqHvgo612vsmusrI_8aD8L7kssz1CregfOM7D8fLsa7tUIIGVTQOkzhY6TSwwwHyUMwucunP8FSb2G8CKaDzRTVCEhCn1tK4GQATxxZCIilXENYKGhTh95P2AgBDf9N5je4sCkdVVAfFAg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJr0d2n_MYIzIR9Ufl1TQuZIo",
+         "plus_code" : {
+            "compound_code" : "76VX+QM Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76VX+QM"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJr0d2n_MYIzIR9Ufl1TQuZIo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 231
+      },
+      {
+         "formatted_address" : "Lot 56, Jalan Merdeka, Bandar Labuan, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.277448199999999,
+               "lng" : 115.2425145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.278761579892722,
+                  "lng" : 115.2438501298927
+               },
+               "southwest" : {
+                  "lat" : 5.276061920107278,
+                  "lng" : 115.2411504701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a59b6d144ce27abe95377ce3fa0b19301b5c13c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175069949421194790/photos\"\u003eYIN MIN英民\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0l9LzurkP0ZD7VfQX1mWP9RetAP0EUXHjCmsvnu3jFYr_kc0N2qSm6unbUHXcJtjM2TXu60TgTP0ZFEDX1C1CfHvWh8vagNX2PzqPyZolWlSbqNuloaAz8Kr_SNnP69uEhD-5LXGpwgRMMdsxfzmB129GhReFJg6PU_2381kmzfJjyhgyYRpmg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJUQo3o94YIzIRzffI-AqP6o4",
+         "plus_code" : {
+            "compound_code" : "76GV+X2 Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76GV+X2"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJUQo3o94YIzIRzffI-AqP6o4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84
+      },
+      {
+         "formatted_address" : "700, Bandar Labuan, 87000 Victoria, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.277775699999999,
+               "lng" : 115.2437721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.27914027989272,
+                  "lng" : 115.2450837798928
+               },
+               "southwest" : {
+                  "lat" : 5.276440620107277,
+                  "lng" : 115.2423841201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0d7fb50dcfdc6fe5aad9f8fea35390f981603959",
+         "name" : "Marrybrown Labuan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100083139095265464428/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVwvq0Rv8MQcwA7fm12NUi7owSLSXE3v5jrYkrBHxSNIA0SZgjJE05OVzdZClcDuuRKOc890fq1sfOZXSWFc53PIxqGSR7HIq0-OflvkDdybT3_gaJcDr4EYU7XsGfuPPEhBKh7uK-P9a-C2ruqxlZh4hGhTe8MEVvkTwNJ-VXvBEQZcYck4v_g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ7ZyWatwYIzIR8mopGWhT5aE",
+         "plus_code" : {
+            "compound_code" : "76HV+4G Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76HV+4G"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ7ZyWatwYIzIR8mopGWhT5aE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "Jalan Merdeka, Bandar Labuan, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.278207699999999,
+               "lng" : 115.2407673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.279512629892722,
+                  "lng" : 115.2421061298927
+               },
+               "southwest" : {
+                  "lat" : 5.276812970107279,
+                  "lng" : 115.2394064701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de5632f868f7ff053f39c87172bb05fab96c56fb",
+         "name" : "SugarBun Labuan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106672329530649845261/photos\"\u003eherwin radin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAANPvueeKD8Z0i4Cqg1r1fQw95MSkHMpmeu7Nzaysrk3N8WSnj1j8gbZVuYJYylhUWC3z5bBhYcsY0Tu5VXSlx6OUaKjPSM_Pq8BPMZnksuNrL-GwQPTeE8R_XwMa5DfBGEhDmmY4zMcsCH8g7UoUV-SX8GhQOf9I3RLT4ksPrBHJVK3bkJltoYw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJAfR9p94YIzIRaNjTT9cvwJk",
+         "plus_code" : {
+            "compound_code" : "76HR+78 Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76HR+78"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJAfR9p94YIzIRaNjTT9cvwJk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 106
+      },
+      {
+         "formatted_address" : "Unit C-003, Jalan Merdeka, Labuan, 87000, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2761589,
+               "lng" : 115.2488662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.277145329892722,
+                  "lng" : 115.2501120798927
+               },
+               "southwest" : {
+                  "lat" : 5.274445670107278,
+                  "lng" : 115.2474124201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bd7463ac2b0b7a7b0c71efe03426c79a41642395",
+         "name" : "KFC @ Financial Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100944445547896606359/photos\"\u003eJason Kelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt9NAv53q2ss__8zE1lOsBr2GlN88g3ShDru2mN6TugUCJ9lvUa3xvVO7yHSP_FB9CswyaBgFSeKd0FPg9xJs2vLfC7NMcLOoQVSo9GsTaJm9AQ8ePRC6Rwa-fJ44RF9cEhCkJFrC5n5AC9ChWZPfw-CpGhScOzfdAgyLgonIlg9ITis8qd7dcQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ608GpN4YIzIR9nYt1yz5rbg",
+         "plus_code" : {
+            "compound_code" : "76GX+FG Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76GX+FG"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ608GpN4YIzIR9nYt1yz5rbg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 73
+      },
+      {
+         "formatted_address" : "87000 Victoria, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2938816,
+               "lng" : 115.2498838
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.295172929892721,
+                  "lng" : 115.2511389298927
+               },
+               "southwest" : {
+                  "lat" : 5.292473270107277,
+                  "lng" : 115.2484392701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "335ba5dfa7d9c5f8271444446ac55db1b8eb943d",
+         "name" : "Pezzo Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105140039200974156015/photos\"\u003eDaisy Daisy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaznlIj1AACgGyPm0HTXVAxOkQLCuAuaaxvWhVFX9qmzNmjqyXg123hScEKyQZV-LLULkQbqBA1X-MxXFtu0ONCg_LuQZc-ZPYBprqIIMQYHBcz-R8oP92Lr96TzxatWBEhARkc9GBXeulBreR7FEv8CQGhQlhIuLwH1VV-vPnQvf6xautGH_vA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJv_dn7PAYIzIRECMJ3nwtUOM",
+         "plus_code" : {
+            "compound_code" : "76VX+HX Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76VX+HX"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJv_dn7PAYIzIRECMJ3nwtUOM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lot C19 (Corner Lot), Jalan Kemajuan / Ujong Pasir, 87000 Labuan, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2814326,
+               "lng" : 115.2399358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.282810579892721,
+                  "lng" : 115.2412555298927
+               },
+               "southwest" : {
+                  "lat" : 5.280110920107277,
+                  "lng" : 115.2385558701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "23faf975211be7407472cf30dadf1938bbf201d0",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106299422076039778655/photos\"\u003eNoorazlan Noordin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGWC1GUFyv3xspbi9bovDfoG_2k8UvMQOrJinZx65RLHdmr5QqwGv1u6G9LF6gokEwWNLtdVB9FlkRyZFm3u8dN4_RU2YpOLJ3l1_YDkkF7ue-WC9FDFQaWLEWuIlkXrSEhCWzzQwQHskWI32zQsW290iGhSRu7mnmTVqbOui5PWyHVR7RhIFTQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ6eTvKN4YIzIRsCVfz3WZOT8",
+         "plus_code" : {
+            "compound_code" : "76JQ+HX Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76JQ+HX"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ6eTvKN4YIzIRsCVfz3WZOT8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 329
+      },
+      {
+         "formatted_address" : "Near Main Road Kg.Sg.Bedaun 87000, 87000 Labuan, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3031067,
+               "lng" : 115.2072454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.304581379892722,
+                  "lng" : 115.2086198298928
+               },
+               "southwest" : {
+                  "lat" : 5.301881720107279,
+                  "lng" : 115.2059201701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "987e3468d0ffd0ede535c859afa5d29b49e7437c",
+         "name" : "Brotherhood Street Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110733618614475439085/photos\"\u003emohd izz mohd yacob\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz1Lae6MDtJqrlprqsxVyPZYwYKEPPHCJANrJ5lXWPO9DchqYkrNg5qqq1lB1nKCA9eeJPYILC5rzGGtP4YacI4VxsSrHWVDAUT7yXDfdnoP7cO6CUsB9VRV13ZoP9BlNEhBZSDf-O54ftk87MeYY5OH-GhQK9MnY62UKQjB3szyAvx0o8UGsmg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJpzSWFVcZIzIReEtIrxtPTj0",
+         "plus_code" : {
+            "compound_code" : "8634+6V Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ8634+6V"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJpzSWFVcZIzIReEtIrxtPTj0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Financial Park, 87000 Labuan, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.276146799999999,
+               "lng" : 115.2493595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.277913879892722,
+                  "lng" : 115.2508107298927
+               },
+               "southwest" : {
+                  "lat" : 5.275214220107278,
+                  "lng" : 115.2481110701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7a2b7148479f7e3b044461fc113ac00e9382e634",
+         "name" : "Sugarbun Financial Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104434139072941529176/photos\"\u003eNazurah Aliamat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_pv13M2SIAUs83bjs2KKN_bLI-jIw5IvGUU_E22zM5bFnb_SDgF-twRw_MVQpoHnSmJlGnbbXleTEJSziOIuTwfGaIhq2lLzHpQzNo3StDAmwynqFSS20j9cLSXXe71REhDJwt1KWG2tdWmzUwjStErnGhQaJ4UhFzJ5vbLh7K0lvcKCj3kngQ",
+               "width" : 4144
+            }
+         ],
+         "place_id" : "ChIJcQk1sMQZIzIRQbxLwKra7Xc",
+         "plus_code" : {
+            "compound_code" : "76GX+FP Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76GX+FP"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJcQk1sMQZIzIRQbxLwKra7Xc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Labuan Complex, C003 & D002 Podium Level, Financial Park, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2774325,
+               "lng" : 115.2425094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.278754179892722,
+                  "lng" : 115.2438482798927
+               },
+               "southwest" : {
+                  "lat" : 5.276054520107278,
+                  "lng" : 115.2411486201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cd62bde1b67a98e9cfc8683bcce0ac9595479ca1",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104689229209127607311/photos\"\u003eizzatfirdaus1\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB2IVHLaN-FAsz3ysl5pIoP8KsKW7HglxjTLcMX8aewPG3fXgQSG50ZkgNfedxs5DEAFiD6q3c_w2mAPYnouVc_kXfXasEBYNs_JkTwjOfUpcnInbfoN73d9Oo7I5mkJNEhB0An7RSkAFIlbLesytOhEiGhQARK0phHYXbDb6lW8BZTOHrWAMBA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJe6q_HNwYIzIRDcULvkvHps0",
+         "plus_code" : {
+            "compound_code" : "76GV+X2 Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76GV+X2"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJe6q_HNwYIzIRDcULvkvHps0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 261
+      },
+      {
+         "formatted_address" : "U 0133, Jalan Bunga Mawar, Labuan, Malaysia, 87000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.291322,
+               "lng" : 115.245909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.292807279892722,
+                  "lng" : 115.2474031798927
+               },
+               "southwest" : {
+                  "lat" : 5.290107620107278,
+                  "lng" : 115.2447035201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5bf1ce4b90442fcc2e950b8f65a71d77fc715dfc",
+         "name" : "Aladdin Fast Food Centre",
+         "place_id" : "ChIJtcHO0foYIzIRX7arvCGd1W4",
+         "rating" : 0,
+         "reference" : "ChIJtcHO0foYIzIRX7arvCGd1W4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Gerai Lagoon, Lot No 2, Kg Tepi Laut, Menumbok, 89760, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.303009299999999,
+               "lng" : 115.3744059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.304272129892722,
+                  "lng" : 115.3756040798928
+               },
+               "southwest" : {
+                  "lat" : 5.301572470107279,
+                  "lng" : 115.3729044201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a065e6f80170072c894287c830e4934ef3ea52b",
+         "name" : "R&R Corner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103099541299712803921/photos\"\u003erosyati agt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnt7R_2S7NKrbVYddt8mY5bgvFdh0F5KKMssct9DYZ28b3ojTg2I78ZyQJdzcbYssfFRn3Y9jbMveeSlVAyW0G7mSxfK1CWe1wUKC_BHZvTCJbD0AW9o6My35Wg0DRFweEhAV9yKR3CHs64i-QOP4RgcUGhRAkVXYiUhcXlbVjnnGalEZb95bBQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJG-2EdvsjIzIRfYb1TGWas7Q",
+         "plus_code" : {
+            "compound_code" : "893F+6Q Menumbok, Sabah",
+            "global_code" : "6PQQ893F+6Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJG-2EdvsjIzIRfYb1TGWas7Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "LOT, 48, Jalan Pantai, Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9832591,
+               "lng" : 116.0760575
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.984645429892722,
+                  "lng" : 116.0774243798927
+               },
+               "southwest" : {
+                  "lat" : 5.981945770107278,
+                  "lng" : 116.0747247201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c119ebc845a046e349f4f9da97765894ce75b2e",
+         "name" : "SugarBun Gaya Street",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2665,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104643238358120030661/photos\"\u003eMatt Estrada\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw-fvC-SBTQ8F4LXEiDCROyO4Xh2gvgXlbsC3rqmKpYcPXuZT3iEBms3baoyDFUdw8lWyAU5goMe8DzpR_MYJY3-YoMRtY-syonhBLWZf2Vq_sSfDLtVE-ojcUrYum1s4EhBoNcRShUm_DbpO3QlsfkPwGhSvMCnMdb44_9FgsbUkwwaGtRHvPQ",
+               "width" : 1847
+            }
+         ],
+         "place_id" : "ChIJrcMFcUJpOzIRAbjU2rPxLtw",
+         "plus_code" : {
+            "compound_code" : "X3MG+8C Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3MG+8C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJrcMFcUJpOzIRAbjU2rPxLtw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67
+      },
+      {
+         "formatted_address" : "Jalan Tanjung Batu, 80696, Labuan, Wilayah Persekutuan Labuan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.276535399999999,
+               "lng" : 115.2590141
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.277893779892723,
+                  "lng" : 115.2602014798927
+               },
+               "southwest" : {
+                  "lat" : 5.275194120107279,
+                  "lng" : 115.2575018201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77c7db23daff6e2ca22613897df28c7d7bf6e6e0",
+         "name" : "Mawilla Yacht Club Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105997156821103214699/photos\"\u003eSim Kian Chew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAlVhnwLjJHAB6Qo2cyoiu_qWvWkTcT92G-h7GHOiHkWsHInPquIdrE8N5-1T_BOERREitqk_jomxbzn3hif3zIOnOqvnmkuNLQkuENvPLhIWnhglCKSvRK3gQe95zGbWEhCyoMkRb4Pl2f4pGj9DSKRPGhScfJVAfjNh2w_SKGFFh_qb70-WhA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJVWw6kpQYIzIRcPmqdUKUoCs",
+         "plus_code" : {
+            "compound_code" : "77G5+JJ Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ77G5+JJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJVWw6kpQYIzIRcPmqdUKUoCs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "formatted_address" : "Jln TM Limbang, Pekan Limbang, 98700 Limbang, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.7549959,
+               "lng" : 115.0089447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.756315179892722,
+                  "lng" : 115.0102457798927
+               },
+               "southwest" : {
+                  "lat" : 4.753615520107278,
+                  "lng" : 115.0075461201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ce87b6f17a8ecb15f7f6b0c98f4faadc533d40d",
+         "name" : "SugarBun Limbang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107622409162653942304/photos\"\u003eKim T.J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJavP3qnevIoNoKJ7N88DkgfsH3-Fr6DGmKxchkNlrqZvRocjRJ_OMe7b9Dj-y5IRPjT7wrGQzVRcsThpXPrKuxh3ODXXT3orlDdYwZ4rQnrvOF6FxqsjKv5iDlT2qj9KEhAX1WA8BNlQZah8GgecqVDbGhQj5LbL09Eb_GF8D2jhOfyO5ceaLQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJzxlxgth_IjIRYUoklEnJCao",
+         "plus_code" : {
+            "compound_code" : "Q235+XH Pekan Limbang, Limbang, Sarawak",
+            "global_code" : "6PPQQ235+XH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJzxlxgth_IjIRYUoklEnJCao",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "Kota Kinabalu, 88000 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9773773,
+               "lng" : 116.0744723
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.978733929892721,
+                  "lng" : 116.0758100798927
+               },
+               "southwest" : {
+                  "lat" : 5.976034270107277,
+                  "lng" : 116.0731104201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "75cbb30000176e5fb167fe607f52b269b9c2a5c6",
+         "name" : "Borneo Asian Food by SugarBun",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106324796065013111922/photos\"\u003eEdwin Chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5KagQZ0ll0YpQBXLfEhxKAeqFDO4lDUsDo2rTqEaO5k96jgG-9n39Cr7l5gXRqPX1xdnwZHv8M6QMofP0iKI3gH0HSdIM4WQ5-PE7oRDjt0fr5v9p7ok4suvn4XP2SRoEhARXsUekBOZw3BB7lQPnXCUGhQAB8aM-jEjO8GVAg3POziZkru7wA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKVMwxZBpOzIRke4c8PVRYA0",
+         "plus_code" : {
+            "compound_code" : "X3GF+XQ Kota Kinabalu, Sabah",
+            "global_code" : "6PQRX3GF+XQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJKVMwxZBpOzIRke4c8PVRYA0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "TL 81, Jalan Apin-apin, 89000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.333176,
+               "lng" : 116.152907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.334551829892721,
+                  "lng" : 116.1542279298927
+               },
+               "southwest" : {
+                  "lat" : 5.331852170107277,
+                  "lng" : 116.1515282701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "270008ac890ac71ef5c76a4830435ab1a8d8e2d6",
+         "name" : "KFC Keningau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109151572278766112275/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAG4oO0G4EuX-P6t_4x0djTbXzLEBxKMKDa3w3exXBnlukf7CjricT-djTEzTexnMtBud9lixH9bYY7fdbjXJQRqfkJHg-E3aX7synRsR9TQpCgHJmLv38dxKLHxKxqpXaEhDMDTJ6383pArPO9_BC09cHGhQ7XxafY_TNboqhYTE79YOAqiY0PQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJJ-zHZN_uPDIRBSprVYYItsc",
+         "plus_code" : {
+            "compound_code" : "85M3+75 Kampung Tuarid Taud, Keningau, Sabah",
+            "global_code" : "6PQR85M3+75"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJJ-zHZN_uPDIRBSprVYYItsc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 310
+      },
+      {
+         "formatted_address" : "9, Jalan Kemajuan, Bandar Labuan, 87000 Labuan, Wilayah Persekutuan Labuan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.279948099999999,
+               "lng" : 115.2419063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.281269079892721,
+                  "lng" : 115.2432357798927
+               },
+               "southwest" : {
+                  "lat" : 5.278569420107277,
+                  "lng" : 115.2405361201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b86372c9e39d16014f461f7dc2c0727209902cd5",
+         "name" : "Pulau Labuan Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110269081609586951443/photos\"\u003ejenny kong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArcsPsHl9A0yotvZvFufBWn4qjfmRaWTdaXxjlOpLvrRFaXcMafuQ33_PtaEraY5VqWPK06aYT4y6FfMAkzWhUqnEqkOscgL-Yofw77zyuRro0YVqXhyUZKUK6cIOPQ9EEhBN-FT3zB0iNNKFInPz-MRxGhTsmuP1YVr2vlxJ4oCSlW8Wwl9opg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ7dzgd94YIzIRpC_bgPaqpTo",
+         "plus_code" : {
+            "compound_code" : "76HR+XQ Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76HR+XQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ7dzgd94YIzIRpC_bgPaqpTo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 163
+      },
+      {
+         "formatted_address" : "F.T, 462, Jln Merdeka, Financial Park, 87029 Labuan, Labuan Federal Territory, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.275379699999999,
+               "lng" : 115.2475511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.276899629892721,
+                  "lng" : 115.2489469298928
+               },
+               "southwest" : {
+                  "lat" : 5.274199970107277,
+                  "lng" : 115.2462472701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5b6ca4ec85581456aa8b352c5930271128c7197b",
+         "name" : "Dorsett Grand Labuan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2424,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113655530086695397724/photos\"\u003eJoe Hairi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWrcCh0mFWEDMOIFwHDUa5E2aG8Djrx3YCNQ2ttvB6GbpWbddExmjhd5eJg1n0ySPao2UEUl73Bx2GlPPbHTFKUt_P0klYkXwXnmJSwWXbYfQAZJH0b6RfWwo6sTdfvVTEhDRcIiFugctm_pk190tBMVfGhSI5z-O22veCCfHx0EhRh_VzV02zQ",
+               "width" : 3232
+            }
+         ],
+         "place_id" : "ChIJRXq6XugYIzIRBg9XbyoM3xE",
+         "plus_code" : {
+            "compound_code" : "76GX+52 Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76GX+52"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJRXq6XugYIzIRBg9XbyoM3xE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1079
+      },
+      {
+         "formatted_address" : "U0169, BA, Jalan Okk Awang Besar, 87000 Labuan, SabahU0169, BA, Jalan Okk Awang Besar, 87000, Labuan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2781953,
+               "lng" : 115.2419751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.279588629892722,
+                  "lng" : 115.2433417798927
+               },
+               "southwest" : {
+                  "lat" : 5.276888970107279,
+                  "lng" : 115.2406421201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6aa140ed4122c90d608773b905c132309744166c",
+         "name" : "Choice Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100944445547896606359/photos\"\u003eJason Kelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzeqrl0oxxn9WJiZleN-t6bi5X962vTMEYiX3q_75fVlMMGzOkuVolSygaAY-WniF5NZPahCQfd1YV4dMNKxuo4fmCiL_pzIsctzEWsxCHSPIhH4zrhhLzm4EEt9bWmxIEhBnUw1ULL6uKWArWDy50unNGhSf165uNkaYITkvAy5wxNa6denDlQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ75swjN4YIzIRknEPZIp09i8",
+         "plus_code" : {
+            "compound_code" : "76HR+7Q Labuan, Labuan Federal Territory",
+            "global_code" : "6PQQ76HR+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ75swjN4YIzIRknEPZIp09i8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 97
+      }
+   ],
+   "status" : "OK"
+}

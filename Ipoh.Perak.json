@@ -1,0 +1,898 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9gEAAOrXrLil7QfhJCrL5m12DB4ongJnmsOFdHayQqStWXcbx-V1BUFv-cIVRT4sfy-WV46WCLmO8TYYFovw56ZSnqRmPrdzXjdJ_FVrA_L1pSyZHeTZZM5iPJ9vqmYpXqfgzPXpOUW9YOSNgz7XyFZ0r8LXgpI2av5LI6aNkN1CmvOju0d6q_K9SNDhuumoEbTln_Rmien0hbtDNNbm48CZJCYCh1XcmM0_a8SQ5rwZfVkrLhl2fBoytDsOVlDphB4x8TA4vW-uV985_W0iBsegM6YRRUYj0pouCrvm4b9CcHAv5iksnQka4vf6BslcaTX2xz65tI2PPV6-6du47Jz1I-Z7QB4fbOL7KS4b3KljvexzX-IY8NDYjqm2Ou0oDOnJ5Qa1jGZtYvDf4zFlJNYSS-R5JKAYLw8iqCLRdQz0HRtMRGzBOTqody8bSxsok-tIeSMKk_yW_SLMr-UW68uRQvdqMiFkZouVrQ_Zdmv8oBl1AlY60_bap4wVXOdX4aYhyK4pAlzS0_xA6fKAkDBOP_yftEkQEro0VEfFswJB4U5Bp9LCKUPuYMoaYp7DpRr7kGORMrU8KV_BWnTOc4Uu5vPrGJEsxuMbjzrKWy83c08pLY3LckLdxoxNtSzR8yNvLR1szVit2rJ8kIe9EMc74jZ6P0BJMxUEr-vA8UYo8GWPEhBlot9-OSozOpNBeNU0QaEMGhS9qCXXlJWCf7npALsPDwPKljHMGQ",
+   "results" : [
+      {
+         "formatted_address" : "20, Persiaran Greentown 2, Pusat Perdagangan Greentown, 30450 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5983192,
+               "lng" : 101.0929433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.599629979892722,
+                  "lng" : 101.0942998798927
+               },
+               "southwest" : {
+                  "lat" : 4.596930320107278,
+                  "lng" : 101.0916002201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "21a4d91fb8b4a4d47beed3fcc2753e0568abd45e",
+         "name" : "Wing Zone Ipoh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110413006656549705993/photos\"\u003eJay Sean\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbjbLkvccVg9M0nOv_KRsHEywfjJ2mEg0BRHUN3BobVLdfqSxWZ6i6t2fpjJmL_s4TIDe1NNTPTehAAct2fpMbMv3x4Awtj7573a02lBr1z7s-UOLpQP3icySMUFFfhh3EhB_L00R5Z2paXIPvzztF5rWGhQ-UW42ILLvN9ykGKnt0YUTXTdBkw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJrcWeEWDsyjER_z3YdpHXbPI",
+         "plus_code" : {
+            "compound_code" : "H3XV+85 Ipoh, Perak",
+            "global_code" : "6PP3H3XV+85"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJrcWeEWDsyjER_z3YdpHXbPI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 534
+      },
+      {
+         "formatted_address" : "No. E-G-2, Menara SSI, Soho Ipoh 2, Jalan Sultan Idris Shah, Ipoh, 30000 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.593078,
+               "lng" : 101.0898797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.59438762989272,
+                  "lng" : 101.0912991798927
+               },
+               "southwest" : {
+                  "lat" : 4.591687970107277,
+                  "lng" : 101.0885995201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "21a615c3e71f386fef20897d091d7230cdbc584f",
+         "name" : "Texas Chicken SOHO Ipoh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112806085553783170208/photos\"\u003eAiris Caramel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmdZVsBtm5vUSYWtiXVSZuQHTr3E2lJcc9rRxBfMKsP1ncQgrW4h3muzwRjRqk1SOKC7bPhReMUiXc3MoCn4yOozEKmZrBT9FOgoGDB_SAGii0UDNbQ-m29D1ztk94F73EhCNEyQo01qCv9BujGzXwyLfGhSQ5yVm2Oe75o5dC5JZ2T2ERcstsg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ56lCwWbsyjER7HAwGIUZpa4",
+         "plus_code" : {
+            "compound_code" : "H3VQ+6X Ipoh, Perak",
+            "global_code" : "6PP3H3VQ+6X"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ56lCwWbsyjER7HAwGIUZpa4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1523
+      },
+      {
+         "formatted_address" : "303521, Jalan Tambun, Sunway City, 31150 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6248461,
+               "lng" : 101.1516733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.626212279892723,
+                  "lng" : 101.1530224798927
+               },
+               "southwest" : {
+                  "lat" : 4.623512620107278,
+                  "lng" : 101.1503228201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68e752228e434daace469e42f6e887f1d7cd87ba",
+         "name" : "McDonald's Sunway City DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103861853155363805594/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW3XmPZQ2rG1QEci7eQLBW2mZ_wgREQw3dR-gdKeolgXxZZgOeZU2MjFkZRbt9vZhMmo18RWLlS0YnVoBTxRKaaB2MCTVNSbDQv7VWv7EJ6nap54x3MLXnLSS7_H8YAVYEhDOa4wQ4Uhfgy1Hu42ldFXFGhSWiZTBfT4xx-fhrIaAQtHybD3W_A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZ0OZP1vtyjER8S81lQgQ-R4",
+         "plus_code" : {
+            "compound_code" : "J5F2+WM Ipoh, Perak",
+            "global_code" : "6PP3J5F2+WM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJZ0OZP1vtyjER8S81lQgQ-R4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1412
+      },
+      {
+         "formatted_address" : "Pt215040, Jalan Raja Dr Nazrin Shah, Kampung Gunung Rapat, 31350 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5725551,
+               "lng" : 101.1126844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.573808729892722,
+                  "lng" : 101.1139695798927
+               },
+               "southwest" : {
+                  "lat" : 4.571109070107278,
+                  "lng" : 101.1112699201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a03e141b774bf6981be8b2f36f344819095acbda",
+         "name" : "McDonald's McCafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113475296382151571213/photos\"\u003eNor Azmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuFbt22jcwayiMMyZbCsZYzeYS8TbGIMOkAqQrzkN-1r3MlRZo1xW8rITzB2Yu_xv5Id8tvUVTiC5dnmWGDpFd5PuhBcELYEfC6JbDMeRW8cCzZk0TGMm8hYmFcZqq_LAEhDtu7WEhMpLyE92H0HdvAnFGhRnfsNv7sZ6XvUp65p6DuP5YofMzw",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJ55MQtIHuyjERzolh0_43G_U",
+         "plus_code" : {
+            "compound_code" : "H4F7+23 Ipoh, Perak",
+            "global_code" : "6PP3H4F7+23"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ55MQtIHuyjERzolh0_43G_U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2121
+      },
+      {
+         "formatted_address" : "38, Persiaran Kuala Kangsar 1, Taman Che Wan, 30010 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6337823,
+               "lng" : 101.087554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.635089979892722,
+                  "lng" : 101.0889415298927
+               },
+               "southwest" : {
+                  "lat" : 4.632390320107278,
+                  "lng" : 101.0862418701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bbd619fdc50270ca4ea85e75749ccf5861c3f1da",
+         "name" : "McDonald's McCafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114331919870051800179/photos\"\u003eHanako M.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC_ho-P-4YC021u3en2adc8mk9ibs0E7ay2e5I4YHOqZb8nBG_U_5b5uzbRSIujBq32c5x-i7AZX87gej5Drf4ZhvRbm4rO6KUzcSLjEN_aAZ4TaGn-GAPbkxLD9OnbTmEhD9NqWPbefRZ65-ZKb6AcCnGhR-JyfYtVGMimqL4gRBDGdGA70gCw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnyR6HTSTyjERj54CprKnqhw",
+         "plus_code" : {
+            "compound_code" : "J3MQ+G2 Ipoh, Perak",
+            "global_code" : "6PP3J3MQ+G2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJnyR6HTSTyjERj54CprKnqhw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1582
+      },
+      {
+         "formatted_address" : "Lot 36643, Jalan Raja Dr Nazrin Shah, Gunung Rapat, Perak, 31350 Ipoh, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5694045,
+               "lng" : 101.114365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.570762779892722,
+                  "lng" : 101.1157879298927
+               },
+               "southwest" : {
+                  "lat" : 4.568063120107278,
+                  "lng" : 101.1130882701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7e25da1da2dcc9e3c51293648ea5fa19ede6e09",
+         "name" : "KFC Gunung Rapat Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108700842476617923306/photos\"\u003emuhamad asyraf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuUlWadNOFSqPD-I9kKqfa-hNrvg0iJZp-SFyCkiLss59yNwBHJteYvPqCo7wo9bbKABtSUeQkVS9lIbNrzPTB2oGpal4Wq2IsPA8EAHL8o2h83XyxyVzPQND6xVZFBB6EhBnvzopVBYIxWidEJ1A_vk2GhS62tzGL3MoolyQJekWQlUi4wBDJA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJm8Dymn3uyjERn1nRTCNj8mY",
+         "plus_code" : {
+            "compound_code" : "H497+QP Ipoh, Perak",
+            "global_code" : "6PP3H497+QP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJm8Dymn3uyjERn1nRTCNj8mY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 534
+      },
+      {
+         "formatted_address" : "197129, Jalan Medan Ipoh 1A, Medan Ipoh Bistari, 31400 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.621309900000001,
+               "lng" : 101.116655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.622624329892721,
+                  "lng" : 101.1178969798927
+               },
+               "southwest" : {
+                  "lat" : 4.619924670107277,
+                  "lng" : 101.1151973201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f7de8639b02d11630cf4f4c0944b23c4243e6b27",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108219392544238055225/photos\"\u003eIffah Redzuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA19vTwgvGGYcYF6-kkLXhF6zc8zOn1YxnHoRBTkwnN3H80699T-0qGSv2kuyL9Lh0vPtiKVH3qB01OZswiStSVK2h43vUL3bOOkwsSArDpMe4WqgXYpgzRGcf6XIIqAKTEhC4Xxj13YPkpON0nMmyFvPuGhThVLGdmblbF9EM4YpbxLpnfATWiw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJe0vs-B_tyjERe5Ew3lOVM5M",
+         "plus_code" : {
+            "compound_code" : "J4C8+GM Ipoh, Perak",
+            "global_code" : "6PP3J4C8+GM"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJe0vs-B_tyjERe5Ew3lOVM5M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 979
+      },
+      {
+         "formatted_address" : "No. 2, Susuran Stesen 18, Station 18 Lot G-57, Aeon Ipoh, Station 18, 31650 Ipoh, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.545579,
+               "lng" : 101.070841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.546953029892722,
+                  "lng" : 101.0722444298927
+               },
+               "southwest" : {
+                  "lat" : 4.544253370107278,
+                  "lng" : 101.0695447701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "965f20625a4b46910b81c66ebde726c65cd3b243",
+         "name" : "Nando's AEON Ipoh Station 18",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4272,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102241061994193518012/photos\"\u003ePoobalan Krishnan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_plpypURD4n-FVYkcn7l4xnkL959V0oy1XSEq6OFttsA10KgzoReZBz3tuxSQGtYk9qctzuHCS1qKwSZd1GyvcM6mMNRo73Vd-o3-sBDvP25ZgNJosWEwbt8YJ48413uEhDtFzpPnXOAsIdvGzzHPxmtGhT6yZlU_zUiwjZdrqrP_9EF0H60wA",
+               "width" : 5696
+            }
+         ],
+         "place_id" : "ChIJBcXgzUzpyjERLfLEiZQg1cY",
+         "plus_code" : {
+            "compound_code" : "G3WC+68 Ipoh, Perak",
+            "global_code" : "6PP3G3WC+68"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJBcXgzUzpyjERLfLEiZQg1cY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129
+      },
+      {
+         "formatted_address" : "No. 686, Jalan Pasir Puteh, Kampung Tersusun Pengkalan Pegoh, 31500 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5419556,
+               "lng" : 101.0703634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.543256479892721,
+                  "lng" : 101.0715369298927
+               },
+               "southwest" : {
+                  "lat" : 4.540556820107277,
+                  "lng" : 101.0688372701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1fd198e4a155226ce951f7a209e79f2895b9e3cf",
+         "name" : "McDonald's Pengkalan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109827311382822176409/photos\"\u003ezaharah mohamad arifin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOaMh3G8hpjP8Esr-UdLIH5D-joRcMlNiBAzxT2-8QXocs7gT8i7TPX6DXVsqkNjTEJ0SDSB4Ar7ua0NsFtYKsm-2BijK8bJKw0F9h2964qDRqkiaxHadKVVpotJ55rK5EhBnZA9wiMATrn4EFxC3TVOpGhS3DU8kMSuVtvZWYc5LnrM09xCj9w",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJP4NdOkvpyjERRyX3rTil0f8",
+         "plus_code" : {
+            "compound_code" : "G3RC+Q4 Ipoh, Perak",
+            "global_code" : "6PP3G3RC+Q4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJP4NdOkvpyjERRyX3rTil0f8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1638
+      },
+      {
+         "formatted_address" : "12, 12A & 12B, Laluan Medan Rapat, Gunut Rapat, 31350 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.569299,
+               "lng" : 101.1142979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.570590729892722,
+                  "lng" : 101.1156538298927
+               },
+               "southwest" : {
+                  "lat" : 4.567891070107278,
+                  "lng" : 101.1129541701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "90e5cc21a42bb57c6660882bd63a7c4a918dee65",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117058811559691522872/photos\"\u003eAnisa Karomatul Chasanah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmDyeBzYD1GYgpWlXxZGtj_KdtWURZbVOAci1NLWgzl4FPeYyEq2Wq3DxCWf31ADCTd9jG7G2EoD-aT1O09ZFdfVLs_TofVMD_3GKyjvVLNx6MyEzsuikmiY3R7Qp2sYFEhC7pid68877KKTgZbWZoDNTGhTw4QKh69jEm_G467sJ9u9IeMn0Gg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ4QcijjLsyjERmHjhklRfSzo",
+         "plus_code" : {
+            "compound_code" : "H497+PP Ipoh, Perak",
+            "global_code" : "6PP3H497+PP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ4QcijjLsyjERmHjhklRfSzo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 317
+      },
+      {
+         "formatted_address" : "Ipoh Town G21, Ground Floor, Ipoh Parade, 105, Jalan Sultan Abdul Jalil, Greentown, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5971719,
+               "lng" : 101.0901077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.598668379892722,
+                  "lng" : 101.0914405298927
+               },
+               "southwest" : {
+                  "lat" : 4.595968720107278,
+                  "lng" : 101.0887408701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0dedee3dfc93ddb382a38f52648bc9fbb9dd967",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101278034563169220139/photos\"\u003eIzzat Shamir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoU52tH1mdQ8Eps50zWy2IFSnJneFXgbBVuvI7oPr022EHzsG89z9GWDhn_8L30gdoUewLx2wkiBasNtpajQqCEkpNnTLvjBIomrf_7qjKyz5RV9-aR-ttj-h_npCo7jDEhCMvYXz88KeiWK4pnEPthGrGhTP3G_wqd2_-gKRbnpql25Hq1KPuw",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJRwUCpWHsyjERlT4Wv0ruwcg",
+         "plus_code" : {
+            "compound_code" : "H3WR+V2 Ipoh, Perak",
+            "global_code" : "6PP3H3WR+V2"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJRwUCpWHsyjERlT4Wv0ruwcg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Ipoh Town G22, Greentown Shopping Mall, Jalan Hospital, Greentown, Perak, 30450, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6029041,
+               "lng" : 101.094565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.604398529892722,
+                  "lng" : 101.0960003798927
+               },
+               "southwest" : {
+                  "lat" : 4.601698870107279,
+                  "lng" : 101.0933007201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98b1e4d4b3937cefc11f5876cccea20297a1bf99",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113352043390377690297/photos\"\u003eEmily Lowe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1vgEyWmsVv8nnGHnFEz4IczwbcIxcnZXuIhVBmupHI_wrPwrKrfzZlFM8cYH9QxqiOtG_dFXt8eul1kbriWZrmgtfgVUvKpPqmmICE8Ic45_qbu3PTka2Q8zJWnLSLE0EhAqgxcQfWEt35hyT12z8MfmGhSrxJbH6ZCbH57r1SLq7A_x7qBM8Q",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJYefEx_TsyjERR8x2PyHOaxo",
+         "plus_code" : {
+            "compound_code" : "J33V+5R Ipoh, Perak",
+            "global_code" : "6PP3J33V+5R"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJYefEx_TsyjERR8x2PyHOaxo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "No. 79 Jalan Dato' Lau Pak Khuan, Ipoh Garden, 31400 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6119205,
+               "lng" : 101.1081708
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.613318529892722,
+                  "lng" : 101.1095154298927
+               },
+               "southwest" : {
+                  "lat" : 4.610618870107277,
+                  "lng" : 101.1068157701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fdd90d6d82e95da3bbabeaff54a6c582e52ff47f",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103788715330595304180/photos\"\u003eMok Tuck Meng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx3HGGugEN97yBdTqY80XSIxHlMhrauJmD1x3btijP12il5-B-WaktkBMsUogIImBbZZt6CChVMSOzLzYCqph5d22l7gtErw_Q4FWCfhD3TKUvg9H_wxyXkkN_pX3phE5EhAxujAK1RpOg0nAt5x2iebyGhSyWm8r8U7OJDNFnxxy4t6cuNmxhw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJq_MKVOTsyjERJUNoc8KbpWs",
+         "plus_code" : {
+            "compound_code" : "J465+Q7 Ipoh, Perak",
+            "global_code" : "6PP3J465+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJq_MKVOTsyjERJUNoc8KbpWs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 396
+      },
+      {
+         "formatted_address" : "Jalan Meru Bistari A2, Bandar Meru Raya,MukimHulu Kinta, 31200 Chemor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6707256,
+               "lng" : 101.0772889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.672117079892722,
+                  "lng" : 101.0786757798927
+               },
+               "southwest" : {
+                  "lat" : 4.669417420107278,
+                  "lng" : 101.0759761201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c6b9e259eddb89a754b6910deaa38811d6b6f6e",
+         "name" : "McDonald's Meru Raya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111606214095533429650/photos\"\u003enurul ain idris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMh78HPPgxBPLZNKCl9JASC3jgY6YwfqcSY8okjI36iqhKqSAc4PUfBtAVtEXxUSJLBLAFzSSe2rNfEajysXM1rr1HN5fWljHlQ2jC8NI_uZVRTB7xJeH2__tNIeIDNzhEhAAxd_c41FOA9_UtB4KCh5lGhRpVaJsfxapUO2vZfpUmjM2AY9hgQ",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJT_dmTnuTyjER2gLTd-s1OZw",
+         "plus_code" : {
+            "compound_code" : "M3CG+7W Ipoh, Perak",
+            "global_code" : "6PP3M3CG+7W"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJT_dmTnuTyjER2gLTd-s1OZw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1085
+      },
+      {
+         "formatted_address" : "Lot PT 217643, Jalan Kuala Kangsar,Taman Tasek Mutiara, 31400 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.653716500000001,
+               "lng" : 101.1074648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.655087929892723,
+                  "lng" : 101.1087872798927
+               },
+               "southwest" : {
+                  "lat" : 4.652388270107279,
+                  "lng" : 101.1060876201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83ca9ddaea01b6a7bf6a9220d33f8f138a38ee63",
+         "name" : "KFC Tasek Ipoh Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104769082607197039238/photos\"\u003ejoanne xuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdG6xpjLSJOGZBBm_9PmDX34RvqUYIA_K-oW-SLID_nmG-FAnoNthus0XiMVwLjV28R-6ZNo2XK-z0N6EPpdq2efvvM_aaGeoZLb07t92bl3GjIgN9MeOGL_GGZg-BTRLEhDsJphQyFvwZM1-JJPildBKGhSYIlh5a0gv_a8yHRRkY9XuQkw0Hg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJC_jWiySTyjERFbIqbj8Pf2o",
+         "plus_code" : {
+            "compound_code" : "M434+FX Ipoh, Perak",
+            "global_code" : "6PP3M434+FX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJC_jWiySTyjERFbIqbj8Pf2o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 475
+      },
+      {
+         "formatted_address" : "Lot 65, Ground Floor, AEON Ipoh Station 18 Shopping Centre, Station 18, 31650 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.5458041,
+               "lng" : 101.070616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.547151679892722,
+                  "lng" : 101.0721152798927
+               },
+               "southwest" : {
+                  "lat" : 4.544452020107277,
+                  "lng" : 101.0694156201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "737d61f4fb0b6c1c1ef9b5b3103a39cee04e069e",
+         "name" : "KFC AEON Ipoh Station 18",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101857867428596093080/photos\"\u003elo yo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHKtkqDQ4Da6LrKNeYqqXcqKS5Ds_fIDkFfXMs2wc1hNSj1w45aTHrLDIrDGjWRUXixkL1FDL1-rhEONwOmAiGfCvAwClgKhO4pVIiVjMyywg2nomJO7qVVsjGkxAg6sjEhBapwq_wC9vGOaq2IQwwXpiGhRXlbtfBmjwQZN8DYEQ31oZqRLauw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJsSsPy0zpyjERzSBTw2Xihd8",
+         "plus_code" : {
+            "compound_code" : "G3WC+86 Ipoh, Perak",
+            "global_code" : "6PP3G3WC+86"
+         },
+         "price_level" : 2,
+         "rating" : 2.6,
+         "reference" : "ChIJsSsPy0zpyjERzSBTw2Xihd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "254, Jalan Dato Raja Nazrin Shah, Taman Cemerlang Rapat, 31400 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.571041,
+               "lng" : 101.1132289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.572363829892723,
+                  "lng" : 101.1145059298927
+               },
+               "southwest" : {
+                  "lat" : 4.569664170107279,
+                  "lng" : 101.1118062701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4583460f467a0bc070c88a64f9de41ea9a8afb03",
+         "name" : "Ayamas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101307293801238315555/photos\"\u003eNur &#39;Athira Faisal Sabri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMjOgrEptk9zGBeX6lxrthJ0d9KuFNwnay5ikDS4oa5fIp6j_Xsou_wxg6XMVrO0zZJ9ikiKfuwWhVbqw4Gly4LIBPVUTCZqTe8EPDWOot_YhMH3hnwEcg0y50STR49DrEhA4R4DsnGu0juSQOm1jbmMFGhS9yLvJ5asy8TWk_zymNoT2fYEyMw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJSYKjrDPsyjERVvTlng9dVV0",
+         "plus_code" : {
+            "compound_code" : "H4C7+C7 Ipoh, Perak",
+            "global_code" : "6PP3H4C7+C7"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJSYKjrDPsyjERVvTlng9dVV0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "No 22 & 22A, Jalan Kledang Raya 21, Taman Alkaff, 30100 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.60927,
+               "lng" : 101.061845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.610747179892721,
+                  "lng" : 101.0632373798927
+               },
+               "southwest" : {
+                  "lat" : 4.608047520107277,
+                  "lng" : 101.0605377201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "560c5a473bc8c5625d3b80a34a8db47b15bd339b",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100605959716123436227/photos\"\u003efoo ch\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAFXL0m-g4NbROsy-UEeuC_4CSLaBCFGLYbTJT5oai_umusEPmOMSo6uXN2YnNZdlIyjf4Z-CVAGmhriIaAsxK9Tb0lZ_gaZupJuzbr97s9KVi_eZHWf_0qG8FSuztA2IEhBy8scU5cFnw_6BPQ-dDDDTGhTvtry8fqscHDxLja6vIEKD70nkGA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ58mZz3rryjERr19WOjDLG5A",
+         "plus_code" : {
+            "compound_code" : "J356+PP Ipoh, Perak",
+            "global_code" : "6PP3J356+PP"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ58mZz3rryjERr19WOjDLG5A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 451
+      },
+      {
+         "formatted_address" : "No. 6, Jalan Tasek, Taman Canning, 31400 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.605976399999999,
+               "lng" : 101.1180684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.607344279892722,
+                  "lng" : 101.1194735798927
+               },
+               "southwest" : {
+                  "lat" : 4.604644620107278,
+                  "lng" : 101.1167739201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9935e556bcde0a0b17215562776379460a1f8419",
+         "name" : "Texas Chicken Taman Canning Ipoh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101278034563169220139/photos\"\u003eIzzat Shamir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALgw8gfEeyVmLT2VXd4wnEKKTilEqecASx6PVvzlrSmbivSi6m9HodMDoS5Iw8cj556i2YVsNkit-R6AuuiwWkb1IK9Zo6vOe5_6GqLk0Di0NNK8BcwwDklM6ecroDVvvEhDnenVslDZbwQG6GM7i7fjeGhS_6MSejg9yGYn2mDL_FuG6T_uDEA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJVwLp1SbtyjERBxmMUQSLI4Y",
+         "plus_code" : {
+            "compound_code" : "J449+96 Ipoh, Perak",
+            "global_code" : "6PP3J449+96"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJVwLp1SbtyjERBxmMUQSLI4Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Persiaran Gunung Rapat 1, Taman Cemerlang Rapat, 31350 Ipoh, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.569309,
+               "lng" : 101.1143205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.570841279892722,
+                  "lng" : 101.1155969798927
+               },
+               "southwest" : {
+                  "lat" : 4.568141620107278,
+                  "lng" : 101.1128973201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5fb58a8851df9053e1f125bb951f42c0e6195e4",
+         "name" : "KFC Drive Thru",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101690196945003330489/photos\"\u003eShahrul Nyzam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgjzcbLbpSvTCk5nxxRjxjg2Bq1u0tB0E3LmHMf3vt10rB9q38FwRA3xtTtKo32Lr8DT-rOezPvy5k4Fl3Yl1GwtVQbffv0suY9ycxKA3UJ23SdIDvFFr5C7NicsEc_T2EhDhpiV_T-8h1k_OJM0lCBSOGhQNjQmQKZbGAFF4huHebMjjxTi-oA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJJS0ejjLsyjERoN86Zu1I7nU",
+         "plus_code" : {
+            "compound_code" : "H497+PP Ipoh, Perak",
+            "global_code" : "6PP3H497+PP"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJJS0ejjLsyjERoN86Zu1I7nU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      }
+   ],
+   "status" : "OK"
+}

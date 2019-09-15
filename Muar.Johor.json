@@ -1,0 +1,781 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9gEAACZFzgSBtuR2jVrrjKFJ5fAZpMNala54GkuUJfIdykutvIk5Gg6K49YAoyZrR2UQEn9cFvJoiDIfBAQDXOb7HPsKzUR6ibsfE0mLJXTxpmnPzpCOF7XZXk2aTX-qweI6SKj57i3Paag_8g-4eAbJpK2lHq7aO-u4KN_uE4n_i9vY9JKYQDhPNZQ1PekyxQ9RSxablv5qtJf3g7lWL1tlELRV9r6GRDzBj_ID7j-pYcpl2TTMIn9-y5x3b4EIQOdp4xx3k-1g2nIZO5RP3FrlO2PaOYC37wFi97x7sA558_mRI5AeYoEvJM1DednLD33gXsEAW7bHsH5W3n-GrfaPYSOxE3LliWSbO6OOjF3VYiRFld1YP5U5wcgMXYRvCJw4NLIBWYvjkKqksYSaM8uK05rvwBF8RdOKMhSt3wtgk-clmslOuMxuHxpRvm503XKXsg2YXEkVAguxUgQgC5u48D4hGWgQECTMKOLTmeX64eOvkpDh0IFAasWiBr0O3TDipkbtd2FsWfe2HxsDH34PqbqMJ8dLBFAU3LSzqW-HWeZ9TwHLVtL2EPfsP0-omTa5kguzL6RHK-pRW_FZEQXT0m4AExqgBMEVYPBrklZSDcYzHpfC8cAyoc6IDv42uIu8SvIYZZQ7NbGYiNP0H4uZS3XmSGcqMEtzbj8wKwbRDZs2EhBSN_udrFKTeSCXX5UBTgJuGhTSY95Jn9nom1TxFXAFD6m7fZCcyQ",
+   "results" : [
+      {
+         "formatted_address" : "3070, Jalan Bakri, Taman Junid Perdana, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0484942,
+               "lng" : 102.5903709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.049652479892722,
+                  "lng" : 102.5916963298927
+               },
+               "southwest" : {
+                  "lat" : 2.046952820107278,
+                  "lng" : 102.5889966701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2b3286f553a769deda47cdb67d07374e03fa30ac",
+         "name" : "McDonald's Muar Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110087592016388055040/photos\"\u003eNor Safwan Mahmud\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0WXzVquop9zUKRpXtsxENyKFD7k12Uci5Fp7uzpYZJa8FaoftoiuBgjePLjAKr_NZBSxLA5RE9reXhIGWHGC4WWs3VIMwIEhEw3FUBzyqpWmb1H1qBcvaVVbFonc-SvKEhCxS0AH0MOaWRPH0Pj7ohmLGhSN5qFw2sRNZcF43ARlICzeL3u8gg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJr-2mAbG50TERfuPwv3s6s38",
+         "plus_code" : {
+            "compound_code" : "2HXR+94 Muar, Johor",
+            "global_code" : "6PJ42HXR+94"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJr-2mAbG50TERfuPwv3s6s38",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1272
+      },
+      {
+         "formatted_address" : "No. 15, Jalan Salleh, Muar, 84000, Johor, 84000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0517149,
+               "lng" : 102.571655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.053101229892723,
+                  "lng" : 102.5729591298927
+               },
+               "southwest" : {
+                  "lat" : 2.050401570107278,
+                  "lng" : 102.5702594701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "340ebee272f9f0d9e53f2c18e8caf59bbd068767",
+         "name" : "KFC @ Muar 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107607375517117753143/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVCSxlf8v1Nc5DdjhW-bxFEn_7Psepp2KggoNV834ifHu9ItbdVEbh-Yh88o7NwZvP_iEXq27B-8NmewkYtUxlYrr54VUGlyzi6lZ_cKb06uo4HPbhWBIReZ6IfkBRrRxEhDkif1omhGnW4Qk5sU91ix4GhRVUlP98ceCQ_IQMN0TPP0_8PBPkw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJgUeWMV-40TERYZ7d3U1B9ow",
+         "plus_code" : {
+            "compound_code" : "3H2C+MM Muar, Johor",
+            "global_code" : "6PJ43H2C+MM"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJgUeWMV-40TERYZ7d3U1B9ow",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 112
+      },
+      {
+         "formatted_address" : "405, J24, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0510825,
+               "lng" : 102.5710526
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.052453529892722,
+                  "lng" : 102.5723789798927
+               },
+               "southwest" : {
+                  "lat" : 2.049753870107278,
+                  "lng" : 102.5696793201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee079ad4214265ae2a9769ca013e43f8e199fa6e",
+         "name" : "KFC Astaka Muar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101050743280751783005/photos\"\u003eDev Indiran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjp0UALu8OFNBkBsLYhDjdIC0Md5F8b4azumJGsgmE7jALSp9ChyEaPm5lpug-r1NMt0nBTNEDV39s38yWrtAoMYiQxqPBQJCVshX6stFBokfMbxldaVJwHMp7Ol5u3NREhByOPn08lonQjMVQLkDXHqmGhTvNvcLCM9zrZ0uJPmPFnOOV0AezA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJHSVLdPi40TERzcSowGvmtWU",
+         "plus_code" : {
+            "compound_code" : "3H2C+CC Muar, Johor",
+            "global_code" : "6PJ43H2C+CC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJHSVLdPi40TERzcSowGvmtWU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 206
+      },
+      {
+         "formatted_address" : "Jalan Abdul Rahman, Kampung Dato Bentara Dalam, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0367603,
+               "lng" : 102.5625433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.038147179892722,
+                  "lng" : 102.5639261298927
+               },
+               "southwest" : {
+                  "lat" : 2.035447520107278,
+                  "lng" : 102.5612264701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "512a1065133247f249edb4002e98c1f3c46163c8",
+         "name" : "fendy Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107836250482510200429/photos\"\u003ekhairil affendy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0bPyjNDGkXft3VaRp1rk5O8q2DQYOwKe_UR20xTC7Pn39hqZRFFuAIgw2Ui3xrvAdiLauVSYIknXJi-mU29c2ZgyGcGYbh4ADcT8MV_Gc2cGDVw-1HiXMU5M4Ba-UjQ1EhA_eZjJbKCylztQIJ54HeVkGhQvfPoHTTNUK7qq0W55wxSWfx9LbQ",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJ-3JTwxK50TERVEg7TXU90yo",
+         "plus_code" : {
+            "compound_code" : "2HP7+P2 Muar, Johor",
+            "global_code" : "6PJ42HP7+P2"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ-3JTwxK50TERVEg7TXU90yo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan Sakeh 1, Taman Sakeh, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0497892,
+               "lng" : 102.5823562
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.051099629892722,
+                  "lng" : 102.5836803798927
+               },
+               "southwest" : {
+                  "lat" : 2.048399970107277,
+                  "lng" : 102.5809807201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c37173155eb66ab822e4ff85e2d09c27743639b",
+         "name" : "Restaurant Gan AFC Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117906205010860680385/photos\"\u003eLee Ai Sa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnlnHFa3QND_bNXngFQXA3O8oJPbPfrb7ON9yGGlZAem1Y-XK0vBHq8TmiTH5MQp6a9EtjZRyEMGqRUcbQIoZiX_uXaZPsgNfuatXRvQvKZXwK2wof6MC4t5-4nKhEVkqEhB40OAyvXY-Xsm5GK892mFVGhRDBwxgKCE1eU-cDm8zQa0qKT2lEQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ8SZUpa650TERZjR6yHYBSD4",
+         "plus_code" : {
+            "compound_code" : "2HXJ+WW Muar, Johor",
+            "global_code" : "6PJ42HXJ+WW"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ8SZUpa650TERZjR6yHYBSD4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "29, Jalan Bakri, Taman Sri Emas, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0488262,
+               "lng" : 102.5708434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.050227029892723,
+                  "lng" : 102.5722116298927
+               },
+               "southwest" : {
+                  "lat" : 2.047527370107278,
+                  "lng" : 102.5695119701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7a73c004b9fe9c06c62580f531b366a08b89b651",
+         "name" : "Subway Muar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118186738123657063508/photos\"\u003ezaidah omar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIYeuNBVhXigoBMq0wZtRUxttnt_yvXk1HO4_jnfTZKzk8XMxuDsMJj5R6qx-lLvIV9_VzOil1M4DYGqLnhYx512yPd5_VF2xgPFEt94AqixgamnMsUi1B73PkwzC-PfgEhBLpu7bCzOEWNRhz5QX5gicGhQDnPHCVdb5Kb0qXI2jzRGKFXHw4Q",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJP2oqVpm50TERq13_Zb-vP94",
+         "plus_code" : {
+            "compound_code" : "2HXC+G8 Muar, Johor",
+            "global_code" : "6PJ42HXC+G8"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJP2oqVpm50TERq13_Zb-vP94",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88
+      },
+      {
+         "formatted_address" : "No. 45-1, Ground Floor, Jalan Ali, Johor, 84000 Muar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0463377,
+               "lng" : 102.5689545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.047710929892722,
+                  "lng" : 102.5703365298927
+               },
+               "southwest" : {
+                  "lat" : 2.045011270107278,
+                  "lng" : 102.5676368701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "672374f6e735aff49e8225b9b9005e898fbb1a2d",
+         "name" : "Kala Chicken",
+         "place_id" : "ChIJiyjxiAW50TER4O1HCtBB_18",
+         "plus_code" : {
+            "compound_code" : "2HW9+GH Muar, Johor",
+            "global_code" : "6PJ42HW9+GH"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJiyjxiAW50TER4O1HCtBB_18",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Wetex Parade, Level 2 SI 1 & 2, Jalan Ali, Johor, 84000 Muar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0442259,
+               "lng" : 102.5662341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.045466029892722,
+                  "lng" : 102.5674591298927
+               },
+               "southwest" : {
+                  "lat" : 2.042766370107278,
+                  "lng" : 102.5647594701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f87f72a48d0a9ee8438783005e3ac1958e5df610",
+         "name" : "Q'ly",
+         "place_id" : "ChIJA85vvQ-50TER6EsCsAL_KUs",
+         "plus_code" : {
+            "compound_code" : "2HV8+MF Muar, Johor",
+            "global_code" : "6PJ42HV8+MF"
+         },
+         "rating" : 3,
+         "reference" : "ChIJA85vvQ-50TER6EsCsAL_KUs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Jalan Ali, Pekan Muar, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0456285,
+               "lng" : 102.5674749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.046938729892723,
+                  "lng" : 102.5688537798927
+               },
+               "southwest" : {
+                  "lat" : 2.044239070107278,
+                  "lng" : 102.5661541201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1a05d55128ecf9ec31eebc87469492561b6f48d6",
+         "name" : "Macarena",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111687364490117535399/photos\"\u003eSockCheng Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsrmCzW_99pBolRP2W1UE5k_Xrq4kDTSVJScC8qvK9e7kyXDZS5JAfuek0XY4fxj8Sgo-TvOUbhFokQ9dZ5azGmZrf2OLwpqWBNRVyo3si_JhDnK6oO6nCln0pbJyauQtEhA9QIKzyRHFQIqQOUOvtoOcGhRA2CsFp2tCYUd7uLUlEaSwd9bevg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJDX5GiAW50TERbzDpkuUKes4",
+         "plus_code" : {
+            "compound_code" : "2HW8+7X Muar, Johor",
+            "global_code" : "6PJ42HW8+7X"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJDX5GiAW50TERbzDpkuUKes4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "No. 4 & 5, Jalan Parit Karang, Kerang Laut, Johor, 84000 Muar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.07356,
+               "lng" : 102.540979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.074898529892722,
+                  "lng" : 102.5423171798927
+               },
+               "southwest" : {
+                  "lat" : 2.072198870107278,
+                  "lng" : 102.5396175201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a9e4ba4f25c09b630bac5246b15de97d945ab6c",
+         "name" : "Gar Gar Enterprise",
+         "place_id" : "ChIJBWBPC8i40TERMT3w2oK0HUg",
+         "plus_code" : {
+            "compound_code" : "3GFR+C9 Muar, Johor",
+            "global_code" : "6PJ43GFR+C9"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJBWBPC8i40TERMT3w2oK0HUg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Wetex Parade, Level SI 3, Jalan Ali, Johor, 84000 Muar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0445409,
+               "lng" : 102.5662248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.045956179892722,
+                  "lng" : 102.5675388798927
+               },
+               "southwest" : {
+                  "lat" : 2.043256520107278,
+                  "lng" : 102.5648392201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c85eae482255bf435c88f76d18ec371e9334793c",
+         "name" : "Daily Fresh",
+         "place_id" : "ChIJDbtwvQ-50TERAwZvJQf_q2c",
+         "plus_code" : {
+            "compound_code" : "2HV8+RF Muar, Johor",
+            "global_code" : "6PJ42HV8+RF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJDbtwvQ-50TERAwZvJQf_q2c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "18-6, Jalan Haji Abdullah, Johor, 84000 Muar, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.053265,
+               "lng" : 102.593715
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.054598529892723,
+                  "lng" : 102.5950681298927
+               },
+               "southwest" : {
+                  "lat" : 2.051898870107278,
+                  "lng" : 102.5923684701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e7bb8242a7ebc961ac67fa6d3117cbbcf4a46c26",
+         "name" : "Fruits Top 1",
+         "place_id" : "ChIJ6dSUj7S50TERuUPPxOH7LXE",
+         "plus_code" : {
+            "compound_code" : "3H3V+8F Muar, Johor",
+            "global_code" : "6PJ43H3V+8F"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ6dSUj7S50TERuUPPxOH7LXE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Kampung Baharu, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0295296,
+               "lng" : 102.5710362
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.030822979892722,
+                  "lng" : 102.5723373798927
+               },
+               "southwest" : {
+                  "lat" : 2.028123320107277,
+                  "lng" : 102.5696377201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "30da0c8ef66ad549bbbf45b1ad0afdb31e7a2759",
+         "name" : "Gerai Hentian Sarapan Pagi",
+         "place_id" : "ChIJLbpY23a50TERFGbMmv5v2xY",
+         "plus_code" : {
+            "compound_code" : "2HHC+RC Muar, Johor",
+            "global_code" : "6PJ42HHC+RC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLbpY23a50TERFGbMmv5v2xY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Lot 6530, Jalan Rivera, Kawasan Perindustrian Tanjung Agas, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.053144,
+               "lng" : 102.5666291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.054531379892722,
+                  "lng" : 102.5679445298927
+               },
+               "southwest" : {
+                  "lat" : 2.051831720107278,
+                  "lng" : 102.5652448701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1a6b63282731c78b2bc1af75c19ad28f0b9650f",
+         "name" : "KFC - Giant Muar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114674220239467081878/photos\"\u003emark chern\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6g_IGullBnaoDi-Q4BgLhdbL7fv7a41griVsYaZ0_m9mYAX5YSZrUkKWnh9gs1C9fU4Yp_mdfm1xykUPuQtsmaWWNo16giJbh-Fj8ZGzAaPcCumKNum78M2RcVSiQkq4EhC09J7FwIeSaYmUJ1oxK5njGhQrS-gB8y3lTEZU4mUQe1rRzFyyAQ",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJaaFI_AK50TERITRYrW780BE",
+         "plus_code" : {
+            "compound_code" : "3H38+7M Muar, Johor",
+            "global_code" : "6PJ43H38+7M"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJaaFI_AK50TERITRYrW780BE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123
+      },
+      {
+         "formatted_address" : "13, Jln Gemilang 1, Taman Muar, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0735231,
+               "lng" : 102.5784666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.074857879892723,
+                  "lng" : 102.5798723298927
+               },
+               "southwest" : {
+                  "lat" : 2.072158220107278,
+                  "lng" : 102.5771726701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9486daf9576070c6a03ec669fb998c68521d68da",
+         "name" : "Bubble Village 饮食店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3294,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115615924950753896301/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJqGXtlfij7iLaYpKfRgfpQ8ivEANRF-QnXdoH0weTaw7sof7YdZT1WUfRREiVRYS7LYMIyyAdbzpioIgXWSaLSRCP3WFKRXt_9jZ9yCYQ4tbcvWmCICKE9tDPIpZBQ1WEhCYWrDWnIbrONBTNJmE-kB6GhQSOOTRa9BT4Ek0bbFFOqkEjttwzQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRyM-zF-40TERM6gGzp46rdc",
+         "plus_code" : {
+            "compound_code" : "3HFH+C9 Muar, Johor",
+            "global_code" : "6PJ43HFH+C9"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJRyM-zF-40TERM6gGzp46rdc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34
+      },
+      {
+         "formatted_address" : "Unnamed Road, Taman Mas Jaya, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0689503,
+               "lng" : 102.5811287
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.070341229892723,
+                  "lng" : 102.5825705798927
+               },
+               "southwest" : {
+                  "lat" : 2.067641570107278,
+                  "lng" : 102.5798709201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "56a4c15628cfdc986b601c83ffc0f22bae4a3473",
+         "name" : "Dazs Donuts & Coffee",
+         "photos" : [
+            {
+               "height" : 2364,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102366622931608326676/photos\"\u003eEdison Teck\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALy-PfrTSZ2ptEYejV2t7Wfj9uTu4_htbzFw7ra6AOh5jReHW_w5SqUGaUCkp0K2fGXCyJm9qxgv4YZqbGNvUCC7ccIjwPlQ9qxRLSahYY_HvzwmjVd2FiLqsbNvsaIFtEhCH75b8gCri0XOj42VBQXbzGhSPOKsLwRIGauXhMioN0QEjOMOgsw",
+               "width" : 1773
+            }
+         ],
+         "place_id" : "ChIJzb93UFe50TERH0F4zRwsNps",
+         "plus_code" : {
+            "compound_code" : "3H9J+HF Muar, Johor",
+            "global_code" : "6PJ43H9J+HF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJzb93UFe50TERH0F4zRwsNps",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Perniagaan Jaya 3, Pusat Perniagaan Mas Jaya, J24, Taman Mas Jaya, 84000 Muar, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0686427,
+               "lng" : 102.581014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.070058029892722,
+                  "lng" : 102.5825424798927
+               },
+               "southwest" : {
+                  "lat" : 2.067358370107278,
+                  "lng" : 102.5798428201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "388e127f8a852dd98c847dcd3460253790352e9e",
+         "name" : "Kala Chicken",
+         "place_id" : "ChIJOazGgCu50TERK1il1VipOmo",
+         "plus_code" : {
+            "compound_code" : "3H9J+FC Muar, Johor",
+            "global_code" : "6PJ43H9J+FC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJOazGgCu50TERK1il1VipOmo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "柔佛 编码:, 84000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.0615987,
+               "lng" : 102.6000547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.062888529892723,
+                  "lng" : 102.6014195798927
+               },
+               "southwest" : {
+                  "lat" : 2.060188870107278,
+                  "lng" : 102.5987199201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "77e6e9a2bdd329cab066b7f0844f7b1d56a8aab2",
+         "name" : "Baker'S Cottage",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109824460691438421928/photos\"\u003eet neo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyJpkvYQt_2eazDjlhMLUyhHaNA22je2EastNtC0MWwbizBOTU_MrRPHDnfE249GpzJRCdODTIRXXal0A6SqGLqvMsoQs58RAbjYTud7chjZ1Pa4LsBiR7bLqzeKRAZK9EhC62xiJsgChAcZgvz-VLfwzGhRhxHO5gCKDRdIa6Js8G-KDFeCJ6Q",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJDVQ1Oi650TERqM4n94XmOWc",
+         "plus_code" : {
+            "compound_code" : "3J62+J2 Muar, Johor",
+            "global_code" : "6PJ43J62+J2"
+         },
+         "rating" : 4,
+         "reference" : "ChIJDVQ1Oi650TERqM4n94XmOWc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "G-25 Wetex Parade, Jalan Ali, Muar, Malaysia, Johor, 84000 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.043944,
+               "lng" : 102.566552
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.045166829892722,
+                  "lng" : 102.5677573798927
+               },
+               "southwest" : {
+                  "lat" : 2.042467170107277,
+                  "lng" : 102.5650577201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6a5ae44f85d2475311a3eae28b22b0ee3bcc493c",
+         "name" : "McDonald's Muar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104483673841866776991/photos\"\u003eedoodles007\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA8pjUFN9fS5AVGOrt4CWEgBcaMNB1PwhCKDYSaWYFj8qLqkD6UiziBbKCLVMlfMr2eHNRBANQZ8gRHENr6YkVt5zZ0TDyOr2URz2-r6l9ME4VfLHKXvOL7hKeoJQ7Z4QyEhAqRg60jQLo_-lYw9BfCc1oGhSCat3qkLEPLD6zAl8DF2R-OosCZg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJUb6SkgW50TERJnAWWskS6WU",
+         "plus_code" : {
+            "compound_code" : "2HV8+HJ Muar, Johor",
+            "global_code" : "6PJ42HV8+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJUb6SkgW50TERJnAWWskS6WU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145
+      },
+      {
+         "formatted_address" : "Lot 3070, Jalan Bakri, Mukim Bandar Maharani, Muar, Malaysia, Johor, 84000 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.04844,
+               "lng" : 102.590367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.049625379892722,
+                  "lng" : 102.5916943798927
+               },
+               "southwest" : {
+                  "lat" : 2.046925720107278,
+                  "lng" : 102.5889947201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f085a36dc6e7948d888f6406d31600187fbf37be",
+         "name" : "McDonald's Muar DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgxHZXHe50TER9yem_EqLSEA",
+         "plus_code" : {
+            "compound_code" : "2HXR+94 Muar, Johor",
+            "global_code" : "6PJ42HXR+94"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJgxHZXHe50TER9yem_EqLSEA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

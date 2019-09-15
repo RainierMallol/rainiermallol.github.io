@@ -1,0 +1,883 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAALtobhv0gRByAvtptoXwryhr01_Y7H6IXzjVN2FYQmLlbdHVH_nm27iIhpNmW85q20QLb11LbvlMTNg4nzpN4fEWAhS0sfMRWe-mNp0wAMnFquAoZ0hFf-TWDlGFWSAA8QKVkyGBSwHdtCWav9HWUaXPF9inCuGuaAqCoI6Dkl3qfAbyIamKqo1BJvMQYdIfYuCrcaQulIqiQBuEfEVa4UiU-8-Va_F6P9495eTVxgVZc9n1reIPhnQUqpx5WD9T1h7QBfha7PkPGCh1buDPQXZuR-oLT_2UDyc0SUt4-KNyF2I9u7yczY10Sh0dA4TmzPUZvAaOFJ08KM_8e3MNyNQUVvGSjhw-yuB3cxoU2get728ruHvxzZv7KUTwd2xuA3zCNCgiDu4k0sG62HscyWnGLBUWfzq35QV2uP4j1HxV0oIxmYa9kYV8w6u2ocQpiBu974NCl6hQBA67De1Y1pAYivQjvue7Dhx3p3MTbKpWsvigPwvFwHShkxij_aegBdLyRxQep0YGtugoBLUtKqlfzYdoUq9lfmf20nXJ0OzMA7gDIPDFaw7H3XbKwyi2ZIB8kEbLuFiXS8AXqUEkp7mTJoYikwWkAOAriFL7X8YpScYA4CImOovWQ8V0P5q5l0Qi9K2YTq0qaBFWCqQo-hztS00TozGgyyjoPmuXvDyUEhCvBMg6zUIHVdalo6-pJ3phGhQB5qu07kjvAjQV_ME5-sgDZ3cvvg",
+   "results" : [
+      {
+         "formatted_address" : "Lot 21 & 22, Ground & 1st Floor, Sandakan Harbour Square, 90000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8392864,
+               "lng" : 118.1191722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.840585579892721,
+                  "lng" : 118.1205515798927
+               },
+               "southwest" : {
+                  "lat" : 5.837885920107277,
+                  "lng" : 118.1178519201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5b8b38d7cbd4466b7419d53de8880c8b9f96806b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114242630011687319994/photos\"\u003eMF Madkauwasa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAppU_Kse_9cybhlYb97dzZzd8ZIiTtEBURqa1LZgou1KWps4pRIIAPC26VwAH9PZrR-8giJN5PnCqSefM10S73GnJZYjjEhVPIbe-twdYOr26zV2XJjPEyIbryb_uMT9fEhDRK1Xilb0H6kpEg98ITKDMGhR3xZhhgmkWe7VF-NTljK_rKj68-Q",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJW0eDjy7FODIRcuVB97N_Rq0",
+         "plus_code" : {
+            "compound_code" : "R4Q9+PM Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4Q9+PM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJW0eDjy7FODIRcuVB97N_Rq0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 317
+      },
+      {
+         "formatted_address" : "Pusat Bandar Sandakan, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8383281,
+               "lng" : 118.1197338
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.839541829892723,
+                  "lng" : 118.1211228298927
+               },
+               "southwest" : {
+                  "lat" : 5.836842170107279,
+                  "lng" : 118.1184231701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a23bc74d5830d63b4b93bcb38c4ea737c0f58bc4",
+         "name" : "McDonald's Sandakan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116276453149570316775/photos\"\u003eANN LIN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMgYcBlIqh2PdCjAJzESgPpvRkk_CuotlbzL2OXPw5-ahGHlqqJYJ_lRIicFFm2Mdfl0wQchDxkTdnJ1GGZo1BHZLEajGzxc1vdUsg4mGhslnYz1NXomNAwXEmXJr-_bfEhDNLs2ud5lJmv9LRQ3271dmGhQCq10_MVJtyyF9AuR4hRWyrsDyyw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJzVizjC7FODIR5cWpm4fgYOk",
+         "plus_code" : {
+            "compound_code" : "R4Q9+8V Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4Q9+8V"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJzVizjC7FODIR5cWpm4fgYOk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "formatted_address" : "Bt 32,check point sandakan,sabah., Bt 32, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.754752,
+               "lng" : 117.753345
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.756191529892721,
+                  "lng" : 117.7546419798928
+               },
+               "southwest" : {
+                  "lat" : 5.753491870107277,
+                  "lng" : 117.7519423201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c7cc32765a2934faa4ba782f4a4ef92323767f1b",
+         "name" : "Nasi Ayam Hainan Dyana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112218797467019013313/photos\"\u003eElmer Rico Dominicus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvehta72gW6xlUItcc70rm1EVf7Bedh4xD63hHUL1C0ubXPjo0VXO5P5JEnennTxHLHv0cRdNsgj6wbOFuSVKxeXc9-XeojnWUU3EOmW3lvuPBPYssCtuC6NpVpN54hR0EhDyES0oHcLETcBzhJ3vfe7RGhQaeiq0I_eSfwYPM246UUyDRh8mKA",
+               "width" : 3480
+            }
+         ],
+         "place_id" : "ChIJjy4fFQkuOTIRQQN3-RqLjjE",
+         "plus_code" : {
+            "compound_code" : "QQ33+W8 Segaliud, Kinabatangan, Sabah",
+            "global_code" : "6PQVQQ33+W8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJjy4fFQkuOTIRQQN3-RqLjjE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 83
+      },
+      {
+         "formatted_address" : "Restoran Makanan Segera Sky, Blok D Lot 1 Jalan Utara, 90701 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.856192999999999,
+               "lng" : 118.0781116
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.857564529892721,
+                  "lng" : 118.0794484798927
+               },
+               "southwest" : {
+                  "lat" : 5.854864870107277,
+                  "lng" : 118.0767488201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cbb5fe537933ab977ef14bb9d357527b9f9f7fe6",
+         "name" : "SKY Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110598008934878077157/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnfN61mQD8MT7wS9dAKR9A2UqfxjAeS76qGgaDlOCoD6p5kWhtlryQgquL8XZPET9UC1mD_k12DC31l_9UL_3m9J3-krLzA7aWDTwnNq_y0DpUdpUTSKP7rkMGJ8rISWsEhCLT2Oe2p8zKi4mj2EH4lm6GhQVbrxiPMPYSUD98wnc6U1Q7L9ufQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJT7MquhrbODIRYDGs5MkFG2I",
+         "plus_code" : {
+            "compound_code" : "V34H+F6 Bandar Kim Fung, Sandakan, Sabah",
+            "global_code" : "6PQWV34H+F6"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJT7MquhrbODIRYDGs5MkFG2I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "Ground Floor Blok C, Jalan Leila, Bandar Ramai Ramai, Sabah, 90000 Sandakan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8372985,
+               "lng" : 118.1028913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.838652329892722,
+                  "lng" : 118.1042405798927
+               },
+               "southwest" : {
+                  "lat" : 5.835952670107277,
+                  "lng" : 118.1015409201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5e18e4f556443c54d3b88120089be733649e80a8",
+         "name" : "Sapporo Snacks House",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109197865580030975302/photos\"\u003eApple Chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFsHZmuVmFOfWaO0Kk2SdNMJWrxOugs4jRasqGbVZwxQD7KcXuoFTDjn_tWm4QmmYQkwfYiFEWCJfSox1QOYiLFs5VyEYozEFDUQ6j0bDvik-mt54PqoGlj2kbWh3kGwjEhBPHapfcDIzV3Mx3qbbNvV8GhShrikGR5enu2QUN1B9ivjOhCK6-g",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ2STpM9DaODIRLkNdwSXDL7k",
+         "plus_code" : {
+            "compound_code" : "R4P3+W5 Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4P3+W5"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ2STpM9DaODIRLkNdwSXDL7k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28
+      },
+      {
+         "formatted_address" : "Sebahagian CL 075477584, Batu 6, Jalan Utara, Sandakan, , Malaysia, Sabah, 90000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.863421,
+               "lng" : 118.055947
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.864899729892723,
+                  "lng" : 118.0574364298927
+               },
+               "southwest" : {
+                  "lat" : 5.862200070107279,
+                  "lng" : 118.0547367701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98d8bff172fe7e07dfa6e604011a017bdc69a6ea",
+         "name" : "McDonald's Sandakan DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105377532014291319896/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZACCNMKoTAwXgPWV9dWeYwNI6KszyCuNEp7kKOrrW8eje-ShcMYfleJ_2elZ05zGJri2U6S01JhdlQW4cKnTsqqVyMtRF4EMwY88qEditalXa3U6R9ZXvBPgRBgbsItnEhBeqO4g7IE_vW13WABiKnGRGhQw20_YOL7-Dx8JlVfWJ8Uwo9yXwQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJT3oAcKPbODIRVFWKw3iAmGs",
+         "plus_code" : {
+            "compound_code" : "V374+99 Bandar Tyng, Sandakan, Sabah",
+            "global_code" : "6PQWV374+99"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJT3oAcKPbODIRVFWKw3iAmGs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1465
+      },
+      {
+         "formatted_address" : "Sibuga Jaya, Batu 8, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8831133,
+               "lng" : 118.0318522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.884513829892723,
+                  "lng" : 118.0331993798927
+               },
+               "southwest" : {
+                  "lat" : 5.881814170107279,
+                  "lng" : 118.0304997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9eaf2dca58e91acf16a817f59dc916e070d7d609",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102989144379473362030/photos\"\u003eainruzainah jumbri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuaQA7xxAVlRMEg-x_d5-P6p6xnFS9nVsl-i19tMgXFp7YXF5PMd-vfZYhFPgm8-DWwf5xCafrhakpzfCyfC0DZlVgxjmuO_RG6-RyBYSQHgoX5k5R8tVCHAseNKOLVeUEhD-mWRzoPXSRxX4BCepCWFAGhRg-_fm-uaED4JhJefJoqVJuGmX-Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJw4O-yvDbODIRnLJ9PpnjSJ8",
+         "plus_code" : {
+            "compound_code" : "V2MJ+6P Taman Perikanan Jaya, Sandakan, Sabah",
+            "global_code" : "6PQWV2MJ+6P"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJw4O-yvDbODIRnLJ9PpnjSJ8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "formatted_address" : "Lot A8-A11, Giant Hypermarket Sandakan, Lot 3, Jalan IJM, 90000 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.866443,
+               "lng" : 118.0573781
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.867801879892722,
+                  "lng" : 118.0588311798927
+               },
+               "southwest" : {
+                  "lat" : 5.865102220107278,
+                  "lng" : 118.0561315201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8ec5f4cb02cc302d700ff3843e958d1411e6459",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100608498919195824285/photos\"\u003eAs Rani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATtQvhZ_RBtedJkMIJQ-DlFn96u_LQ57e3Up-Dr65ZBg8LcoIXWskD4tu4V2hUVgcrgPU1wm3I5O7WjqH-fXlyqVG1VRJ6cEoY-Q59DGDr4o-oycFnLMj4DBQsfXEmGPWEhBcinQhQjhUktYsBsJ6ThfEGhSttj5XF3T3ps3VQJkI4pRuTVjiOQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJV2BFaKLbODIRoekZBMT6sJc",
+         "plus_code" : {
+            "compound_code" : "V384+HX Bandar Tyng, Sandakan, Sabah",
+            "global_code" : "6PQWV384+HX"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJV2BFaKLbODIRoekZBMT6sJc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "Ground & 1st Floor, Block M, PH II, Lot 99, Bandar Pasaraya, Mile 4, 90309 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.857811,
+               "lng" : 118.0787433
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.859149129892723,
+                  "lng" : 118.0800749298927
+               },
+               "southwest" : {
+                  "lat" : 5.856449470107279,
+                  "lng" : 118.0773752701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "51b2663484cfb24cc18395f21790678a76e9ecfd",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1745,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105342288106536827503/photos\"\u003eJoanne Nicole\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV_qO_0TvjAzyJbpEeH4xnK-ktmy5rGOiAnlUQAZBih4ybbdnB2oc5_brmAUjaUltAspETrPp5MHuW6mwPSdGokincyxMHYwvs46KARLpQEqUmiaGtHvcAen-8JI56m24EhDkf3d3U6wa_V2XOiYACTMVGhT7rk-RaKQ0Cir3ztT4r9Z0Yo6scw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJF96BaxDbODIRpIxOTw5c8Z8",
+         "plus_code" : {
+            "compound_code" : "V35H+4F Bandar Pasaraya, Sandakan, Sabah",
+            "global_code" : "6PQWV35H+4F"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJF96BaxDbODIRpIxOTw5c8Z8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 526
+      },
+      {
+         "formatted_address" : "No. 42 & 43, Ground & First Floor, Block F, 91100 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8888263,
+               "lng" : 118.0592125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.890234929892722,
+                  "lng" : 118.0605632298928
+               },
+               "southwest" : {
+                  "lat" : 5.887535270107279,
+                  "lng" : 118.0578635701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01889572436064c4c48e086a95f17e5a9e762146",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103174450680736163636/photos\"\u003eFAIRUZEYAZA YAHAYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaBJsDZlNFl8_PDbhy-OQB7ufRJtp8gYXUixbVEwAH1Cv9izr0eu_RGSXlqywzR8vFEl38Ke2EUYWyUOFMEtu9KpQOypojAFkrczh2cBdh-sIxA8dhfM2NN5YIDx7Qxp0EhBV0KDZHu5R0iwijimfl0OJGhTUvVF9P3WbiaFfFr42X9qTiTuXMQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJwyNOpSagPzIR3EuOIeEIuJw",
+         "plus_code" : {
+            "compound_code" : "V3Q5+GM Taman Fajar Perdana, Sandakan, Sabah",
+            "global_code" : "6PQWV3Q5+GM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJwyNOpSagPzIR3EuOIeEIuJw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 128
+      },
+      {
+         "formatted_address" : "lot 40 ,block HS-4 sandakan harbour square, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.839174499999999,
+               "lng" : 118.1196207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.840518129892721,
+                  "lng" : 118.1209747798928
+               },
+               "southwest" : {
+                  "lat" : 5.837818470107277,
+                  "lng" : 118.1182751201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dbb6f03e0916f53191c4f4cf0c250563791fef77",
+         "name" : "FFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113271386861956621587/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARBEguaCE7g31ZcWn_wQwVcogWi2DF15ndJ_dpeUSGGMSRCZRtaWS4WLFeIUKbroEnN5WssgQfl5RL-CjWI8-9f2dTGI3vkMcJyxT5Zq7OwoylEjmF-DQ-_CN3YRXbAnvEhB3vwoRaxTD-9Febe8FBKviGhQE8lzyJ7Y_prXiGegbRpM3Ubulyg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJCXJ1h6HFODIReUaBnx5PBoQ",
+         "plus_code" : {
+            "compound_code" : "R4Q9+MR Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4Q9+MR"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJCXJ1h6HFODIReUaBnx5PBoQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Jalan Sepilok, Sepilok, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8781333,
+               "lng" : 117.9516468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.879495729892722,
+                  "lng" : 117.9529342298927
+               },
+               "southwest" : {
+                  "lat" : 5.876796070107278,
+                  "lng" : 117.9502345701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1edb441683bfe919481711c64a1c3d3540387989",
+         "name" : "Burger & Drink",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114312377685327793245/photos\"\u003eEnos Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8Lcb5Ljx6V5rgBH_MOt2i4MPTiKgR_JgSQyBSZtsQZJ1RzeOqACnyq4ma-fOo5ZS0gFlc2WjjgAzU0A4zI9P38aNN91-odbYL-mGxL-VhHTRCS488afaicClkAav4uWUEhBTvPi8C_2_HmsDQB7FRstCGhTti4oe10nCeN-ogDyO5N-4niwNjw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ13cM8cbZODIR1XEKkglQMsc",
+         "plus_code" : {
+            "compound_code" : "VXH2+7M Sepilok, Sandakan, Sabah",
+            "global_code" : "6PQVVXH2+7M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ13cM8cbZODIR1XEKkglQMsc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8970642,
+               "lng" : 118.0617994
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.898270329892722,
+                  "lng" : 118.0631681798927
+               },
+               "southwest" : {
+                  "lat" : 5.895570670107278,
+                  "lng" : 118.0604685201072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "395647ae86f2b4603de3d128d81ecffe3598f2e5",
+         "name" : "Jesselton Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116636612740351275349/photos\"\u003eDennis Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACAINGzszLCZ2OoOWNH9HiGZNUjj-l_t0m2gVlsYU_2liz7HDti23khiyUpBd2dopOmwRE2dXQh98nJxBxnS5LsGCdL-iQHHWeUTh2Mg9FY8Ku5wn4tVxWrQz-i1Noj2mEhAogRosCtobFXdc7Wipn2HMGhTPWFIhzVRinGfaNmI3bs6yjxSCmg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJL64rGGPcODIROmPt_b7rzo4",
+         "plus_code" : {
+            "compound_code" : "V3W6+RP Taman Airport, Sandakan, Sabah",
+            "global_code" : "6PQWV3W6+RP"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJL64rGGPcODIROmPt_b7rzo4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "Lot 1A Block 17, Pusat Bandar Sandakan, 90000, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8393714,
+               "lng" : 118.1187773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.84073887989272,
+                  "lng" : 118.1201568798927
+               },
+               "southwest" : {
+                  "lat" : 5.838039220107277,
+                  "lng" : 118.1174572201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9b0316071bb8e175d8853ce059c5703e632d30e",
+         "name" : "Chicknjoy Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ6a_OgaTFODIRqC_QBWAWIf4",
+         "plus_code" : {
+            "compound_code" : "R4Q9+PG Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4Q9+PG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ6a_OgaTFODIRqC_QBWAWIf4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot No. B1, Kota Kinabatangan, Shophouse, 90200 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.588787,
+               "lng" : 117.846057
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.590122629892722,
+                  "lng" : 117.8474267798927
+               },
+               "southwest" : {
+                  "lat" : 5.587422970107278,
+                  "lng" : 117.8447271201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8e08f7122c55cc09cbff4320dee2c7c4d4501dbf",
+         "name" : "KFC Kinabatangan",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115581025393639020246/photos\"\u003eYUN JUN CHEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoagbOgITKWJx1dLS95lA-ZlIfjf7AfvDyMbIM36bjFON_I4LgAlZZU-pv2LsG2pECQ5o76Q0PC6NIG7XGAsOOhkGnJub6W-7QO4OYaUE8tiV08YAS7MjqIjw4asW9iHUEhAe05y7S_t63UkW4LTHpKVjGhQknQMBGcue6aZSMh1996Zzhhf9qA",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJBVawU6TWPjIR6MnrHBoi-Jc",
+         "plus_code" : {
+            "compound_code" : "HRQW+GC Pekan Kota Kinabatangan, Kinabatangan, Sabah",
+            "global_code" : "6PQVHRQW+GC"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJBVawU6TWPjIR6MnrHBoi-Jc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 294
+      },
+      {
+         "formatted_address" : "90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8650972,
+               "lng" : 118.0520592
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.866460929892722,
+                  "lng" : 118.0534255798927
+               },
+               "southwest" : {
+                  "lat" : 5.863761270107278,
+                  "lng" : 118.0507259201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "be499e41a6730bd90d968a6487e4432ff332178b",
+         "name" : "UP CASE cafe sandakan ijm",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111818039836752824198/photos\"\u003emohd anwar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_c79rMaWxOQDrsmsIAIEcMVAO_yA7o5OO2u31H2KCHiILKaRu6ZWh_HRYEq1wAW03X9dOjmMAZTVQp4pMP4psoMH3UMOpVhDhcFvw0tivf3EkYAsYDnRiGYrqbg0ajHzEhCbEnufG8fL0mlYpaGzqMhFGhT7kTHL5PsWn8V27Jz1D7SK42BF4w",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJvWL55rzbODIRep3sHmMNZfw",
+         "plus_code" : {
+            "compound_code" : "V382+2R Bandar Tyng, Sandakan, Sabah",
+            "global_code" : "6PQWV382+2R"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJvWL55rzbODIRep3sHmMNZfw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 218
+      },
+      {
+         "formatted_address" : "2002, Jalan Istana, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8422323,
+               "lng" : 118.1167272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.843450379892722,
+                  "lng" : 118.1181141798928
+               },
+               "southwest" : {
+                  "lat" : 5.840750720107278,
+                  "lng" : 118.1154145201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c76caf6e6669a0b702b1f587ebc22ea17d9070ed",
+         "name" : "English Tea House and Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116656906425153888534/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0CXhcNavHRm7r5jLVr_UG8dldzRFWyvKOLwqHhkQJQCozkq1T3zmIB8tJBxWzpFIHehWG9j31N7EfurTQABRxBcOVl_lDALbMeJdKBhbFDAcOpXePPq62n0xshQ82bg1EhB1vlR840hJ7Czn0FNfx7DpGhReowXcKmGKGCmkWYZLNJ27_Gr3zA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJY_9WrivFODIRo-m8kPgrK4s",
+         "plus_code" : {
+            "compound_code" : "R4R8+VM Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4R8+VM"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJY_9WrivFODIRo-m8kPgrK4s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 495
+      },
+      {
+         "formatted_address" : "Lorong H, Jalan Sim-Sim, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8604375,
+               "lng" : 118.1261527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.861787329892722,
+                  "lng" : 118.1275025298928
+               },
+               "southwest" : {
+                  "lat" : 5.859087670107278,
+                  "lng" : 118.1248028701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e105a4ced27f0cfe0f219d8b80dfca2ed20b569",
+         "name" : "Restaurant Seafood Sim-Sim 88",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107306459089350104815/photos\"\u003eIrene Chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqv2mNPjkZSyr6aZbVl2opgdDzZhmV5Ib4RpQ3hdt4vIXMe2wBPUU6RHCs2B-foxuEOcKTjt99N5VFKyGgeEQO-MJOOGmHEicuMhOiDyjNmH-9it8qw0chmJCqzwGkcJsEhAJUrsnuZmHzyDlsIHk42alGhTzp-LdTx8YPfiLDsi4SAVE_2fZGQ",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJhV3SQsbEODIR--laoOMRiuo",
+         "plus_code" : {
+            "compound_code" : "V46G+5F Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWV46G+5F"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJhV3SQsbEODIR--laoOMRiuo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1252
+      },
+      {
+         "formatted_address" : "90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8649305,
+               "lng" : 118.0517012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.866207579892721,
+                  "lng" : 118.0529629798927
+               },
+               "southwest" : {
+                  "lat" : 5.863507920107277,
+                  "lng" : 118.0502633201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "90f5222ec43f0117474dd18fc0005eb5fb53803e",
+         "name" : "Restaurant Ocean King Seafood",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109549502392992248543/photos\"\u003eApp Loqic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADIKV8Xs5n4ukABRT5qy0Lw5N9rdFeH4vtTSSkF7kll6j0N6js0ztUcScOxl2E-eg_JNUT0qX9fgIDQEg2WAaC0VCSAwP0bgnYdfHG5s0XX_zV71mStC81JJGjLVM9KkDEhCNXP6YG76GxZnc-w37I15iGhS2Yx8_E_Xs_bkJ6s_hZ95MtracXA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJaweE77zbODIRDuZG03XSF8k",
+         "plus_code" : {
+            "compound_code" : "V372+XM Bandar Tyng, Sandakan, Sabah",
+            "global_code" : "6PQWV372+XM"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJaweE77zbODIRDuZG03XSF8k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 402
+      },
+      {
+         "formatted_address" : "Nak Hote, Jalan Pelabuhan Lama, Pusat Bandar Sandakan, 90000 Sandakan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.838544,
+               "lng" : 118.116594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.839848829892722,
+                  "lng" : 118.1178680798927
+               },
+               "southwest" : {
+                  "lat" : 5.837149170107278,
+                  "lng" : 118.1151684201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc8a3c440546ba1ca1bcdb2ef61f9c3f1893d881",
+         "name" : "Balin Roofgarden Bistro & Bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106078021682137835576/photos\"\u003eMas Light\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4NxXwMvcn6lRviEuRwv6zx7SbKKkJs2YKqTZ-6Ch5uAmtZgxFBFG2J5kNIUuhgpwrg9K1MHUWJZCaD4yxR0mEOzGYsExUzoLeD3dLgttcsvTPxeaMV96hb0KLs3R7DxoEhCUGAVvfTD6QCCo-36xQcFFGhR0sbzMzLYwK6WyKN_t6epnTynxLg",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJ0xRiSizFODIRJZcpmGlzjAk",
+         "plus_code" : {
+            "compound_code" : "R4Q8+CJ Pusat Bandar Sandakan, Sandakan, Sabah",
+            "global_code" : "6PQWR4Q8+CJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ0xRiSizFODIRJZcpmGlzjAk",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 449
+      }
+   ],
+   "status" : "OK"
+}

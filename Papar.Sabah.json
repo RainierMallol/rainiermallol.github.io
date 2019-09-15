@@ -1,0 +1,481 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lorong Palm Square, 3, Kinarut, 89600 Papar, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.830699,
+               "lng" : 116.043005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.832032429892721,
+                  "lng" : 116.0444001798927
+               },
+               "southwest" : {
+                  "lat" : 5.829332770107277,
+                  "lng" : 116.0417005201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7882b325febc658a7beb49884f8cb99da3a4228d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102468245599174032821/photos\"\u003eAlimmudin Abd Latip\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtPaEjS-055ULMQpuUpSmohvrSekM5KDzrNYic0whWV7zLJRQ_87XKFUIq0osJnEYPHT_wMnBTaY8ooeAD20pPMxLjN_l-honyDqL7dcp4XmZERkRgHjVjDL3Mtqxons_EhCtlh6u5ZnAzdAJhWGUyUnMGhQhnfji95YAxE0dSWIh_vF4VAaNzg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJgQfaR6hgOzIRcX2riH4WSuQ",
+         "plus_code" : {
+            "compound_code" : "R2JV+76 Papar, Sabah",
+            "global_code" : "6PQRR2JV+76"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJgQfaR6hgOzIRcX2riH4WSuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 477
+      },
+      {
+         "formatted_address" : "Lot 6, Jalan Donggongon Point, Penampang, 89500 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9102299,
+               "lng" : 116.104893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.911510329892723,
+                  "lng" : 116.1062967298927
+               },
+               "southwest" : {
+                  "lat" : 5.908810670107279,
+                  "lng" : 116.1035970701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d779b57cf1f6773b8836ab892aff2aca43a9801",
+         "name" : "Asian Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ6SKvGCdmOzIRAF1cQz2djLY",
+         "plus_code" : {
+            "compound_code" : "W463+3X Dongongan, Sabah",
+            "global_code" : "6PQRW463+3X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ6SKvGCdmOzIRAF1cQz2djLY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan Ketiau Tombovo, Bandar Putatan, 89500 Putatan, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8787197,
+               "lng" : 116.0557767
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.880064179892722,
+                  "lng" : 116.0572133798928
+               },
+               "southwest" : {
+                  "lat" : 5.877364520107278,
+                  "lng" : 116.0545137201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cdba515166f26ad131f49e6007c0ec4cac06e893",
+         "name" : "Kartel Burger Station",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110398604949666631803/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAQ_6Z6Jjtd8sIxE5jFEOy9eXAa8cwNv0P9H9A1SgeyH7uwitEg9TW20wa5txd7wWNG-bZsaIeRjpIx6HmnZj-RSgGxTLVME7SW4VsVpqlnW_3SqZSoBDQhE6HDNt6St7EhCH8tB2x9cceAYH5TcbPhxpGhT43OkOJhcHvG7G51u419YMjkxG9Q",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ9dyLuSJnOzIRYfsRAPVysLM",
+         "plus_code" : {
+            "compound_code" : "V3H4+F8 Putatan, Sabah",
+            "global_code" : "6PQRV3H4+F8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ9dyLuSJnOzIRYfsRAPVysLM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lorong Plaza 333-7, 89500 Penampang, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.923505599999999,
+               "lng" : 116.0769896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.924848379892721,
+                  "lng" : 116.0783010298927
+               },
+               "southwest" : {
+                  "lat" : 5.922148720107277,
+                  "lng" : 116.0756013701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee44ccf42d314d6a3ce5a65fc51b12f30c2549e4",
+         "name" : "Burger King",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116179395193378800078/photos\"\u003eHaseeb Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM4QRwh8-FecqUr9liK8z4N5AD_uyxkjZnlWWM6GZtAQQL_QIaPzVdcKOhRmngvlH456bAsbM_aiXLAg27tQXd0GOz3iSkxgU_k819VVKBCFtcMQ0eXXbY4GtY1HLNUE7EhA8Gf-vtoWvdHdQKn0oUMvuGhSS_sdYIX39WkFcLMLkyrpq-IYZRQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ7_-vVWVoOzIRLAB2BfsMBPA",
+         "plus_code" : {
+            "compound_code" : "W3FG+CQ Dongongan, Sabah",
+            "global_code" : "6PQRW3FG+CQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ7_-vVWVoOzIRLAB2BfsMBPA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 211
+      },
+      {
+         "formatted_address" : "Lot 26, Megalong Shopping Mall, Jalan Donggongon, Kota Kinabalu, 89500 Penampang, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.912871,
+               "lng" : 116.103353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.914289329892722,
+                  "lng" : 116.1047040798927
+               },
+               "southwest" : {
+                  "lat" : 5.911589670107278,
+                  "lng" : 116.1020044201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0d074fa092fd2edf554ef656d60b74e3729aa1c",
+         "name" : "Uncle Bob",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJcRxoeJ1oOzIRyW_CWqywVL4",
+         "plus_code" : {
+            "compound_code" : "W473+48 Dongongan, Sabah",
+            "global_code" : "6PQRW473+48"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJcRxoeJ1oOzIRyW_CWqywVL4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Lot 26-27-28, Megalong Shopping Mall, Jalan Donggongon, Kota Kinabalu, 89500 Penampang, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9128549,
+               "lng" : 116.103445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.914280429892723,
+                  "lng" : 116.1047962298927
+               },
+               "southwest" : {
+                  "lat" : 5.911580770107279,
+                  "lng" : 116.1020965701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ea65ca51d964af87e333a43fc3fc051df9a9b2c",
+         "name" : "Hoho Bento",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJZYGCgp1oOzIRcp7tlCLXY5c",
+         "plus_code" : {
+            "compound_code" : "W473+49 Dongongan, Sabah",
+            "global_code" : "6PQRW473+49"
+         },
+         "rating" : 3,
+         "reference" : "ChIJZYGCgp1oOzIRcp7tlCLXY5c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "L3 - L14, Departure Level Terminal 1, Kinabalu International Airport, Jalan Selangor, 88100 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9235963,
+               "lng" : 116.0506178
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.925028879892722,
+                  "lng" : 116.0521766798927
+               },
+               "southwest" : {
+                  "lat" : 5.922329220107278,
+                  "lng" : 116.0494770201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "38b5f20b53af076c61b65eff60a253f7317c6d84",
+         "name" : "McDonald's McCafe | KKIA",
+         "photos" : [
+            {
+               "height" : 3277,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113114627394475515734/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-vVIPRb8M51ExFZPJuhhg9zxey1UVmZRYz9pV0HdogEvS66t9Ly4THh1Lv6Pxq9YeRjnFkgpSKJibs7ZdxEGuzRR07Z_QHon0_lkHxo_JgOKlYCRwqg-nXq1J7vTTRrREhCpvuZ80LMwlcx6QLpF1vMEGhT-ZJN7jCDuSq8niJySocaoQWgBxw",
+               "width" : 2978
+            }
+         ],
+         "place_id" : "ChIJz6EJGxloOzIRAtYtCtaVBLU",
+         "plus_code" : {
+            "compound_code" : "W3F2+C6 Kota Kinabalu, Sabah",
+            "global_code" : "6PQRW3F2+C6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJz6EJGxloOzIRAtYtCtaVBLU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129
+      },
+      {
+         "formatted_address" : "Ground & 1st Floor, Shoplot No. 1, Block D, Donggongon, 89500 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.912172,
+               "lng" : 116.102546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.913481079892722,
+                  "lng" : 116.1038947298927
+               },
+               "southwest" : {
+                  "lat" : 5.910781420107278,
+                  "lng" : 116.1011950701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4ce3e5deaf069229bf5837c4d47e53e4484611b",
+         "name" : "KFC | Donggongon",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115255641020898350227/photos\"\u003ealan edward\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOE46nnWHf5j_Rt5wAbxnWXYHb2PC1m4Jbs0p3KDeEq1L92_dLEZsFbhoOmZGKGLFxMefyIRIE00Kqz3tj4gjDkLO0bFlbn0ZXqK9w6BHfv_4ZEkQrszRXOi7CAWzNd_AEhDVIE_dtzcGq4ioHW_SIN-cGhSswReZF1Zh7YAZ3H_AAnkz1VszFQ",
+               "width" : 2245
+            }
+         ],
+         "place_id" : "ChIJq-fbiCdmOzIR9OcQH6LvkLU",
+         "plus_code" : {
+            "compound_code" : "W463+V2 Dongongan, Sabah",
+            "global_code" : "6PQRW463+V2"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJq-fbiCdmOzIR9OcQH6LvkLU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 216
+      },
+      {
+         "formatted_address" : "Lorong Plaza 333-1, 88300 Penampang, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9240659,
+               "lng" : 116.0779176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.925447779892721,
+                  "lng" : 116.0792617798928
+               },
+               "southwest" : {
+                  "lat" : 5.922748120107277,
+                  "lng" : 116.0765621201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e2b901bf3d92700edd230e48f95381f75cce0912",
+         "name" : "Burger Pink",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117200844605855781151/photos\"\u003eRazdiansah Bassri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA50wmC8YmzzhrrjjAivub-oJCkjTQTtCumoDVE4nr5ySXfLAEsI-jsCyA7Bo8rx6m2icAR7ktR8Rect6LlCR0LRHtejzSmuCZGZzShgiBil0TAxJJ_McXO8NpTWlioMKVEhAqjOEImqtDyjlooYnCJwS5GhQ7RoH6UMMqQxgsWx7Q5By8PoaMTg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJmz4lRGVoOzIRJ6sLX-op1Ak",
+         "plus_code" : {
+            "compound_code" : "W3FH+J5 Dongongan, Sabah",
+            "global_code" : "6PQRW3FH+J5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJmz4lRGVoOzIRJ6sLX-op1Ak",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Royal Plaza Putatan, Bandar Putatan, 88200 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.890539899999999,
+               "lng" : 116.0505501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.891897679892722,
+                  "lng" : 116.0518362298927
+               },
+               "southwest" : {
+                  "lat" : 5.889198020107277,
+                  "lng" : 116.0491365701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "85b8b30f128292855b6086b4605716917557aeb5",
+         "name" : "Martabaking",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJMXo6fI5nOzIRGHzxj9qm0OA",
+         "plus_code" : {
+            "compound_code" : "V3R2+66 Putatan, Sabah",
+            "global_code" : "6PQRV3R2+66"
+         },
+         "rating" : 0,
+         "reference" : "ChIJMXo6fI5nOzIRGHzxj9qm0OA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jln Pengalat Lok Kawi, 89500 Penampang, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.795617699999999,
+               "lng" : 115.9968234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.796954279892721,
+                  "lng" : 115.9981844298927
+               },
+               "southwest" : {
+                  "lat" : 5.794254620107277,
+                  "lng" : 115.9954847701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cd3b721d4f6e81af9291d33c638deb213d1ff2b1",
+         "name" : "GPC BERINGGIS",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115004365129036682039/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3mt_6VdLr5uIhclaD6f6U_DDSlAz8vi5YYgGnN71K9BUcysO_FD8fVKoJp2N1wuH1iebNfkYdMYUeR_OczWUxezx6W163wPf7lnTlCVeq_YDxmumjZKNfsF53-xieAXREhC1iOLZTgXCXKZTib9Lfu6kGhSgr7_MmKtXO8Ilk8zm95iviDfkwQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJW1MbqalfOzIRZ4uGhy4n3KA",
+         "plus_code" : {
+            "compound_code" : "QXWW+6P Papar, Sabah",
+            "global_code" : "6PQQQXWW+6P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJW1MbqalfOzIRZ4uGhy4n3KA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Grand Plaza, Lorong Grand Plaza 3, Putatan, 88200 Kota Kinabalu, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.891723,
+               "lng" : 116.051513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.893103379892723,
+                  "lng" : 116.0528564298928
+               },
+               "southwest" : {
+                  "lat" : 5.890403720107279,
+                  "lng" : 116.0501567701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "33b7274596ac2281242fc1a190816a6cc2563989",
+         "name" : "Nelson's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJt6qvw41nOzIRm6NnE4LrQOI",
+         "plus_code" : {
+            "compound_code" : "V3R2+MJ Putatan, Sabah",
+            "global_code" : "6PQRV3R2+MJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJt6qvw41nOzIRm6NnE4LrQOI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

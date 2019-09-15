@@ -1,0 +1,888 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAALdiOq7TX0Kj3m5X9nVJbFr5b6f_nMG6kF0BroExurPMQBBw31Ueekb9mn07kqS4fJECswdPW3fjLNAEEugDmnL9R01tHQB4AIMyvLAjO7D92H32mXxRcTPMmuENkY4vI3unAJJXU67aHm2cp5zjCaHADOu3qKOngFHZnW7CD9JE6Z5ov8DxFzSzO12YjXrovgAg3E3l9B4LvUh-xac-r-osdbA4OOMeyqPAbtnYfBNA7VQiejO9SOTJzk8QvsW4LAnoiq9jMGayFvjBlvmAeOkgzs4f2AC1n7KxN-r388gqU-q0HMzw5Ygf0Ruzl3nVg9jUwPZ-__EoVSR1SVGCMkFkuQwUrEtrn0TBWMbFNJQt2ZhAnNDGYe2aC6ZLomPg2C3d8hJMytERbJ4-OqZloaw1lQ2JN9AgD1hkRdRTjEBjnFOs5RwYOLVpEn8N3ykmmLgPYQlfsyAgDTcX2wC9NTX0dYmKOjyPj04BMUsVF257EnmgkaiWFVPuCppNxh8UVOnwFwLtImZFpsa8Wy3fq0dqPbc7UgDWDurdeYGalW-ZPDerssFgfS5Am4iOAMJYIeK4PEPb0eqW1tnBhpJhCviqZOGcHOwsa8Ffk2roCt1Ik2xDl9-4vagFW7lyiP4p9MoxXYFU8vFi9v49rci86cTJKu7jD4kHGO7ZLyPn1CcUEhBjgkW04I1saVif2LmOl1l6GhTMmPo9TybDEqz_SVHStDi83LhjfA",
+   "results" : [
+      {
+         "formatted_address" : "No.1 Jalan SS15/3A, Subang Jaya, Malaysia, Selangor, 47500 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.079099,
+               "lng" : 101.586025
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.080473529892722,
+                  "lng" : 101.5873745798927
+               },
+               "southwest" : {
+                  "lat" : 3.077773870107277,
+                  "lng" : 101.5846749201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7a0ef429bb7281ae9bb7dd4ee648cc9d0f29f7ee",
+         "name" : "McDonald's Subang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117023888612236791223/photos\"\u003eteho beng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn0z-2itG0zDskhKGDBde0saudArBa0ZvIcOxjB0MNFElzkk_C6hANIO4IQ4MMo4iCIFfifITjhGPNnRTrv4BDSkwWCZ5C51BSKunz6_FN11o3R7tRkuhedb3MALCOfJ-EhBfYIRohaArQAUQYWE895VlGhROgih5trFlx8Ezq7UMe0l2xxpE-g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJcxsd3VtMzDERkTWsras-PBk",
+         "plus_code" : {
+            "compound_code" : "3HHP+JC Subang Jaya, Selangor",
+            "global_code" : "6PM33HHP+JC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJcxsd3VtMzDERkTWsras-PBk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2212
+      },
+      {
+         "formatted_address" : "Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0826082,
+               "lng" : 101.5859211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.084212279892722,
+                  "lng" : 101.5871360798927
+               },
+               "southwest" : {
+                  "lat" : 3.081512620107277,
+                  "lng" : 101.5844364201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7f1131e7c151348b721573b7b3d393fea039330",
+         "name" : "Carl's Jr. Subang Parade",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115406390823429675844/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkrzSmVWpNYME7bmzPY7Wi5OGHZ7lzdVo0m9QE0u5LLU3m3-phPCrBKB1kUUgCwW_8TRx9d-ZaWj82l3qJ95_X_wWPIn4OZUhb1DxwaSJMzn4IezPw_EkZ1RA_pwvmVLZEhCK1zKV6qnrPVMpvUZNA-OKGhTtprpIo_q65gZ7AT0EpgfPpK4FMA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJK6aqaltMzDERoGrtUtFicJA",
+         "plus_code" : {
+            "compound_code" : "3HMP+29 Subang Jaya, Selangor",
+            "global_code" : "6PM33HMP+29"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJK6aqaltMzDERoGrtUtFicJA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "10, Jalan ss15/4G, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0775154,
+               "lng" : 101.586801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.078865479892722,
+                  "lng" : 101.5882347798927
+               },
+               "southwest" : {
+                  "lat" : 3.076165820107278,
+                  "lng" : 101.5855351201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f417e35cd6ff6157d8f59b9a625282a9912b473a",
+         "name" : "Texas Chicken @ SS15 Courtyard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113692596263657291458/photos\"\u003esiti aishah ahmad zaki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAatwH2DMXLVnIQDsS0oW5Wc84ytQPv3h3RZ2Cbuv9spnZUjHGCiJFuV5uXwuK7NwY31BwjzDRqnr7scGE-0tLHyZankYwE64DGLDos0C49jaHIbBPMpsuqHg_uZ1qs4hHEhAztGUOHXPziIQFGUYLjIRPGhRFlHY50QbtQEOEHp78G0miW5EVSw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJLUT3RFlMzDERRz732Hu8qtE",
+         "plus_code" : {
+            "compound_code" : "3HHP+2P Subang Jaya, Selangor",
+            "global_code" : "6PM33HHP+2P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJLUT3RFlMzDERRz732Hu8qtE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 183
+      },
+      {
+         "formatted_address" : "Lot No. G-30 & EXT, The 19 USJ City Mall, Persiaran Kewajipan, Usj 19, 47816 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.033404,
+               "lng" : 101.58876
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.034827879892723,
+                  "lng" : 101.5901215798927
+               },
+               "southwest" : {
+                  "lat" : 3.032128220107278,
+                  "lng" : 101.5874219201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "73fa2ceed82fccc2838320133d1acbae5463a050",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113038219283270391546/photos\"\u003ecedyy1\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtsG-Sh0WSYsi-UTN_8i_dJ9VI_-37n_K1aPyZkECSYDwPrqikch4mF625T_fvgYxKrPssMxso1YT8fdndShWY4J6V-i1zky2Wr7RnBZumtMLAbkl_eC68-iNtLG1siMWEhD8PvvPfOrAlFO5MU6Zyqu8GhQoJKblVOpFLxOu1WNooyYHVAtnXw",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJs05NlTSzzTERApcjsdEI7Zg",
+         "plus_code" : {
+            "compound_code" : "2HMQ+9G Subang Jaya, Selangor",
+            "global_code" : "6PM32HMQ+9G"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJs05NlTSzzTERApcjsdEI7Zg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 102
+      },
+      {
+         "formatted_address" : "LL2.41, 3, Jalan PJS 11/15, Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0718663,
+               "lng" : 101.6074182
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.073100279892722,
+                  "lng" : 101.6093703798927
+               },
+               "southwest" : {
+                  "lat" : 3.070400620107277,
+                  "lng" : 101.6066707201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e820477be1e4e74fc94e587cfb70485e00b4231",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116200317780037099131/photos\"\u003eMichelle Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKWTHFlPLWMZ0KzbQQuXd8Khzj6FCP41rZmVMNYGe0iw84n0nKEU3mC1FGDJQqtcjqPvinyqYNjAUom3eomr6CDMfO0TQwDU2UoCP-F7RKAUhH8UK4_dlSUA2jx24S-QjEhBXAeDGYXa5wHAMNEQl4Ub8GhSJTYRpCyLwNmRvX-6XQDAJRCk51Q",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJI0lsn4dMzDER9zYtDTjSU_Q",
+         "plus_code" : {
+            "compound_code" : "3JC4+PX Subang Jaya, Selangor",
+            "global_code" : "6PM33JC4+PX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJI0lsn4dMzDER9zYtDTjSU_Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 443
+      },
+      {
+         "formatted_address" : "Sunway Pyramid Shopping Mall, OBG.LG2.1, Lower Ground 2, Oasis Zone, Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0719109,
+               "lng" : 101.6058209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.073260729892723,
+                  "lng" : 101.6071707298927
+               },
+               "southwest" : {
+                  "lat" : 3.070561070107278,
+                  "lng" : 101.6044710701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ad7efcffc189d267c486a413578a8060f3cc9acd",
+         "name" : "Texas Chicken Sunway Pyramid",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117185142344284953525/photos\"\u003eMeia メイア\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9oLrEeTDR-eUqg_SV6jQQ4fukjowYkqmNnZXnBRD1VgNmAuATFbPtZSzV9H-aT_24ZQ1PlULcfxB2f-JCVAGKQmXsfUrpCZ7Ks1ters5c9XFa2m0MQ0DNqErqiqDql6SEhDpbEiMGrQIKohcmlGiYNnaGhT0JmDbGgwMJDyBunInHMCWNGboRA",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJDdtOiodMzDERMb2gB8h1Lho",
+         "plus_code" : {
+            "compound_code" : "3JC4+Q8 Petaling Jaya, Selangor",
+            "global_code" : "6PM33JC4+Q8"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJDdtOiodMzDERMb2gB8h1Lho",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 709
+      },
+      {
+         "formatted_address" : "2, Jalan USJ 10/1B, Usj 10, 47620 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0487141,
+               "lng" : 101.5830063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.050064029892722,
+                  "lng" : 101.5843859798927
+               },
+               "southwest" : {
+                  "lat" : 3.047364370107277,
+                  "lng" : 101.5816863201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35454a5fb40ee5cfb9bba9f17605de77dcdb1a5d",
+         "name" : "Burger King @ USJ Taipan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105660678549921408592/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyMcYq0oJT_mAdh5rVXVW8UNQcb1DREiMqrVEu5QT3beKtjNxFzAZB1A1k01Eacyiw0eEM2EZaaWWCTdaBFePbXkGXuWCgaJ3tOr9sd7RKT76JRK2iZ_D-r-4W9fCU54-EhDNRNvYagSfzwdrsgFJg1WlGhRinTTKZoAXn1JyoLEi8HCiij4a5g",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJk99GbsRMzDERgbH7yIiTPAQ",
+         "plus_code" : {
+            "compound_code" : "2HXM+F6 Subang Jaya, Selangor",
+            "global_code" : "6PM32HXM+F6"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJk99GbsRMzDERgbH7yIiTPAQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 35
+      },
+      {
+         "formatted_address" : "F1.101, 3, Jalan PJS 11/15, Sunway Mentari, 46150 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0749047,
+               "lng" : 101.6121044
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.076254529892722,
+                  "lng" : 101.6134542298927
+               },
+               "southwest" : {
+                  "lat" : 3.073554870107277,
+                  "lng" : 101.6107545701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70c0d9c0ca785eef194b077cee6eadb8f44ffa45",
+         "name" : "McDonald's Sunway Mentari",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117744541095508819557/photos\"\u003eStephen Abraham\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnidE0qHYy6xLZBowuefz73v7N-BoBegHL5GPs9KPSsb6tLCM19YUCdxC_xAi0Ftb95Mr1Xf3s9MB3-Dse596cpieXzQPkOhCbcvpkGbYZhKyJXd1vQzws-kSW6pEotGFEhDTc_aLbMCHI8bRm-773gWPGhS42fh-Y-lXcitu2GvnC2O1jILiZw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJd-liOH5MzDERFQW4PeYBCJM",
+         "plus_code" : {
+            "compound_code" : "3JF6+XR Petaling Jaya, Selangor",
+            "global_code" : "6PM33JF6+XR"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJd-liOH5MzDERFQW4PeYBCJM",
+         "types" : [ "restaurant", "food", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 570
+      },
+      {
+         "formatted_address" : "Lot No. LG-09 & LG-10, Jalan USJ 21/10, Persiaran Kewajipan, Usj 21, 47630 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0257468,
+               "lng" : 101.581259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.027061629892722,
+                  "lng" : 101.5826089798927
+               },
+               "southwest" : {
+                  "lat" : 3.024361970107277,
+                  "lng" : 101.5799093201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3c6bc2b3b24d074b9015636e90def1cf0a1b2c38",
+         "name" : "Texas Chicken The Main Place",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117174028146284435676/photos\"\u003ePritesh S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA67EzTPvYyYdzaLz0bT-269-fOlpZgUv_UId8OezyA4_FPt348U59lFCuPfMAa9vXJXoSJVGdMZFJfsfLPzuNfD_bDUQ4QeAZGiQl9IvbO-36h1bXytkFaz_v4cm8rwz9EhCDowjdSU0qX5VM8N1dHSTCGhRe_5g_X9qSDRutI1PjS65Fy0lTSw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ1c4EIy6zzTER3b1tr43CBp4",
+         "plus_code" : {
+            "compound_code" : "2HGJ+7G Subang Jaya, Selangor",
+            "global_code" : "6PM32HGJ+7G"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ1c4EIy6zzTER3b1tr43CBp4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "Layby 3, Hentian Sebelah PJS 9 47600 Jaya, LDP, Bandar Sunway, 47100 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0606786,
+               "lng" : 101.6143643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.062026429892723,
+                  "lng" : 101.6156592798927
+               },
+               "southwest" : {
+                  "lat" : 3.059326770107278,
+                  "lng" : 101.6129596201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d32136776c369f6dcdc0c6c433d04ec94f4536d6",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114079920989791806169/photos\"\u003ehashim kdcc\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvgHms2Y6ce7UeOFYPE8Nmn2H95fjOh8mv2_y6ayWokduWg2jjxpjhRjphXEvXjKBIrr0WZwsSELP6Urgtq-zwIaWNJuhm7_CcWbum1MCz6Gwr5lBsM5F68oYu7maWekYEhBFQoFHW6Biqab7mafuhFGeGhSX-lnIy-qhTepuwx0rM6kdC6xeOA",
+               "width" : 1840
+            }
+         ],
+         "place_id" : "ChIJL1aoCp1MzDERIohY3qx_9xk",
+         "plus_code" : {
+            "compound_code" : "3J67+7P Subang Jaya, Selangor",
+            "global_code" : "6PM33J67+7P"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJL1aoCp1MzDERIohY3qx_9xk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 831
+      },
+      {
+         "formatted_address" : "F1.AV.77, First Floor, Red Zone Sunway Pyramid Shopping Mall, 3, Jalan PJS 11/15, Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0718513,
+               "lng" : 101.6072153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.073033429892722,
+                  "lng" : 101.60934675
+               },
+               "southwest" : {
+                  "lat" : 3.070333770107277,
+                  "lng" : 101.60645855
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ccbdc9fef150e4b59cf6025167049c878c94a6c",
+         "name" : "Crispy Crust",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117575478981377676580/photos\"\u003esan95\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAPHcT8Lmz3BLDXBdu7OORCJm-_kR6hGJyC6-CS0kHY1AyGJ3jcd3eak4e6Jsngbgk5fK3fRR-k2W-rRV3tBleYTv13e-qljhl6N0fNuXDcAWHx2I2hZDRJXIS-n7fG4SGEhCj2OiIt1naeXBAJE8Cn4ZsGhTJx36GQgTvNTqBxWA1ThwZcD90Ag",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJkQAcB4dMzDERg4ytzFekG5Q",
+         "plus_code" : {
+            "compound_code" : "3JC4+PV Subang Jaya, Selangor",
+            "global_code" : "6PM33JC4+PV"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJkQAcB4dMzDERg4ytzFekG5Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "Jalan Kemajuan Subang, Ss 16, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0833646,
+               "lng" : 101.587754
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.084764229892722,
+                  "lng" : 101.5890690798927
+               },
+               "southwest" : {
+                  "lat" : 3.082064570107278,
+                  "lng" : 101.5863694201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dceb729b46f56dfcead1cb88d96bf487450fc0d7",
+         "name" : "KFC AEON BiG Subang Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109240335620732483674/photos\"\u003eMijanur Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuGfxVnRuxmDxga_CjMi6zTDKOmWDW6oZLtTpcrGqCEDIY96oRFu8yLGcoY_SBo2NQH1AFCowv3skgWXEzr5U4IPwiSJW46_8AVyyd64unlJTASRSmoDMUO-WvkpT-9I9EhA7eBO1X6SJwlwGVDh8rrGnGhR3JQw8pgpc5ES2A_cdPDDgAq0Sng",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJFU2xqFxMzDERxJRlGNy5aBk",
+         "plus_code" : {
+            "compound_code" : "3HMQ+84 Subang Jaya, Selangor",
+            "global_code" : "6PM33HMQ+84"
+         },
+         "price_level" : 2,
+         "rating" : 2.8,
+         "reference" : "ChIJFU2xqFxMzDERxJRlGNy5aBk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 66
+      },
+      {
+         "formatted_address" : "C7, Jalan SS 15/4d, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0740412,
+               "lng" : 101.5878205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.075390479892723,
+                  "lng" : 101.5892339798927
+               },
+               "southwest" : {
+                  "lat" : 3.072690820107278,
+                  "lng" : 101.5865343201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29bbafb99805f997d9f4a5138d9bd8df43e91c13",
+         "name" : "The Burger Shop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103593139649595699701/photos\"\u003eAhmad Syazwan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOUaGr20W9UljZUmVhnAjj5Lh5HSMOV3Pqr0wl8HcKOv7DD7MMJWbf8CHaWSGWMLO8LV-LDEU-RjOVEA_Hv0ycGyQFLBThc3yalPRW_ufpmOyTns3qgMdisij6RHsoFbOEhAwjLIiDHJ9BC3jnZkGXv9pGhSy-ekVOqWosStHXprcfqlJbJFqyw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJYVrl-PVMzDERsfVUot6yBLI",
+         "plus_code" : {
+            "compound_code" : "3HFQ+J4 Subang Jaya, Selangor",
+            "global_code" : "6PM33HFQ+J4"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJYVrl-PVMzDERsfVUot6yBLI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 133
+      },
+      {
+         "formatted_address" : "Bandar Sunway, 47500 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0707368,
+               "lng" : 101.6061605
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.072086629892722,
+                  "lng" : 101.6075103298927
+               },
+               "southwest" : {
+                  "lat" : 3.069386970107277,
+                  "lng" : 101.6048106701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6f1c501441a40b9e394dbad83b601b8ae5afde4",
+         "name" : "Marrybrown Sunway Lagoon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117174839257549042903/photos\"\u003eSaurav Bhandari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE4W7PVNdo3DcAi2F1s4kv3BHJPEq_B-vFNm2x3jS3esnhviXB0hRrzqJ1P81HRF9L7UDOBjI-aCRe2GE8i1FS55YeH1fTbGk1_Z2pKGl3VIkKbw7m87ak8GK4HETh8fNEhCkvz0Z78eCmsReo6WrayslGhQqOYi3m26ZVSKc2z6N2rbdnKttfA",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJiTpcYIZMzDERSCMjv5rwA3Y",
+         "plus_code" : {
+            "compound_code" : "3JC4+7F Subang Jaya, Selangor",
+            "global_code" : "6PM33JC4+7F"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiTpcYIZMzDERSCMjv5rwA3Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "GF, No.1, Jalan PJS 8/5, P.J Selatan, 46000 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0748457,
+               "lng" : 101.6118672
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.076194779892722,
+                  "lng" : 101.6132660298927
+               },
+               "southwest" : {
+                  "lat" : 3.073495120107278,
+                  "lng" : 101.6105663701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5a7144af53153b70ef2ebdfc68a52531472fa23",
+         "name" : "Burger King",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112708276946559846754/photos\"\u003eK W\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvcAQ1KpAUGwRQkyzyXxHu33dTl-RdlnYrWDEk_jmQKrV17TrEmS4tUMO1kqG0j4iOD6UNQjWTeyrJvf3PX_wJzrqdK6ggci5vls5dF16xVt_ucw2DdPGy7llTqQO_AwjEhA87dzUikgvNv-VNqVzqR2KGhSmAijcLAQ1BTwvHj9MQIyvtz1bGw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ79TMOH5MzDERHBQO8j0agm0",
+         "plus_code" : {
+            "compound_code" : "3JF6+WP Petaling Jaya, Selangor",
+            "global_code" : "6PM33JF6+WP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ79TMOH5MzDERHBQO8j0agm0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 212
+      },
+      {
+         "formatted_address" : "71, Jalan USJ 10/1a, Taipan Business Centre, 47510 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0501614,
+               "lng" : 101.5837675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.051565829892722,
+                  "lng" : 101.5851165798927
+               },
+               "southwest" : {
+                  "lat" : 3.048866170107278,
+                  "lng" : 101.5824169201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ffef91264514e6d97fb9ba80b3372000fc023310",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105739309368467199951/photos\"\u003eDineshpal Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb6SzXsagc3I8K22FCtDJ0IV_JEMTk-jI1mDQtFqbohnhQMbdTMmOLPu7nA5XCYPcmtrjo7-v77YVJWQm78wxRAm7N9IJrYrCFX0mr9NeZdJcF8iuyBWrHX5vffsCv2HQEhBc2ehUX0KftWgB7vH1XEMpGhSEYiPdU3AvDKI0dSOS7mVgm8v1pg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ76zUccNMzDERaEYfqmXgm3Q",
+         "plus_code" : {
+            "compound_code" : "3H2M+3G Subang Jaya, Selangor",
+            "global_code" : "6PM33H2M+3G"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ76zUccNMzDERaEYfqmXgm3Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 334
+      },
+      {
+         "formatted_address" : "Jalan SS 15/4g, Ss 15, 47500 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.078216400000001,
+               "lng" : 101.5882718
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.079656679892723,
+                  "lng" : 101.5896193798927
+               },
+               "southwest" : {
+                  "lat" : 3.076957020107278,
+                  "lng" : 101.5869197201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9bcf0d2280c35b1130f168af095fc71ed40595c",
+         "name" : "KFC SS 15",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105941140937278564757/photos\"\u003eWahiidah Bakhtiar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtDRdJcL3TKbzHONCdfE5ZQUg3NXuh3nCtqmLEoJTomKF9cqu_ZMxKhPVXbMNmGo4QnAvPgvp1gxLcGTWlJYST-TRLgJXzHaqSR1VXbqcMWja7GdCt4LZBZHrkuXn-B61EhBNHISG55Bnhpe3ydIIz4AsGhTtnVLcIVhOw_8qP2Xhpp-CZ2npKQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJn77qnV9MzDER5S1JEzaHaDs",
+         "plus_code" : {
+            "compound_code" : "3HHQ+78 Subang Jaya, Selangor",
+            "global_code" : "6PM33HHQ+78"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJn77qnV9MzDER5S1JEzaHaDs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 315
+      },
+      {
+         "formatted_address" : "Lot No LG41, LG73, LG75, Summit USJ, Persiaran Kewajipan USJ 1, Usj 1, 47600 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0600495,
+               "lng" : 101.5932929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.061464279892722,
+                  "lng" : 101.5944528798927
+               },
+               "southwest" : {
+                  "lat" : 3.058764620107278,
+                  "lng" : 101.5917532201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b6a4d327d54f08cb66dff75374932cd6dbaaa47",
+         "name" : "KFC - Summit USJ",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101699825885844237033/photos\"\u003eRabbi Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX6AKFCo85j_3WmNpSSQnB6DOfXvfHS4s3CcMmpbakoCDXy7ZN1X2pcMu2UB308SE_P2AOutgwC6wx5E15fkPqJrZchH2zixgc_Hy2VxYc5ZmXKl724ls5tiOc6pDyt7UEhBRUsIyo12dpT9rIZ8Bgya8GhQCI2MVkhfpvrKyPEe7yV1-8gBZyA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJneqZNpNMzDERnfz4NisXShQ",
+         "plus_code" : {
+            "compound_code" : "3H6V+28 Subang Jaya, Selangor",
+            "global_code" : "6PM33H6V+28"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJneqZNpNMzDERnfz4NisXShQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "No. 23 (GF, Jalan USJ 10/1f, Taipan Business Centre, 47620 Subang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.048734,
+               "lng" : 101.583088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.050083829892722,
+                  "lng" : 101.5844489798927
+               },
+               "southwest" : {
+                  "lat" : 3.047384170107278,
+                  "lng" : 101.5817493201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8a25982ee03bf5bde7cdfc7f52b43bd7ff72b74b",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110220085418048318536/photos\"\u003eRichard Chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApl5vWPNb2HL0n3gdx2u28L54Arb8EJ19nDIHYnMb_6B7YCSA-PuaTBQF3A1jftJRKlaTYU8oHZGcHwc6vSA3FFlcPxTEOx6CCFNXNXoCIAfHAs7ATNyiHcI59t66i3A8EhDuhFPPseuohiCZDqujBy-wGhSPRqLGJzV00ruk7SDUDpHKFiaH6A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJGw_Xl8RMzDERGgBszzMovHY",
+         "plus_code" : {
+            "compound_code" : "2HXM+F6 Subang Jaya, Selangor",
+            "global_code" : "6PM32HXM+F6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJGw_Xl8RMzDERGgBszzMovHY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 257
+      },
+      {
+         "formatted_address" : "USJ Mydin Mall, Lot 675 & 676, Persiaran Subang Permai, USJ 1, Subang Jaya, Selangor, 47500, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0586915,
+               "lng" : 101.5965815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.060038079892722,
+                  "lng" : 101.5981596298927
+               },
+               "southwest" : {
+                  "lat" : 3.057338420107278,
+                  "lng" : 101.5954599701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f5db776701e48062e87543e8e230f87a05fed570",
+         "name" : "Hot & Roll",
+         "place_id" : "ChIJPR6AcJRMzDERBtXL4LQX2FU",
+         "plus_code" : {
+            "compound_code" : "3H5W+FJ Subang Jaya, Selangor",
+            "global_code" : "6PM33H5W+FJ"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJPR6AcJRMzDERBtXL4LQX2FU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,853 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAAAhxXrYICOpMw8HBrdAO7U6dr5sibd6Oo8dNc2hHiHIiapKThNttVQNO5LUI7ePZZCv5sDsfYUNfb7pw4NcNuNtOfHxKj3WQImB91ptCG52iY_bkLyOD85c7XvHTruWRALsW31UJrQ6rX4xAVQm3F5Kf4R39Wuecl4bRbH1ZnXoxN6NvRZmKAMWYq-Mmm2E3IDIyp-Dn1Z6czQs5wNWDna0g8YmHjCuL1MByNmMmQOUB7yHCXPPRa2UrAQZuUw6zeONQUNx8LWyDbs20zAOgwTXgQa6giAK-B3MpJVDix49D9sx44QbwipzFfRfyUyuPddjvLuL2e2jrUm4BUesCk4enSd6G7pCwP8vha5-HqTdSeYDfw5_SNwz5mgeKFSbhvenqKjQIBRxkAWokb3p4Dent-hbY_5hzscZ2iDAs5CcAdn6QfAGy-fq3FkNV_79EW71uYeHU4ELXd2tGPCdZiX8VkYrvXtAkR52wyPGkLrKUs4S7zkMyIAmb1844DvgVPX-xwZeYk6ipxWRALr3t-gswYnFWLJ_JkfVedi9JZ1HF37rBZM1eKGtG4LCa-I8-_N9e0PAXZRaiUO58bH9Ah6qzMCm90lNZyhx9WGjJG39aX_qePjwHM-4iAYghhQXJu1zVPoX4JV4NYiYNe09iQ12T-rOCjDXMAwlCxzSKU6IQEhB-88wuJHiJ55JZcXiuDp9rGhSVGETEpK2VWL83dW0vzkM4hI_OZA",
+   "results" : [
+      {
+         "formatted_address" : "1&3, Jalan Cempaka, Kampung Bagan Jermal, 12300 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4270597,
+               "lng" : 100.3829505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.428422629892721,
+                  "lng" : 100.3843056298927
+               },
+               "southwest" : {
+                  "lat" : 5.425722970107278,
+                  "lng" : 100.3816059701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ff39254e6fb29babc75a6e093010190a7b8599d",
+         "name" : "Texas Chicken Raja Uda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115760827505345446761/photos\"\u003eChong Shanyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9vtKZEsDPFOujA3wgxINEioKlyTdB-uJ6SFlxUsQYbI-AKrnPUIqhGDSQojg8H3yIJJu8bGtrxpYtEUgyvjbhAzg4rZOmhqksC1scwgSXexngzNeAu_CU0NzFtRgHm82EhDtm7VptyW0n7JCx-PtZBRUGhRlqTX0u-haQ3a9-Zg5bsYxcv4TjA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "plus_code" : {
+            "compound_code" : "C9GM+R5 Butterworth, Penang",
+            "global_code" : "6PQ2C9GM+R5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 890
+      },
+      {
+         "formatted_address" : "Mukim 1, Lot 5730,5731&5732, Jalan Jelawat, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.399795,
+               "lng" : 100.400221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401154729892721,
+                  "lng" : 100.4015271298927
+               },
+               "southwest" : {
+                  "lat" : 5.398455070107278,
+                  "lng" : 100.3988274701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4edaea5f434a116db1817a67d7ea601f4acb21b",
+         "name" : "McDonald's Seberang Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110349552682331629654/photos\"\u003eChew Ngan Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA38hmczNK6B7ygWFVKBVlU2HAlf_Dkv42CPqaILFqIgqwfTDwjlDgJebrLziEgl7JiUGyw_saGSU-jnKlTQ8CvTZbGW8X-u042F_uE2UkSf0WC4ifPUY76xKNkUvqMLPcEhBwN39HI4OfeH0JJJZD0pwFGhSr1C5WWj8AqxbR3GhN0fUOgr9oow",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "plus_code" : {
+            "compound_code" : "9CX2+W3 Seberang Jaya, Penang",
+            "global_code" : "6PQ29CX2+W3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2293
+      },
+      {
+         "formatted_address" : "L3-12, Level 3, Penang Sentral, 12000, 12000 Butterworth, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3946383,
+               "lng" : 100.3653032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.395863629892721,
+                  "lng" : 100.3665852798927
+               },
+               "southwest" : {
+                  "lat" : 5.393163970107277,
+                  "lng" : 100.3638856201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a44cc5e38d8e78ee11575f4747d4862ee578c298",
+         "name" : "Marrybrown Penang Sentral",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118247748104271345373/photos\"\u003eAnn Nee Ooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoSRh0xBvBTaOfMkiFy3RNjDkRfmJ2xTamIZPOrb3ndTmNjqi1YnN5cpiK-h5fewX6uQRX7IRW35gCVMzAytHuFmB_eyrpVf_cIgZjOjqvH7VIKuRsymXpoj24RDrbWTmEhABbrc7k5KSu7_vggHumj54GhQl5Gav3OkvvhU1FAc1y30eBImqQg",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJrSpOuNDFSjARmKfGDq1gLEc",
+         "plus_code" : {
+            "compound_code" : "99V8+V4 Butterworth, Penang",
+            "global_code" : "6PQ299V8+V4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJrSpOuNDFSjARmKfGDq1gLEc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Jalan Raja Uda, Taman Bunga Raya, 13000 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4383402,
+               "lng" : 100.3864108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439685929892722,
+                  "lng" : 100.3877928798927
+               },
+               "southwest" : {
+                  "lat" : 5.436986270107278,
+                  "lng" : 100.3850932201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e337be6759b0a24f240a2f1458de26ee004ca425",
+         "name" : "Apollo Market Chee Cheong Fun",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107958701473399841641/photos\"\u003eTemmy Thum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlIcqmOKBoX0G3358DYoPD-1M5fkDqFonp5M5zLSPL-ufLhm-0CfMFPxqLhR7vGbiI9iupcIs2pr0HWHKAo79uswZPVUWBMHVth2D5dJ89wHw10-TvJq4Z_yYt6omXiwgEhDU_bkhWKV7sfJqfaTs21flGhQiUj3MDcVmmFz7HN1u7348BsH5_w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "plus_code" : {
+            "compound_code" : "C9QP+8H Butterworth, Penang",
+            "global_code" : "6PQ2C9QP+8H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "Petronas Service Station (PPS Bandar Sunway) 5494 / 5729, Mukim 1, Bandar, Sunway, 13700 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4000039,
+               "lng" : 100.3997756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401387229892721,
+                  "lng" : 100.4010943798927
+               },
+               "southwest" : {
+                  "lat" : 5.398687570107278,
+                  "lng" : 100.3983947201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4be6732913394ab270094ee65f3b8830a1f374d",
+         "name" : "KFC Petronas Seberang Jaya Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115180828890189341410/photos\"\u003eIzahar Ilias\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASe9WR_XOKiyaJa5xAPW1KnQFwnlZcgwgnXUgunUsQ7CLXwdn47tlXyU3LBWLD3nYuZ5TmBEn3cbb09NF38FhzoskC075x5wk_bkxklNA0mK-5-71vS0WTgsBWubdDq51EhDhTi8nrfG2fXhu7eS_1pRkGhTiT6R9kct0x7N7uEJtydil6l8kQA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJo032583FSjARmtMF_KvNxbE",
+         "plus_code" : {
+            "compound_code" : "C92X+2W Seberang Jaya, Penang",
+            "global_code" : "6PQ2C92X+2W"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJo032583FSjARmtMF_KvNxbE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 302
+      },
+      {
+         "formatted_address" : "123, Jalan Murni, Taman Desa Murni, Sungai Dua, Pulau Pinang, 13800 Butterworth, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4382454,
+               "lng" : 100.4334927
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439620979892721,
+                  "lng" : 100.4347580298927
+               },
+               "southwest" : {
+                  "lat" : 5.436921320107277,
+                  "lng" : 100.4320583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df2c4b1f16ba26a3f9caa23333b30942701774d5",
+         "name" : "Thien Cheong Food Packaging Sdn. Bhd.",
+         "place_id" : "ChIJo2v5XHvFSjAR5lidrsqYhHA",
+         "plus_code" : {
+            "compound_code" : "CCQM+79 Butterworth, Penang",
+            "global_code" : "6PQ2CCQM+79"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJo2v5XHvFSjAR5lidrsqYhHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "No2, 11, BORR, Taman Segemal, 13400 Butterworth, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4385235,
+               "lng" : 100.3945004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439873529892722,
+                  "lng" : 100.3958630798927
+               },
+               "southwest" : {
+                  "lat" : 5.437173870107278,
+                  "lng" : 100.3931634201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3cd2d9ddff2605852027fea465142dd769f9deb3",
+         "name" : "Bojio 101 Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112255922548843947536/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlzD07DRVIl9raMieWCfect1al2LyfgdVzCs5SgZsaabSNfgR37vhjtmcAUHG_Y2KWJIiQpD1LTj5VBiBObB8vKQRiaY8ly6ZcbaiehnaH0rwH5sxuW1Vn5QuslRDPbPkEhB4cPMuQgL4wZP4wUQnJ-81GhSFoZ4WLuPzXerDS5ZdbtL4DbYbOQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJB7IPYf3ESjARpKPph55i46A",
+         "plus_code" : {
+            "compound_code" : "C9QV+CR Butterworth, Penang",
+            "global_code" : "6PQ2C9QV+CR"
+         },
+         "rating" : 2,
+         "reference" : "ChIJB7IPYf3ESjARpKPph55i46A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Unnamed Road, Taman Cantek, 13400 Butterworth, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3944442,
+               "lng" : 100.365613
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.395678029892722,
+                  "lng" : 100.3668886298927
+               },
+               "southwest" : {
+                  "lat" : 5.392978370107278,
+                  "lng" : 100.3641889701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9815d0bbe54874b345065d4491fca426868d48ca",
+         "name" : "4 Fingers Crispy Chicken Penang Sentral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112564302704102799382/photos\"\u003eakmal snf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOjVseyow5kl_5rPSq62VQJoX6Sm1_S8dQRV3yR6tnN0wcUYqAawjO597N_mnqScGQP6k5m9DxCCcyAeSr4UAv0VRY5cr_Yf0JhC256M02DNk4ZbpxX8EkgP16wHujdM6EhDjh0P5-OyacZL676MQAi0gGhTbnmwqyky_560I2YGENTPDaJE-Eg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJb-ojCxXFSjAR5rCXX9LbqVE",
+         "plus_code" : {
+            "compound_code" : "99V8+Q6 Butterworth, Penang",
+            "global_code" : "6PQ299V8+Q6"
+         },
+         "rating" : 1.3,
+         "reference" : "ChIJb-ojCxXFSjAR5rCXX9LbqVE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "L2-11, Level 2, Penang Sentral, 12000, 12000 Butterworth, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3947329,
+               "lng" : 100.365272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.396182029892722,
+                  "lng" : 100.3666914298927
+               },
+               "southwest" : {
+                  "lat" : 5.393482370107278,
+                  "lng" : 100.3639917701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "085c8c1a57d005d461fbed262dc00af67ef1f032",
+         "name" : "KFC Penang Sentral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105902566091428932874/photos\"\u003eseksan hinchan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9r4cePqy7KoyjVhtrBsplIcBfzPPR00iSJGJic19fcYr8XWhYCd9ANigqRvoJSBWYIUypCsioMxSFOrHo5YCmWdPtRknoXDDtnEd_jz8AAUX3TAY37xmtZkwvLUBtPwHEhBCnNJlogL_8EmJHDiXIJiHGhSF6qTBlx6-P_1_bK1PexEOPnCnXg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJw3G5vSrFSjAR5L3-xFfdtB4",
+         "plus_code" : {
+            "compound_code" : "99V8+V4 Butterworth, Penang",
+            "global_code" : "6PQ299V8+V4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJw3G5vSrFSjAR5L3-xFfdtB4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 59
+      },
+      {
+         "formatted_address" : "Lot F2.D Ground Floor Carrefour Shopping Centre Seberang Perai, 13700 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.390038,
+               "lng" : 100.40801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.391482479892722,
+                  "lng" : 100.4092163298927
+               },
+               "southwest" : {
+                  "lat" : 5.388782820107278,
+                  "lng" : 100.4065166701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3549a56ca8fa9416f6565f94dbeb04c5efb1b0c8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111644666064309771000/photos\"\u003eAndy Styles\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAciDogqBif-3vsgzhXrYUfVLWOswb4B3orTXaqbjZcDFV6wi0C7KD53KyGh5PqJcv_0DP31ioiYNYxRAm2IKRDQtn8OGI2KghLvIIFY3j6fZl3vbo0_Kbx-wt7ejzECxFEhD_b6B3mqctwZGr1eUJw1G-GhR6rTPWswl01RYRIqFbhvGj24RbVg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "plus_code" : {
+            "compound_code" : "9CR5+26 Permatang Pauh, Penang",
+            "global_code" : "6PQ29CR5+26"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Jalan Stewart, Kampung Jawa, 12000 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3990892,
+               "lng" : 100.3682298
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.400457779892722,
+                  "lng" : 100.3695832298927
+               },
+               "southwest" : {
+                  "lat" : 5.397758120107278,
+                  "lng" : 100.3668835701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8edf5e75a5d359584aceeeed817700f62b015b1d",
+         "name" : "Pejoi D' Burger",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113005450230966679869/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACRFejEElUoBmJotmqYv3FsBvfleuPKQOU2SaDqTyCGD4KXG_7MtQci5GVY9OVMPqjRVaNAy53nO_uSdfvpc0N1oc1dbpu37vukwNqwbE5noHruma1qB9p8EWslWvIJPVEhDBG9ApTdp9Fmf47LZ3k-uMGhRT0qaRabXMFMydpuYEjbTkSQvTjQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJA-wL3xnESjARA17jPu5wXnw",
+         "plus_code" : {
+            "compound_code" : "99X9+J7 Butterworth, Penang",
+            "global_code" : "6PQ299X9+J7"
+         },
+         "rating" : 5,
+         "reference" : "ChIJA-wL3xnESjARA17jPu5wXnw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No. 42, Lorong Mak Mandin 5/3, Kawasan Perindustrian Mak Mandin, 13400 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.418199,
+               "lng" : 100.389006
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.419580279892721,
+                  "lng" : 100.3903576298927
+               },
+               "southwest" : {
+                  "lat" : 5.416880620107277,
+                  "lng" : 100.3876579701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b068952673e231ea70b16f530a2abfd4ebc63ec0",
+         "name" : "Pgn Manisan (B'Worth) Sdn. Bhd.",
+         "place_id" : "ChIJfwbKCk7ESjARjKU7oHZ6NLM",
+         "plus_code" : {
+            "compound_code" : "C99Q+7J Butterworth, Penang",
+            "global_code" : "6PQ2C99Q+7J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJfwbKCk7ESjARjKU7oHZ6NLM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "LG-37 , Sunway Carnival , 3068 Jalan Todak , Seberang Jaya , 13700 Puala Pinang, 13700, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.399894,
+               "lng" : 100.3997307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401232679892721,
+                  "lng" : 100.4010881298927
+               },
+               "southwest" : {
+                  "lat" : 5.398533020107277,
+                  "lng" : 100.3983884701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "582c2a972f5e53879d428675cea47a65f3823381",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115634189455476947237/photos\"\u003eMUHAMMAD HAMIZAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbLaadS6n40LA7FnUcareIE_o58vIWIqHxAqXYZEfr7tE-0EwUF_TWOK8jxYOy4DKp7LR29DfW3kqabmNHBDSxMxl5zLinZzEoF78jWQZdWBs0uPn61l5s6Cb_7Il6rlCEhCx8xzGQOLP0qhycm-Ke-8qGhT13H00kou-tFaaYkZ2frKkT_ULIw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGyhRgM3FSjAROekI3x9Exns",
+         "plus_code" : {
+            "compound_code" : "99XX+XV Seberang Jaya, Penang",
+            "global_code" : "6PQ299XX+XV"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJGyhRgM3FSjAROekI3x9Exns",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 118
+      },
+      {
+         "formatted_address" : "1, 11A, Lorong, Taman, Jalan Bayu Aman, 13050 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4817941,
+               "lng" : 100.383347
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.482994879892723,
+                  "lng" : 100.3846983298927
+               },
+               "southwest" : {
+                  "lat" : 5.480295220107279,
+                  "lng" : 100.3819986701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "79775fc49acb434615282e3c4742b732db630bf8",
+         "name" : "Wakaka F&B ECO Teluk Air Tawar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106426196457133288408/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANBQPHidy_l08S_PzNyNiE_raT5X13_LRvOBrl_l7Z9nDmhn2Dw9JMgwiTziKHxl1pBsSA52LLR7u9eV03aDVkl_My4VbgmB8X8kIJnh57V8QgcRf9KzIygfKY31sChUYEhC1Ys3g8UNdfW1DyPD86DYQGhRbP65X_cu5dDleVioDo16wdEqt8w",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJy6_oxn3bSjAR2RwnZ088FTU",
+         "plus_code" : {
+            "compound_code" : "F9JM+P8 Butterworth, Penang",
+            "global_code" : "6PQ2F9JM+P8"
+         },
+         "rating" : 0,
+         "reference" : "ChIJy6_oxn3bSjAR2RwnZ088FTU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot L-40, Lower Ground Floor Sunway Carnival Shopping Mall, Bandar Sunway, 13700 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.398978,
+               "lng" : 100.397891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.400344679892722,
+                  "lng" : 100.3990931798927
+               },
+               "southwest" : {
+                  "lat" : 5.397645020107278,
+                  "lng" : 100.3963935201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a6c0827dd623b72674255ba7efe26e939c0d0b8e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112793562907957167504/photos\"\u003e陳鴻展\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4EOsb7GFHk4gk-OWUlODH2jrUTufEGoyiW6spf-lbu5c8RKdu7qJTAOCJa269cwFrTh3_J2zAiifjsiWCmeva4MPDxmJ6atSDsRBp1Lz62gSrRQlzMYPLShUzvSH2Vw0EhDh6hOoR4UHGTO4goTl4loFGhSMrKYUHEsyrTZsQzdjQPwWr_a_fQ",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJqRvJeNLFSjARpPalgR7gUDw",
+         "plus_code" : {
+            "compound_code" : "99XX+H5 Seberang Jaya, Penang",
+            "global_code" : "6PQ299XX+H5"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJqRvJeNLFSjARpPalgR7gUDw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "No. 12, Lorong Tuna, 13700 Seberang Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.393177,
+               "lng" : 100.403922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.394524229892722,
+                  "lng" : 100.4052699298927
+               },
+               "southwest" : {
+                  "lat" : 5.391824570107278,
+                  "lng" : 100.4025702701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "928123be4425cc9ea52d4df2ce07d512fda9faaf",
+         "name" : "Kbs Food and Beverage Trading",
+         "place_id" : "ChIJB79qMtfFSjAR_vlUp6Yty5E",
+         "plus_code" : {
+            "compound_code" : "9CV3+7H Seberang Jaya, Penang",
+            "global_code" : "6PQ29CV3+7H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJB79qMtfFSjAR_vlUp6Yty5E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "16, Solok Tuna, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3918443,
+               "lng" : 100.404669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.393298079892721,
+                  "lng" : 100.4060805298927
+               },
+               "southwest" : {
+                  "lat" : 5.390598420107278,
+                  "lng" : 100.4033808701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14fb47330b3d1198aff6c77e66ca2ff4fcb395b5",
+         "name" : "Burger Stall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104506532488577642478/photos\"\u003eJohnson Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtLXeUnu7Xa8DvN_4AvyHPUboig_W9rT4G3mCKI8a5zBRWAox-q0z7fdRzmGAUHay1at1wmcu07qe8FcEXZvC5EC0yh6vpNmij-B10afP93iI0QHP2fc9LWw4wqXrTcQbEhDZIOxeNfNGeY-s0UwOQ1boGhRnN95ofErgEn8cVwKA1PtWbvnKuQ",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJLTxua9fFSjARXrnloKACAkY",
+         "plus_code" : {
+            "compound_code" : "9CR3+PV Seberang Jaya, Penang",
+            "global_code" : "6PQ29CR3+PV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLTxua9fFSjARXrnloKACAkY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "No.137, 137A, 137B, Jalan Raja Uda, Pusat Perniagaan Raja Uda, 12300 Butterworth, 12300 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4203822,
+               "lng" : 100.3806348
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.421707679892721,
+                  "lng" : 100.3819769798927
+               },
+               "southwest" : {
+                  "lat" : 5.419008020107277,
+                  "lng" : 100.3792773201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3995e9287263fa7a0aa99d78e8a680a4545f2005",
+         "name" : "Domino's Raja Uda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114007637633735148894/photos\"\u003eSeow wah graceng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4yFByPCEnlqo2TWb1Zdrq-yJidM3uRurTh2zMC-zen5zuzTu_C6Nb2enErsClu6IPqVqviRkSh5IaoEPgqDBDjon_AWLRub0hBPa4729lw9oD1QV-3NWGd0tKqEGiFyKEhC4uLDo1KMSNCAqPH9glZEPGhSU2A2U1zTPWQkJqpfMrzDzUBZ5HQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ1Y4AWVrESjARZQNEu3IKqlg",
+         "plus_code" : {
+            "compound_code" : "C9CJ+57 Butterworth, Penang",
+            "global_code" : "6PQ2C9CJ+57"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ1Y4AWVrESjARZQNEu3IKqlg",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 226
+      },
+      {
+         "formatted_address" : "UG - 16 Sunway Carnival Mall 3068, Jalan Todak Pusat Bandar Seberang Jaya, 13700, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.398779999999999,
+               "lng" : 100.398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.400153979892723,
+                  "lng" : 100.3991371798927
+               },
+               "southwest" : {
+                  "lat" : 5.397454320107279,
+                  "lng" : 100.3964375201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72520c0a2c42f10ae9df7ce01304b43a387280d6",
+         "name" : "Hong Kong Kim Gary Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116572891453009719911/photos\"\u003eAngel Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABc8egmPf7jkN1dPDDkLbxRYcj2fy6x72zoexdKs7JG9hcWtchFzQEjy0qrKGEkrMi75M2uQU_HAES-lfbkwxKpo1OC2KimAVDRBxroh0Lb297aa1CX51SG2ukAEKoscNEhBJgUOG1Eho7E15i7InTcIQGhSjLJzNsmUmTNKB40ZcT0-RZjkjsg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJH-YRh83FSjAREkOhAOfXjkQ",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJH-YRh83FSjAREkOhAOfXjkQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 38
+      },
+      {
+         "formatted_address" : "NO 4423 & 4424, Lorong Bagan Luar 1, Kampung Benggali, 12000 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.408805,
+               "lng" : 100.370739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.410169279892722,
+                  "lng" : 100.3720261298927
+               },
+               "southwest" : {
+                  "lat" : 5.407469620107278,
+                  "lng" : 100.3693264701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aa8a161152a5b398facf6ae9eb0c0f5b31e3a001",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116726547877931310870/photos\"\u003ePabitra S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK2Hx-AhFUPfcUsOOz1xbrxBPgxh9goNcl7MyMitGpdKSOFT2E-YGmUbSpZsjY_jSJHQi7dh86rsWwLU126hnYuB6YsPI_wstnV0yJ4kOGUCQ1DozmUaSAFlodfz7pFUJEhAikXNGCu5OlCtFSNqjleDsGhSNBGRlxXqniiU_YnWcU2xKEhSBrA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJU1uXNxXESjARcl--aNFU3p8",
+         "plus_code" : {
+            "compound_code" : "C95C+G7 Butterworth, Penang",
+            "global_code" : "6PQ2C95C+G7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJU1uXNxXESjARcl--aNFU3p8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 364
+      }
+   ],
+   "status" : "OK"
+}

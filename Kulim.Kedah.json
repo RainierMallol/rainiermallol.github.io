@@ -1,0 +1,880 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAAF-3Y5jYGyiI7_3_yLlefzOeRRigNdbOR_ixdALC_ReWvtdPoCQGnIxWkl60qECDi6vTkNQX8E-TP-hZ2rqmWkudelqhxxnk0rAOZO299PkrrBnilr2YQqgnMHl__RYoELoIhyRzChDWS0Qvhlz0OFEPDjIygYqEH1m-nW1UottWjUBaa66eOfLoPfoNO9qj289i0MM59jFw_M2m3bx52LTEi4UpDrmNNLWHhbfMKno9EzA6pGbNdQotl2as7-dSD_Gb6Uu4use0OAafVlwGseQNOG6QlAFskZFMxvYAMcJlPOF0pf8Bg0LcONdyvm5QnID9_M0hR7sBYUQxso3I3zod9dvYW55O86nQq9QBZNoEnaQhHfBfR89Fl5bB8vtVqE0nU946N-jBmEs5K0GWyB-IuIqshygRCiSvNWBQm2-KA5qtzdr4jlNLKKMwHYugZNjgktzKq-DqIEi26226PckjbM7-mOQpTlGI_XDECRKYMphkbARl8CaYiqARG4MA9wzinlGUORJDt4YTLbbgXOpVUwd4D6NGRXDNneUvDDwqFkkUhQInPGmzwXCiTONyQqGM-83fJd2PSUnDOffDx0vr-X_WCO9cXdAYgzpixkQrq7CjvZfp4rCeeAnaN0qpqlu7ZWxfsQ9Tpqf4NsQyaod5LoeNU05hgaabYN5GnkGSEhBbDertZ4ed5JggOnURVCPlGhQvc8DSa0cCgc5KI59UbdATCEijUw",
+   "results" : [
+      {
+         "formatted_address" : "Lot GF - 05 & 06, Ground Floor, Kulim Central Shopping Centre,, No.1, Jalan KLC Satu (1), 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.385511000000001,
+               "lng" : 100.5467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.386899329892723,
+                  "lng" : 100.5478804298927
+               },
+               "southwest" : {
+                  "lat" : 5.384199670107278,
+                  "lng" : 100.5451807701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc8ecbdbda88f6d818c3ddc34a0698d0be3e2311",
+         "name" : "Texas Chicken Kulim Central",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110082975750209844509/photos\"\u003eWistaria Zhing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMaTaTu3Lolo7HzsK1OzwPXcsePZBygk1aK6uguBBSGN7gp9pbJkW-TYTtO21p6t_sxMEDa0VFb57ibD570emjo9XtEmgasz2GrUGnFHPqtXMRQqQVVymI1UpkHk_msSgEhAEmDzAKF3pbEc4SM3EBai1GhTnKrzjcdkBEhuYweJlDy0AGRTveQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJp5eP_vXLSjARnC57behDKeE",
+         "plus_code" : {
+            "compound_code" : "9GPW+6M Kulim, Kedah",
+            "global_code" : "6PQ29GPW+6M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJp5eP_vXLSjARnC57behDKeE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195
+      },
+      {
+         "formatted_address" : "Lot no. PT 5734, Mukim Keladi, Kulim, Malaysia, Kedah, 09000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.383141999999999,
+               "lng" : 100.545774
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.384485529892721,
+                  "lng" : 100.5471280298927
+               },
+               "southwest" : {
+                  "lat" : 5.381785870107277,
+                  "lng" : 100.5444283701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dfb7c08fbf9c9188c942c3a2e8997f4d37bddb19",
+         "name" : "McDonald's Kulim DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114082671146578321572/photos\"\u003eJosh Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGz9HrUUpvp14lpuqm8kknEPFgWC8Bg0AesmUKJf159UGL460cNALFW6xPM4-G62bBM72TINZT7iI9jcYZ_Gc7eCMMDlUn0M4vpVSvfMZsjWoZg14-WWrjn_rYCjMqS9TEhCduqCF79Z_NPV1JfKE8lN_GhR7kzPswbjTcHEKA78vd0wnF8jumA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJOd094HnMSjARrhe0AXpaYPk",
+         "plus_code" : {
+            "compound_code" : "9GMW+78 Kulim, Kedah",
+            "global_code" : "6PQ29GMW+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJOd094HnMSjARrhe0AXpaYPk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1438
+      },
+      {
+         "formatted_address" : "414, 408, Jalan Cengal 15, Taman Cengal Indah I, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3577401,
+               "lng" : 100.5289086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.359097229892721,
+                  "lng" : 100.5302557798927
+               },
+               "southwest" : {
+                  "lat" : 5.356397570107277,
+                  "lng" : 100.5275561201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a0fd780c2e548f7085bb3f33fe3a524a183c69e",
+         "name" : "Kulim Chocorice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114971593198462695956/photos\"\u003eKulim Chocorice\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAubY1seraiem2heH-C-fhtmo_pVwiXmRZdR1agLO2Ujl0is8kCT1UMci9-Ra0tF2V8ii_6R3tu6tqmgphhpDZymRYJoR2oqUBG5aCY_ZSERx7IfEUdPALTy46cjKZKLEUEhBwrGoQ3K3ocsnNEG30RyOCGhQYUfDGGOYTy_YoKWzXLZxg8MpWog",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJd9__h2LJSjARXgmot5yUcgQ",
+         "plus_code" : {
+            "compound_code" : "9G5H+3H Kulim, Kedah",
+            "global_code" : "6PQ29G5H+3H"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJd9__h2LJSjARXgmot5yUcgQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "No 14,pusat penjaja pecah batu,mukim padang cina, jalan pecah batu, 09000 kulim kedah, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.39655,
+               "lng" : 100.56579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.397929029892722,
+                  "lng" : 100.5671285298927
+               },
+               "southwest" : {
+                  "lat" : 5.395229370107279,
+                  "lng" : 100.5644288701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e9430b42925431191db5d5cee11e850d289cf11",
+         "name" : "Padawans Burger Kilang Lama Kulim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114788801935124018339/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiaCdgOfcc3YkQ5NYLHoKtOWLNcjDuVKPxyFrTdvDotmyjqmdjunhKFv7LjdljtQzzKfmaVbBA5YnZ5CLP2P_yp1FFrBce4KEttbzoR0h9jBE31vpU67fKoUZqjBxZ1NoEhBH6RifyNn3CpXo2QTcX31YGhQJQ355wACRnBsyjOBhNU7eltI65A",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJi-vRJWXMSjARVIZfQdtvQlg",
+         "plus_code" : {
+            "compound_code" : "9HW8+J8 Kulim, Kedah",
+            "global_code" : "6PQ29HW8+J8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJi-vRJWXMSjARVIZfQdtvQlg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Kenar 4i Taman, Jalan Kota Kenari 5, Kota Kenari, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.373389,
+               "lng" : 100.5671254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.374726579892722,
+                  "lng" : 100.5684908298927
+               },
+               "southwest" : {
+                  "lat" : 5.372026920107278,
+                  "lng" : 100.5657911701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a7735d4a304d6341ba8df127f909ccf86ff8fd61",
+         "name" : "ROJAK TONGGEK KULIM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJXQYOEZvLSjARNer-8_c56CU",
+         "plus_code" : {
+            "compound_code" : "9HF8+9V Kulim, Kedah",
+            "global_code" : "6PQ29HF8+9V"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJXQYOEZvLSjARNer-8_c56CU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Kampung Keladi, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.385568999999999,
+               "lng" : 100.547104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.386895129892721,
+                  "lng" : 100.5486027298927
+               },
+               "southwest" : {
+                  "lat" : 5.384195470107278,
+                  "lng" : 100.5459030701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "739dafdfbcd3257111a9a5bd7b6fcbdfec8bc4be",
+         "name" : "The chicken rice shop",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115268462048007082965/photos\"\u003eShahrizan Omar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiTXhYG0Pl6vrQS_raU1I41KS_ON03qTGo5qzq1banShC4ntpR8IbiUVm_l3L9THkMXfHZZ2ojlptPs9wxv5_Sk6E3ugcFioYpOUtjLPR1h8HxI6LtMDy5ZInmqXMTIrEEhAP2Xw8m8GIvOFU7wji_foxGhQvyp1VffxFJYtd7lTqQQEnBDasAQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJY37H-fXLSjARTq_57j1XDP4",
+         "plus_code" : {
+            "compound_code" : "9GPW+6R Kulim, Kedah",
+            "global_code" : "6PQ29GPW+6R"
+         },
+         "price_level" : 2,
+         "rating" : 2,
+         "reference" : "ChIJY37H-fXLSjARTq_57j1XDP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Jalan Cengal, Taman Bersatu, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3612899,
+               "lng" : 100.5426199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.362655979892722,
+                  "lng" : 100.5439880798927
+               },
+               "southwest" : {
+                  "lat" : 5.359956320107278,
+                  "lng" : 100.5412884201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a55e9d9d54f097de8216170b239906c45ffeeb8d",
+         "name" : "Shafique's Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113264621393031776120/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqp2o97uXysIwMwIpba9ks8mHTisKBb9hkgZye5G2OsdfItY2VDX9qBCm2IlrtJJEm6MTe2D302HFHAwGheyNXLhltkEewi8E4kkRs1KhiO9XZXjCZg9SVhiv0n9hbOTREhCUX3eaqoCmmSO6TyTtdWRaGhTxwvQmDqPd6tIl4AR7GCD0uorTuA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJAwKfbMPLSjAR9Dfh2EeisWo",
+         "plus_code" : {
+            "compound_code" : "9G6V+G2 Kulim, Kedah",
+            "global_code" : "6PQ29G6V+G2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJAwKfbMPLSjAR9Dfh2EeisWo",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51
+      },
+      {
+         "formatted_address" : "Lorong Semarak 5, Taman Semarak, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3782811,
+               "lng" : 100.5399041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.379622679892722,
+                  "lng" : 100.5412576798927
+               },
+               "southwest" : {
+                  "lat" : 5.376923020107278,
+                  "lng" : 100.5385580201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef7640582b5090a0d68fa40fb2cabb566f57d45a",
+         "name" : "Mieza Apam Balik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ4RpHYvrLSjAReTldkQMsCyg",
+         "plus_code" : {
+            "compound_code" : "9GHQ+8X Kulim, Kedah",
+            "global_code" : "6PQ29GHQ+8X"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ4RpHYvrLSjAReTldkQMsCyg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Kawasan Perusahaan Kulim, 09000 Lunas, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4058509,
+               "lng" : 100.554227
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.407166129892722,
+                  "lng" : 100.5556030298927
+               },
+               "southwest" : {
+                  "lat" : 5.404466470107278,
+                  "lng" : 100.5529033701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1b1a2b05f4c8dceb8c7b798f003b0dc0bdd8eedb",
+         "name" : "EE Apam Balik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103336378292308773803/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4ZILY0VasLHM_nWSXxWVX1x0j_QQt_p1-SnM_InLYlL1Y9mbUrQaqFVsAQL_IjRALnjfvdRtfKh2rfi5l-1MXOet0WhOoUZEeWxQRwn0FDEnWW8aMsCZ1AUgSyNOc4RHEhAyp3E3xwDZqhqUEciASMcmGhSMQ4Zu5qFgwq51-_FDTR4nMOREZQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJp_R90HHMSjARsu1ulkNFldI",
+         "plus_code" : {
+            "compound_code" : "CH43+8M Lunas, Kedah",
+            "global_code" : "6PQ2CH43+8M"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJp_R90HHMSjARsu1ulkNFldI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "No. 34A Batu 21/2, Jalan Lunas, Kedah, 09000 Kulim, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.407833999999999,
+               "lng" : 100.546737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.409191579892721,
+                  "lng" : 100.5480747798927
+               },
+               "southwest" : {
+                  "lat" : 5.406491920107277,
+                  "lng" : 100.5453751201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "753d2e463d846ca255d7c9bd9cc9be5019ca6abc",
+         "name" : "Pewaja Murni Sdn.Bhd.",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102030581879298171027/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALAqOeby3Rj9hCvnXZA2pTeL2x_i_EbBqTukQ3zdJT51vXcI02lvIKF-nYDO7ebV8w6BQ6WQlcZ4qsAbayrvb01m2hp1PoWLabqru_0fzrYr3vKoMLR66t2YqEjcgj1S8EhBezhw5vP-DLA0SauXtkrbCGhRUQtyPDuG6F0765dCKi9KTLxMAvg",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ6U7ydD7MSjARVbpy8rMJeQE",
+         "plus_code" : {
+            "compound_code" : "CG5W+4M Lunas, Kedah",
+            "global_code" : "6PQ2CG5W+4M"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ6U7ydD7MSjARVbpy8rMJeQE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "21, Kampung Ulu, Relau, 14200 Bandar Baharu, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2427168,
+               "lng" : 100.5518308
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.244050329892722,
+                  "lng" : 100.5531520298927
+               },
+               "southwest" : {
+                  "lat" : 5.241350670107278,
+                  "lng" : 100.5504523701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0709ff278de69318de253e9a90a35d733c19426f",
+         "name" : "Burger Siber",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108592105821979635907/photos\"\u003eSyahir Fahmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKdP5R0cq-z4eP1-OKaFb91kZ28rDHfIQ6pLH7ojnL7waFx4qpyjKR-7zUADV9IDu0qf7czz0v0fKZnBYfr9FztNhxlm3l_cTtGuTijhGFUY5M4xXvW7QdGjE_fGjBxnZEhBHqI7Z5y7supA68AgY12fIGhRmswsx6tGEqwFF1qj3q_aCePmyqA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJO6fbVci1SjARb6CFFiWJTC0",
+         "plus_code" : {
+            "compound_code" : "6HV2+3P Serdang, Kedah",
+            "global_code" : "6PQ26HV2+3P"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJO6fbVci1SjARb6CFFiWJTC0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "603, Jalan Lobak, Taman Lobak Indah, 09600 Lunas, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.425133199999999,
+               "lng" : 100.5527591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.426498429892722,
+                  "lng" : 100.5540836798927
+               },
+               "southwest" : {
+                  "lat" : 5.423798770107278,
+                  "lng" : 100.5513840201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93e9d58a9ceb04eee6fdeaabaae560a0e29c17f9",
+         "name" : "Burger Corner Shidi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108915586530632839613/photos\"\u003ebaharudin ibrahim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiwpurRhvzup_eCPDhcNeYr_JEAvJzWQIGoT0dpNZzpaT1K6G6hL6KY8ORE18bw-8sgzXn01KPj2KcK4AWqe84U6CNh3ZcpNksuEPGwGQ3hTmvSTaXEBUnjGThZ8XibeQEhBnngxLKhXSBUFLf3u5PtIOGhQkw5jMfQCeSWrMlJz1MU9NVH8jzw",
+               "width" : 560
+            }
+         ],
+         "place_id" : "ChIJw0UmidLNSjARgydis6lFplw",
+         "plus_code" : {
+            "compound_code" : "CHG3+34 Lunas, Kedah",
+            "global_code" : "6PQ2CHG3+34"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw0UmidLNSjARgydis6lFplw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lot No G9 & G10, Tesco Kulim , Lembah Impian Mukim Kulim, 09000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.362360000000001,
+               "lng" : 100.527159
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.363969779892721,
+                  "lng" : 100.5284822298927
+               },
+               "southwest" : {
+                  "lat" : 5.361270120107277,
+                  "lng" : 100.5257825701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e3818baf6d973b2d691f43dc6a59aefa4e6019f",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109559977457810616990/photos\"\u003eAsyraf Md Rodzi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAay0qTJM1BFJv6pgE4mv9shGr4iOh21z4e_O6YEPLEASV-tp2lp0ty5uT0NAF3YLuew6nenrnzW5uGWVzq8lqt5A2xe4lnrDLtU2y4a8T3PNJPVUuqgsD47goodIUXO3WEhDKn_M8mEwK0G8lV7tvHBPpGhRuXiXcyGY8PdVU5Wy0X9LYzYFCYg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBfJKr2HJSjARdo06sP8c3QU",
+         "plus_code" : {
+            "compound_code" : "9G6G+WV Kulim, Kedah",
+            "global_code" : "6PQ29G6G+WV"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJBfJKr2HJSjARdo06sP8c3QU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "No.612, Jalan Seraya 1, Pusat Perniagaan Seraya, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3860239,
+               "lng" : 100.5454439
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387362279892721,
+                  "lng" : 100.5468441298927
+               },
+               "southwest" : {
+                  "lat" : 5.384662620107277,
+                  "lng" : 100.5441444701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "87fb949ca34bdd225d1744d7d62eb0b82f07160c",
+         "name" : "Domino's Kulim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111630488229417963988/photos\"\u003eJune Lai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGG4GFELq4Ws5Y4ormmyojrY9uI9yFaptt7v_YUrCrNHxVb0p4Q0I-NM0YQLXwdCA3_5YL5bmpIy_HFUwGdgsZ1ug21K_k8_0pKR0wU50LMy1KNlhmMheHublybnT5t_9EhCy9pxe0FFiez8W9xdtS6OWGhRVJYnOiFXt86OHREGq7-jYfqxNog",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ2URlB_bLSjARikJWuBFnICg",
+         "plus_code" : {
+            "compound_code" : "9GPW+C5 Kulim, Kedah",
+            "global_code" : "6PQ29GPW+C5"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ2URlB_bLSjARikJWuBFnICg",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 161
+      },
+      {
+         "formatted_address" : "No. 54, Lorong Semerak 1, Taman Semarak Kulim, 09000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.377524,
+               "lng" : 100.540694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.378906529892722,
+                  "lng" : 100.5420251298927
+               },
+               "southwest" : {
+                  "lat" : 5.376206870107278,
+                  "lng" : 100.5393254701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2301275dffbd5046d3331854f4a78daa5e6566be",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114261316423287824061/photos\"\u003eFaizal Jamal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA975Pmy1HeFw269apTxVX2LgxYyAxLgGkabEtUUrvvnEyxIDgYotLzKCodXC-3Y0s3xs1G9ovZygFyrrSW3OYAj50Ezz8IXilQmQZJd6cT1ZxXN-iIh4StAzSbpAHncItEhAJBPZf4uHG7tUjl4KUZBtVGhRsryTE7VG77Cjx08pJ6JQr1p_hag",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZUtLnfrLSjARserxOJ9cIo8",
+         "plus_code" : {
+            "compound_code" : "9GHR+27 Kulim, Kedah",
+            "global_code" : "6PQ29GHR+27"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJZUtLnfrLSjARserxOJ9cIo8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 254
+      },
+      {
+         "formatted_address" : "Lot 88, Jalan Teo Moh Soo, Kulim, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.37224,
+               "lng" : 100.554283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.373566079892722,
+                  "lng" : 100.5555656798927
+               },
+               "southwest" : {
+                  "lat" : 5.370866420107278,
+                  "lng" : 100.5528660201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9af4e0924814add7ecc0c46ac9cf4844636c28f",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116355828711017845011/photos\"\u003eAin Mohammed Amir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1XqyZ3T9AJqEtHW1iiQm3ZypGCbBhVEVj-ZynA4YQY2ie2DmfZaiNIM4XxrZsn8PLXrsrIgZ_LqbZ0Qpjb7GPqBqBJOKnOPlDNJTZ5Xv60rGgDOwqZq6VirywWQ-mS8fEhCA0QcZmn4UOUEgLbc2PRTkGhQkmIYe49aCuoU1dZQzb0Ibo4K1BQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAxY7BZPLSjARlYVSW-u1UuA",
+         "plus_code" : {
+            "compound_code" : "9HC3+VP Kulim, Kedah",
+            "global_code" : "6PQ29HC3+VP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJAxY7BZPLSjARlYVSW-u1UuA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 269
+      },
+      {
+         "formatted_address" : "Lot G, No 9 & 10 Ground Floors Landmark Central Shopping Centre Kulim, 09000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.385974,
+               "lng" : 100.54649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387325429892722,
+                  "lng" : 100.5478328798927
+               },
+               "southwest" : {
+                  "lat" : 5.384625770107278,
+                  "lng" : 100.5451332201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0466c90b9cc116395aaf3cae92cfd6dd11015c0",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114476229262203078609/photos\"\u003eHassan Zainddin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOkpbR3inakNK_hKMbdDXW3USDWDVcpf8kSIWwH9RHK94TusSaC0Ifja8lgjnWD8Na93lQXh27l1TKJ3Ho2yELOSe8zDRcba2lYKBCiZSWjnjZslOMirRs54jIeKsQWnPEhDf40AW8tybQXAIPOGnzTnxGhRhTfm3LUcP9-aJmmas63aq7fZLCg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOd094HnMSjARbohZVlbqrcA",
+         "plus_code" : {
+            "compound_code" : "9GPW+9H Kulim, Kedah",
+            "global_code" : "6PQ29GPW+9H"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJOd094HnMSjARbohZVlbqrcA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 118
+      },
+      {
+         "formatted_address" : "119, Jalan Dato Wan Rajawali, Kampung Kelang Lama, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.388014699999999,
+               "lng" : 100.5715002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.389188229892722,
+                  "lng" : 100.5731737798927
+               },
+               "southwest" : {
+                  "lat" : 5.386488570107278,
+                  "lng" : 100.5704741201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7abeef74b4be9b1b7872bb7d5f2213a4144a37db",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109717876703525198867/photos\"\u003ekhairul anuar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVcT56GgeXB0YJ3VPkHgvloH8oOk-3EVeTr6iTrVVMSBcCtuqMJSA7bkjEueoy8A3-7bEFnXoYxEdCE0FgoatKB10puOlDgTQJ_A4D3FARLCXNGxM4obyHr_njC1t5TslEhDKLCwy2mD2MTL4A1T576QrGhTlhSqD4vJWTgAkVlQhuOCpJMCXOg",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJP-Us_n7MSjARIn3YW7UYe3E",
+         "plus_code" : {
+            "compound_code" : "9HQC+6J Kulim, Kedah",
+            "global_code" : "6PQ29HQC+6J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJP-Us_n7MSjARIn3YW7UYe3E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 303
+      },
+      {
+         "formatted_address" : "Kampun tengah Serdang, Kedah, 34950, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2309715,
+               "lng" : 100.550956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.232306129892722,
+                  "lng" : 100.5522912798927
+               },
+               "southwest" : {
+                  "lat" : 5.229606470107278,
+                  "lng" : 100.5495916201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29d8da672c931e683c3f298b203aafa78a2fa311",
+         "name" : "Hot Burger Relau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110106333847050441967/photos\"\u003eO cn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACg2D6GW4z222gICaP4lLy7COOSx-ZXotMgxj843PHKZ-uC0Ykgps6lmXtqjJFi5lSxT3z_a_m2qapH3h91QvnUV7p7J_j6JxS027OV1NZpT5G4ogLuzh1nB3PjsFQHOREhDdOIA_PBatBYKM6XEh_uCXGhTiBalXL2HFMS-xhODpD2uaOwSXdw",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJp2iXXg20SjARsv-2gBAYbHY",
+         "plus_code" : {
+            "compound_code" : "6HJ2+99 Serdang, Kedah",
+            "global_code" : "6PQ26HJ2+99"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJp2iXXg20SjARsv-2gBAYbHY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "Lorong Laksamana, Kampung Pas Tumpang, 09000 Kulim, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3564319,
+               "lng" : 100.5550262
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.357851129892722,
+                  "lng" : 100.5563897798927
+               },
+               "southwest" : {
+                  "lat" : 5.355151470107278,
+                  "lng" : 100.5536901201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ebef1449f459ba1e5beeca122a808bb85289b67a",
+         "name" : "Akar Lima",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106415644922634941410/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAQ3IeI1x7Puiiaz1kr5NO_9-dYBPJMK2Hb6fUl5isa1S-b9v6B_gjRfKVkWR4k1jGukFbhqA6hoTxM3RwuYf17pKoaVxse5x8A68ZzU8eWS2SdtRVmioxQFapW5_-izFEhBjawnI21oJjOg-A6q9B6s2GhTt3sl-AOsqZ_Xd1QAYa2aMqUi14A",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ18IVUrjLSjAR_YHDRInXHBM",
+         "plus_code" : {
+            "compound_code" : "9H44+H2 Kulim, Kedah",
+            "global_code" : "6PQ29H44+H2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ18IVUrjLSjAR_YHDRInXHBM",
+         "types" : [
+            "cafe",
+            "lodging",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 211
+      }
+   ],
+   "status" : "OK"
+}

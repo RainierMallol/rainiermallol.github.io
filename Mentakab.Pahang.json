@@ -1,0 +1,894 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-wEAAHMr_sERATvjYKhs4sDekgkJIW3P8MldgfynE_5PTeBZu51sV2-srOx3Lx5UPGEN9fwsjtPmfQF1jWu7a62okatT59nUdENc24u8vf_mXLxhCS1juniLrJ6dayodmzv0JMUTMeFHhVDKQzJtVuApjd7cK7ShewgHofUi173S0WUoDvvWzxCxcCRDbOuTzFdknGNsnC9pauw-p5P5J-oHVG1d6iN4c0BTOS8XRVj2rK1ZTOJayHbWxpckFu1CVtOU7yBlPSGfCIcxY52WPXe_372lHHtb6cPvddgSFCyLTMzd3MRnD9jZwkoC4DqY9ioow3zI9fZq0nTPDoAYPN9B9OIeDVlI-e4w1I4YgtjYOF6u84r8LkAsiR4981T7xNgexnKPq3lss9r3CogIB13chRu4EtzvBeuz3gDa3iN4HkjzU0JgsL6LlrC4BIGHyAZBwMElAGOTuqsv45ZjEX4V6JykqHYhz2Qj0WIXsLPlfx0MdE-4WM2ZHRvo5_DmISuaVD4MGn4BpWdqvYhNj7dUBykguWez4wPCvs1lIU4iEtBRHPLdex0imdAIIM1ojltUFcUilRpoiVkc-11aHi-yyfEZt85ttYnO5exjYb2e4ZMyURfSBJmuksPJ3ALZQ34yYDUvoTT_tMaMSkWDpf9uv4SIPHYHyt--aw03BugHxt35EhD33KCZwHpCoR_MpGXKtIsfGhSlsozyxFHVfFBTcRsInO_dGhtZVw",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Industri 1, taman industri temerloh, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.449641,
+               "lng" : 102.348535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.451028829892723,
+                  "lng" : 102.3499143798927
+               },
+               "southwest" : {
+                  "lat" : 3.448329170107278,
+                  "lng" : 102.3472147201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7cdad7eded994240dc0d56c43821b6942672d6c3",
+         "name" : "Ustaz Cendoi Mentakab",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 546,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108364037979326668224/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATlTS2vFttZ0ra84Gwa0ucKl_FFoLVHtinP0XPVELRAymvsoiIE3KHWvksebP-djK81gla9XAXcnPv1Uqk3ZRnvg8sANRAqTAy2mCIjZHhRHvmnkyh6lU-RQgnR3T_jZxEhBg5v5eCK6_wtnvxk8ORaYEGhTeaVO8mfcYALZPsPnkCqYI5I7_ZQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJxXRfQ_O5zjERyF7cyAdp1sQ",
+         "plus_code" : {
+            "compound_code" : "C8XX+VC Mentakab, Pahang",
+            "global_code" : "6PM4C8XX+VC"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJxXRfQ_O5zjERyF7cyAdp1sQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Jalan Star City 1, 28000 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4703826,
+               "lng" : 102.3314606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.471641179892722,
+                  "lng" : 102.3328615298927
+               },
+               "southwest" : {
+                  "lat" : 3.468941520107277,
+                  "lng" : 102.3301618701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8765a8ec7a6e95afd270d5ae42d1e04fd71a2579",
+         "name" : "McDonald's @ Mentakab Star Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100187692841267220327/photos\"\u003eMr Sms\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMZomRqjo0FiyIvrjHAjwgGijv3RB4KC-zdvdIeDKr1xQLc_V5yYNeKGEo8nddUg3zqsRog9tRrXI3Vu32g9I0OvJrndEC1IXhIlT_MFCmn1HlBx4r0KjNS55_pM4toGsEhBzbbjR0GLQVt5eZDSdqYkAGhRT51H_Y3DwjyWNEbng0Vm316BSPg",
+               "width" : 1932
+            }
+         ],
+         "place_id" : "ChIJ6cplzhO6zjERpJHacS4FTI0",
+         "plus_code" : {
+            "compound_code" : "F8CJ+5H Mentakab, Pahang",
+            "global_code" : "6PM4F8CJ+5H"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ6cplzhO6zjERpJHacS4FTI0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70
+      },
+      {
+         "formatted_address" : "Jalan Orkid, Kampung Catin, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4834556,
+               "lng" : 102.3506797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.484762779892722,
+                  "lng" : 102.3520728798927
+               },
+               "southwest" : {
+                  "lat" : 3.482063120107277,
+                  "lng" : 102.3493732201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "25c2b0397bef57d9bcd79d22af6e4032d09257c7",
+         "name" : "Abry Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111045147838377016096/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnUXM-W3vqyL7DUvYMJZUW0Yw3T54DKrW-1iIjdRskujBniHd69cXMPcI0I8Izb8X0FH5zjkyqgfhetazcAKTzW4A_yUhJ9Cfg0qYjomo-12MynBwuGGRolb2uujcUuK2EhBZtnLYy7LFj7w8TAT0h7iiGhQ4wujz0chYq4JjVTuDUI3ct08JTg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJzej_IfS5zjER4Ro7nKv3rFM",
+         "plus_code" : {
+            "compound_code" : "F9M2+97 Mentakab, Pahang",
+            "global_code" : "6PM4F9M2+97"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJzej_IfS5zjER4Ro7nKv3rFM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lot 266, Jalan Chengal Baru, 1/1 Pusat Perniagaan Chengal, 28000 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.466053,
+               "lng" : 102.390981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.467387729892723,
+                  "lng" : 102.3923208298927
+               },
+               "southwest" : {
+                  "lat" : 3.464688070107278,
+                  "lng" : 102.3896211701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ca10e733273db1bb0ab38ee386586b3377bf494",
+         "name" : "KFC Temerloh Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103237653919001524351/photos\"\u003efath fif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALmAYc-KhYK1hS-D4AVI6dCgiroZMF_3TDB3-U0RpzT-7XDXgD4uCQOaNeBnHq3mBKfwrqXIx0cabh2vhVCd3qxMXrawBou9J_TAg0plyrA7GdeqPI-bOfSpHtzsW9TGPEhBMZryJs8iKDOplonXZ04CnGhSF3DAVOk5Kc63NPUOXZKesa5QJjQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJQViQIa25zjERelOjyFgOBiI",
+         "plus_code" : {
+            "compound_code" : "F98R+C9 Temerloh, Pahang",
+            "global_code" : "6PM4F98R+C9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJQViQIa25zjERelOjyFgOBiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 393
+      },
+      {
+         "formatted_address" : "Jalan Mentakab - Temerloh, Kampung Paya Kecil, 28000 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4600461,
+               "lng" : 102.4006736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.461466029892722,
+                  "lng" : 102.4019272298927
+               },
+               "southwest" : {
+                  "lat" : 3.458766370107277,
+                  "lng" : 102.3992275701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9f3208ae5bcb8d75caadafb83a9f2799a4f8c2a",
+         "name" : "Temerloh Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103268767505070847461/photos\"\u003eHengyock Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA32Ea0umdohPmEP0Y_s7083zxdOcVEUeca5XvmFmqaSFC20AZRAQPEPw3cvFj3JF-vw_z1YofXcTIko5kqCEha9yo4I-uXNnLpxBnmks-_oApg6KQGfOB61b-UcqDjVebEhCVsB0DIAf82aJIGU6TV939GhRpBQSSjEu_dbqPSaONKPhGtLTVCQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJKQwmTVa4zjERtLyKvFoct0k",
+         "plus_code" : {
+            "compound_code" : "FC62+27 Temerloh, Pahang",
+            "global_code" : "6PM4FC62+27"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKQwmTVa4zjERtLyKvFoct0k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 233
+      },
+      {
+         "formatted_address" : "Kampung Baru, Pahang, 28050 Temerloh, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5213602,
+               "lng" : 102.4051054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.522809629892722,
+                  "lng" : 102.4064247798927
+               },
+               "southwest" : {
+                  "lat" : 3.520109970107277,
+                  "lng" : 102.4037251201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d42310d1049b7a4178b50e4696f2dfd2f2b3d6bd",
+         "name" : "Perniagaan Sri Kuala Tekal",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106148913459336828104/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0ELOSNNBH6tPR6IPzNsEiPXmR7kgcMdY6QXRhiygZLcgefShGh5e9C7koSryCtJSMRzSeXlx9Vo_nb02N8RCfLFkyIl1rN0vc74s7zj28yFBoM-JIRm6lb_DV-PkGWc6EhCDAQ-qjrwAi_yQhjHgP9yPGhRdkNq2k5qMm8jQ7b5RguN3TTlv4g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ____v7y3zjERjZuUeVpf-MU",
+         "plus_code" : {
+            "compound_code" : "GCC4+G2 Temerloh, Pahang",
+            "global_code" : "6PM4GCC4+G2"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ____v7y3zjERjZuUeVpf-MU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "No3a tapak masjid al-solihin, Kampung Desa Murni, 28020 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5297561,
+               "lng" : 102.3950525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.531115829892722,
+                  "lng" : 102.3963580298927
+               },
+               "southwest" : {
+                  "lat" : 3.528416170107278,
+                  "lng" : 102.3936583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "540270c1f88f8f06f7af9c64235a45c1fef27dd1",
+         "name" : "Khalish Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 461,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104372407775136888686/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_QlaFasvrZ5B1AnRAkD61t8lebxLIExAyM6rInV1kq440bTbfta4ToP2VUcwCzMkRXhHxukL9oN46p7xrlKK2XCjrCkR0QNgE0VxwP4otk52_fSqGXZII2wX_1UzdBhcEhDO1-4LANFtP4ey1t1jheYtGhTpY9B56unCGPi_5MwkWNzyBAJBlg",
+               "width" : 822
+            }
+         ],
+         "place_id" : "ChIJG6oFE4K3zjERyQPGzxuX6z4",
+         "plus_code" : {
+            "compound_code" : "G9HW+W2 Temerloh, Pahang",
+            "global_code" : "6PM4G9HW+W2"
+         },
+         "rating" : 0,
+         "reference" : "ChIJG6oFE4K3zjERyQPGzxuX6z4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No GF-66, Jalan Temerloh Mentakab, 28400 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.485053,
+               "lng" : 102.3493996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.486428529892722,
+                  "lng" : 102.3507645798927
+               },
+               "southwest" : {
+                  "lat" : 3.483728870107277,
+                  "lng" : 102.3480649201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb2ae98793f38821b41bda4b6cd339a2a6c967f7",
+         "name" : "KFC Mentakab",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109023412652052004439/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANrVYKD6JP7Yw5ZFgo75GhgGDP2ZnVTY6Uzim7oud-mXf3gQz7ZeUM-NBKPc3pEiIQ2KTc6rwRQWlWVFsgR3uK93UCO4U0XnlRMimgGDhbSqoN_doSCpzaxArsdc1Cs4TEhBF_AqcO8SAZlNM6XMaFkkuGhQh7kbtwI507Lm5WEUDe9pz-m0bRQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ4Qc19fa5zjERpCNzGNiJ9Y4",
+         "plus_code" : {
+            "compound_code" : "F8PX+2Q Mentakab, Pahang",
+            "global_code" : "6PM4F8PX+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ4Qc19fa5zjERpCNzGNiJ9Y4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 56
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 1304 Sek. 05 (GM 7677), Mukim Perak, Temerloh, Malaysia, 28000, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.45181,
+               "lng" : 102.409606
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.453219629892722,
+                  "lng" : 102.4110020798927
+               },
+               "southwest" : {
+                  "lat" : 3.450519970107278,
+                  "lng" : 102.4083024201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17f128f9bb51ecf04b95713f685b6d072141a961",
+         "name" : "McDonald's Temerloh DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112955062502369599368/photos\"\u003eKumprinx Amin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnKPeOyJK_qKlS9GLEoyGMSr-KpRtdh8E3j8tpNxYNgWBzd-WLUKn1YHHlcHRQfYwN7cvlCxtL9pTgt0v64qTRv9Ga-1Zq6xfNV8OzYzt1L4bvZLQzvP5pCFPy5euf3HCEhCuxO3dtm_E4LL0e8ysOD4CGhR1zZpMTRUzzEnOJGK6HO9Hpa_SyQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJkcJB3_O4zjER59jXGikwUOo",
+         "plus_code" : {
+            "compound_code" : "FC25+PR Temerloh, Pahang",
+            "global_code" : "6PM4FC25+PR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJkcJB3_O4zjER59jXGikwUOo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 908
+      },
+      {
+         "formatted_address" : "N0 10 Jalan Star City, StarCity, 28400 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4707732,
+               "lng" : 102.332331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.472067879892722,
+                  "lng" : 102.3337116798927
+               },
+               "southwest" : {
+                  "lat" : 3.469368220107278,
+                  "lng" : 102.3310120201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "624354953cff977ae53d7f07914e1bbb94e4d466",
+         "name" : "KFC Mentakab Star Mall",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101374029314196060213/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsRphZ8qA0uAEmBpd8V6q4IBU-ZFeNQpb9BjtwBEGGq3qDDqhu1EWCCgcVB0tRtLu8i5JZKDlduIfeC9PVbyky_SpppQtzrUbW7U2L_qaaKtv0er2mWENTJVxP66MCcAbEhC3IgItWe_D8wDRdTu-B89tGhS4ZrPl7Ih2oc6Kl6pNHT1yeQx1ag",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJLd929jq6zjERw9rAphGgTNA",
+         "plus_code" : {
+            "compound_code" : "F8CJ+8W Mentakab, Pahang",
+            "global_code" : "6PM4F8CJ+8W"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJLd929jq6zjERw9rAphGgTNA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+      },
+      {
+         "formatted_address" : "28000 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4544045,
+               "lng" : 102.407669
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.455788879892722,
+                  "lng" : 102.4090947798927
+               },
+               "southwest" : {
+                  "lat" : 3.453089220107278,
+                  "lng" : 102.4063951201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f8dfe98e7507350be9821908bb0f2323ed901604",
+         "name" : "Fat Factory (Burger Pizza)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116463151428258654364/photos\"\u003eHaikal Lah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgJ7XofkxBOlWEyl8aRheEzPvFkwsnfs_-1qcEYm-Gb6SVHYDinHRpvmHSv-m-Lq6dKfkUuPUDWzfd8CewKkRDH8wNeFbXhgELG1g6brqNTNdGr4Tj0UpuzgbraA6eKZJEhC15U9PZKVD7r6yodIonGjeGhQF2jkKwV-2MWI3Gq9joX4CvSAW2w",
+               "width" : 607
+            }
+         ],
+         "place_id" : "ChIJwQkTBDS5zjERLMX-RT-b6hA",
+         "plus_code" : {
+            "compound_code" : "FC35+Q3 Temerloh, Pahang",
+            "global_code" : "6PM4FC35+Q3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJwQkTBDS5zjERLMX-RT-b6hA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Ground & 1st Floors, PT 3853 Jln Ahmad Shah, Temerluh, 28000 Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.448173,
+               "lng" : 102.415537
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.449551329892723,
+                  "lng" : 102.4168697798927
+               },
+               "southwest" : {
+                  "lat" : 3.446851670107278,
+                  "lng" : 102.4141701201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e125676252e1b976f71c72353ce3efbb5acde1b0",
+         "name" : "KFC Temerloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113545063702000275706/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3N0ug1LDxW2mxfQmHaMAcQldPMVvfKKFIXANMlK07mmBqz4HuDGiAEuX3cZnNxICqYbtocxLBb3YnrTpm6xnlGPObGxiQoweW4Q3tfeNapSBaSpp8SMBvpoNjgnIDRKxEhA_6Dwct__WBsMH59hKXQrgGhQwWD9Im9sLcPF3g6hLhybayGd2Hg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ73GbqZK4zjERqwB4hKWNwTA",
+         "plus_code" : {
+            "compound_code" : "CCX8+76 Temerloh, Pahang",
+            "global_code" : "6PM4CCX8+76"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ73GbqZK4zjERqwB4hKWNwTA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 219
+      },
+      {
+         "formatted_address" : "Lorong Motosikal, Jalan Sudirman 1, 28000 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4493181,
+               "lng" : 102.415737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.450703279892723,
+                  "lng" : 102.4170685798927
+               },
+               "southwest" : {
+                  "lat" : 3.448003620107278,
+                  "lng" : 102.4143689201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d76a7c659a87208a1cedfe795b3899dc64fc11c6",
+         "name" : "OTAI BURGER TEMERLOH (Al Haffiz Ent)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1244,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102198411836088584182/photos\"\u003eINTAN SAAD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALroXhTZCLArBKWzsoSMZyh6brp2At7t4R48jYjL0EYRC7tu7BlxPQxyoyntIr6Yy2qdkM_JQSPy6em_D-yY7P5_NPaAmJCwxbtRDhDuc2Ayiqo2n3EHRqEOJQqNqeh7iEhBKa-TsiNiWXzwfoJNcFaQzGhQiMeIGzXmK-WUcbgJQckZq8heVVQ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJj8_nSI24zjERxUaR9FV0rS0",
+         "plus_code" : {
+            "compound_code" : "CCX8+P7 Temerloh, Pahang",
+            "global_code" : "6PM4CCX8+P7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJj8_nSI24zjERxUaR9FV0rS0",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "60, Jalan Orkid, Kampung Catin, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4819675,
+               "lng" : 102.3494841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.483361579892722,
+                  "lng" : 102.3507921298927
+               },
+               "southwest" : {
+                  "lat" : 3.480661920107277,
+                  "lng" : 102.3480924701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "049bbb4e61191633efb08f811e8afedc9ab6de9c",
+         "name" : "tiff",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105726133819367534546/photos\"\u003eBryan Loke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAORWKlDKPF2X18qaFdXSyLahBDhq0DIcSLpgPUTKRDnjNwS7vAXP0mkDaFjkUcliHbmDr6bB8uPTa-gdfnywYGj2WSmyD_6sAioLh-aZ9xca1olrOway9HDTLloWsYZsVEhCRPiwFw7ZAJbZidZCllBGBGhQYa6ik_qicQsAnGSU_9jqgzwelwQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ006QTfS5zjER3d48meHLPvs",
+         "plus_code" : {
+            "compound_code" : "F8JX+QQ Mentakab, Pahang",
+            "global_code" : "6PM4F8JX+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ006QTfS5zjER3d48meHLPvs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 113
+      },
+      {
+         "formatted_address" : "35, Jalan Bunga Tanjung, Kampung Catin, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4834226,
+               "lng" : 102.3495387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.484681879892722,
+                  "lng" : 102.3509684798927
+               },
+               "southwest" : {
+                  "lat" : 3.481982220107278,
+                  "lng" : 102.3482688201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7d64efcde836a725b87b37a82f0c10977e5a6444",
+         "name" : "Master Mah Restaurant [Mee Tarik] ( HALAL )兰州拉面",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109191562607456376958/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASxmSRhlzR_CM_hVwTjPo7DDppMmZIJPARs1NtbDnYbjB9XCbmDfIaFCxosKoJIwgP1ffX4eCU9t1jt-pSvuyUUvtUGbPwQMTQrMqx_-bb7sRSOWFOsjJiEZWZaHierrqEhBynD3VXiVK_xb8eJ0jVFaFGhRO3MIT17XmykKuyWD_2I9QIKg7bg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkTwSLPS5zjERh7EPOl7UWSY",
+         "plus_code" : {
+            "compound_code" : "F8MX+9R Mentakab, Pahang",
+            "global_code" : "6PM4F8MX+9R"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJkTwSLPS5zjERh7EPOl7UWSY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171
+      },
+      {
+         "formatted_address" : "10E, Jalan Tun Abd Razak, Taman Bendera, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4868057,
+               "lng" : 102.3475504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.488132429892722,
+                  "lng" : 102.3489241798927
+               },
+               "southwest" : {
+                  "lat" : 3.485432770107277,
+                  "lng" : 102.3462245201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "405a7429a5e43bee769323756c59b1589bc8a42e",
+         "name" : "Mentakab Kopitiam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117866937436000935868/photos\"\u003eNizam Art\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkv3-vP7P79dNFM44StIVpVzQqYlJihI582u8Q9J_C7RsSH0Sb-oA-n9Cs4OLsiXqDv-cP_D6Mz0qPgbTdccYZw_Hz3vfnetsQnKl1nxrg5zaFmsjxz2mrzSQ2i2izJjdEhCuCEPogsZGbxC95dZ5ypPUGhTJHxn01iP-NLBJOWX2obLQTJDCxA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJExawyPe5zjER8dGClbihIJE",
+         "plus_code" : {
+            "compound_code" : "F8PX+P2 Mentakab, Pahang",
+            "global_code" : "6PM4F8PX+P2"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJExawyPe5zjER8dGClbihIJE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "45, Jalan Bunga Tanjung, Taman Bendera, 28400 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4816646,
+               "lng" : 102.3488601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.483054329892723,
+                  "lng" : 102.3502296798927
+               },
+               "southwest" : {
+                  "lat" : 3.480354670107278,
+                  "lng" : 102.3475300201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "535d35c71881e371f3ce5fbe5a6a163aa57c42b2",
+         "name" : "Restoran Sin Liang Kee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101692538791436488194/photos\"\u003edesmond khoo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOsj07hbhWXTL4yxbnuJCf2QKGIAYprHfhisQobaV8RjZ2TpyoZChFuTpJF8VZQIg4tfSgJuJ2OnMm9wK73vKK0Gyq4io0FSBZGKp1dt5tKGqoBbsCKl_FU1tdOuwJ4zfEhBxgnoa8qYlmTv3lXLq3UO4GhQcNCc7kzvy-oMlMCoFqyKwssg59A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJSXzTrvW5zjERtxWXL6r3VKU",
+         "plus_code" : {
+            "compound_code" : "F8JX+MG Mentakab, Pahang",
+            "global_code" : "6PM4F8JX+MG"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJSXzTrvW5zjERtxWXL6r3VKU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46
+      },
+      {
+         "formatted_address" : "12, Jalan Sri Semantan Permai 2, Kampung Batu Bukit, 28000 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4705961,
+               "lng" : 102.3840541
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.471908079892722,
+                  "lng" : 102.3853896798927
+               },
+               "southwest" : {
+                  "lat" : 3.469208420107278,
+                  "lng" : 102.3826900201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c75f213cd605dec6e7f628bec4d09b6762b8c347",
+         "name" : "Restoran Patin Koi mh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110181923019168510498/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyi76ZHOt1d16V8almeQzw-MGoFqsvUXJU_TUt-7P7p-Un7ptbmZRz7HqMx_5Pjm1ckwyUh4_Ur4FwbI0JOYvgHCzM4tLHEcnnqFKJpzzsz1mqOSeste4OLiO-LjOZ63YEhAJdUNlvXaa-PnD0nOTz7teGhR9jPPOW1uHsPTAPoggm1O3uSDOSQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJM66nzZW4zjERISco_K71Z8M",
+         "plus_code" : {
+            "compound_code" : "F9CM+6J Temerloh, Pahang",
+            "global_code" : "6PM4F9CM+6J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJM66nzZW4zjERISco_K71Z8M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68
+      },
+      {
+         "formatted_address" : "Taman Perindustrian Temerloh, 28400 Temerloh, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4510795,
+               "lng" : 102.352346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.452432629892722,
+                  "lng" : 102.3536036298927
+               },
+               "southwest" : {
+                  "lat" : 3.449732970107277,
+                  "lng" : 102.3509039701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17772249941190bf1c28e9fc12058189e51fa67c",
+         "name" : "Restaurant Juimoon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105709098895560826499/photos\"\u003eFenny Tee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeltxuhPtugPjIvi8jobxPpZd7M-wqWECM5O8tYyqWwl_OT2DVrugAAkwTclBK4_ANU-2R0_zG9YmWk3S1-V6kBw61Y_Yj7bcvQSj2-c3adLL0RJIXFm-2lvFeBd8dgWpEhCWUOb-SXOYQBP-LiI1LgORGhRyaMJvXj32jxmF_BJCTDPQchIIjA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ90TofHu5zjER9i4QaB5TY_A",
+         "plus_code" : {
+            "compound_code" : "F922+CW Mentakab, Pahang",
+            "global_code" : "6PM4F922+CW"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ90TofHu5zjER9i4QaB5TY_A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142
+      },
+      {
+         "formatted_address" : "28000 Mentakab, Pahang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.476356,
+               "lng" : 102.341493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.477690379892723,
+                  "lng" : 102.3428463298927
+               },
+               "southwest" : {
+                  "lat" : 3.474990720107278,
+                  "lng" : 102.3401466701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "987d27b6cb609d0a4d7aeb12043c6f7bc1859096",
+         "name" : "Restoran Tong Kiew",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114420656561044411312/photos\"\u003eYM TAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5LSeumfM7dVNBle7NUc7Fsk9P9He3kQ-vX61ffU6DC6_Z4NnB2hwXyKlBiVGZw1kFcMBY90cg3sGwoQQYzbU51UDi4_4prbXrzykZeTd9b4aMa2jYLyFDPVDbFR2INCsEhDxgbyQrHaAwKzcRxXIPcMpGhTy6XfQqTQapXvvab60Tnh_WJunSA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ2UG7dyG6zjERCDMDf3thFFw",
+         "plus_code" : {
+            "compound_code" : "F8GR+GH Mentakab, Pahang",
+            "global_code" : "6PM4F8GR+GH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ2UG7dyG6zjERCDMDf3thFFw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+      }
+   ],
+   "status" : "OK"
+}

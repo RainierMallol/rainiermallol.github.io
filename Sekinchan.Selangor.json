@@ -1,0 +1,876 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAABIO-sI1-uVM1kFcdE1OxWBOCaWzWE_jaiLNrBeDpyNRUlcc8KicvZ2xWwirJNFUjUMy-0OTmHvW0EGqQF-G4T_0CwHeR9IC24pgfr7-Jyj4RKM5aLn98SL86Y5cIqkPPRIxkmTM0t1CQsFBZjqmEAscLpeXk38LdwYSgB_VaAKtbg5JXvhgxiWkee4dggiCGMJWR8fsehuHVsCvWxOAn6hrjgNTKK2VD9nEIbQzMgwDhr7Y0wZkrZihUNB74Iz27CTn_V15T81mDchLkw5K3lvSp654rPntYWfHwAQCQiMzGovACXUjJkPQpe6IzvmSvLjuwC99xUwczjqOcMhwNVEZ9YUsjyPKaehv31kxpPgUczkjy-Kux1DIXA9-jS9NG_-QWm3Cj1EflAHC9HGLRM1jaeTiddrwkRxmUg-sW3EG1R-i6bC66egRbn96dQz5TNBFkymoe9fY7xH_4gG-gWO1fShr19RmUl_dEqWV7KewSCDWAOXMR3HCHJAVTU5KpSkTjYkuPFiudi2Cl4bSwgs66hFL2Y7CE6tLldM-Q7qKloYbm7940GHZJ0eJOoT54lZsq2L5-jTHTdWIJGzMXs-vQYlBxJqrU5SDE0kEOrlAesofv2LeZ6ybCcx0SEZ8sVEgTJL5OOX0yRb9bvuJ5xvQKiSv6hwiYjl_ZzimckGiEhDu8EiwFVDwC5Er7xxUobR7GhTUKAkXXqW2sM1VtoX0iSPN0hmE7A",
+   "results" : [
+      {
+         "formatted_address" : "2, Jalan Indah 7, Taman Indah, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5028259,
+               "lng" : 101.1039819
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.504119429892723,
+                  "lng" : 101.1053719298927
+               },
+               "southwest" : {
+                  "lat" : 3.501419770107278,
+                  "lng" : 101.1026722701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ba193092b1f465822631d32f563f3208e8b6b7d",
+         "name" : "KFC Sekinchan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111331304028092062410/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZeKwRom7pEdo8np7Pp_XZXXdnPT2dnwMmWeJrFNOy-94Ky2rh0pxcTYbL6XyOS0l8nREtn0n25K-xREkX3HRjEtTP3NFPoqxEXLnzO0_FEl8Bn1L6dI9Mz-jRT7QLKOKEhDY00t07DVKA_A9fB6LhmPrGhRYyH8RPSV8ouFVo3wICaYMChTB_w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJkXYI8ZGQzDERh27opgigRv4",
+         "plus_code" : {
+            "compound_code" : "G433+4H Sekinchan, Selangor",
+            "global_code" : "6PM3G433+4H"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJkXYI8ZGQzDERh27opgigRv4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 219
+      },
+      {
+         "formatted_address" : "Bagan, No 115, Lorong 4, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5048296,
+               "lng" : 101.0984378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.506223729892722,
+                  "lng" : 101.0997592298927
+               },
+               "southwest" : {
+                  "lat" : 3.503524070107277,
+                  "lng" : 101.0970595701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d0f568e6eb9ca23f200f1f3ce8b5c2b095203d0b",
+         "name" : "Restoran Kim Kee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110249297896865563264/photos\"\u003eZheng yip Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9kMpm3G-RsQZNPF0c-sZqgHguKbzU2PwKaa-QAbFauL63PtIzHTZqCEnkVxJ_1FvI9XGUUvgaX28u3ssrmfo_ydOaX9pSgMj4s2TdTZ_Xawrxk_F1l5VhpPyn7hoMqwPEhBCU1rc6eJlkyIPq52cAfoKGhSSd2SAx8yWUCR3_BFVOllUyj7Fsw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJGV7S1ISQzDER2-Q79jRjfH8",
+         "plus_code" : {
+            "compound_code" : "G33X+W9 Sekinchan, Selangor",
+            "global_code" : "6PM3G33X+W9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJGV7S1ISQzDER2-Q79jRjfH8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 159
+      },
+      {
+         "formatted_address" : "Jalan Tali Air 2 Sungai Burung, Kampung Sungai Burung, 45500 Tanjong Karang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4895854,
+               "lng" : 101.1587203
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.490912629892722,
+                  "lng" : 101.1600920798927
+               },
+               "southwest" : {
+                  "lat" : 3.488212970107277,
+                  "lng" : 101.1573924201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e542159ef7c675be5b14b7704ee45381800d9040",
+         "name" : "adamz burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJD2QzJiGQzDER2atAC5K1_no",
+         "plus_code" : {
+            "compound_code" : "F5Q5+RF Tanjung Karang, Selangor",
+            "global_code" : "6PM3F5Q5+RF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJD2QzJiGQzDER2atAC5K1_no",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Gereja, Pekan Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5082798,
+               "lng" : 101.1053378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.509603129892723,
+                  "lng" : 101.1066465798927
+               },
+               "southwest" : {
+                  "lat" : 3.506903470107278,
+                  "lng" : 101.1039469201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5fc08d4ead2cc74e40c75007617b3cda95021a4b",
+         "name" : "HAO XIANG CHI SEAFOOD SDN BHD",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115239224536414428165/photos\"\u003eSoong Lam Teh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzUWHKk4ZCPn24Rh2MLu9vtw2hvcyMkyECjKipc98N1CdLEOsKhqAaekKoYE2HUvJPBOu7YO4qvIXN54wf5nLDL6bkgyA0B99hQIdCPWX0hLiDvODs1L2HC8NgjMZREM0EhB-b4r-2uD0rj094hbZbMofGhSEFDY0Y6WeBeMFa3oWQWNFy_P8uw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJJQyltYSQzDERfLn4LXMksEg",
+         "plus_code" : {
+            "compound_code" : "G454+84 Sekinchan, Selangor",
+            "global_code" : "6PM3G454+84"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJJQyltYSQzDERfLn4LXMksEg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 95
+      },
+      {
+         "formatted_address" : "Lot 2942, Jalan Teowchow, Bagan Sekinchan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5048504,
+               "lng" : 101.0990872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.506218679892722,
+                  "lng" : 101.1004641798927
+               },
+               "southwest" : {
+                  "lat" : 3.503519020107277,
+                  "lng" : 101.0977645201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1527c9fa851a5a3892adda8da99e70d238739843",
+         "name" : "Restoran Guan Hwat",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113053463808202251396/photos\"\u003eAries Loo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9ZISxQcChlann8C6Oa68ODwrROXH9zXQywKWYidC0qUZP4fXhwwaDlLH3mEVX5kkA-O8aK0xjDnzTvbLRtUFnIikkG2ZUMi6ZvD7ELGUU_CWosfPq7Af6l3WQlIgW_TBEhAr51KSfQnzlmAlzzeQ6EqGGhSGqTKGUkRXMjSTr3jOipngv_qiBQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJZdsI_pmQzDEREqYEhh3v7uU",
+         "plus_code" : {
+            "compound_code" : "G33X+WJ Sekinchan, Selangor",
+            "global_code" : "6PM3G33X+WJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZdsI_pmQzDEREqYEhh3v7uU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90
+      },
+      {
+         "formatted_address" : "Jalan Bagan, Bagan Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.508905,
+               "lng" : 101.0949894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.510303529892722,
+                  "lng" : 101.0963072798927
+               },
+               "southwest" : {
+                  "lat" : 3.507603870107277,
+                  "lng" : 101.0936076201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "863662b32d270e2613b2c2d1b3acee3742e6504b",
+         "name" : "Restoran Cha Po Tion ( 阿娇 ）",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113318288776737049346/photos\"\u003eAmy yap\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4fwJLa8IkoD9caHcYoruiK-KdEnlMlNqBUOZRULpESN-danZ0p6oorYur5yJt0bW096qHjBkgu4p9ipKb5uNbVslA5enpGOvtV10tQZIj_jCYNIb7JJWt55x594T7k9oEhBrcZyczcZ5D3O95VRIwgAkGhR06O1pWo7biLgjGyLPWwPtYZZAHA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJj5BP4pqQzDEROBfvPH0jvJE",
+         "plus_code" : {
+            "compound_code" : "G35V+HX Sekinchan, Selangor",
+            "global_code" : "6PM3G35V+HX"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJj5BP4pqQzDEROBfvPH0jvJE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 236
+      },
+      {
+         "formatted_address" : "73, Lorong Tiga, Pekan Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5042109,
+               "lng" : 101.0987643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.505611579892722,
+                  "lng" : 101.1000842298927
+               },
+               "southwest" : {
+                  "lat" : 3.502911920107278,
+                  "lng" : 101.0973845701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12f13676f461b5463e2904f71de672a7f041a2ff",
+         "name" : "Loong Hua Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116343143003859819516/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0AmBrSF9r9wgJxtQB6ZMniJj4Q1ad3I6pRoO3165Rjcx_ZOqC1VCDRJ0AfNJHr44mtMR8Zm4fTvxuHduL5RuU1P11Wf7yRAOdKS1BIwNTi43l_qy-uRgGqiKDwgIrtIgEhCJ3O_Qrklo1uFRt13pXb0jGhR51xx1BUxKQzjWmJ65TTXlxXj0IA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ6Y-tTYWQzDERKZgZoWumSvw",
+         "plus_code" : {
+            "compound_code" : "G33X+MG Sekinchan, Selangor",
+            "global_code" : "6PM3G33X+MG"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ6Y-tTYWQzDERKZgZoWumSvw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 265
+      },
+      {
+         "formatted_address" : "Sungai Besar, 45300 Sungai Besar, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.6735673,
+               "lng" : 100.9914622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.674847029892722,
+                  "lng" : 100.9928663798927
+               },
+               "southwest" : {
+                  "lat" : 3.672147370107278,
+                  "lng" : 100.9901667201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0ca0f26ad57039ca47d8b06e9bce142279c6e19b",
+         "name" : "McDonald's Sungai Besar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110471117324132831162/photos\"\u003eIsZul Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeAekvrSyAoy7adpcB676PE_yIMnDPoeOoHwzt7eE-cbapMfPJ24ZltS76edOUuBuuKy0CUzr_a9JlINzInJnbsP4TPn0weM9z7d9lEy-joTYbD7oIuOeuKKvfoGbETamEhBQ8nlOhfwrq_pchbr8xeNPGhS-GmXPwR6oUiWFZMsXs_dlQ0cw2A",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "plus_code" : {
+            "compound_code" : "MXFR+CH Sungai Besar, Selangor",
+            "global_code" : "6PM2MXFR+CH"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 866
+      },
+      {
+         "formatted_address" : "233, Lorong 5, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5057285,
+               "lng" : 101.0979472
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.507061529892722,
+                  "lng" : 101.0993172298927
+               },
+               "southwest" : {
+                  "lat" : 3.504361870107278,
+                  "lng" : 101.0966175701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "465e0f6200f2cdf59f7fb281f0d25cd5eafeb295",
+         "name" : "Restoran Bagan Sekinchan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113873211629833006757/photos\"\u003eDarren &amp; Wendy Pang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAWYMp4FWHawiKqrM5Go7ZHnjV2bJ5NdKf37EW5oS8naRXqhFLgdsFmb_tbBCCb-Wv0Xj51aTYfAhnCcgt73K5jNfloUUSVHDBVfr_2AMYyHSa-eXACPR0SowmzsCdzixEhDgP40ipWtWKlV7uJFWvVyOGhTB4DynNc20lipNLg28DZpLC-KLlw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJnS-Lv5mQzDEROF19BS7QRUI",
+         "plus_code" : {
+            "compound_code" : "G34X+75 Sekinchan, Selangor",
+            "global_code" : "6PM3G34X+75"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJnS-Lv5mQzDEROF19BS7QRUI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197
+      },
+      {
+         "formatted_address" : "No. 176, Jalan Bagan, Pekan Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5040236,
+               "lng" : 101.1000065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.505313329892723,
+                  "lng" : 101.1012782298927
+               },
+               "southwest" : {
+                  "lat" : 3.502613670107278,
+                  "lng" : 101.0985785701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3372a9b113974b186108470944be4f3fa69883d9",
+         "name" : "Wan Lau Restaurant",
+         "place_id" : "ChIJSXyrr5CQzDERijeu91xQLcI",
+         "plus_code" : {
+            "compound_code" : "G432+J2 Sekinchan, Selangor",
+            "global_code" : "6PM3G432+J2"
+         },
+         "rating" : 2,
+         "reference" : "ChIJSXyrr5CQzDERijeu91xQLcI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Jalan Tali Air 4, Kampung Parit Empat, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4930941,
+               "lng" : 101.1145484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.494514879892722,
+                  "lng" : 101.1158515798927
+               },
+               "southwest" : {
+                  "lat" : 3.491815220107278,
+                  "lng" : 101.1131519201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8640e6da5d18640c8073ab6edf159f348c1b3a0",
+         "name" : "N.16 cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108270284875523005986/photos\"\u003eYiing Yiing Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArVFbtnpZjd660srqkw1G785Rhr_k_CU2fIfoaUrVIEmdaD5FQ4R7qQxk9-AvhqjLTCH9XO_iz8u0yO95PgiOTqs3xAn5NGlSObewZqsYy_vustojSloFeBuy56YPDOeNEhAC4kC4Sp1ka8kGYtgja53hGhTcPzbZ03aa6dzYBTr_ix6L6rTXUA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJH8k5FvWQzDERQIYqczRH-Hc",
+         "plus_code" : {
+            "compound_code" : "F4V7+6R Tanjung Karang, Selangor",
+            "global_code" : "6PM3F4V7+6R"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJH8k5FvWQzDERQIYqczRH-Hc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "128, Jalan Melor, Taman Seri Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5071913,
+               "lng" : 101.0984113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.508562779892722,
+                  "lng" : 101.0997954798927
+               },
+               "southwest" : {
+                  "lat" : 3.505863120107278,
+                  "lng" : 101.0970958201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c2e1d6df9825b15f706f30dd642e5d2fd334182",
+         "name" : "Sekinchan La La Jian (Mussel Omelette)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116289756770166154418/photos\"\u003eDaniel Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARQZNzhJEm-uuCt_gC_QRdnFHlJxiel8rZO6m4jv9yRyP1gOnbesfdcl-MdAvhMrrMTpcdHZz_H98IZ0qWwN75GcUSZuDwhFX0D9wflL1kU82rdOW25xnD1dwfSo2mBfjEhCDOm2MsXk4Os-pd3QzmUBzGhR3XHDdMuU2AcJJ6GuG_xRSxlJPmg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJA0KCdpmQzDERdfA90OdTXHM",
+         "plus_code" : {
+            "compound_code" : "G34X+V9 Sekinchan, Selangor",
+            "global_code" : "6PM3G34X+V9"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJA0KCdpmQzDERdfA90OdTXHM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 132
+      },
+      {
+         "formatted_address" : "296, Lorong Sebelas, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5079118,
+               "lng" : 101.0956563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.509271729892723,
+                  "lng" : 101.0969994798927
+               },
+               "southwest" : {
+                  "lat" : 3.506572070107278,
+                  "lng" : 101.0942998201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7aeef09ec7104053255d7b2e56bff57fb5f37354",
+         "name" : "15 Redang Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109788951250021820816/photos\"\u003eSammi Foh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFNu6Z73fuLDFEtZVRRjMCLpevcMjnB34DAecqnvh-Unx1CGYJpZ3oouiipIy6iizcglOL28v6YkC0uFuX0WNF0nZV4XAqTQ4RRKWYn-dezxJMdyJddLedKsFmRkci8kQEhCio0tkB9UZGQcE7RsD04X9GhQtOeS94NPkXoRuthx8zbY4yCROtg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJAxi_7piQzDERu0j3o6iYois",
+         "plus_code" : {
+            "compound_code" : "G35W+57 Sekinchan, Selangor",
+            "global_code" : "6PM3G35W+57"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJAxi_7piQzDERu0j3o6iYois",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142
+      },
+      {
+         "formatted_address" : "Taman Sekinchan Damai, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5051673,
+               "lng" : 101.0994369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.506490129892722,
+                  "lng" : 101.1007471298927
+               },
+               "southwest" : {
+                  "lat" : 3.503790470107277,
+                  "lng" : 101.0980474701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ab89db4fc42f9cb9cbaa3481ea8f59419fec701",
+         "name" : "Restoran Guan Seng Long Sdn Bhd",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116900942189973371105/photos\"\u003eK N Lam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPBT_xF3-60m25znxxDlCJPmOOvGJ9uA92wQotrTGhxQ5QJRQd_P78cv5VD_xhN59Hq58UwFLhBk7jexHQomIrwVs4IPXhIQ1v5MzB_MrSpaYfKOwEILetl6bh-w4ocDDEhAQ0M6E0dkdxox8hROmrDYoGhTqJOhawZQVJwDRhhjtQiH3bLhh5w",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ4Ww2VJeQzDERTQ_ieafQM0k",
+         "plus_code" : {
+            "compound_code" : "G34X+3Q Sekinchan, Selangor",
+            "global_code" : "6PM3G34X+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ4Ww2VJeQzDERTQ_ieafQM0k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 141
+      },
+      {
+         "formatted_address" : "182, Jalan Sungai Labu, Taman Seri Sekinchan, 45400 Sekinchan, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5070289,
+               "lng" : 101.0975108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.508399579892723,
+                  "lng" : 101.0988899798927
+               },
+               "southwest" : {
+                  "lat" : 3.505699920107278,
+                  "lng" : 101.0961903201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bb91f43f1c21aa6d6a19fa60e0a23e861dc6d9fe",
+         "name" : "Wan Lau Seafood",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101316264459227064902/photos\"\u003eAbd Liung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAhJima6T0DkOwBOmTsKPA_PWlOKYd1ioe8wgnTkw_-jiKbW1v8toXLTZS6JOP4nF4XcZ1Ps-j6QuatW6ihS-vi0pKgFzT2ner93mSSBs5-DtUZckl2SeEFsxCdUuGLsxLEhAKk7El2zhcxWneWY6KnaJyGhTDEU4-LBPYHrC9xZ0MYh9earjffg",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJLQnmBJmQzDERLTG4Z9NUOKg",
+         "plus_code" : {
+            "compound_code" : "G34X+R2 Sekinchan, Selangor",
+            "global_code" : "6PM3G34X+R2"
+         },
+         "rating" : 3,
+         "reference" : "ChIJLQnmBJmQzDERLTG4Z9NUOKg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "Lot 640, Teluk Piah, Mukim Kuala Selangor, Kuala Selangor, Malaysia, Selangor, 45000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.330074,
+               "lng" : 101.258642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.331501779892722,
+                  "lng" : 101.2599114798927
+               },
+               "southwest" : {
+                  "lat" : 3.328802120107277,
+                  "lng" : 101.2572118201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ccfe8e073e87b2548a2c1b8a5061214283ab9a58",
+         "name" : "McDonald's Kuala Selangor DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102340707562441581204/photos\"\u003eALLYA EINLYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZOXYxqQfFmredO3NhIVYSbzgeSiAZxtHau9wolp-omqR0CGJFP1165l3FRutphvhP8-hibFEGp6l48GN1uyAVZjjjGS4clHcGqtT9rrFjRSLWoj8tWZjL5aV_5pDeIQvEhCPV1dpMZwEGfczjJltwHUnGhRt4Y08AVKDfqarQuwpU2q22l_9CQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ53vUdKL0zDERd5eguLgzizk",
+         "plus_code" : {
+            "compound_code" : "87J5+2F Kuala Selangor, Selangor",
+            "global_code" : "6PM387J5+2F"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ53vUdKL0zDERd5eguLgzizk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1331
+      },
+      {
+         "formatted_address" : "No 46/48 Jalan Melati Bandar Melawati Kuala Selangor, 45000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3298139,
+               "lng" : 101.2570468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.331236829892722,
+                  "lng" : 101.2583190798927
+               },
+               "southwest" : {
+                  "lat" : 3.328537170107278,
+                  "lng" : 101.2556194201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed6b33967bd36a2d50fe9aa3f8934faa75833f4b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108965512677206699193/photos\"\u003eAmsama Revolve\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyuwQw7f9i8jkLRf9Tt7R6tlx0YdgLejOHEem0GhEhnoez20WScUvmgG139JjHOjX0PgF-EtN4eSjcXD1zhFFZBNtJDvIfk_TSnigOgdcg2SMTR5Q6hPVoRJT67L4xXRUEhC6js8AEY0W2CPPmXx7sd1zGhSo7nNxMRqZokr_nYMBQniiyEFouA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ47-e6p70zDERXkJoHtpn5pg",
+         "plus_code" : {
+            "compound_code" : "87H4+WR Kuala Selangor, Selangor",
+            "global_code" : "6PM387H4+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ47-e6p70zDERXkJoHtpn5pg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 335
+      },
+      {
+         "formatted_address" : "No. 1, Jalan Pb 1/1, Pusat Bandar Tg Karang, 45500 Tanjong Karang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.425066,
+               "lng" : 101.177184
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.426365179892723,
+                  "lng" : 101.1785333798927
+               },
+               "southwest" : {
+                  "lat" : 3.423665520107278,
+                  "lng" : 101.1758337201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "794e6b4cc478d2d13c9caf5887557bfb7ed6762d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110658926268055901785/photos\"\u003eNurul Izzati\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbRC6Bs7AXGkE3FopGGdb2Z3xObwrC4qkIMJ8VIjOSlxzAdWyGsyfBxusiB7hVOkBYbaUo4FHLMOoOd3E-pMBm3fbTx3_4Jwr6dZgdGm-mAvspTAc8mNdeIeoiicmwSd9EhAyDSI4C7bnaocxuB608KagGhSlQjA-kpRJr4bYX_KESK18WYJA3w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJhRpyk-WNzDER66xIXh20Zs4",
+         "plus_code" : {
+            "compound_code" : "C5GG+2V Tanjung Karang, Selangor",
+            "global_code" : "6PM3C5GG+2V"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJhRpyk-WNzDER66xIXh20Zs4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 236
+      },
+      {
+         "formatted_address" : "Lot PT 1588, Medan Sungai Besar, Off Jalan Sg Limau, Sungai Besar, 45300 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.672254,
+               "lng" : 100.986999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.673645279892721,
+                  "lng" : 100.9883014798927
+               },
+               "southwest" : {
+                  "lat" : 3.670945620107277,
+                  "lng" : 100.9856018201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72609322e45ebe63019ac1f4043faf151ba10f0c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117182161033039919582/photos\"\u003eAiman Hakim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwrVfAf5ftL3HMwRXU1ix8Q6SU5povKLXuqcGWjQ_XvNJw7E31fnw7AyB_lBe7eW2r_LHuvIkr2klXOAWhUjJ2MiM1httj_8Hs2mpWVlfYpr5uFzWu9nP_oK2o5qCg0B8EhAd2dyKbfip_IlHCo4FaaAjGhTZ3m42Q19FMTFSJezmEMZ7qYEa3g",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJ48AOLvyfzDEROfCMaUTtK84",
+         "plus_code" : {
+            "compound_code" : "MXCP+WQ Sungai Besar, Selangor",
+            "global_code" : "6PM2MXCP+WQ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ48AOLvyfzDEROfCMaUTtK84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 448
+      },
+      {
+         "formatted_address" : "PT21552&PT21553, Mukim Sungai Buloh, Persiaran Perdana, Bandar Sri Damansara, 52200 Kuala Lumpur, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1950924,
+               "lng" : 101.6077574
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.196313979892723,
+                  "lng" : 101.6091692798927
+               },
+               "southwest" : {
+                  "lat" : 3.193614320107278,
+                  "lng" : 101.6064696201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c76f1cd4253bbd27c9ba56f057f8d2ccb446edb",
+         "name" : "McDonald's Bandar Sri Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109105935655069194792/photos\"\u003eKaisin Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ5gT8sF7fNLSEgB77qMm9P9pihY0SuHLHiNvcnOJ0dWCbqq27lwaLmnHcJNPmXWRzT4t6xGOk5wE71swldslJjA-7LGqgMpM3_waI6JfxdE3xHVvkKE8Km17tZkm0laxEhBh2EpXjflHUrSae45C7qfMGhTtrBylN-U_ZIEorabFVemKjZzHGw",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJPQDdEflFzDERvVb61cMcI8E",
+         "plus_code" : {
+            "compound_code" : "5JW5+24 Petaling Jaya, Selangor",
+            "global_code" : "6PM35JW5+24"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJPQDdEflFzDERvVb61cMcI8E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1967
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,868 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAACeN4P9YzfbkBKzpLhHZHRC6GDCe8aWXqUThBVbOmEzpxRQmQNzF2ZynOomLM2MM635-9xPlu8JlAzvHcgTECP9-5vKQZPR906ruZ9vYgCRQcKI5YSDaub1HB8jHZc754Y6ocqQWMJDc0u2AduTa9eYtvy0G4gYSGqpDEK1RKGWk5F6UjDu4PLvs9uXGoPOg3mSFvgaMC70BgJDUyZA6bE_gVnOVl5ljefjWOo05YmnOt7vXg06XRVGrZZcxZVzsWVKPRxXX1nSGlj7GTSurdORvwHb8RqLJJ-YCfUuSIDg5yVeL3jnioQBQbO7g8mduTU9zppOrg7NEF0BvSiKZPcJWKe2_e6W3_Z5G1eQtXsCnNcMD4bRq6rPtnveGLwjK6HGIl_uFAr8IR3SX8geBy1-7ccE1HHADLptgGE3WDKbqliC9rmonSxN1sDjc0KhfBYZCom98Kpy_jobSVg1aL15YlPX3nk2GVoMrGuCkFrULhjg0AxKWDYDK0tafYjRc8t6h1dULEK8xfZwmVPf5fsXKW2AhvG9VJS_0xsMfcbszhF6aFt9i0SvwYdtnl05kNVzkmrjXdGUxPBYrkrjlJGAWL7qXJkj0wGpJdKGQnVBoZO4rgAFK_cVFCcdqcN5gG9kMaqfd5h8nX1f6QEw6e1kP8hp4_tGt3qUb0hjKQKtDEhCccbPxMiUB_at39oyRDrBqGhSI0cDRN9bllVsZ36hNg7HTZK8WsA",
+   "results" : [
+      {
+         "formatted_address" : "4, Jalan Bank, Sungai Petani, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.642183999999999,
+               "lng" : 100.487565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.643629929892721,
+                  "lng" : 100.4889249298927
+               },
+               "southwest" : {
+                  "lat" : 5.640930270107277,
+                  "lng" : 100.4862252701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3bfddb72089b2a09de8411c9a678adfa2a494c26",
+         "name" : "Mcdota Fried Chicken (Les Jaya Enterprise)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110764372373198602561/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-GBYNqLBeVdY4_1Ap9XZeid6x3Yy3hGDKoc2viEuX__D3AmEchjqN3lB_snXaU0TrrT6ca4qeN-3dMBgPwCKEBR5fKZM_6bQkbQQQ8HRLSh23--LK4JC_kVpZ0CNtHVOEhCpxwETUnnJ0QKWx6NJe279GhT6CLRP5kpm9ohioQ7qE9TiwajXBw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJbfwpqtMpSzARnIylk_fF-Ho",
+         "plus_code" : {
+            "compound_code" : "JFRQ+V2 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JFRQ+V2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJbfwpqtMpSzARnIylk_fF-Ho",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 273
+      },
+      {
+         "formatted_address" : "Jalan Lagenda 1, Lagenda Heights, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.662110999999999,
+               "lng" : 100.502841
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.663439029892722,
+                  "lng" : 100.5042469798927
+               },
+               "southwest" : {
+                  "lat" : 5.660739370107278,
+                  "lng" : 100.5015473201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3325e1872e4047ee4381d240d8aec187839c3892",
+         "name" : "A&W Sungai Petani",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111053400199050621865/photos\"\u003eFaiqah Ika\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGJn7JHH7IN1lOnDreJrs6b27iJuxzMwGN91j07GlOcD-AqXW25XYHK9YiEEKQ8xyr4QxOxBo-3_wgOmSAQYZr_yyy6XSCDmF09YB-f19Pes9DpIFyadEwwbkQmvdhoZ2EhBH_julKM_IH3XZAHa-q-2AGhRxh9FANa48EYxAEOJnMOaTUvotwQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0VkcarwpSzAR0bL-FM2FKzw",
+         "plus_code" : {
+            "compound_code" : "MG63+R4 Sungai Petani, Kedah",
+            "global_code" : "6PQ2MG63+R4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0VkcarwpSzAR0bL-FM2FKzw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 380
+      },
+      {
+         "formatted_address" : "23, Jalan Kampung Baru, Taman Patani Jaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6365262,
+               "lng" : 100.4880907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.637901979892722,
+                  "lng" : 100.4894147298927
+               },
+               "southwest" : {
+                  "lat" : 5.635202320107278,
+                  "lng" : 100.4867150701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e5abe48130d4baea4fbb623b2db9e979b09bb59a",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111032491579089457783/photos\"\u003eSHAZWAYNE ARWINE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4tJLBuWXiyfPoIjj47sA7MHArfTZWw61i49YFe0ETkJLP-ZIbYsBXsxXHtna3hyrdS7jJyVjZwi-vlMGje6vSx2BSyiuC6RYFu6t3DSaerwphF_2k4i4vcaiE7NoE-N9EhAfIJrbogD9affDwNMmsfFaGhRn01IBe-Pkvn1ff05Rd6R6HNXTHA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJW343u9UpSzAREHQDMW8qj4M",
+         "plus_code" : {
+            "compound_code" : "JFPQ+J6 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JFPQ+J6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJW343u9UpSzAREHQDMW8qj4M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 612
+      },
+      {
+         "formatted_address" : "Mydin Hypermarket, Taman Batik, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.632598199999999,
+               "lng" : 100.5379121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.633718679892722,
+                  "lng" : 100.5392603798927
+               },
+               "southwest" : {
+                  "lat" : 5.631019020107278,
+                  "lng" : 100.5365607201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "19950fa93b975ede68daf7255d6b424316c7195c",
+         "name" : "Marrybrown Mydin Batik",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114396471414632795768/photos\"\u003eRindu - YnZ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEbs3rQbq04Pu7Dl5My91JOb3B2Dkzb1RITAX1l89NF0jZr5IoWLHng-ZatP_zRwAe1u89osc_msq7gTIbEgiyS3XXjDd37VzEeyDZhohAYhRZpfkiaKjL0QG7aM98lpVEhBNo3FjOkcsw3JBMFS0VfEvGhSVfkY2CTT1QoKTxcUjnWLAXwJtyg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJUfF7Z_jVSjARUQ7FCQ9tOe8",
+         "plus_code" : {
+            "compound_code" : "JGMQ+25 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JGMQ+25"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJUfF7Z_jVSjARUQ7FCQ9tOe8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 72
+      },
+      {
+         "formatted_address" : "Bandar Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6741245,
+               "lng" : 100.5091582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.675557779892721,
+                  "lng" : 100.5104890298927
+               },
+               "southwest" : {
+                  "lat" : 5.672858120107278,
+                  "lng" : 100.5077893701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "062798eefdd256da4048fe58d082306f95c20e7c",
+         "name" : "MarryBrown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115080477581929808690/photos\"\u003eLow Khang Yu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACF_eYeMmGGL9BGRdl2wbMqwxRaFVV_rCrRlejgR_ayp8EswQI2-RrgkEmjYIxk0iFmT-ki8Us_UFLoPjhBBYrPmmVdACAWyFBKAYbwKxmfLr6OsLEhSkXFHToZTO7RbXEhD3irzVkL2JzpFEWrpMgiRaGhQPtouxmFHehBzfWB1R-G81Mpzhqw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJrX8BvJ8pSzAR8cvAqj7oUpk",
+         "plus_code" : {
+            "compound_code" : "MGF5+JM Sungai Petani, Kedah",
+            "global_code" : "6PQ2MGF5+JM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJrX8BvJ8pSzAR8cvAqj7oUpk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "formatted_address" : "No 2, Ground Floor Jalan Jati 1 Pusat Perniagaan Amanjaya, Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6734466,
+               "lng" : 100.5085374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.674822379892722,
+                  "lng" : 100.5099244298927
+               },
+               "southwest" : {
+                  "lat" : 5.672122720107278,
+                  "lng" : 100.5072247701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "afea33d96831572c46f914f098dd2a838fc5da0b",
+         "name" : "D Sara Fried Chicken Amanjaya Sungai Petani",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107638512134262601162/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbVAeM0XpI8mIelHT9OAcAVZcNUbO8ofJ6J2ZQVyaQuFMNtRO9glNUld48aPs7V5mrY9Dz6Thko-mhg4mZnRKkFMn0NtfmB7XBZSlDPxdGnNj5eqtLOA8TeR4s04HnM-zEhBMN-jwWM6tGp_wTtXMjRFvGhSTn6c0yBbPtcarvEt9hdbKhUKU1g",
+               "width" : 2098
+            }
+         ],
+         "place_id" : "ChIJn7-hEjspSzARgCitgpUA3Yg",
+         "plus_code" : {
+            "compound_code" : "MGF5+9C Sungai Petani, Kedah",
+            "global_code" : "6PQ2MGF5+9C"
+         },
+         "rating" : 5,
+         "reference" : "ChIJn7-hEjspSzARgCitgpUA3Yg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Medan Selera Bakar Arang, 6, Jalan Fairuz 7, Kawasan Perusahaan Ringan Bakar Arang, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.620924400000001,
+               "lng" : 100.4745982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.622286779892722,
+                  "lng" : 100.4759581798927
+               },
+               "southwest" : {
+                  "lat" : 5.619587120107278,
+                  "lng" : 100.4732585201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b5c9ec6fb88ba16e5edadb9c7e0edf49caaf0bad",
+         "name" : "Brader Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116143437575769862310/photos\"\u003eCoway ALiF\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmKCwrKM-zB0R8xfTb8-w8-6vXLNgXJtEk2iLw04gC7HErrY29vU1HEhY6O4RX3K6ek52sCViz_usZyS28Z2xThLHmSG4pG3f5c_c6gK7vW9NNjZk1Rqot86sEQBlAIGKEhCIet7KCycdJKNiZr5_yZ9WGhS9AMqdZefsj480L9eDaLNozlc5jQ",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJ_d7SZ8_XSjARqDy_cC7LNN0",
+         "plus_code" : {
+            "compound_code" : "JFCF+9R Sungai Petani, Kedah",
+            "global_code" : "6PQ2JFCF+9R"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ_d7SZ8_XSjARqDy_cC7LNN0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "formatted_address" : "38, Lorong BLM 1/2, Bandar Laguna Merbok, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6806335,
+               "lng" : 100.4945874
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.681994879892723,
+                  "lng" : 100.4959399298927
+               },
+               "southwest" : {
+                  "lat" : 5.679295220107279,
+                  "lng" : 100.4932402701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ffc5de31d6846693beffaa035a4a883ae1e4e3d4",
+         "name" : "Radix Fried Chicken",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118212428719372220241/photos\"\u003eJohnnie Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGir1jnuPG3L8HGgEPqtmuzQs1Y2e-TPd8rurLUUeeoM_hejyPNCkk13W_sspMpSYIbMphEArAJFFyOAhyOUNeaqxwVFPKN2NGcE9WVEltnJzxWzbB6pbBLLyju4DW2p-EhDUPNgQWlHBbFzApqWrCSSYGhRMdNJjsYOjw_RNXbbavQHs97ezMg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJVR3ZSwQpSzARG_fQVk4CGqI",
+         "plus_code" : {
+            "compound_code" : "MFJV+7R Sungai Petani, Kedah",
+            "global_code" : "6PQ2MFJV+7R"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJVR3ZSwQpSzARG_fQVk4CGqI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 57
+      },
+      {
+         "formatted_address" : "Lot 7880, Jalan Bakar Sampah, Taman Ria Jaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6436705,
+               "lng" : 100.5180701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.645160729892722,
+                  "lng" : 100.5194448298927
+               },
+               "southwest" : {
+                  "lat" : 5.642461070107277,
+                  "lng" : 100.5167451701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6dfda51f59c22c9b96828427ec0ee98e4b89a688",
+         "name" : "Texas Chicken Stesen Caltex, Sungai Petani",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102990785995429234151/photos\"\u003eNik Nursyazwani Fathiyyah Nik Ikmal Fathi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5TomAzs51KppGee-ohEQzeM5b9TIsersV4ornll_KKMDlCh-wQ88VVXfoKN7dO8PKeEK_SkFePNnr1U0wUShiINU_fTuF5mLMUaKeBCapsM_Cu5cUOpfg926WfYzQLjgEhC-CPWDdJF8WKGWuTy5t3mEGhRURy0kfgCmNFYNSMYW1EGUJ1AhyQ",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJeT1TLrYpSzARnkpqjrvA0lk",
+         "plus_code" : {
+            "compound_code" : "JGV9+F6 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JGV9+F6"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJeT1TLrYpSzARnkpqjrvA0lk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 950
+      },
+      {
+         "formatted_address" : "119, Lorong 10, Taman Sejati Indah, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6142024,
+               "lng" : 100.4832755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.615549229892721,
+                  "lng" : 100.4846006298927
+               },
+               "southwest" : {
+                  "lat" : 5.612849570107277,
+                  "lng" : 100.4819009701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "43f51a877759e59778e4743063c8285c844d2f4b",
+         "name" : "KFC Taman Sejati",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113479644709384119992/photos\"\u003eDhariqsha Enfield\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr7uRhJ0MeiRMojbOn2f4pcjJdhlzFN0v5mXxHn5Ctqsh-khylVYmvXgLYVlCB6boH_IRr8xvq1SXDBVrW20AttPfPxD0o073JZZoxEtMg61aRnaCCzaoogtekF60WWzlEhBHDOX8fURumVNO7h6txPoTGhQT870iALTHo6mFrGhs5qsAVKgXug",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJPzeps0rWSjARxqppv1Zzxd8",
+         "plus_code" : {
+            "compound_code" : "JF7M+M8 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JF7M+M8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJPzeps0rWSjARxqppv1Zzxd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 189
+      },
+      {
+         "formatted_address" : "Persiaran Cempaka, Bandar Amanjaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6737039,
+               "lng" : 100.5093269
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.674802879892721,
+                  "lng" : 100.5105261298927
+               },
+               "southwest" : {
+                  "lat" : 5.672103220107277,
+                  "lng" : 100.5078264701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0145bdc13dd934df6e66e27198087f8c8f660a5",
+         "name" : "Chicking Aman Jaya Mall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114333234947906353394/photos\"\u003eShatri Champakeow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOW4XYSQ7VQUrF0PrQWAs9DNtTTCTCD9EtbzrtmUlS3zfVr79VIkxlhAaKdZGWIrWlB2HZdgei9Q7V9ve8ywyves7efnaohGX0SC7di8Hkjd2vQKN5n9mOR_grshGsDpIEhC-FiD8cvHUfWb4-YTHjuEBGhQJ6XbHKI2Br8R95hw_kZR09x_cOA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEwtqqp8pSzAR1pbO8SxDs3g",
+         "plus_code" : {
+            "compound_code" : "MGF5+FP Sungai Petani, Kedah",
+            "global_code" : "6PQ2MGF5+FP"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJEwtqqp8pSzAR1pbO8SxDs3g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "formatted_address" : "Lot 2, 3 & 4 Ground Floor, Jalan Lagenda 1, Lagenda Height, Sungai Petani, Kedah, 08000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6610882,
+               "lng" : 100.5018142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.662343279892722,
+                  "lng" : 100.5031253798927
+               },
+               "southwest" : {
+                  "lat" : 5.659643620107278,
+                  "lng" : 100.5004257201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14e48b60691320b737e83309532a6725b8802925",
+         "name" : "KFC Tesco Sungai Petani Utara",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108047815295114435660/photos\"\u003eAugustine Towonsing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUsSgCbUQ7CMPym6wQEWbddftw1YmZMTa5u7yUEQ53J6Oat86cgmw_QOuvH9_nmaagi-leclUxTLcywMLIY-5KiviXVcJT_-m7eov0-vvgNgE-ellVeWL4Hck4HJ7Kt1WEhCEYEibAo10N8AmTO2ZPnHRGhSks283V1-Ye1M1nkz_cShVcoySnA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJq8mvQs8pSzARaRuX0AtLkfU",
+         "plus_code" : {
+            "compound_code" : "MG62+CP Sungai Petani, Kedah",
+            "global_code" : "6PQ2MG62+CP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJq8mvQs8pSzARaRuX0AtLkfU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 162
+      },
+      {
+         "formatted_address" : "23, Jalan Kampung Baru, Taman Patani Jaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6366645,
+               "lng" : 100.488311
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.638051479892723,
+                  "lng" : 100.4896058798927
+               },
+               "southwest" : {
+                  "lat" : 5.635351820107279,
+                  "lng" : 100.4869062201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "48646c86a36cc2fff1898d4027e7a5034e5a4111",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109018183515823886821/photos\"\u003eMIXT VIDEOS WOULD\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-NZBUt7bD3eDZMhZ2D_5UV1SkUbJrVqShVTxRLv2w_5sVvp5I88zMkNTm2wy8hWb0-ETKowYOOf04TRn_plrnS-hD4sSCOSCIsj0H8RI_JxFuaPuC2JQSmhRVA0HlRj8EhAMCBmD16B2LTfDAtsygJG9GhS0zr88awgVJ5Ic_MSURpJayig5Bw",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJW343u9UpSzARYG8zabbfhpY",
+         "plus_code" : {
+            "compound_code" : "JFPQ+M8 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JFPQ+M8"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJW343u9UpSzARYG8zabbfhpY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "No 11 tmn penags sg petani, 1, Jalan Penaga, Taman Penaga, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.608537699999999,
+               "lng" : 100.4826079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.609883279892721,
+                  "lng" : 100.4839938298927
+               },
+               "southwest" : {
+                  "lat" : 5.607183620107278,
+                  "lng" : 100.4812941701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12d1f3744bd5dfaf60dee204c4b4868843c11c87",
+         "name" : "Dsaramaysinggah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117460939196715871138/photos\"\u003esafiee mohamad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv4Et0Zo8zx8klCTNw2MkN6r5tNhS6sLW30n9M2qlFN_usLg0bO-9FR1KqFUeL-W5WGdRzKGofP0vajHhGEoPHVO9AMc_GFx48MAvIU0glzo7iaoq1Y8HpWoUjbh8iGVIEhCugzmI9GNrN4vhEfHjg_VXGhSqy-Wj9iPK8Pp5oqwoZBZEWkGwDg",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJWWsWZbPXSjARdrNYSs0ADEY",
+         "plus_code" : {
+            "compound_code" : "JF5M+C2 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JF5M+C2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJWWsWZbPXSjARdrNYSs0ADEY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "C 7, Jalan Indah 2, Taman Sejati Indah, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.614222,
+               "lng" : 100.4833479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.615526479892722,
+                  "lng" : 100.4846928798927
+               },
+               "southwest" : {
+                  "lat" : 5.612826820107278,
+                  "lng" : 100.4819932201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "46453228131196387695572a897b12a145b72482",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112603384746891030763/photos\"\u003eRosli Sulaiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA12eQVSBaqcoR79yAzHrAZBe9Tcmhwso9TbkDScA2EvfvdDyfTfoiab0pXpTJtswoWsJE04ev8hyzvrUgQY3igTbMurvNIqkVy_WSR7W3XrL62mxXRGyQmyw9WLjCIb_1EhBhQrGMa3ekpKCkvhkdDoB7GhTbN60D2oHmDCzcbWwsqrBv9Io4TQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJl1aPX7XXSjAR7UBlIJblwmI",
+         "plus_code" : {
+            "compound_code" : "JF7M+M8 Sungai Petani, Kedah",
+            "global_code" : "6PQ2JF7M+M8"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJl1aPX7XXSjAR7UBlIJblwmI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Malaysia, B68 Solok Intan 2 Taman Sinar Intan Sungai Petani Kedah MY 邮政",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.637025,
+               "lng" : 100.472237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.638360179892722,
+                  "lng" : 100.4735843298927
+               },
+               "southwest" : {
+                  "lat" : 5.635660520107278,
+                  "lng" : 100.4708846701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dea798f62e63309007b258410b0a17726ae7af0b",
+         "name" : "Modernize cafe 现代茶餐厅",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100882867726880252096/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnTqGxolBlm1BoJM6ThEbZtcK5hqpx9xqSY_UTQ7UkJ7C5KIaxcY67T4eZlyVtSvzTXMWXRvf6xxaKu_fmyfMLMkQt6bwKO0ZEYrSfOBKsfD6rztELdm521dG2Cs1zDqhEhBDPmMgpMYNRPBtj2O0na0CGhSzOgAwycWhaOYrOYNYXOrC-3uisQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJU8jBxicoSzARzj0baPFCm6I",
+         "plus_code" : {
+            "compound_code" : "JFPC+RV Sungai Petani, Kedah",
+            "global_code" : "6PQ2JFPC+RV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJU8jBxicoSzARzj0baPFCm6I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Lorong Gamelan 1/4, Taman Ria Jaya, 08000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.649469600000001,
+               "lng" : 100.5141177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.650832429892723,
+                  "lng" : 100.5155158298927
+               },
+               "southwest" : {
+                  "lat" : 5.648132770107279,
+                  "lng" : 100.5128161701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bd7f0ad76cca7e22b02ff7ca5875958097758f4a",
+         "name" : "Economy Fast Food @ Eupe Food Court",
+         "place_id" : "ChIJF-eRmO4pSzAR9gnROappr3I",
+         "plus_code" : {
+            "compound_code" : "JGX7+QJ Sungai Petani, Kedah",
+            "global_code" : "6PQ2JGX7+QJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJF-eRmO4pSzAR9gnROappr3I",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 819, Seksyen 64,, Bandar Amanjaya, 09000 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.6702208,
+               "lng" : 100.5077023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.671611579892721,
+                  "lng" : 100.5091321798927
+               },
+               "southwest" : {
+                  "lat" : 5.668911920107277,
+                  "lng" : 100.5064325201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "645eb4bdb6bd257aa88b2ed6e297c9c9dea8e2a3",
+         "name" : "KFC Aman Jaya Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112514247405281033173/photos\"\u003ehaslina abu bakar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAD7QPaPf1aOwcsTN1hX9vgtvZKtyxPsnghWe7tu7PexGgNGs0vKuEVv92JQq5sQPJTrnislOwPtiOJSJoLYv5Dlx3V6FQgQZKzAEAEhDOrmgNhORVoLPo-U-PIcLqYV_bEhD94IRjpL5DgSIzHxVW06CHGhRI-np9Yhk3K4WaZQ2peAma-04oqw",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJv2NZupgpSzARKfpmK56rPAc",
+         "plus_code" : {
+            "compound_code" : "MGC5+33 Sungai Petani, Kedah",
+            "global_code" : "6PQ2MGC5+33"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJv2NZupgpSzARKfpmK56rPAc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 471
+      },
+      {
+         "formatted_address" : "363, Jalan Kampung Baru, Bukit Selambau, 08010 Sungai Petani, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.692112,
+               "lng" : 100.63151
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.693435479892723,
+                  "lng" : 100.6329776298927
+               },
+               "southwest" : {
+                  "lat" : 5.690735820107279,
+                  "lng" : 100.6302779701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2abaeb5e5b14fdc744a67d69e92ce24fba7baa4b",
+         "name" : "D'SHURIS BAYU",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101709847673094783126/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqZNbkCTD908Ynqi8vkLrpVCVLN_GcsxMF-6tE9JrMuq4xFaH-o81bZh7jIE-mEFfPSdS-X0nkT2cO00NY9RebLIDTElsYq3oFUa5WJLycxECQ3jWPjJen4OMUYRrlWDgEhANtGgbYYKIS-rGX_qTfbd-GhT-g1jFgjaeukfV0Iab5L3IPsHj3w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJdWDYAiTXSjARWGrs9_kniJw",
+         "plus_code" : {
+            "compound_code" : "MJRJ+RJ Sungai Petani, Kedah",
+            "global_code" : "6PQ2MJRJ+RJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJdWDYAiTXSjARWGrs9_kniJw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 247, Lengkok Perdana 8/3, Bandar Perdana, Kedah, 08000 Sungai Petani, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.606301999999999,
+               "lng" : 100.518719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.607640679892723,
+                  "lng" : 100.5200704798927
+               },
+               "southwest" : {
+                  "lat" : 5.604941020107279,
+                  "lng" : 100.5173708201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4816e0267654f25ed72e9b31ca085ca6ef79463e",
+         "name" : "Kerepek.Com",
+         "place_id" : "ChIJ470s0XHWSjARQRcseGQXgk0",
+         "plus_code" : {
+            "compound_code" : "JG49+GF Sungai Petani, Kedah",
+            "global_code" : "6PQ2JG49+GF"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ470s0XHWSjARQRcseGQXgk0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

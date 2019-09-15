@@ -1,0 +1,869 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAADpqCJyCCBK4t1Cq3EbIdCq7zdFaJGcSSXauQNkEZ7cIi51SbhBfk0Qs7ZUlp8d93wf2RWET8A1_5qG9j1PGa-ioW_DAzI2GkXSgFyeQhrW1c4rFguKYdpbpZrHovdvPj855bZ1sOpbR6fyp47tf4WXW3xDPLLft06QMMOVg229DnK8QUyg1lHOyj4qMRVHrzpJ1asZoe3wsz2lT-UgX8tlNyJ7nFEs_h5jM4Wnp74WdF6oZM5Mv0PDudRaNA_11b7gIZNXSYfPjeNzkLMBAXPIZTWfCwM2WXIdfrjgi5OMp11BBt__R0RD-LAcR15PoNufVibLIMLQ02YPyv51BNFV_qq3I4npV5u3hkoJ6WJUttFnzb6YycAG2cp1mcR8jbpmsTRlpsN_0zSFYUqmw-yKME-DiVHrzR8et7gGd0ZUnM7k58MrGZRbmQbkqY4kgU24B3zljtm0JC9QyO7c8XTvUBJVWD43DQQkBBHHOWA3f5LnJknaEngIbMuFfb1fDT9s8WcAP6PWXQ6EAcu3kvpk67LcBQjm9NkDf2DoWAXWEIVr_xTgLy6Ri55YOZOZo9SflORTggzpvLBUJAoJH7kRPdEeT1PNoUzb32DgrMJUKrvXR5Wj_WMkoYAyjL_hbAqw7A9mtldK8xTPGGYZfRZrR8apv4S9ConEVGlZSf2yEEhCUxxV1RcaldehgGcIjTreRGhTHnzyGmewHCtk0L1LmkjCEaZNLqA",
+   "results" : [
+      {
+         "formatted_address" : "Lot 1050(A), Jalan Bulan Sabit, Block 7, MCLD, Jalan Bulan Sabit, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4119252,
+               "lng" : 114.003179
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.413218579892723,
+                  "lng" : 114.0045651298927
+               },
+               "southwest" : {
+                  "lat" : 4.410518920107279,
+                  "lng" : 114.0018654701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1f50ceaff8d187dd4e27dda1532200e1c05bd28",
+         "name" : "McDonald's Petronas Miri Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113002996444624447333/photos\"\u003eMelvyn Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAF9DGY-ud7qGqZK3NYm-qhH8eRkqV7rFljbw6Dl2QN-4rifTuhfiF6XzwHtBentcAxxwp1PAKfTluBPPzAIhFoVlurWmyEBSA5ysk_d-nEMIpzhGIWxjS4WWOkZGI9k8DEhBPr6oiUKa5s9km2xI9jw1KGhTbD_WJ0QX3wE0YcmPfOpJEQj3gow",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ8bcnEt9OHzIRBGQ4XQ00E1A",
+         "plus_code" : {
+            "compound_code" : "C263+Q7 Faradale Commercial Centre, Miri, Sarawak",
+            "global_code" : "6PPPC263+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ8bcnEt9OHzIRBGQ4XQ00E1A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1201
+      },
+      {
+         "formatted_address" : "Lot SFS85 & SFS86, Second Floor, Permaisuri Imperial City Mall,, Jalan Merpati, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3998027,
+               "lng" : 113.9906454
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.401317479892721,
+                  "lng" : 113.9916466798927
+               },
+               "southwest" : {
+                  "lat" : 4.398617820107277,
+                  "lng" : 113.9889470201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e504644dc13a33444e21e79313faf0771bfd5c62",
+         "name" : "Fuel Shack",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116656906425153888534/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9tt84d1kNVL0U0-cDWgmS84rVWdurG9QvuEoR9hSQin82rOoczrA5crxOPik9U1FmE-NImm050stRA__ESzKZhQJGoNEtIXLFcgIF00qsxClJUvruSgB59jIcwodnI-IEhCGPQTxoSMnnzqrNHCxBcVTGhS4WiSwyUxElOWp1dgGxpm9HD2OJg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJw_aoly1PHzIRuc8HWESmUpg",
+         "plus_code" : {
+            "compound_code" : "9XXR+W7 Taman Herba, Miri, Sarawak",
+            "global_code" : "6PPM9XXR+W7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJw_aoly1PHzIRuc8HWESmUpg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "Lot 5993, Block 11, K.B.L.D. Desa Indah, 3, Jln Tudan, Bandar Baru Permyjaya, 98107 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4717838,
+               "lng" : 114.0430032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.472878729892721,
+                  "lng" : 114.0443167798927
+               },
+               "southwest" : {
+                  "lat" : 4.470179070107277,
+                  "lng" : 114.0416171201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fc1365673bdb69bdd80f562340c83b5428db3f49",
+         "name" : "McDonald's 24 Hours @ Permyjaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109206034009337544004/photos\"\u003eTiong cp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb-PpUH3ejILcfF1cE0ETTvmUCGJEKPWML707Xdmu_3CgwTKIh20EMIx67-aGSwyK9Ie-G1vCwryapf65HjEllHLF5m2du0DXjsy9NC1x7t27ylvimXPH_Dj4Ei5SLBPOEhCRLOecapGnOVC6ohSS0bYzGhQNBPUa00-4grhRUEYlx7hxVrwsVA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ31E3Cv5RHzIRLt87zVgCkn0",
+         "plus_code" : {
+            "compound_code" : "F2CV+P6 Lutong, Miri, Sarawak",
+            "global_code" : "6PPPF2CV+P6"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ31E3Cv5RHzIRLt87zVgCkn0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 870
+      },
+      {
+         "formatted_address" : "MB Miri Airport, Miri Airport, Terminal Building, Jalan Airport, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3243858,
+               "lng" : 113.9833876
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.325789729892722,
+                  "lng" : 113.9846025798927
+               },
+               "southwest" : {
+                  "lat" : 4.323090070107278,
+                  "lng" : 113.9819029201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df3729f2e095068217f1a0be2119335d886f344e",
+         "name" : "Marrybrown Miri Airport",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113002996444624447333/photos\"\u003eMelvyn Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAoasfzH9aGj79bH6TCj6axh9liTZROWvyJN4a20krQfqR6_IjgEdq2xipe5YVi8j_ARlHWFbxefD02lGnvZCTMXUYOpIhpOGgihdWWkbHSwnkeDAmMpIJpI3MTS-jl2llEhCcVTjxwi7KzUMhSrfzTc9RGhTVe08bAT9xivuBhq6w4lEFiwdE7A",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJd3nP0iZIHzIR7OOE5u8IMQg",
+         "plus_code" : {
+            "compound_code" : "8XFM+Q9 Taman Tunku, Miri, Sarawak",
+            "global_code" : "6PPM8XFM+Q9"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJd3nP0iZIHzIR7OOE5u8IMQg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "Lot 124, Jalan Bendahara, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.394187,
+               "lng" : 113.98639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.395533929892721,
+                  "lng" : 113.9877787298927
+               },
+               "southwest" : {
+                  "lat" : 4.392834270107278,
+                  "lng" : 113.9850790701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4933b81ce15ca341166220f6bcb1c3443a742e7a",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117983279675208018440/photos\"\u003eERC zone\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn3i0icC59ofAg4Myf17Whqa4Iqtbco3RQq0WErtfdfB50mlHnmukzfdEOUARVuofjibeLRyS0O7Hk2bs1ohmLcJpkg5GCpEBqx9BS-a2SzW6gm0uoNDHg7FbvXYW4PkHEhAjXXQEeiqM3BWcfceA2sB6GhTmPc1HLXT_D2SgXObO15gAcqoa0Q",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJI1aurM1IHzIRGbYymcEFZwE",
+         "plus_code" : {
+            "compound_code" : "9XVP+MH Miri Handicraft Centre, Miri, Sarawak",
+            "global_code" : "6PPM9XVP+MH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJI1aurM1IHzIRGbYymcEFZwE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 429
+      },
+      {
+         "formatted_address" : "Lutong, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4492722,
+               "lng" : 114.018545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.450503579892723,
+                  "lng" : 114.0198935798927
+               },
+               "southwest" : {
+                  "lat" : 4.447803920107279,
+                  "lng" : 114.0171939201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2671c0d0a1a3dcf45c0cb5acd2c22d22b0e13a00",
+         "name" : "Alex Fried Chicken Rice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100118935398568076149/photos\"\u003eRueben Jacob\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFpTFO0pIthauW37UofRT0-amVntoY3gqtzJMLXumKtEyGdOM1nYvW1QkGrD2UyZoxSltFfQHBbX7GYFf8pP-wlE_0TUq2bcYPsEmB9cQAkOm4CWVfHPqLNFOiGME4HReEhChu7d1mWEomyATdwla5O5HGhRutJfS0lEmnc_EFntM8CYSPqfl3A",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJV7XEyUZOHzIR6s_hLxVX0LQ",
+         "plus_code" : {
+            "compound_code" : "C2X9+PC Lutong, Miri, Sarawak",
+            "global_code" : "6PPPC2X9+PC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJV7XEyUZOHzIR6s_hLxVX0LQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 136
+      },
+      {
+         "formatted_address" : "Lot 55, Ground Floor, Emart 1 Stop Shopping Mall,, Jalan Bintulu - Miri, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.343816299999999,
+               "lng" : 113.9933152
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.345175829892722,
+                  "lng" : 113.9948545798927
+               },
+               "southwest" : {
+                  "lat" : 4.342476170107278,
+                  "lng" : 113.9921549201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ad5caaada4cbf08243b00f3fa168a41cf835e81",
+         "name" : "SugarBun Emart Jalan Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114216478357478883452/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkzYfBVlN6kLBeahH8Kv0imtKIuTQCyFH7mfXV2i-GY7MqY3IX2-YA4kScIzeSEabvANZSglDOOkgyck-iB79pNUBc0npGY7u-AQrGWLrG4wPI7zip4LhvPZXPQfBkClnEhDhJFOqcI77UPWK-MHBCCHmGhSpPInwTtr4ly4iFDTwD8waaHb26w",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJiclSIklIHzIRNGoIsuwr_QQ",
+         "plus_code" : {
+            "compound_code" : "8XVV+G8 Morsjaya, Miri, Sarawak",
+            "global_code" : "6PPM8XVV+G8"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJiclSIklIHzIRNGoIsuwr_QQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 154
+      },
+      {
+         "formatted_address" : "Lot No.2861, Block 6, KBLD, Jalan Tudan, 98100 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.478537999999999,
+               "lng" : 114.03955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.479888079892722,
+                  "lng" : 114.0409459798927
+               },
+               "southwest" : {
+                  "lat" : 4.477188420107278,
+                  "lng" : 114.0382463201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3212bb211994d1e02eefcbfa1576655a56e8eef6",
+         "name" : "KFC Tudan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101915227180759811593/photos\"\u003eTance 1994\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK52FO5cEwlMakYPvzzsKRrM-NyRecOOlgKI18xifgwrPyMOiZKsZ1Jbqhx3ZdFcU7t3dqeMHdc4daCJeObsHKISAvOKogsEoaI0ucZR5-SmCJrBiCTP3B7ODTuyYKtxWEhDeJfAiSoE60Aq0PEyXFSA3GhQOHtmdH_Kx7BdOqedsR0ok1m-kSA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJgZ6spS1PHzIRRz1arhLmiQM",
+         "plus_code" : {
+            "compound_code" : "F2HQ+CR Lutong, Miri, Sarawak",
+            "global_code" : "6PPPF2HQ+CR"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJgZ6spS1PHzIRRz1arhLmiQM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 611
+      },
+      {
+         "formatted_address" : "G.06 - G.10, Wisma Pelita Tunku, Jalan Padang, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3906043,
+               "lng" : 113.9875761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.392108779892722,
+                  "lng" : 113.9889935798927
+               },
+               "southwest" : {
+                  "lat" : 4.389409120107278,
+                  "lng" : 113.9862939201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2078db6a9a580b5fc6da1734d8ec20e33683375b",
+         "name" : "SugarBun Wisma Pelita",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101290052984748361165/photos\"\u003eTang Ping\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMeYrPdj0u7o17DYh_-QQ01mLnOtG4LLxgmDTzg2qGjhYwzgsY38uYyNK8RBrRMWjcDnLiMBVJnKQ9ockzgCwHexQSs0j6NBZQyN0dTooiVcCC49RQ3LbCJcVMQvDPGb3EhB0b4UxCaUApG_SDRbHnWSeGhSuiaPHuQXA7HhWvqASVJ-WC9OCow",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJC4GnUM5IHzIRUGRSCCbl1u0",
+         "plus_code" : {
+            "compound_code" : "9XRQ+62 Miri Handicraft Centre, Miri, Sarawak",
+            "global_code" : "6PPM9XRQ+62"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJC4GnUM5IHzIRUGRSCCbl1u0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "Ground Floor Sublot 38 (Survey Lot 8849) Emart Riam, Miri, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3438237,
+               "lng" : 113.9933013
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.345183579892722,
+                  "lng" : 113.9948474298927
+               },
+               "southwest" : {
+                  "lat" : 4.342483920107278,
+                  "lng" : 113.9921477701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b947490d3445651fab576c02666d415b359317f2",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115956611992707451455/photos\"\u003eJeffrey Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0B9i3YnuQArJSLCZLkn4VwXxr90kFjqVb2OozKHwD-ONan2J313WV5FmDd2uGSXepFqidv6kkbFeca9tDf5s0ey3ZM5ev-DshTPAaw2KZIWGG0_345HGP9YAsJqGHNyTEhAKj-Yn6kkFqMX-8gG_idP3GhRFpvaP_cpyUayWo7YjzbkK6N-uoA",
+               "width" : 4640
+            }
+         ],
+         "place_id" : "ChIJAQj1I0lIHzIRX6W2QWy9gug",
+         "plus_code" : {
+            "compound_code" : "8XVV+G8 Morsjaya, Miri, Sarawak",
+            "global_code" : "6PPM8XVV+G8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJAQj1I0lIHzIRX6W2QWy9gug",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100
+      },
+      {
+         "formatted_address" : "The Imperial Mall Court, Lot 827, Jalan Parry, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.399216,
+               "lng" : 113.99026
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.400378229892723,
+                  "lng" : 113.9915245298927
+               },
+               "southwest" : {
+                  "lat" : 4.397678570107279,
+                  "lng" : 113.9888248701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "02135d60340b8191e97e403ee1580dc67f812753",
+         "name" : "SugarBun Imperial Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115442271423227184944/photos\"\u003eMass Hmy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3TCfmMrbxyEhb84sk4mWfZd-qi6Vy_K5IArtGI4jX_-s9DiosIAfPf7Quygs2aVxhzLxtiTrM9M1kH8wRks_ZFzEAk5oYS7zGYWwHeKN9MQ2bx7sDPzG9pMayHS6h0aDEhCWOl00l5k1IZmkcypAA-p5GhRcc95Sn7wIV7g-lp_16R0dPYhgmA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJlXHreS1PHzIR63Q1xUf_yQo",
+         "plus_code" : {
+            "compound_code" : "9XXR+M4 Taman Herba, Miri, Sarawak",
+            "global_code" : "6PPM9XXR+M4"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJlXHreS1PHzIR63Q1xUf_yQo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "UGF 1.11, Lot 2528, 98000, Miri, Sarawak, 98000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4150374,
+               "lng" : 114.013137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.416335129892722,
+                  "lng" : 114.0145287798927
+               },
+               "southwest" : {
+                  "lat" : 4.413635470107279,
+                  "lng" : 114.0118291201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a0b7846aff44354761d525deedb2c8806c0b0013",
+         "name" : "KFC (Boulevard)",
+         "place_id" : "ChIJnX9vezFIHzIRIkjKAyOq-dM",
+         "plus_code" : {
+            "compound_code" : "C287+27 Boulevard Commercial Centre, Miri, Sarawak",
+            "global_code" : "6PPPC287+27"
+         },
+         "rating" : 3,
+         "reference" : "ChIJnX9vezFIHzIRIkjKAyOq-dM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Lot 1264, First Floor, Bintang Plaza Shopping Centre, Jalan Miri - Pujut, 98008, Miri, Sarawak, 98000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3973881,
+               "lng" : 113.9940467
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.398751329892721,
+                  "lng" : 113.9954127298927
+               },
+               "southwest" : {
+                  "lat" : 4.396051670107277,
+                  "lng" : 113.9927130701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cefc64b670b5b694fe7b34fb3459b44a02655918",
+         "name" : "McDonald's @ Bintang Plaza",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105209282003466721632/photos\"\u003eMtc Miri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3MZyWGvdvpjbEgG0dX3q9ahObOjhIWcu8E8upvazWAjJUb05DXt7guL7JQfrWI_POHnirNzHPoTGOsQQVpj5G56mi5FmX-aHqgsTUV_SeNZ9l849Q5m4uX8d579zjM8EEhD1lznCxnakPH9v8MUz3rwpGhRumM217boHLqBvEO0sXHqR5U7eXA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJK8FYfNlOHzIRr0BlP5PMmws",
+         "plus_code" : {
+            "compound_code" : "9XWV+XJ Bintang Jaya, Miri, Sarawak",
+            "global_code" : "6PPM9XWV+XJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJK8FYfNlOHzIRr0BlP5PMmws",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "Jalan Bintang Jaya 5, Bintang Jaya, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3972921,
+               "lng" : 113.9938212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.398611579892722,
+                  "lng" : 113.9952705298927
+               },
+               "southwest" : {
+                  "lat" : 4.395911920107278,
+                  "lng" : 113.9925708701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c69f64e56c6f5c577c3d35acad48f853e3d41039",
+         "name" : "SugarBun Bintang Megamall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112836022391094035303/photos\"\u003eSnoopy Mui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApebpbmisvSzBpn1XENsYodGJai9DiUAYPrhOg9UMKu02nzFlplfvfGGDmvDhBxY-Z8t3sM9FFzKORdp9LSCDa9_ykucGbGLa3GQkn6X-mvK7CL4ItN_6D3ySAr_zMzxAEhAUdR3uzVR_qGrjdD8H4MfPGhToni6WubKHn6ukgKjBOBmcrKK6og",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJnX9vezFIHzIRwORCDr1RiG4",
+         "plus_code" : {
+            "compound_code" : "9XWV+WG Bintang Jaya, Miri, Sarawak",
+            "global_code" : "6PPM9XWV+WG"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJnX9vezFIHzIRwORCDr1RiG4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Ground Floor, Boulevard Shopping Mall, Jalan Miri Pujut, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4151102,
+               "lng" : 114.0131545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.416390079892722,
+                  "lng" : 114.0145606798927
+               },
+               "southwest" : {
+                  "lat" : 4.413690420107278,
+                  "lng" : 114.0118610201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c3892fd01fa536745d669b7117345c1338d17db6",
+         "name" : "Sugar Bun",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100855971676253585325/photos\"\u003eOng C.H.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASvQsTWhL_VbujQ5FSuTZ8n5j7nqFsux4QE8LCqq0Vl3gxtGp3oTCWKmHtVxvxkmf0IeaDLxnpR8-Pd-tvadAYpmmA99HFFsMVl7bBNnE83yy79rRCUGEGYsFIMVAPECJEhCLrzbV1d_ODgumDDp2UD_LGhRoK1LTxWfs0qHNSD5m2haxYsUJKg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ7Tp0gL9IHzIRKYTxlDB8d_c",
+         "plus_code" : {
+            "compound_code" : "C287+27 Boulevard Commercial Centre, Miri, Sarawak",
+            "global_code" : "6PPPC287+27"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJ7Tp0gL9IHzIRKYTxlDB8d_c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "G69, MYY MALL,, Lutong, 98000, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4709139,
+               "lng" : 114.0102764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.472434179892722,
+                  "lng" : 114.0117840798927
+               },
+               "southwest" : {
+                  "lat" : 4.469734520107278,
+                  "lng" : 114.0090844201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d2aeb17fcb821489d42b219f982680cf01bef813",
+         "name" : "SugarBun Myymall Miri",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101867964860998787650/photos\"\u003eAndy Liu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALQJp7z-5lmu2zCu7jvKIN68a3PoqnDip6oDqE2eAP0-S9LrONaAjL5a4KgFSCdHBpvk0Sk7ebCVGAl6Pj2XW8xT7sO49Hexi4zgV-2mNgzvdhVZtWT_PsL52L8InPPI8EhACgmSgmzipZbISByPx2sX5GhSlXEyvsabeEChY5u56lt8wimZNlA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJQ4LkNChOHzIRdARcc06x0P0",
+         "plus_code" : {
+            "compound_code" : "F2C6+94 Lutong, Miri, Sarawak",
+            "global_code" : "6PPPF2C6+94"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJQ4LkNChOHzIRdARcc06x0P0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "lot 2364, Piasau Lock-up Shop, MIRI, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.427649,
+               "lng" : 114.004791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.428996779892721,
+                  "lng" : 114.0060629798927
+               },
+               "southwest" : {
+                  "lat" : 4.426297120107277,
+                  "lng" : 114.0033633201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "161cb3ed1189db746a6f86998a4600b8ce3b45fb",
+         "name" : "Sri Menggris",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1183,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104133912884623483344/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbEYJrFTSSpkcW8A3DA6Glr4pylNZSlogJRHO0azm5jy10Lv1gkLZ6eFbL1YbxDOuZ6JXOUfy5_uEEge4xKtNynql8n-vzpQN97hV7-Wmn7YBqJEboPBxkUk1CetFpVwYEhCyydo9vaMLI7JpJT9gDWI_GhS5fvFhjSXUYnPu4o9o8gH7qYCozQ",
+               "width" : 2657
+            }
+         ],
+         "place_id" : "ChIJsy3WT_xOHzIR17ytEgQSIUo",
+         "plus_code" : {
+            "compound_code" : "C2H3+3W Piasau, Miri, Sarawak",
+            "global_code" : "6PPPC2H3+3W"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJsy3WT_xOHzIR17ytEgQSIUo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "105-106 Permy Mall, Bandar Baru Permyjaya, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4502972,
+               "lng" : 114.0384427
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.451751529892722,
+                  "lng" : 114.0397932298927
+               },
+               "southwest" : {
+                  "lat" : 4.449051870107278,
+                  "lng" : 114.0370935701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d304bbaed4658b7d4006ff16ac6991a03c7967e",
+         "name" : "Sugar Bun",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114408657884525268249/photos\"\u003eDarence Senawat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdMTamswBu7HrtAsBtkROOVu6zzRQ8eaUNDSDCMneisk2LJ3FYv5y9vkni3lkm4Q_0UVJaeudPOytqpLhe4b67M-td-3YwPzg1c0RrQWVOM0Z3j-qsWbTb6yh-4C_xp5BEhC-8witygPjhYint9zduqnoGhSn-4sBq-3KGq4LTGGyssRjveYYvg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ2Qly_2xOHzIRgk2R7ngpOOg",
+         "plus_code" : {
+            "compound_code" : "F22Q+49 Bandar Baru Permyjaya, Miri, Sarawak",
+            "global_code" : "6PPPF22Q+49"
+         },
+         "rating" : 1.3,
+         "reference" : "ChIJ2Qly_2xOHzIRgk2R7ngpOOg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Lot 7879, Jln Dato Permaisuri 1B, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4761993,
+               "lng" : 114.0400641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.477571429892722,
+                  "lng" : 114.0414140298927
+               },
+               "southwest" : {
+                  "lat" : 4.474871770107279,
+                  "lng" : 114.0387143701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d91bfc7085c6472162e834536565000de11366fb",
+         "name" : "Coco D'Permai Home Made Pork Burger Stall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103622184833633403101/photos\"\u003eShim Cornelia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkHhmqAIgatlV6G3SkgRQYrRK-_MBbLe-shTIEFihpVPjzXskUTvsFQxe7MokainZO9Sg3V6SP5AkWHzOGZePTU9mCOEpVUBzhUcbxhlFhg0MDJsWVizDD-svE1r18EVOEhAY5WJGE1JcSAlaeh56d0T3GhTsRoNrLyPMFH-Qvq2hnt2AkKEMyQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJLywzS8VRHzIRbcPIlE2s2FY",
+         "plus_code" : {
+            "compound_code" : "F2GR+F2 Lutong, Miri, Sarawak",
+            "global_code" : "6PPPF2GR+F2"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJLywzS8VRHzIRbcPIlE2s2FY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "formatted_address" : "Ground Floor, Boulevard Commercial Centre, 98000 Miri, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.415486599999999,
+               "lng" : 114.0126221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.416885579892721,
+                  "lng" : 114.0139290298927
+               },
+               "southwest" : {
+                  "lat" : 4.414185920107277,
+                  "lng" : 114.0112293701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3dc9fe96e913cf9713db37325edfca498f2b06d",
+         "name" : "Potato King",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103323801214784347815/photos\"\u003eMalaysa Mina\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANaBjFLDsywVeCy8w4p8s9ThK8Z6Em-BTF7GNWTW66Or4QwPE_XJnR8eFHHhm-btj7wo0zfCbpzidNuRIyk_IPNUFgpSO2iN99CGqF1NNBuk7_-fub7c7fgT0Ju1CnX6aEhAHcNep4Tezw72jvQv2GaTEGhSQ6VYSDhft5IuXAG1yRt980Ui91Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJV2M6--dOHzIRE-jz-OidNQQ",
+         "plus_code" : {
+            "compound_code" : "C287+52 Boulevard Commercial Centre, Miri, Sarawak",
+            "global_code" : "6PPPC287+52"
+         },
+         "rating" : 5,
+         "reference" : "ChIJV2M6--dOHzIRE-jz-OidNQQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,915 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQEAAIAACtNSlf67pYcYoU_9WBrqMFTfHAbF7lFv1vT1O2BesXsHbZL24Sk-Y6dMxXzuWr-3qa08fPL_ULH3e98yxtuvLk0XM35nngjM2DM50NVWJrNf8jTVxCyyY3Drft1pyszdGK28XIui34l1xCkGyrIBilXu1LEmoYRkSZ3rGEpOtqFZxf4PaKPhjZObLuoRM5Y-2Qbz4ws5Ny_jBftV8ZGwSa-ggkA6ZVvw2GDuo-xSoRAEeYgyA7aa-2LTs54lh3Nq8kyHqP5jvJf8RLGcL9p-FBkXvqQRjUOFKAqDvMEOyoH2YO8YrEvx4GFR46AvNcnwlatgcR7fNg_Iurbk2_TX3fV8j4Zd-6zcGZww5gCHpCL589SHw4uwZXiw1EdmlN1Dz48bjmKMUqxjjO-Eto-63cbVlSTLvPjJpLkqkVkbVS6WsxnajA7LkZb7A_rZmoILDSwaW2Ireb6F3SOufYojWMcWbTz2WMDIY9R6Impm121NLVByEz8SWqEB6zMiwf9H7iDo1UrW4eFp7cCJ5T7RwdvhM-4dPMkTK7WD8iaDGsD8Y5vjlLRrtC7VPZnLwuNOez93kKLdFXrmv9xsJiMZaYl-63Zk5JtmNVmejTtK1gd8AMyc8mEzvj9aGli0Stwv5Uk8vhmUCqmcqFIDMcYWxn3ANvypA5RbEIIbdLvV-UZEhB10pp1NncTRoU-RlUzjZ41GhSkJV_gMJDXpPYmf097ATA9oe82ZQ",
+   "results" : [
+      {
+         "formatted_address" : "Aeon Big Hypermarket, Jln Sungai Burung Y 32/Y, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9987375,
+               "lng" : 101.5284421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000029379892722,
+                  "lng" : 101.5297891798927
+               },
+               "southwest" : {
+                  "lat" : 2.997329720107277,
+                  "lng" : 101.5270895201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0b1a6a99f0e0b6f4ed00bf97857482dd38bcc68c",
+         "name" : "KFC AEON BiG Bukit Rimau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104345763879082336549/photos\"\u003eNG HL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm5T2iEmxCvpohMJEPtsqSl1J45B6f1vryA_O8wJ5_M2ZY1Y5etxqB17zz-cqig37ENc_GcpN8uDJkQvw7yhEZxQTQWmYOL7Y0pKB7wKZ3tr8dZjG-wj6sSDHQBslgQswEhB4PE8k7cofvjmFOzX6fAD8GhSQ1n40BtD8A8oyLb7rMThJGjnc5g",
+               "width" : 564
+            }
+         ],
+         "place_id" : "ChIJP53bEIGyzTERTgimKGSwiiI",
+         "plus_code" : {
+            "compound_code" : "XGXH+F9 Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXH+F9"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJP53bEIGyzTERTgimKGSwiiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "Jln Sungai Burung AA32/AA, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0006051,
+               "lng" : 101.5261398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.001933929892723,
+                  "lng" : 101.5275154298927
+               },
+               "southwest" : {
+                  "lat" : 2.999234270107278,
+                  "lng" : 101.5248157701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "752bafdd3f5138ac8458e3fb7ac5e58621c85994",
+         "name" : "Quick Bites",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110576619032911223854/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAllDJOXgyxeLvfkaMN-FwMglwqhdaPqRG4JXw1AsvVCfO4z8Yvu88Qlx07ssYuLGJDycUyn-cGpH5QTFxcJmHZllQ13FUOEP4WYrr24ksbqMr9D5bm-cHbhJIeIqRmiWFEhBIeG4JEYIa8D2uh6aNU5J9GhQ8NuG5MJ4SCsIgArSf_nC4ZkfqaA",
+               "width" : 4144
+            }
+         ],
+         "place_id" : "ChIJZS5A84GyzTERRQ1vmPiKVfo",
+         "plus_code" : {
+            "compound_code" : "2G2G+6F Shah Alam, Selangor",
+            "global_code" : "6PM32G2G+6F"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZS5A84GyzTERRQ1vmPiKVfo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.99953,
+               "lng" : 101.5283741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000876829892722,
+                  "lng" : 101.5296218798927
+               },
+               "southwest" : {
+                  "lat" : 2.998177170107278,
+                  "lng" : 101.5269222201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5b4315bb74efe3d73fc8c1a56ff3b75124a78995",
+         "name" : "AEON BiG Bukit Rimau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108896716348007520693/photos\"\u003eMuhammad Izzat PamanAheri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJZ3G3hbeMdXc2h95jsIMo8mgMVHXj4p8lm0I6F6g63R3q9A99uULY726A2GglkvyXN6FNKx8ibqdlbVbAlnDS46U8DTUiepqNRUDezr0KfN4PE0RDxSDBQy4QJVhhqfgEhDtDBJvOZc-3pDyKZ7qGvoYGhTSHJ3g_Iar1Hce5KFldhCfBNrbyA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJiRh3EoGyzTERRvnhYxCC80c",
+         "plus_code" : {
+            "compound_code" : "XGXH+R8 Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXH+R8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJiRh3EoGyzTERRvnhYxCC80c",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1855
+      },
+      {
+         "formatted_address" : "Malaysia, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9988858,
+               "lng" : 101.5264532
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000245129892722,
+                  "lng" : 101.5277950798927
+               },
+               "southwest" : {
+                  "lat" : 2.997545470107278,
+                  "lng" : 101.5250954201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98b112d5eaf997969f0ba028bca85a61282dac4f",
+         "name" : "Restoran Xing Kong Sai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109419274677882713118/photos\"\u003eChee Shyong Boon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJMzXieG7NyB3EU5DwltmacpK00GGa_Z-rng_vWVT8X17-AycQqmFaj4FitDTLXNBgn5j27zhoHtEDAfI6y11zQ0Us7LdL0IKSKgO-gyaYs8ooOHGQ6frrmSuJn_7qCcFEhBmkZxfX75-cr8e0tKpuae7GhSvruArPcX7nmsr7J0hzaUODHXf3Q",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJrwKktoGyzTERpFWkBzeTozo",
+         "plus_code" : {
+            "compound_code" : "XGXG+HH Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXG+HH"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJrwKktoGyzTERpFWkBzeTozo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67
+      },
+      {
+         "formatted_address" : "31/93, Jalan Anggerik Vanilla, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0028316,
+               "lng" : 101.5410133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.004398179892722,
+                  "lng" : 101.5422268298927
+               },
+               "southwest" : {
+                  "lat" : 3.001698520107277,
+                  "lng" : 101.5395271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "47a89cb0c28d953d5137ff3aeb92f0a642eb88c1",
+         "name" : "McDonald's Kota Kemuning Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107518678133400897021/photos\"\u003eLemuel Yee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPvF5JM5sug8WIvJqE3vHr-cDaa3-E2j1jPMAJ0IxMfwGqA3i0oOitr-fuMW_QvKVbEmBSy7saxkPpT9XaITQ7JqS4zNwcZXMAI1KzCkhr85VRTu5jApLoECfnbRVU2c1EhC1sP-p4CYPJ2kgpWEd3YNjGhR3fpqIhtUdJE9CGseObuSqdvy63Q",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ09mVrJqyzTERU3sN8mVrODk",
+         "plus_code" : {
+            "compound_code" : "2G3R+4C Shah Alam, Selangor",
+            "global_code" : "6PM32G3R+4C"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ09mVrJqyzTERU3sN8mVrODk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2113
+      },
+      {
+         "formatted_address" : "Kemuning Utama, 40400 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0211764,
+               "lng" : 101.5383929
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.022615579892722,
+                  "lng" : 101.5396947798927
+               },
+               "southwest" : {
+                  "lat" : 3.019915920107278,
+                  "lng" : 101.5369951201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e843e8cf620e687f8a1894554bac977b60913924",
+         "name" : "KFC Bukit Kemuning",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107622409162653942304/photos\"\u003eKim T.J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5pB47-L13a-Ty1DjZaIEOdrU-zOfDkVJbnM1aUFJj_3Ly6jWeoMgF_Qr20So3z-PpXGi4mZeSLKD2bhT3VzytR2H6C9lDBrq1vDsakPwub_i5SQRCPR8p_EeJFlt0BqKEhCCPvOi-6GRQxsOWqgLVmtlGhTiv4_nXAQ8AjpzGoIhwWF76rWN0A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJDwVtcLuyzTEReVpdtliApBw",
+         "plus_code" : {
+            "compound_code" : "2GCQ+F9 Shah Alam, Selangor",
+            "global_code" : "6PM32GCQ+F9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJDwVtcLuyzTEReVpdtliApBw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 528
+      },
+      {
+         "formatted_address" : "G14 & G36, Tingkat Bawah, Kompleks PKNS Shah Alam, Shah Alam, Malaysia, Selangor, 40000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.07045,
+               "lng" : 101.51715
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.071771329892722,
+                  "lng" : 101.5183932798927
+               },
+               "southwest" : {
+                  "lat" : 3.069071670107277,
+                  "lng" : 101.5156936201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "687d9f62c7905fe067d6c5c5edd056f9061dd9b4",
+         "name" : "McDonald's PKNS Shah Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100665360106625732376/photos\"\u003eItan&#39;th Ita&#39;qal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArNyh-D4TydBybXUP6TiNNs-L0cyCTu1-_uz0Jn4_CzcFxuDrZGnwzrfIwrST3u4n6cdHP9fC8bTGCN0mFsyt8rISLwlQo51ouCMUetu86uiEyz77SVFBLcg_DnwsdASTEhDrbrEA5cy5j4OokJXh4jPVGhSwI2bw031fL_4o3GgDhMIgyT8asg",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ5_k4kYZSzDER7TGj9R-DD4o",
+         "plus_code" : {
+            "compound_code" : "3GC8+5V Shah Alam, Selangor",
+            "global_code" : "6PM33GC8+5V"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ5_k4kYZSzDER7TGj9R-DD4o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "7, 5, Persiaran Kayangan, Seksyen 7, 40000 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0656944,
+               "lng" : 101.4907621
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.067042429892723,
+                  "lng" : 101.4921814798927
+               },
+               "southwest" : {
+                  "lat" : 3.064342770107278,
+                  "lng" : 101.4894818201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "943825f23d3649705bac9f66dcd723af0bbfe301",
+         "name" : "McDonalds",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117014047957012880468/photos\"\u003eChing Wen Jun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAtLNIqU4dsxEDvNhid6xZhoOMShXHDnpdfPigPLYGRdavv8r0dgpZiNjqgxAU2NmNv27rJe2aV-eCdcBSH7raNPBG1SEpiJXtgsPyfcFG8TVwPffW01KDA6VVKh8haD0_EhCdmwyNlI0HVa5QI42LnuusGhQhUDF1JOcF_KdG_Vd3KebHknC2eQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJUZ-cB_BSzDERCug2kjrXl4Q",
+         "plus_code" : {
+            "compound_code" : "3F8R+78 Shah Alam, Selangor",
+            "global_code" : "6PM33F8R+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJUZ-cB_BSzDERCug2kjrXl4Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1307
+      },
+      {
+         "formatted_address" : "2nd Floor) No, No. 39-3, 8, 40460, Jln Anggerik Vanilla BE 31/BE, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0036713,
+               "lng" : 101.5376673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.005055229892722,
+                  "lng" : 101.5390651298927
+               },
+               "southwest" : {
+                  "lat" : 3.002355570107277,
+                  "lng" : 101.5363654701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86a6884c74c050f83549420332f88bc9ab7300e6",
+         "name" : "A&W Kota Kemuning",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111347850134885149583/photos\"\u003eKimmeng Cheong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7uKoO-BGzQGXBnG9PxQbpplfL3_vQMg-1RygRJERpo0eT-5yYrNWPJC3Y-BOr2GR91cjHmLBbagvDkvYaJQW7GHiAvVd2j0gF-lGtA2QXVORD47ldaUI8HY8SNy-K-tgEhA7cA9QGaMzAfGGB8F7GeGGGhQn-QuQ9_8wZzIalPwqAGB78btWpQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJe3pjoo-yzTERREaB1t9tfcs",
+         "plus_code" : {
+            "compound_code" : "2G3Q+F3 Shah Alam, Selangor",
+            "global_code" : "6PM32G3Q+F3"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJe3pjoo-yzTERREaB1t9tfcs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 323
+      },
+      {
+         "formatted_address" : "Lot G42, Ground & Mezzanine Floor, Bukit Raja Shopping Centre,, Persiaran Bukit Raja 2, Bandar Baru Klang, 41150 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0606095,
+               "lng" : 101.4722733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.061987029892723,
+                  "lng" : 101.4736054298927
+               },
+               "southwest" : {
+                  "lat" : 3.059287370107278,
+                  "lng" : 101.4709057701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf2f4186b96b3ed579679f0567baaa90e4c37758",
+         "name" : "KFC AEON Bukit Raja",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114424953113282324351/photos\"\u003eNur Amira Fatihah Pungut\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAmT6qtJuhHe3YI7_QonAPVkGL-LgllJ3_LqUn5REArZErcybX4EstoIkwBxEi7lam0kKoZ6S7nsIucTxZ-8phHetZ52iOCR18B6kMHbn6zKy3uQIS5hnPnrWFnvDkpSkhEhC110copiW1tf1bwLc7VQDqGhQRAZGo9-9_WpYdVk8QKoQFTS81bg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJJfpw4BtTzDERVL95aA1YzEA",
+         "plus_code" : {
+            "compound_code" : "3F6C+6W Klang, Selangor",
+            "global_code" : "6PM33F6C+6W"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJJfpw4BtTzDERVL95aA1YzEA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "27-1, Jln Sungai Burung Z 32/Z, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.999601,
+               "lng" : 101.5260489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000985829892723,
+                  "lng" : 101.5273590298927
+               },
+               "southwest" : {
+                  "lat" : 2.998286170107278,
+                  "lng" : 101.5246593701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "76a126465c8c475d14bdfed731735346180850ce",
+         "name" : "DUX Oriental Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2357,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101489196199655369315/photos\"\u003eErik Foo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGJtsINRqmDkXvT4dOSymvs1zYKV1Fz3wvzfqeehJN_Zpmd-AVdE-4UyjYLwBT553tqehvIEvqa7s_awxaygAOy0S-TE3jp3ZQ4up91yL73LYcPDpFNxuXgikSR0-_g6UEhB9GbYfw_-lMnzKAMPDUdijGhSfoH5igiRuI0n45mYxuFLrrlkuzQ",
+               "width" : 4194
+            }
+         ],
+         "place_id" : "ChIJUVVVwIGyzTERL3hzgpHLKz0",
+         "plus_code" : {
+            "compound_code" : "XGXG+RC Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXG+RC"
+         },
+         "price_level" : 3,
+         "rating" : 3.9,
+         "reference" : "ChIJUVVVwIGyzTERL3hzgpHLKz0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145
+      },
+      {
+         "formatted_address" : "No. 8, Jln Anggerik Vanilla BE 31/BE, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0040965,
+               "lng" : 101.5371868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.005405979892723,
+                  "lng" : 101.5385804798927
+               },
+               "southwest" : {
+                  "lat" : 3.002706320107278,
+                  "lng" : 101.5358808201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ed5a97c37b7a93005a4ab2fcaa1e12d3b63e0f5",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107607930802567574658/photos\"\u003eK.C. WONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzItjlvlVDmfs0sLVU_BS3AZP0C6-7X9p93pHggU68AeVH50kOpuUmHmz1kkPnsj18QQIDLDrhi5ZQhri23MYk9FtJF9nTnnD2FLoFRMGs5zTsuSSLtNTS5r30_GzY1GNEhD9VJw9_1G_fwyk8I4kvjxIGhTPtKoQwJlWrJOMPQDl0bm3MQ7a8w",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJLTaqlo-yzTEROuED1aK96g0",
+         "plus_code" : {
+            "compound_code" : "2G3P+JV Shah Alam, Selangor",
+            "global_code" : "6PM32G3P+JV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJLTaqlo-yzTEROuED1aK96g0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 275
+      },
+      {
+         "formatted_address" : "No.2, Jalan 22/6, Seksyen 22, Shah Alam, Malaysia, Selangor, 40300 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.040269,
+               "lng" : 101.547442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.041618029892722,
+                  "lng" : 101.5487850298927
+               },
+               "southwest" : {
+                  "lat" : 3.038918370107278,
+                  "lng" : 101.5460853701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2098228827b113da3d40b2d81a6ba8f89bb57e95",
+         "name" : "McDonald's Section 22 Shah Alam DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115314837660200344195/photos\"\u003eSharifah Lailatul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0uT0dD8eDaHUCmbs9zK1o9JTTgEe8_UxKl4wKUbIuUOIcEkaRB5sw2YvHBzP46P4WtK-_t4ev3fl4nX_VXqt_4H3-nv1DgVk2QSSg2x9T13SJlOI1dCH77NkQyW-y1jLEhCSrnPW1ixdPZLZA4r3KLsZGhR6ripZg_5dk_3P9_7mr1i4kCtApg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJu-H6_UlNzDERNvOBDo8dFcM",
+         "plus_code" : {
+            "compound_code" : "2GRW+4X Shah Alam, Selangor",
+            "global_code" : "6PM32GRW+4X"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJu-H6_UlNzDERNvOBDo8dFcM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1800
+      },
+      {
+         "formatted_address" : "Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0005408,
+               "lng" : 101.5281746
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.001923579892722,
+                  "lng" : 101.5295190298927
+               },
+               "southwest" : {
+                  "lat" : 2.999223920107277,
+                  "lng" : 101.5268193701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3fec1130d050c0581d8ae0212ba1f2f7f8b55a16",
+         "name" : "Puchong Yong Tau Foo",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110815061301177283897/photos\"\u003eNava K\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP4JUSQ2jMlWdlnadpTsPB41pZ-vj70TiWfC-doLWQVZMzZMH3joiHMcplfRWjN9TVQ93xbWVSoG1w6Z45WGP8f-hS21DU7qYOa4eWuDN_lVYKCPcioZsZEeTaP-9_RSyEhDYM9GDpbxF1Kb1Rtk0uDcXGhR91PRMNxnL3yxRJ5KttEqxFlfkpw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJc-qne4GyzTERPklCO4ODVtA",
+         "plus_code" : {
+            "compound_code" : "2G2H+67 Shah Alam, Selangor",
+            "global_code" : "6PM32G2H+67"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJc-qne4GyzTERPklCO4ODVtA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 225
+      },
+      {
+         "formatted_address" : "No.22A-G, Jln Sungai Burung Y 32/Y, Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9993495,
+               "lng" : 101.5267017
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000734429892722,
+                  "lng" : 101.5280964798927
+               },
+               "southwest" : {
+                  "lat" : 2.998034770107278,
+                  "lng" : 101.5253968201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc592d0441ab5cb483aace97e22d4f67e2e2457f",
+         "name" : "Boss Curry House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112866518838131755981/photos\"\u003eAzmi Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoybEpClI5lIKZo9OyYRTtmRMY6mcad3ISRcelaZ6ZM77qY7eJk5U8IoWEfDciPUXkYbdhwNV267bhEO44lQoXcIPefA61RWyGJ6lpenldE69PHOj6XqGaPJ-jD3YP6koEhAIk2ZbQdRb2kZ53jkDnJmrGhQ_zk15f9IyeV4bHebbHy20wDPIwQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR7cHu4GyzTERy5FUvacMCNQ",
+         "plus_code" : {
+            "compound_code" : "XGXG+PM Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXG+PM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJR7cHu4GyzTERy5FUvacMCNQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 508
+      },
+      {
+         "formatted_address" : "Lot No. 2, Jalan Sungai Burung 32/68, Seksyen 32, 40460, Shah Alam, Selangor, 40460 Shah Alam, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9993056,
+               "lng" : 101.5286389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.000658379892722,
+                  "lng" : 101.5297529298927
+               },
+               "southwest" : {
+                  "lat" : 2.997958720107277,
+                  "lng" : 101.5270532701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "40597c091f84248913cffb0e62cdec50186e70f4",
+         "name" : "Aeon Big",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105434082326124102130/photos\"\u003eTan SOUND\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPtSs4-COT5_I5B7HdqejkLniwPOl8FfAs9Vpd1rbBWxtJqDr5iJb3VU7e0iW4wnPPSHxAnOz9pk8DTY2u08bMdbXVoPUFCJpCVGOkjVG-OrYRdzjQIF57i-nAK_s6yV7EhApnlqoUrvRqCLU1SztbjWUGhRodujCcIowRpV5RTXMdPU_-acOrg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ4b1IDIGyzTERkSz0H3U7EEM",
+         "plus_code" : {
+            "compound_code" : "XGXH+PF Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXH+PF"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ4b1IDIGyzTERkSz0H3U7EEM",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9986049,
+               "lng" : 101.5267664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.999911429892722,
+                  "lng" : 101.5280417798927
+               },
+               "southwest" : {
+                  "lat" : 2.997211770107278,
+                  "lng" : 101.5253421201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e7b0f9282dbd775178468c076b4b4e7473993bd",
+         "name" : "Restoran Kar Hiong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109671588146262236274/photos\"\u003eCS Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8WXHx1nxJOdxT81rfDL4zygef5slEMPuNaO8_DQmH7sExy4SYiOW-mIHaQ8K0YYes2x6ZVRrG0I2hYJNMwN415NPk40ARnZ81OKRYgGg8YmO0YqWg1UgmVwyTlx_MatpEhBTUmCOdxcxnKnL6QMXLCx5GhQ_TqRZZ-MGDjhkCoKfUpV07sn8Kw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJM0resoGyzTERtR7S_abiQcc",
+         "plus_code" : {
+            "compound_code" : "XGXG+CP Shah Alam, Selangor",
+            "global_code" : "6PJ3XGXG+CP"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJM0resoGyzTERtR7S_abiQcc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "formatted_address" : "Bukit Rimau, 40460 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0015865,
+               "lng" : 101.5274385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.002935479892722,
+                  "lng" : 101.5288633798927
+               },
+               "southwest" : {
+                  "lat" : 3.000235820107278,
+                  "lng" : 101.5261637201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "05eb879f9a7014641a9244b294af16aa206816e9",
+         "name" : "Restoran Yap Ming 叶铭（乾）肉骨茶",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109419274677882713118/photos\"\u003eChee Shyong Boon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkuNTUg3PMjEBfSFvt2OnoNxRFqPTst48UGRTOJ5HBUqdnZpmwv5dQqLL4B8gblajsQOkLQHeVeOn20dts-ERS2xOrG_Sw9M0E4uBzATJ7YncUzkS0Q9lA-k8VTZ2u04GEhCExqKzpttgay_Uir3h2vSIGhQAztkGDjp1NkJbgIxypkCGMfy3gw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJr_F4MoKyzTERVKtJYzfTjEU",
+         "plus_code" : {
+            "compound_code" : "2G2G+JX Shah Alam, Selangor",
+            "global_code" : "6PM32G2G+JX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJr_F4MoKyzTERVKtJYzfTjEU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 142
+      },
+      {
+         "formatted_address" : "Lot 1, Prima D33/D, Taman Kemuning Utama, Seksyen 33, 40480 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0211377,
+               "lng" : 101.5382426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.022560679892722,
+                  "lng" : 101.5395531798927
+               },
+               "southwest" : {
+                  "lat" : 3.019861020107277,
+                  "lng" : 101.5368535201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4531c190825e0ab3ec68da691554b26836a4cdd4",
+         "name" : "KFC Bukit Kemuing Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107622409162653942304/photos\"\u003eKim T.J\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZ4KfTZ5_fSUxoVdMrqEzJxduQpibPuViUJNEX9B4clTtDpPXhptScu2RIP_vBNTTSOokINdwg-MuxbLo78Iv-bE_vgAwi4TAtKYWCj-xyEWy12tbcu1MuJrJwcrQHQKOEhBrqNrTFx2JCHNv-XAAH19vGhTkMkPb4GUJcosgRh1skz42qe7eEw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJZy0McruyzTER8gIIdJxOfr8",
+         "plus_code" : {
+            "compound_code" : "2GCQ+F7 Shah Alam, Selangor",
+            "global_code" : "6PM32GCQ+F7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZy0McruyzTER8gIIdJxOfr8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "41000 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0245039,
+               "lng" : 101.4798938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.025872979892723,
+                  "lng" : 101.4812758798927
+               },
+               "southwest" : {
+                  "lat" : 3.023173320107278,
+                  "lng" : 101.4785762201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5503538f230129d1179c9e80541cc570a7333419",
+         "name" : "McDonald Kg Jawa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110936183563532719079/photos\"\u003eangus sim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF_kHgLmDFpt3632lWvY0EbXGOGYyeMZ-92VE4s_f90iylVu3E8_-SCE_5S2TbE7DGXwqphrMfhU4vcya0Nhm-rm3sax3_g37CKNuydMSzjvLh4_ZvJNh61G2xyAAgd-iEhDhjCxDXtO0QzMTAeT3DKSMGhT_k5AJAcFoUwA1Z2LUjNNcruOOow",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ1V92jSetzTERTIYukhfQzUQ",
+         "plus_code" : {
+            "compound_code" : "2FFH+RX Shah Alam, Selangor",
+            "global_code" : "6PM32FFH+RX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ1V92jSetzTERTIYukhfQzUQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 632
+      }
+   ],
+   "status" : "OK"
+}

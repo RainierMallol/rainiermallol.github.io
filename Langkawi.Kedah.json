@@ -1,0 +1,854 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAELmdpSDgedSi43SwtBOohyLXKT0CRDODe9mPJbr-wjK0tmOJzuQQ40zw0_lB3zuK8AbqUJ1KMWSXoXma_9iv9oFG3g6EUnPctIL7RhdjxTJCQkad8ikmoeagkeDb_bXBepHT0fgjqjImUOurC-m7vWZyHPV3Gsk7jsNeD4uqNlpiaD3mKp9K5jQ2zyaZy8gHoRHJuWKQH-WyPc4-vaVBtpFd3Aw9AV1ToY2C0OxkGz07gwLw1iYdkuCivW6rvbiNqxGmNvmMRCcqCsS_FvOOvfOoj7emPCcUiwbIrnXzMTRLn4tW9eiVB0E2FJO5i19kCXRoU7fKE6qoXqAPMRQsAy0blMWTFplj4H2_snvrIIBClordbK26lhwoTbELMhu1KkG3kTu57P2GjLiHKCsG6ybUIi0DpEFWEs-pY2LxazZvNejM5fLaj5rdgCguz6b1RkaqGQ54pcvOvUSn5l-w9Ds-WMDPlElbe_aBdbI9D4-2PL9shngA4TjtZVNUY9whwzca25z6P7B4hXfNJNzBHTlSyb-d_wMrn0r13oUMkIhiKYBb5AcNk9iMEIvfwnL5F5GynLkaIYdm6Y03a43u_XNAOKGmBEQmKhQpSYT4c9E1jihFUA03fiz8CVamaW4kgHAqeaQ1fxRKzt_xoTJ7eT80ztfX_HbOENLCu7rANDtEhD_Y8QNG0OJSh0UalhBd9jbGhQpQkN_e1pv5IaI8DR_Mf_JiJCK7g",
+   "results" : [
+      {
+         "formatted_address" : "31, Jalan Pandak Mayah 5, Taman Bendang Baru, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3215508,
+               "lng" : 99.8511908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.322935129892723,
+                  "lng" : 99.85251097989271
+               },
+               "southwest" : {
+                  "lat" : 6.320235470107279,
+                  "lng" : 99.84981132010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "38050d9669eba74dab6f57ba01ba7e04a4cdae8e",
+         "name" : "Chicking",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107993204907547899195/photos\"\u003eMustafa Al-Musawi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO5KdQ2V2bn2pjXkeRCN24-c2KMV_PDwmp_C31TWKlewNjeBzQuXBZQ4VZR7ZdUws2YL-1Z_4cPetabaphV6rQ0-2H7gmOOwxEWQH7VkbnS8ltradtnTvlhsgsV5KUPdaEhB39GQwubu2sfxHLLaUtNEVGhTRNjvSF0W3U2FKqNGMISYI5_WqSA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJvds50nt_TDARizAZPsubAOQ",
+         "plus_code" : {
+            "compound_code" : "8VC2+JF Langkawi, Kedah",
+            "global_code" : "6MRX8VC2+JF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJvds50nt_TDARizAZPsubAOQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 132
+      },
+      {
+         "formatted_address" : "Kuala Kedah Lot No C 03, Public Concourse, Langkawi International Airport, LAND SIDE, Padang Mat Sirat, Pulau Langkawi, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3416086,
+               "lng" : 99.731354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.342858179892723,
+                  "lng" : 99.73263732989273
+               },
+               "southwest" : {
+                  "lat" : 6.340158520107279,
+                  "lng" : 99.72993767010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "652e8871e4fa4e35054e12f6df641453a9c70502",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115013040402494411119/photos\"\u003eCheyenne Autumn Johnson\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsgsiQ7aaoNcZ1A8wL18HcWYn9qJ6-ZmDMgPG85Mx0WECtsLJ2aNme5xRtMq-lUOLyMaiW8plDnwqAXs6tA2nDptsu4ccSEyRzyhRT4K5G5juACZ1drjRmiTMIQ7rTKT2EhDKaTfxmaHDqIgMuztaBECCGhTWumGnW0HmAHvi6e6u_IKECj-MgQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRZOFfyN4TDAR-_opz3QYQZE",
+         "plus_code" : {
+            "compound_code" : "8PRJ+JG Langkawi, Kedah",
+            "global_code" : "6MRX8PRJ+JG"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJRZOFfyN4TDAR-_opz3QYQZE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37
+      },
+      {
+         "formatted_address" : "D Langkawi Island Mall 45, Arked Pokok Assam, Langkawi Mall, Kuah, Langkawi, 07000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3272245,
+               "lng" : 99.8404379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.328551729892722,
+                  "lng" : 99.84184037989274
+               },
+               "southwest" : {
+                  "lat" : 6.325852070107278,
+                  "lng" : 99.8391407201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "068dac31dff6d4566368991fa26e217f2bbd6184",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107156957863449092759/photos\"\u003enurul naar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJcAHdWUUHtoypVt09Ox_tbrCz4ZWc3V1GgVAf2ObfE9lcYFiyGgS5mHShmGoz2ge8xrPUwSDdHwFvZlpOvrpobIkPoojsVXPD56jeOcNGDU-ziP8vAUzNe1AqMst5lOlEhAkAWwDAj6aV18iYuWQ8QqfGhT4d9iUzdSh6i3GVolRPkbCPxxnMg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_Ubh025_TDARmSOdP75zO6s",
+         "plus_code" : {
+            "compound_code" : "8RGR+V5 Kuah, Kedah",
+            "global_code" : "6MRX8RGR+V5"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ_Ubh025_TDARmSOdP75zO6s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 811
+      },
+      {
+         "formatted_address" : "07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.370648999999999,
+               "lng" : 99.67267799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.372306279892721,
+                  "lng" : 99.67389127989271
+               },
+               "southwest" : {
+                  "lat" : 6.369606620107277,
+                  "lng" : 99.67119162010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b5ba0d5f5cc45651981330624de5315cc4fe2a1",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105307888101208728857/photos\"\u003ePan Vader\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABwAl0YgJfbBmw9GQHzCn6u4u8w8Mty0aOLqyXzuhbnYn3lzvdmNqzO4Zcc3dk_a44EpH3QJdMAY_5enWCclqlZ0fhslwknaHFihM_Kjg1tQ3JuCFWpQNpYhS73sgFUOtEhC2D_4uvgXKqStzxyBivxikGhQvEjAogmRU-j-nhWp4uhen7sTzpA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ-92_peR2TDARQtT_Q-o11aA",
+         "plus_code" : {
+            "compound_code" : "9MCF+73 Langkawi, Kedah",
+            "global_code" : "6MRX9MCF+73"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ-92_peR2TDARQtT_Q-o11aA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Pantai Cenang, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.286785999999999,
+               "lng" : 99.7296008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.288157129892722,
+                  "lng" : 99.73099242989271
+               },
+               "southwest" : {
+                  "lat" : 6.285457470107279,
+                  "lng" : 99.72829277010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3f10c0179f461d49bec6d23c7ac2bb1e6bdfa26c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1908,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116069207756299727702/photos\"\u003eTomas Tarosas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV51-KVWTJVPU2kMbsX_WueJ--jtzqX8wIyoTJkC-FIIU--KLH2UHzvwB4geA5VxcM6JpOVdAxD6r-G_qAu_2FwDhmWPUqXLBqwTXjsQNQM73y-H7iGHFo_JIxJ84_nruEhBfD1MhntK_VZE6RoWZisHNGhSsQ4NBJIfXA1bJ170SYTMU6_sR4A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8dCmOtqHSzARM0hPMIUjYYU",
+         "plus_code" : {
+            "compound_code" : "7PPH+PR Langkawi, Kedah",
+            "global_code" : "6MRX7PPH+PR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ8dCmOtqHSzARM0hPMIUjYYU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 760
+      },
+      {
+         "formatted_address" : "Kompleks Jetty Point, Persiaran Putera, Kuah, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3063581,
+               "lng" : 99.852131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.307467379892723,
+                  "lng" : 99.85355532989271
+               },
+               "southwest" : {
+                  "lat" : 6.304767720107279,
+                  "lng" : 99.85085567010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "703a4ce9e0e1a578058f2f91bcb68055b86a5e4b",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111041583483332463255/photos\"\u003eMajed Alabassi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9TTLx2FFrp9l8eLIoavnNGrYccX5GzpUJiTIumRCTSbOi23RVZ_Hgs8ZFa7N-OWG4MyKiw4Xv5nws194UfltALg7SNf9f8soz5SA9Pn3ZShPBI0qDRMWtVtuN0geLh_-EhAQFqR7i_P7lnOXQhhmKrMaGhR7GM5NpCRD-6Kp4KpxnNKdoMTV-w",
+               "width" : 6224
+            }
+         ],
+         "place_id" : "ChIJuwLxgIaASzARWhKWbedCSzA",
+         "plus_code" : {
+            "compound_code" : "8V42+GV Kuah, Kedah",
+            "global_code" : "6MRX8V42+GV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJuwLxgIaASzARWhKWbedCSzA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "Kampung Temoyong, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.2924003,
+               "lng" : 99.7415766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.293743979892722,
+                  "lng" : 99.74290647989272
+               },
+               "southwest" : {
+                  "lat" : 6.291044320107278,
+                  "lng" : 99.74020682010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8318637b9e10098f0ad755a8e6e5b7e66969b0e",
+         "name" : "AYAM GORENG CHIZZ SENTAP LANGKAWI",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110981884980807777737/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMpRy9sTdtGO_Ldmt5o0oyxq-VTOuxZA1eZPoPB_J8OoKrPqDnhRUPTKaMV5fUe42DgfQ0j4-nPzgH7vSF-Dk4O6HQLdT0Qx-BxPrabjPaA_GoKfykOU_1afcjEooSweBEhAKabpUcK-x-DnleTzWa0RwGhQZv18FzsEYFrbViZ2jMALB0Eoezw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ1T5P0tWHSzARfjOoKrNbjOY",
+         "plus_code" : {
+            "compound_code" : "7PRR+XJ Langkawi, Kedah",
+            "global_code" : "6MRX7PRR+XJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ1T5P0tWHSzARfjOoKrNbjOY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 2 Bulatan Ayier Hangat, Bulatan Ayier Hangat, Kampung Padang Lalang, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4269336,
+               "lng" : 99.8028616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.428316329892722,
+                  "lng" : 99.80422967989273
+               },
+               "southwest" : {
+                  "lat" : 6.425616670107278,
+                  "lng" : 99.80153002010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53c26057a7fbcc9c88b1a069a5832c409e6e651b",
+         "name" : "MD DEE Ayam Goreng 1,2,3",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100196245671135893163/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAEsSuRJWAF0elZe7oIeVA6DRC7L_mcbV0L9uLI9qirKczC8GE0J0PwagP32USt_JlAhT-HHJQfFE-miaVrG0iCzFezLZdgqukn5XU8vxlZdBt4WtqFxb5pdywMPzxvupOEhDXD0HmnBDO4o5tOSF7G47pGhSW-mXX5dU-eKikelmG3NzLhvzQqg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ4eMvR457TDARrQ8AA0Hkn5M",
+         "plus_code" : {
+            "compound_code" : "CRG3+Q4 Langkawi, Kedah",
+            "global_code" : "6MRXCRG3+Q4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ4eMvR457TDARrQ8AA0Hkn5M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "40 & 42, Jalan Pandak Mayah 5 Kuah, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3214846,
+               "lng" : 99.85115979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.322880429892723,
+                  "lng" : 99.85247007989273
+               },
+               "southwest" : {
+                  "lat" : 6.320180770107279,
+                  "lng" : 99.84977042010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91bffbfa696742d3b45fbc9f0ef29de7f53235d4",
+         "name" : "Mimicking @ Kuah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109787921470768006591/photos\"\u003eChee Yeang Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgORvp7iZGBqVY3TsBBQck_QADs6RP5O7vS2j6BtUuP_22yhqjaEpRMdVzCJccQ0JW-kl7rvOpPPD_UE5u6g9Gk8oRd4cI1rH1Bd-e445Ay8uI5RKYWgl7ey7agSnyEFsEhDhti2EFGKwxBT_0DUEfl6EGhTGOE4ax2_xyBS8E--3jW8QqiVzWA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ5WkTCnl_TDARCWy-XtITL3s",
+         "plus_code" : {
+            "compound_code" : "8VC2+HF Langkawi, Kedah",
+            "global_code" : "6MRX8VC2+HF"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJ5WkTCnl_TDARCWy-XtITL3s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "GF3, Langkawi Fair Shopping Mall, 44, Jalan Persiaran Putra, Kuah, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.31032,
+               "lng" : 99.85620499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.311766479892722,
+                  "lng" : 99.85763467989273
+               },
+               "southwest" : {
+                  "lat" : 6.309066820107278,
+                  "lng" : 99.85493502010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f73523d891abbd2947e9ba41b1201b3621872800",
+         "name" : "McDonald's Langkawi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 688,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111683916883267463314/photos\"\u003eNaderuzzaman Owner Of Prottasha Travel Agency\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVj1AXG0tE5Jh3jtxNY9Xz2-zDYOvJ8x6DIke8nN3Thq74ElD_4JZfTUC4FOEP43kD3GTAi4rf-ILEPBPGnkpas0RN6Q78_PAWkIv7uBfKUIsN97oFEvoHep0kcs6WtnEEhBKSCF5xiIPT4eITy_u7RKoGhSDxjW82HYRY9kijPRrvkHCVLdeqQ",
+               "width" : 1125
+            }
+         ],
+         "place_id" : "ChIJpazovYCASzAR2jZ_OhDlzX8",
+         "plus_code" : {
+            "compound_code" : "8V64+4F Langkawi, Kedah",
+            "global_code" : "6MRX8V64+4F"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJpazovYCASzAR2jZ_OhDlzX8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 477
+      },
+      {
+         "formatted_address" : "Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.2926489,
+               "lng" : 99.7260838
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.293988629892723,
+                  "lng" : 99.72741892989272
+               },
+               "southwest" : {
+                  "lat" : 6.291288970107279,
+                  "lng" : 99.72471927010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "55e6273dd217d1f442fbe30d3d2427125be8632f",
+         "name" : "مطعم حضرموت السعيد QUICK MEAL lebanese & yemen food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJe2iEdASHSzARYbGd0HqRRw4",
+         "plus_code" : {
+            "compound_code" : "7PVG+3C Langkawi, Kedah",
+            "global_code" : "6MRX7PVG+3C"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJe2iEdASHSzARYbGd0HqRRw4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Melati Food Garden, Pantai Chenang, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.295539,
+               "lng" : 99.72432499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.296990479892721,
+                  "lng" : 99.72571497989271
+               },
+               "southwest" : {
+                  "lat" : 6.294290820107277,
+                  "lng" : 99.72301532010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f64e974cd3aaffec009b3b49771c8bc8a3fd22c5",
+         "name" : "Crispy Palace",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111990317201030404598/photos\"\u003eMariah Lilek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyv1U02PFUzS0K7KzyNF1Dk2G3nfH1u0Q34ngTVT3iF4Fd5cFN3GCtMYPrgUlLvpjCyVxuJCH0as4NPw6t9rZUH7KJAnHb5Q-6DHT16KB8CrQqztOtVOBIQuEoAlEA_8WEhAQgFlA40lHjvkUsvtGItZHGhQMT90EKfBq7AYNulyYsjsJIHa7SA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJlWpp4d-HSzARc-FXVoBzbVU",
+         "plus_code" : {
+            "compound_code" : "7PWF+6P Langkawi, Kedah",
+            "global_code" : "6MRX7PWF+6P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJlWpp4d-HSzARc-FXVoBzbVU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Lot 2605 GF 4ab & GF 5, Jalan Pantai Cenang Mukim Kedawang, 07000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.2906707,
+               "lng" : 99.72786719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.291988929892722,
+                  "lng" : 99.72917272989271
+               },
+               "southwest" : {
+                  "lat" : 6.289289270107278,
+                  "lng" : 99.72647307010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "060ca6bfbcae850b87bdbfdbdb26b68c0c6fc0bc",
+         "name" : "KFC Cenang Mall Langkawi",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113355718339158519340/photos\"\u003eMian Javed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACnCKquHj-C5-xKNN1s0wzHTtjMSd7dpZXZopUQNdfnx1dyONWbXHXsGSpVwRqBti92FbABwo-uhrfzCpiThUdHIij_6OzKdJ6bvSkzlQQIm7_xv5C4zRIiU29Dr8d7nhEhAJ18CmB_Q9gf3Yr5hzEsNtGhSghG5IuqfTPfwUQHX5eOmq1lbasA",
+               "width" : 2272
+            }
+         ],
+         "place_id" : "ChIJT3Fjut6HSzARpX7WRrgG0Vk",
+         "plus_code" : {
+            "compound_code" : "7PRH+74 Langkawi, Kedah",
+            "global_code" : "6MRX7PRH+74"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJT3Fjut6HSzARpX7WRrgG0Vk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 234
+      },
+      {
+         "formatted_address" : "Cenang stret, Kampung Lubok Buaya, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.2926945,
+               "lng" : 99.7261912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.294086579892721,
+                  "lng" : 99.72750237989273
+               },
+               "southwest" : {
+                  "lat" : 6.291386920107277,
+                  "lng" : 99.72480272010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6791da431913a6e070d7eb2ff8f1583c100207ca",
+         "name" : "QUICK MEAL langkawi مطعم حضرموت السعيد",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106065448028804304161/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAThLaX2Ebnb-F8bKn3LwCJvo9jUrsMl6JpXP5f1_wV95og1RPrao8uY6kU98BNht3-5pnUQZgynlu6zObZgOLWBYNAjLi2LyqRpT9y6X1S-P0DUDSYC53SnXY4mNSwSOcEhBpk7Fnm4NMvMpeyHfaZ-1gGhT-COVgf8ioNjcU9gMQrVoc4NlDPg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcTKKAYeHSzARQZNG1p4eDL4",
+         "plus_code" : {
+            "compound_code" : "7PVG+3F Langkawi, Kedah",
+            "global_code" : "6MRX7PVG+3F"
+         },
+         "rating" : 2,
+         "reference" : "ChIJcTKKAYeHSzARQZNG1p4eDL4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Pantai Cenang, Langkawi, Malaysia, Kedah, 07000 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.286658999999999,
+               "lng" : 99.729632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.287966679892722,
+                  "lng" : 99.73101122989273
+               },
+               "southwest" : {
+                  "lat" : 6.285267020107278,
+                  "lng" : 99.72831157010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "137696c9b0917d7b051d87580efae20c9c93432d",
+         "name" : "McDonald's Underwater World Langkawi",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ88BXDyOHSzARLOAdjznDN_o",
+         "plus_code" : {
+            "compound_code" : "7PPH+MV Langkawi, Kedah",
+            "global_code" : "6MRX7PPH+MV"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJ88BXDyOHSzARLOAdjznDN_o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Perdana Quay, Telaga Harbour Park, 07000, Langkawi, Kedah, Malaysia, 07000 Langkawi, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.366905699999999,
+               "lng" : 99.6856854
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.368438129892722,
+                  "lng" : 99.68711132989272
+               },
+               "southwest" : {
+                  "lat" : 6.365738470107278,
+                  "lng" : 99.68441167010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17b83c7f87305ee7f97669951e883fe22b500a72",
+         "name" : "Maharaja Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106004809989275787924/photos\"\u003ePiyaporn Thongyon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArfOe3uvTQ_EpoXaLNF9C9jo0xzExVt0p_XB7JoeVLfTDYEf74NMYb4WdT7Gn3V-8yhYFdUD7p61SNFryU_KZLBJPpzXNEEc5menu5oPfvSJ0MS-iV-6EUd__iaHExnbWEhCj0iEy_rfkv5QPrdykqlt3GhSO_y4x53481twAGy3YjItqR9gcRQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJSaRLNwN3TDAR5aPAO5_jpl8",
+         "plus_code" : {
+            "compound_code" : "9M8P+Q7 Langkawi, Kedah",
+            "global_code" : "6MRX9M8P+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJSaRLNwN3TDAR5aPAO5_jpl8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 241
+      },
+      {
+         "formatted_address" : "Kompleks Jetty Point, Lot 16 & 17, Jalan Jetty, Mukim, Kuah, 07000 Pulau Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.306319,
+               "lng" : 99.85173499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.307701779892722,
+                  "lng" : 99.85322177989273
+               },
+               "southwest" : {
+                  "lat" : 6.305002120107278,
+                  "lng" : 99.85052212010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1193bfecefc45ab52f95796d4f535f62b08f33d6",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116701949765791398795/photos\"\u003eyuan peter\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPfoRwnTPFPsbKqEyyCVhy3R7--U6Z5BBQasDASRsBdPwbtVS1FnrpIIujuFJfsFi9K7LeamZ1a6lZ2jTN7Q5dZpMsHHHq7Zi13jNr7KaCE_vFej5f9k71MtnwF2AfOn0EhCnoVq5xpoub71FPX87fWjIGhTuH6eJgVC1moxS72TrZnNo8MKigA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJJ5ImkHp_TDARRy4hDBa_Y_I",
+         "plus_code" : {
+            "compound_code" : "8V42+GM Kuah, Kedah",
+            "global_code" : "6MRX8V42+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJJ5ImkHp_TDARRy4hDBa_Y_I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "Karung Berkunci 200 Burau Bay, 07000 Langkawi, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.366900299999999,
+               "lng" : 99.6675317
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.368473979892721,
+                  "lng" : 99.66871027989272
+               },
+               "southwest" : {
+                  "lat" : 6.365774320107278,
+                  "lng" : 99.66601062010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3548b5c6f2c0f690741247fc31f6dd850133488d",
+         "name" : "Berjaya Langkawi Resort",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 266,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118442791957546162492/photos\"\u003eBerjaya Langkawi Resort - Malaysia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAsSOUh2xLSUYn15I5LGN1QR9BRW-MmykotZt5dmL8t2TfUXLDZ1UrBPK6WRl__d_HlEri0v6UElcEvPXq8Yf9Reh2Khvux0fSTV46nWEr09m3_YFXvysUy5iFen9zlc9EhDq8mKEBa4M9RRl2XTwcMWMGhTqJAad77oNTngOwbY3XGicVQw-Qg",
+               "width" : 400
+            }
+         ],
+         "place_id" : "ChIJW9achPB2TDAR5xxxfaE9uz4",
+         "plus_code" : {
+            "compound_code" : "9M89+Q2 Langkawi, Kedah",
+            "global_code" : "6MRX9M89+Q2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJW9achPB2TDAR5xxxfaE9uz4",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4046
+      },
+      {
+         "formatted_address" : "Pantai Cenang, Langkawi, Kedah, Malaysia, 07000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.291905,
+               "lng" : 99.726095
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.293364929892722,
+                  "lng" : 99.72759772989272
+               },
+               "southwest" : {
+                  "lat" : 6.290665270107278,
+                  "lng" : 99.72489807010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ae47bf302436227fa327f62c8b7ff7dd344f567f",
+         "name" : "AB Motel Langkawi",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100094326111762946362/photos\"\u003eMahmuda Pervin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-DQ6Yw8cBIVWvJnwZBkLSrtTYiVyLdNmr0Y8oFWJ6Bt3f_qI4jm2wgyTC35dq5TdtQZYPmdHnqLnHQhT40QLcpnuLom09JnqL5XTKOm24MKMYFaGbAlFi_hUV9a540I5EhBpuf-_Nk_WH_28GsTgCA3SGhQDEJtRK0e_yYNcYT_3EdLGv5DXzg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJmWQR1tuHSzARAIaia_YPe7w",
+         "plus_code" : {
+            "compound_code" : "7PRG+QC Langkawi, Kedah",
+            "global_code" : "6MRX7PRG+QC"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJmWQR1tuHSzARAIaia_YPe7w",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 850
+      },
+      {
+         "formatted_address" : "Jalan Pantai Tengah, Mukim Kedawang, 07000, Langkawi, Kedah, Malaysia, 07000 Langkawi, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.285514999999999,
+               "lng" : 99.733014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.286958329892721,
+                  "lng" : 99.73421042989271
+               },
+               "southwest" : {
+                  "lat" : 6.284258670107278,
+                  "lng" : 99.73151077010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed0785d54c194dbc87c410b92a4475866fb53fa3",
+         "name" : "Sawadeekap Seafood Restaurant",
+         "place_id" : "ChIJIwjfl9qHSzAR53sTWcI6rPE",
+         "plus_code" : {
+            "compound_code" : "7PPM+66 Langkawi, Kedah",
+            "global_code" : "6MRX7PPM+66"
+         },
+         "rating" : 0,
+         "reference" : "ChIJIwjfl9qHSzAR53sTWcI6rPE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

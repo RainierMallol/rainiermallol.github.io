@@ -1,0 +1,889 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAAAvgznd7O5VPx1LH_i7-AtNDK1M9yMEDWK00XVrbyu8UFuNEEfFZmaoqktYBzW34qiZIJ4NojgXc6jxKeMq332qgZrOH40wtI2rD2uyZNkVH1LaBSQEgjOB4ArwWdlgjovg7h70YuCAExav-xPky-P4Nhb_Stj2L6qlgy-CxBdVe2bQJ64U7z_cG-YGfoql2_U2C0tlQ6folPObTzLYgY0MZ5QgsVdeuYPb2SLlcUHB0DepOlsjMs3AxVHl0cZ_TCn-C_gAnJ1_FAt8GvTdgvJvSgnhb8lSFZNjRacjEsZ_-1UEKCGz1czizE70D2eAkp-p_kJXuMKsttc44-HpIacn_V2v0M-H1mrGUa8qI_7kx7AV9pJb-jOqypULMUmS-HOODdcorqQP5MHjKLNJLiXcz7qPkC8eDoIsvgmZQEjE3GQEHSH4rJXrXzgB3sE5T15nbg9ZJqdl6Murqmny8-uLsh4BcZfB5n1N131M6Dnl2jGUU3ZthTtgQo_-6Lf8rBnp15G72x_hOgL69iovl3p5momO6fQgU_ty8QmEjAlFHdTSWjNjDiJuOcc7WJz6tQ1MsMrHxHzRVDDpTi_W6eNfZ_RVbGW_Npl8JSv0A4O2hwkVX9I5BtAx0n2_JyoSaeUjT1zgYONAJzS4HL3xu2PpLTf43Z_r1rIO4qZTxG1rOEhAZa5gEfzLt2aqLDd6q4aUfGhSFWQxIJjsjqNWAIRmDT0w0q9NnMw",
+   "results" : [
+      {
+         "formatted_address" : "Lot 49987 Mukim Senai-Kulai, Pontian Highway (JB Bound), 81200 Johor Bahru, Johor Darul Takzim, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.551252,
+               "lng" : 103.649698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.552490429892722,
+                  "lng" : 103.6509685298927
+               },
+               "southwest" : {
+                  "lat" : 1.549790770107278,
+                  "lng" : 103.6482688701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9a0116594514bd0991b2cea7db1633172a18af7",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114277846609259761989/photos\"\u003eAbdul Hafidz Abdul Hanan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAdSH0W-MtVLq--qC6VL45xHCmuC_yTavAmUyDTY4RzrxREJn98m0p6AemqWES_payItrVoZIaxigjWNMAJoVX9DP0s-o9fCDR74aQGD9D6qITCj1Xa1nQiuKhfNyXOOVwEhAuDpXldydaSwHlmZyF1u2xGhQuWn3CzTKqNQi78k-7T_nkG0a-qQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJi7o-4uJz2jER8CfcvS1cEG4",
+         "plus_code" : {
+            "compound_code" : "HJ2X+GV Johor Bahru, Johor",
+            "global_code" : "6PH5HJ2X+GV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJi7o-4uJz2jER8CfcvS1cEG4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 735
+      },
+      {
+         "formatted_address" : "No. 88, Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5151421,
+               "lng" : 103.6690307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.516533729892722,
+                  "lng" : 103.6703529298927
+               },
+               "southwest" : {
+                  "lat" : 1.513834070107278,
+                  "lng" : 103.6676532701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bbcd0add62a61c5361ff439bc707eb3417ac9a12",
+         "name" : "Tealicious",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112551798568525442442/photos\"\u003eKoay Weng May\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApT1HZ_CvPbBLmGl4U21bDbSS1C6XnDbzFyZaTDuAwXeeFKsPiWp3w1TCWFliyc-MXbLmKm7VnQItxpdA6kEg2N_Js4lIil04hA3dVG3BlhS_ysz0ZDJbzdekUHVVK9K5EhCGzxqbID1ArQkSQZHfaOm2GhTZ0n4oLhpLcxs2Rp_1YQK9C1vP_g",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJU_qAgKdz2jERmHdq0ew8Dco",
+         "plus_code" : {
+            "compound_code" : "GM89+3J Johor Bahru, Johor",
+            "global_code" : "6PH5GM89+3J"
+         },
+         "rating" : 4,
+         "reference" : "ChIJU_qAgKdz2jERmHdq0ew8Dco",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 113
+      },
+      {
+         "formatted_address" : "Jalan Jaya 1, Mutiara Rini, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5147696,
+               "lng" : 103.6343254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.516239679892722,
+                  "lng" : 103.6356540298927
+               },
+               "southwest" : {
+                  "lat" : 1.513540020107278,
+                  "lng" : 103.6329543701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "30e1b936c996d91fa163369d60db854c8c52ad3b",
+         "name" : "McDonald's McCafe Mutiara Rini",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104861558174790414655/photos\"\u003enikola kovac\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3MJDN2slLesgrpv6vStxMvVFTnVsqcaP_lspk81bZOcXqX6dOAdw0PDEzk3w4Hvd6ocuLHoXOcmxErxme3XArc-QWR_tE-C_4LHuDFoCvEYBEEvcme45WhYLqLFE92a2EhBg-AUYIY1KcLpIykxYeYA7GhRsMhmRMjuvTqtTr2xvAQS6KlIOJw",
+               "width" : 3036
+            }
+         ],
+         "place_id" : "ChIJMZTAaIB02jERuIXZ1BQfFrQ",
+         "plus_code" : {
+            "compound_code" : "GJ7M+WP Johor Bahru, Johor",
+            "global_code" : "6PH5GJ7M+WP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJMZTAaIB02jERuIXZ1BQfFrQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1721
+      },
+      {
+         "formatted_address" : "PHR Mutiara Mas, 17/19, Jalan Mutiara 1/2, Taman Mutiara Mas, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.514784,
+               "lng" : 103.632505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.516064829892722,
+                  "lng" : 103.6339238798927
+               },
+               "southwest" : {
+                  "lat" : 1.513365170107278,
+                  "lng" : 103.6312242201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1b902af416939549e730d494b87cde87f67c93bf",
+         "name" : "Pizza Hut Mutiara Mas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113446770105538615878/photos\"\u003eIrralishah puma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsDlBfqhy_3ZYerhOY6ssEfg_li5bDsb7ySySmTm5l1hO2byKO3wJ8XVJlZnEi_B0cJrdyP59ynm6qGyQkgrlg_O8H_BaOpFrII8JfSSMTM_AifwQC8F098z7ypHqxy2KEhC9BIaRsARqT54zOeZJkvKJGhQn2zjS4HDuvlMYchasAXDn_HliCw",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ7_gukoB02jER95UReiFzfzw",
+         "plus_code" : {
+            "compound_code" : "GJ7M+W2 Johor Bahru, Johor",
+            "global_code" : "6PH5GJ7M+W2"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ7_gukoB02jER95UReiFzfzw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 263
+      },
+      {
+         "formatted_address" : "CIMB @ Petronas KM11 Jalan Skudai, Lot 13309, Jalan Bertingkat Skudai, Kawasan Perusahaan Tampoi, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5003491,
+               "lng" : 103.6976884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.501598029892722,
+                  "lng" : 103.6987439798927
+               },
+               "southwest" : {
+                  "lat" : 1.498898370107278,
+                  "lng" : 103.6960443201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bca42ea17e1097d70a47c18f7f782b179c156005",
+         "name" : "McDonald's Petronas KM11 Jalan Skudai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114557099506463171724/photos\"\u003eBigeyes Blolocks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOma6k3zXCaGzmK0aO26x5VVwIwadzGnXwv04jDe6QMb2utwvnTEDiDJ0cABvS_i2HqzjOGR3IAIhiLgvDU6L99LtcWlsbQtmghSbAzUAYJCg3LCscMiAfnR-v0xWdmF0EhDzoOaWJSAUaZAb3i8ZvmhVGhSzT4cx7lEPI_TLwVBmw0JmgxPZAQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJM6Wd2ehy2jER9xZE3jrhLv8",
+         "plus_code" : {
+            "compound_code" : "GM2X+43 Johor Bahru, Johor",
+            "global_code" : "6PH5GM2X+43"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJM6Wd2ehy2jER9xZE3jrhLv8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 941
+      },
+      {
+         "formatted_address" : "Jalan Pendidikan, Taman Universiti, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.541231,
+               "lng" : 103.6279976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.542702129892722,
+                  "lng" : 103.6294850298927
+               },
+               "southwest" : {
+                  "lat" : 1.540002470107278,
+                  "lng" : 103.6267853701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a74d27eedef6ab5ac0d5aab239843b76bed015b5",
+         "name" : "KFC @ Petronas drive thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108090248119188649402/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxKNiJ58a8tM-ZY1Mh6GwOwtPYC_-Q3JB0BPofEkl1JEIGAki0WuK-7JBGrGtOHun7fEml5kzGPrjRZewdNIjMx_fleGsOleFoCKUg8hUBkk3Soa78w-r_CS8_pWi6IZgEhBwap7JC9kylTkYBKC-aejWGhTsJx5Ybhs7p0EPCEEQ_4sAyqyqSg",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJI1LF-w502jERVruWpa_05pg",
+         "plus_code" : {
+            "compound_code" : "GJRH+F5 Johor Bahru, Johor",
+            "global_code" : "6PH5GJRH+F5"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJI1LF-w502jERVruWpa_05pg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 326
+      },
+      {
+         "formatted_address" : "1, Jalan Bestari 1/5, Taman Nusa Bestari, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4969984,
+               "lng" : 103.6557305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.498422379892722,
+                  "lng" : 103.6570268298927
+               },
+               "southwest" : {
+                  "lat" : 1.495722720107278,
+                  "lng" : 103.6543271701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7d9b22687616677e7cfb59917c7aa11543a7df29",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117724351050006689116/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANmv2qNBHdV4LJ8Wi2TySUr-uqGDh6K03T4MM-IYZCPBn9Roks-SfLArg7wub0U-VpLCXwg8rB5QqBNbEcolMopbMzS5230KlwjMgT68qklP1gIk-m7g2qV60L397695iEhAMvssW_Wlf9DA2kOiDTZGSGhQtXBokhGBufZrnJbdsC6DVkCH_tQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ90vFcGpz2jERQdV8O1IRmEg",
+         "plus_code" : {
+            "compound_code" : "FMW4+Q7 Skudai, Johor",
+            "global_code" : "6PH5FMW4+Q7"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ90vFcGpz2jERQdV8O1IRmEg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 386
+      },
+      {
+         "formatted_address" : "Lot PT 61054, Batu 11, Jalan Pontian, Skudai, Malaysia, Johor, 81300 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.550781,
+               "lng" : 103.650714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.552081379892722,
+                  "lng" : 103.6520368298928
+               },
+               "southwest" : {
+                  "lat" : 1.549381720107278,
+                  "lng" : 103.6493371701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e42339914ecb60e85032cdb8a25a2fddd6599ce7",
+         "name" : "McDonald's UTM Skudai DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108027101027476874296/photos\"\u003eYaXir Mahmood\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjDEKY1A57pf3MLIViVsrxq4zXaN2LvGZ86S2OVjUyLYShPebjQ3McyXeCFvP36VevtWHsm03QmTjS9u9IUeslWhnVTETwRXTlgPVIImyR5zDXCe0xOBUs2dUVglruaBjEhB6G4OF6canABocv7flKq2vGhRU4-fIs9Ftv8oHUQC4esPISZpdAw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqScb_uJz2jERyLw_3YyUv0Y",
+         "plus_code" : {
+            "compound_code" : "HM22+87 Johor Bahru, Johor",
+            "global_code" : "6PH5HM22+87"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJqScb_uJz2jERyLw_3YyUv0Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1648
+      },
+      {
+         "formatted_address" : "BSS KM 13, Jalan Skudai PTD 135891,, Batu 8 Lebuhraya Skudai,, Mukim Pulai, 81300 Johor Bharu, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.523803,
+               "lng" : 103.677906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.525106729892722,
+                  "lng" : 103.6792872798927
+               },
+               "southwest" : {
+                  "lat" : 1.522407070107278,
+                  "lng" : 103.6765876201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b7b1fe4d1d64b47047625f21d5c0d1c857e651d",
+         "name" : "KFC Petronas Skudai Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116101952226299074660/photos\"\u003eaan singa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWJBz7xm8dnBRKtkQkfauezJd57lCDCY0aXbpZ_f_WsfwHRIcMIOtPkbc_fI7aHI1agjaeqSlxJ8zR_aCbcmoCrOd6UOzjbg_qmAT8cEh_oGm57rVTGiPui2QySevOeJUEhB28hRhA8TlJv-WHNIewQ6rGhRTyLRIGeOvIj_tiU-q5LfaVUXWRg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJYSfd-q1z2jERx1GS00S67Xo",
+         "plus_code" : {
+            "compound_code" : "GMFH+G5 Johor Bahru, Johor",
+            "global_code" : "6PH5GMFH+G5"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJYSfd-q1z2jERx1GS00S67Xo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 290
+      },
+      {
+         "formatted_address" : "Lot PT 135893, Jalan Roda Utama,Skudai, Malaysia, Johor, 81300 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.522981,
+               "lng" : 103.6785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.524438179892722,
+                  "lng" : 103.6798930298927
+               },
+               "southwest" : {
+                  "lat" : 1.521738520107278,
+                  "lng" : 103.6771933701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44ea469ae7656e946bb52480ba593f9f578d95a4",
+         "name" : "McDonald's Taman Sutera DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105246538856584636059/photos\"\u003eEncik Anif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPLtarLkpdjbOA6sFfCDdWFmqKU3wlzAAVbFLVLtB_htiz3Iq88--xR6pPeo8r2xYoKWTxzvRly0st95b9t_XB5Pc0XsMbwRNTPdbkv7i7CNIWncxonbArtx-Ya8YI0_FEhA_-Mluwj5kRRXVP9gwiJIUGhQZFJZAmJ_TesGQYTERBv3GPGap1Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ7wHKwa1z2jERfZ5Iqiu70v8",
+         "plus_code" : {
+            "compound_code" : "GMFH+59 Johor Bahru, Johor",
+            "global_code" : "6PH5GMFH+59"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ7wHKwa1z2jERfZ5Iqiu70v8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1340
+      },
+      {
+         "formatted_address" : "66, Jalan Perwira 1, Taman Ungku Tun Aminah, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5238574,
+               "lng" : 103.6644092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.525164179892722,
+                  "lng" : 103.6657814798927
+               },
+               "southwest" : {
+                  "lat" : 1.522464520107278,
+                  "lng" : 103.6630818201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1f71ab7864e87085b07b6bda9b082309d971c3ce",
+         "name" : "KFC Tun Aminah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108105053425187692563/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATT1aDGXLSW7iuT9tEBU1whEU5KfTe-t9oIqvaFs6OersNg5uxT570sazb5gUUcJISXjgp76-idWICsbhFmwiOxyccPWUOqRmUbiUafM1MXDw0aH50Ow8A_XC205oMI8hEhBVKdcJo_9dT_pG63gtPZajGhTtJ-opU8xE9WR3pLTbaltgP1XuWg",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJQVw_Q6Nz2jERtxLmbhPS4Vg",
+         "plus_code" : {
+            "compound_code" : "GMF7+GQ Skudai, Johor",
+            "global_code" : "6PH5GMF7+GQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJQVw_Q6Nz2jERtxLmbhPS4Vg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 335
+      },
+      {
+         "formatted_address" : "Taman Pulai Perdana, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5642,
+               "lng" : 103.6139512
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.565558779892722,
+                  "lng" : 103.6152886298927
+               },
+               "southwest" : {
+                  "lat" : 1.562859120107278,
+                  "lng" : 103.6125889701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "403a406dec8d51f6426b5bd3671a2173e6a5056a",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114458055216963124087/photos\"\u003eZulkifli Abdullah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsINrA377_gCAhXIxTBrend2K8USQt69ugh3PoprYg2KSeAmnPdkKdMCWwNJpABfu4ahzBo5fzKEU8Cee6XQbXzUdNoDswlCvxbCnx-6xJGBndvmi7qS_Zqz_QBu_E-RvEhBUafcL6N4c8FHHnQ7JcRPdGhTLCFa507um-wxU9AArzviwKIoXXQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJc-BAaL122jER8uqGKvnpcnI",
+         "plus_code" : {
+            "compound_code" : "HJ77+MH Johor Bahru, Johor",
+            "global_code" : "6PH5HJ77+MH"
+         },
+         "rating" : 4,
+         "reference" : "ChIJc-BAaL122jER8uqGKvnpcnI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 89
+      },
+      {
+         "formatted_address" : "3, Jalan Seri Impian 1, Taman Impian Emas, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.54288,
+               "lng" : 103.6815
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.544148879892722,
+                  "lng" : 103.6827789798927
+               },
+               "southwest" : {
+                  "lat" : 1.541449220107278,
+                  "lng" : 103.6800793201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83217bd9a30cc7fd29d5252d89993b072f3b3ecf",
+         "name" : "Wantan Mee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102232510662520010279/photos\"\u003erobert franks\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjhhNGvDnrsKDW-k6CKh1-cLT_nvc0l9PBNxbyS6tIpKqLNODI7y_v0sXPEsic1A24F6PgtEENsNKRGbVcjya-kJKt1KDsPXby6vcwhgP4Z-ZlZ8A7BJAA8CNedyIzPtfEhBRSdIsiksCPrWFojsxcBNPGhROPshWdOo-AcK3Nkkwjx8ip0owLA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ9WGHQ81z2jERTlXUHtnuKgo",
+         "plus_code" : {
+            "compound_code" : "GMVJ+5J Johor Bahru, Johor",
+            "global_code" : "6PH5GMVJ+5J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ9WGHQ81z2jERTlXUHtnuKgo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "15, Jalan Pendidikan, Taman Universiti, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.542435,
+               "lng" : 103.629191
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.543685529892722,
+                  "lng" : 103.6306564298927
+               },
+               "southwest" : {
+                  "lat" : 1.540985870107278,
+                  "lng" : 103.6279567701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f30b5c07b11cc25d13decf49798b93ccdd668d39",
+         "name" : "KFC Aeon Taman Universiti",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJgRu2PQ902jERGG31acMvd7k",
+         "plus_code" : {
+            "compound_code" : "GJRH+XM Johor Bahru, Johor",
+            "global_code" : "6PH5GJRH+XM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJgRu2PQ902jERGG31acMvd7k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "22-36, Jalan Kebudayaan 7, Taman Universiti, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5414814,
+               "lng" : 103.6314871
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.542816379892722,
+                  "lng" : 103.6328228798927
+               },
+               "southwest" : {
+                  "lat" : 1.540116720107278,
+                  "lng" : 103.6301232201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e968edebaa8410d94825a1e47f213f0efb24e7c6",
+         "name" : "Domino's Taman Universiti",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109193824962370057998/photos\"\u003emohamad farhan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6tGQriJlQdYv555-MBsMrMKFbzs2y5dxF1ENregZIVFl8uTGXfDbaE3AzRQN9c4GBuVWxj4ZCQO6yVotfQV9piI2WcBsWCnzl1IF-3ITKDoPX0LvV4FLHvG74F4rRIxtEhAVCN4E1bWtbVmOeqBchz52GhTfNV3207p3A9S3Z4K9ogel74V4Jg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJJzMg0gh02jERoM1PorvXbss",
+         "plus_code" : {
+            "compound_code" : "GJRJ+HH Johor Bahru, Johor",
+            "global_code" : "6PH5GJRJ+HH"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJJzMg0gh02jERoM1PorvXbss",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "No.2-30, Level 2, Tasek Central No.2 Jalan Pendekar 16, Taman Ungku Tun Aminah, 81300 Skudai, 81300 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5142942,
+               "lng" : 103.6560457
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.515710679892722,
+                  "lng" : 103.6574498798927
+               },
+               "southwest" : {
+                  "lat" : 1.513011020107278,
+                  "lng" : 103.6547502201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b91dd9c5063504601e6834619453f97863977aa0",
+         "name" : "Texas Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108036794937698474946/photos\"\u003eHorLeong Loh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA271LRmCplfPVb-QILpymQOf7Ybz7RMGw3Bxi33s-MAt6yji6f152-wNZP2W2-af8WiA_3p9WoClED7Kvot0yF5J7wgTXOUoc_29RDUiPM9pQhjeyLfJfPq2Ke7tD6fuxEhDWNgyAKSaJk_BVgi4hVdc5GhRPN3EDgM5T48O-U49brqip8RYQHQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJY3u75kxz2jERXJj5dZTo83Q",
+         "plus_code" : {
+            "compound_code" : "GM74+PC Johor Bahru, Johor",
+            "global_code" : "6PH5GM74+PC"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJY3u75kxz2jERXJj5dZTo83Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 69
+      },
+      {
+         "formatted_address" : "01-51 01-52 01-53, Jalan Skudai Batu 10, Skudai, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5415859,
+               "lng" : 103.659914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.542812179892722,
+                  "lng" : 103.6611124798927
+               },
+               "southwest" : {
+                  "lat" : 1.540112520107278,
+                  "lng" : 103.6584128201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef193a2b7940e18897dbc3eba87f8378f1af1117",
+         "name" : "McDonald's(Icecream)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103356836168524295889/photos\"\u003eHan Chuan Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFfnFSQBnEATxiSiu9P6o4DeL8ehYGVsfn6MvsoJHqrQTQEBcu2BBp4myq1fvcRsNE8RK95Ilj757Edbi2yxYA0UB4xT_tvYvYnhais8XmmmLpvKrTdelhWcnQWuftrX6EhCw-ZxCSGfO7wYf9CyfvhysGhRettvtV_fuzfWKLRAis03gapIIZQ",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJvwvjhsJz2jER84xT60KiAUs",
+         "plus_code" : {
+            "compound_code" : "GMR5+JX Johor Bahru, Johor",
+            "global_code" : "6PH5GMR5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJvwvjhsJz2jER84xT60KiAUs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No. 5, Persiaran Jaya 1, Mutiara Rini, 81000 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5141653,
+               "lng" : 103.6349921
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.515290629892722,
+                  "lng" : 103.6364284298927
+               },
+               "southwest" : {
+                  "lat" : 1.512590970107278,
+                  "lng" : 103.6337287701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "75080cad7510048a20874e8ed7ce8a054fc6b452",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114695959067245769966/photos\"\u003eyi ro\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPHUE0f-Sisjk_FlzkHUyL09WVMq-a2Wi2EUNwjgOT0MOwe5eZtQzIvj5L5Vry650GEDrUrfowBehPb90yd_vN0qyKdhsQBYUdoqV38YRLy2xADqQg_sWnCTwNO1Bi2JqEhB4wTqfKShKLqubjS2-gQbDGhQPM0EOsKyzz0CBfaaCpOQ43VpEtw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJmSUTOIB02jER6In8EiT5e_g",
+         "plus_code" : {
+            "compound_code" : "GJ7M+MX Skudai, Johor",
+            "global_code" : "6PH5GJ7M+MX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJmSUTOIB02jER6In8EiT5e_g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 860
+      },
+      {
+         "formatted_address" : "Lot No. 4F 51 & 52, Paradigm Mall, Jalan Skudai, Skudai, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.515,
+               "lng" : 103.685932
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.516196629892722,
+                  "lng" : 103.6874336798927
+               },
+               "southwest" : {
+                  "lat" : 1.513496970107278,
+                  "lng" : 103.6847340201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6217092bd23c0d94bb78dbcbcc3957a7b30b58b6",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100257121871499149965/photos\"\u003eporcupine tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAg2YMt0hQ8WP6maoThO6QMuGfSCAgSMPdeF4dMGeRE_VcEBn8CI2CaKHrqc_TMkK12RKbThmExiqB4_u5eaa6liLqDsTpjxY6RXHDUKSCGus8Qa0Te8nI2ne5jNx5cmNWEhBnxk0iO4TD4fwBk4GqCKEZGhS2yvnQEwfVVsYjNFWbCxbm95V0Ug",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJaVHre_9y2jERyXhv70BjkJ4",
+         "plus_code" : {
+            "compound_code" : "GM8P+29 Johor Bahru, Johor",
+            "global_code" : "6PH5GM8P+29"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJaVHre_9y2jERyXhv70BjkJ4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "Lot 2 ,28A, Jalan Pendekar 15, Taman Ungku Tun Aminah, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5145389,
+               "lng" : 103.655796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.515935279892722,
+                  "lng" : 103.6570980798927
+               },
+               "southwest" : {
+                  "lat" : 1.513235620107278,
+                  "lng" : 103.6543984201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98a7092d9a435b2fb84b991280922b2a9df3b422",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104268963754625699762/photos\"\u003emohamad khairul nizam abu hassan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAPA81w3GSOQJnY9ACdp63VDdz13bfFJs8gnw-eQPdJ-EluUMF0MwHK-6glg72XedjNEjrawHcx4OeW6jXa9oVgjdvRC0rXPfg1OJ4btM_2Qh1U6EolMPxKXMOetnOGu2EhB13JPxnRG75BakArnSIEZUGhQ5oxvmWO_FJn04TB-9sE0kHHCm_Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJq6rqu3Vz2jERJhKQ929h6lM",
+         "plus_code" : {
+            "compound_code" : "GM74+R8 Johor Bahru, Johor",
+            "global_code" : "6PH5GM74+R8"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJq6rqu3Vz2jERJhKQ929h6lM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      }
+   ],
+   "status" : "OK"
+}

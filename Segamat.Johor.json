@@ -1,0 +1,896 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-QEAAFr5PMZCQ_kd8eHUVNF6ksjW9HF7bG8bQCMKX7S2VbOJDTKdPEQKqFitdAzoC94R18OTRp273e3DbKkHch5QEeWgCQX-fL2tQs5PbM4Ti_1AW6E6pwkvr6nX7Sz2HMfmFtkd9GZreKRH4t0Wos-7tGibCJeTNua5ziEDA58SWj2Sm__801k_T9hV_FixbS6_XVty8mNJ4c1pV89bWwWt1MU1QM4MQKAYA5yfn412flr2Ia9Ca5GorwZuFMRESEC1M9tKZAmxYmuvzmoAe5no9mNaeR6bb6iZfVoBC0E2uuSfOmSKE3qrtiZIYqc8c6XLel5dIvYRBU1c8XWiD5xvIWdhu4iKP7MqY2e3mYZBSGc3FzlBdU6yEe_C1zxxzpwGwimm3fv3zJV1HymvsKUlaQ5WoMWF_0UhfybjK__YDPWHmZsr_tHe_AZMT69p0COkKflj2WtKbtm8oqm9NY9ffFUOWBpN_-ObuqcRFGSqDF6LPUGFDTY_Hw4-Q8o_2cHNCfhS5uoKyvWKZgIp0G67UGzRQyRQELUPCBISDQp46VKjJ3yYvJ2m6xYTapYyu_tvLHsm7mFE-fNjua9K-YhKud2F_EhEVq3PhXdi5iYEaqsn8rALZCw6vFeHcx46FnxHxY9nv27ppS0-T3ULhLofyhdROdn6fH8S0YwSjXNtrxWdEhCtBB8xp4zX619UaRAPSiHBGhSt3Q-Nmud4KMahNiVq1OthfPt7IQ",
+   "results" : [
+      {
+         "formatted_address" : "14, Jalan Ros, Kampung Abdullah, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5039359,
+               "lng" : 102.8208414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.505293979892722,
+                  "lng" : 102.8221987798927
+               },
+               "southwest" : {
+                  "lat" : 2.502594320107277,
+                  "lng" : 102.8194991201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1311dde3b7bf707ece37998224358da515cb1f2d",
+         "name" : "McDota @ Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112542321634028938480/photos\"\u003eSalwani Baharum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6J1pLMsyeM5cuqsHerXl9XkIzzfBt6kT0j4ixntm-XVK4cgaHmOSlXelXtX-pBwYhrp_2l6OYcJWvlGobQrK7WHTRBxGzwiKau1keuH2cn3jHE4zy7trSRhdxo1_TOfREhDVFkxxpqJjlZ7dh75LcS1sGhT931kkhu_q274LGUUxjNOyobsjMw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJPT3aEzvTzzERNUxCBfslcjo",
+         "plus_code" : {
+            "compound_code" : "GR3C+H8 Segamat District, Johor",
+            "global_code" : "6PJ4GR3C+H8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJPT3aEzvTzzERNUxCBfslcjo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197
+      },
+      {
+         "formatted_address" : "Shop No. 111, 112,113, Jalan Sia Her Yam, Bandar Seberang, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.503097,
+               "lng" : 102.821478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.504420379892722,
+                  "lng" : 102.8228525298927
+               },
+               "southwest" : {
+                  "lat" : 2.501720720107277,
+                  "lng" : 102.8201528701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf0fc02db287840c9d269683a4df7f90379e1c1a",
+         "name" : "McDonald's Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113215040252825714928/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQS9TEs-TodoazQwtKzmqtLgD3f7rSv4ekIdLSmI_OG7ErlF4c_q5Rk_4Pz4TzQQQGLBGHCRzFx-nP52o_LYJTv2Zb4pMfgMyhoBTaqxnUBdSwEEC7-Ds6aD4aLea8VuXEhDoKRiGhgRtWXJ6KWk7XC8IGhRVlwMu40Q1R_2DTq7fjuMhRhlqHA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJGzHNm2_TzzER75LGHnKbMgE",
+         "plus_code" : {
+            "compound_code" : "GR3C+6H Segamat District, Johor",
+            "global_code" : "6PJ4GR3C+6H"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGzHNm2_TzzER75LGHnKbMgE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 997
+      },
+      {
+         "formatted_address" : "Jalan Sia Her Yam, Bandar Seberang, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5046487,
+               "lng" : 102.823246
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.506003829892722,
+                  "lng" : 102.8245902298927
+               },
+               "southwest" : {
+                  "lat" : 2.503304170107278,
+                  "lng" : 102.8218905701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c2abb61541998d0a72127e2c3bce1a48af836d6f",
+         "name" : "Marrybrown Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111706383337900710895/photos\"\u003eFairus Marsikin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApUzwF1uHrBZRx6OHqgBJ5d9hHXfsLsjHokCg0mVx_fwqOt_TD-Ps-d62hcNbO6jK7aJ2PtWj37JcBBPBQHzLWVYAw-ab74Ye1BZ8ua6DVsAnunC8xaj4xf4ApNJnGJJcEhBFbg4C5sDSI8y_-QOi6L2uGhSKTOBV5vSNu2uoJ6BwNYKvjKIhJQ",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJKatvqDzTzzERDDxt6ZO9_F4",
+         "plus_code" : {
+            "compound_code" : "GR3F+V7 Segamat District, Johor",
+            "global_code" : "6PJ4GR3F+V7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJKatvqDzTzzERDDxt6ZO9_F4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 189
+      },
+      {
+         "formatted_address" : "125, Jalan Sia Her Yam, Kampung Abdullah, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5036843,
+               "lng" : 102.8223575
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.505034129892723,
+                  "lng" : 102.8237073298927
+               },
+               "southwest" : {
+                  "lat" : 2.502334470107278,
+                  "lng" : 102.8210076701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4244b856c50f19d49464cd83a0740665848f1cd0",
+         "name" : "Texas Chicken Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJS9JToXLTzzERuAJNAwnpKTs",
+         "plus_code" : {
+            "compound_code" : "GR3C+FW Segamat District, Johor",
+            "global_code" : "6PJ4GR3C+FW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJS9JToXLTzzERuAJNAwnpKTs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 45, Ground Floor, One, Jalan Kolam Air, Kampung Gubah, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5096515,
+               "lng" : 102.8119291
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.511116529892722,
+                  "lng" : 102.8133808298927
+               },
+               "southwest" : {
+                  "lat" : 2.508416870107278,
+                  "lng" : 102.8106811701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c309fa199d27114d84ed1c9614aaa8f5d219ee1",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101377427407482108342/photos\"\u003eYOHANA AKMAL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGz-aOkxLPrXGifxFkMVpR_gclT13DAh_nXnIanF1w08_xM8Y1D9HXsHEveMO4TuRsAXWKaHLOc6FzyddGPyxXPY41AR2sadTMY4fcePW_pGv7vqJO4xkrW7EMrJ9FKKiEhAxY362QbVPKgR-H8rnr4FYGhS1Aa6GSy9pKhWDMpt5Uj2kqI9SUg",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJESeg6y7TzzERVq7WECHp_UU",
+         "plus_code" : {
+            "compound_code" : "GR56+VQ Segamat District, Johor",
+            "global_code" : "6PJ4GR56+VQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJESeg6y7TzzERVq7WECHp_UU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "No. 150 & 151, Jalan Sia Her Yam, Kampung Abdullah, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.504055,
+               "lng" : 102.822743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.505435629892722,
+                  "lng" : 102.8240680798927
+               },
+               "southwest" : {
+                  "lat" : 2.502735970107278,
+                  "lng" : 102.8213684201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0c8d8360c57c0b69823c03b6de82f5375ced921d",
+         "name" : "KFC Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108685118874378183747/photos\"\u003eCindy Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKOJi7tAcFfLQgHF9s4_TiGAEjTR7H2XT_S16tRLoSL101VcfDnKU4gqgWwjXC_ilLxwJDt-jhxgTXx2ki8CVHvVKUOUhAYuAl9Z-XFPPHEkT7e2FsJkuI_iSvwJcvJvXEhCoOBvY3D2GwxNWMqDMted0GhS5tnHznZ6MBIllnYXNLcxdwn6HyQ",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJhyLenzzTzzERpIE3W2FMw64",
+         "plus_code" : {
+            "compound_code" : "GR3F+J3 Segamat District, Johor",
+            "global_code" : "6PJ4GR3F+J3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJhyLenzzTzzERpIE3W2FMw64",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 514
+      },
+      {
+         "formatted_address" : "No. 10, 1384, Taman Tenggara, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5012514,
+               "lng" : 102.8297449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.502609879892722,
+                  "lng" : 102.8310789298927
+               },
+               "southwest" : {
+                  "lat" : 2.499910220107278,
+                  "lng" : 102.8283792701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a20de5d26ee82669d641f82c175ca4ddc2ee90a3",
+         "name" : "Tai Ah Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112284227881065171390/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-SMCqP-WEWkKw2zhVpsYWwXuYAXWTJ5uWQqIEeOP7p5KFtlps0Y2eSIgZT4Qlzd4urJ9UeT3f8BtmPiXZsSh0-2ZK596e2EOP7D3IOM-ePVAKGz9MjwnpkBMkcIKu7gMEhB4IXssOPr6pyinZRRuTSjHGhTE4t9s6qiMK63ywNkdrw9TRloSpg",
+               "width" : 5248
+            }
+         ],
+         "place_id" : "ChIJywHbDRbTzzERUf7kGG-gSzc",
+         "plus_code" : {
+            "compound_code" : "GR2H+GV Segamat District, Johor",
+            "global_code" : "6PJ4GR2H+GV"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJywHbDRbTzzERUf7kGG-gSzc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 180
+      },
+      {
+         "formatted_address" : "85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5132372,
+               "lng" : 102.8223535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.514540379892722,
+                  "lng" : 102.8236943298927
+               },
+               "southwest" : {
+                  "lat" : 2.511840720107277,
+                  "lng" : 102.8209946701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "57936bd6d9d1e92978c21020740438c3eded3704",
+         "name" : "Pallet Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111004249071226630448/photos\"\u003eNora Zura\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA41jzuYEvrc977oFbbaOt8c9nJnIlolHVD8uqPPdxHfjd5Jbz30aVr5XgwtRkVWgydmabrsZFte1JZ1w-nkCZTbfHEhpu96xLSVlEXzeUbB7SN3EYD0LH7KOJCD0cFBoQEhCB45dXn0_LtoQthCyEfSc7GhQQ7r0lWvBU6owFPO6joxGLqsOACQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJtdf5MSfTzzER-cjGViSq62s",
+         "plus_code" : {
+            "compound_code" : "GR7C+7W Segamat District, Johor",
+            "global_code" : "6PJ4GR7C+7W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJtdf5MSfTzzER-cjGViSq62s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78
+      },
+      {
+         "formatted_address" : "Taman Utama, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5110001,
+               "lng" : 102.8231434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.512351679892722,
+                  "lng" : 102.8244903298927
+               },
+               "southwest" : {
+                  "lat" : 2.509652020107278,
+                  "lng" : 102.8217906701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0488ed5b7e3c86072e92bb86abfadae9e7f406a5",
+         "name" : "Shi Wei Fu Restaurant Sdn. Bhd.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115261798263835149494/photos\"\u003eNgsunrise Sunrise\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXFp5d5C2Wcr64JCBcORTzkEW3tYhrWK5Du3u7RuUvU-oSOGQslXNHAV9ErWhk76BLQ9to7v1XXnHXb8fuqi1IPwAP-32gv3uA6DkFMwIaxuU2ClQFoxhvnRthUFC9lhcEhBK41TQl3orGMTlfsXqYJpdGhTeD7kC1jfle8sBXHmTQtC3kME9tQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJF6F7DyTTzzERLgCSxrU7rko",
+         "plus_code" : {
+            "compound_code" : "GR6F+C7 Segamat District, Johor",
+            "global_code" : "6PJ4GR6F+C7"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJF6F7DyTTzzERLgCSxrU7rko",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195
+      },
+      {
+         "formatted_address" : "Lot 126, Jln Segamat, Taman Bintang Jaya, 85300 Labis, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3990846,
+               "lng" : 103.0184963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.400429629892722,
+                  "lng" : 103.0198285298927
+               },
+               "southwest" : {
+                  "lat" : 2.397729970107277,
+                  "lng" : 103.0171288701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e104aa648d9431aaddc61dd3c0a6882a1822beda",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113311537207223083555/photos\"\u003esyafiqa nabila\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZGZq5vOTlZPQFlshHFb9WMHDkTZXQhSIgmlV_pOwAyqqZTQot6xnKGU3-K2-VPad4LRrPMdW0Rq5L8quUrU_is8G8pmp3s0k-G00qT7HFLJ659B_RJgz2ocmouZdzK8YEhAjyqlS9skOLVjX6ntJbdSAGhR2PUK6o0Wg9piCu12ivJTG_GH0TQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGTqfBXbYzzERElWOVoAYUXg",
+         "plus_code" : {
+            "compound_code" : "92X9+J9 Labis, Johor",
+            "global_code" : "6PJ592X9+J9"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJGTqfBXbYzzERElWOVoAYUXg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 225
+      },
+      {
+         "formatted_address" : "313-A, Jalan Dato Haji Mohd Noah, Kampung Abdullah, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5016487,
+               "lng" : 102.8258337
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.503058479892722,
+                  "lng" : 102.8272133798927
+               },
+               "southwest" : {
+                  "lat" : 2.500358820107278,
+                  "lng" : 102.8245137201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "36e42d778def013df854ca66dd8790b196c2dcc2",
+         "name" : "Siang Hai Recreation Centre （祥海记）",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113929049249639548219/photos\"\u003eRichard Pang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwUzHkUb0i2ItvLw6aaTpUzFJXNcaY1eEH8JHympF8DrkGCFsXDnC4C7Rn2eKXbdlHGIZEl-0kVX6kfFDGsd6kjamaX0WaaK5DhduJoQYfOYHupDy0caHxG08yM2DFWnlEhBPp6Vtm_zVXd3er8sk-T3WGhTAWRej66YIm4Zb1SHTeZl4CsmBBw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJLYMftj3TzzERB_LpTiZQy8k",
+         "plus_code" : {
+            "compound_code" : "GR2G+M8 Segamat District, Johor",
+            "global_code" : "6PJ4GR2G+M8"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJLYMftj3TzzERB_LpTiZQy8k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "17 Cengal Off Jalan, Jalan Genuang, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5009012,
+               "lng" : 102.8276995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.502256829892723,
+                  "lng" : 102.8290396798927
+               },
+               "southwest" : {
+                  "lat" : 2.499557170107278,
+                  "lng" : 102.8263400201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "694340ae94a75841c5432d1720f1a07b8aa24a81",
+         "name" : "Nasi Ayam Gemas Mustafah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118407571314364054379/photos\"\u003eIrwan Zamanshary Abd Aziz Al-Haj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFwMdXyAyiymhuJNlhXXujRUkQlO9SzJovWa91D0GoopNQFxAmOBAwPgpUeNg2TBv7PNu_0JClhZkN1HcudbNH_L9QDvpeUPQxDfSrmkbUdX6D009h29ersSgIkk_61biEhBCraobTyJrHEDUDCvosO9WGhSEhREfdKhuFRVp_T_RGsS0eFt9Ww",
+               "width" : 5120
+            }
+         ],
+         "place_id" : "ChIJ04ak5D3TzzERTJyDLRqN0D8",
+         "plus_code" : {
+            "compound_code" : "GR2H+93 Segamat District, Johor",
+            "global_code" : "6PJ4GR2H+93"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ04ak5D3TzzERTJyDLRqN0D8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 127
+      },
+      {
+         "formatted_address" : "NO. 34, Jalan Utama 2/3, Johor, 85000 Segamat District, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5086738,
+               "lng" : 102.8211857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.510035479892723,
+                  "lng" : 102.8225405798927
+               },
+               "southwest" : {
+                  "lat" : 2.507335820107278,
+                  "lng" : 102.8198409201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "80639cce5216dd767a47b0425abf7fc40b0f39df",
+         "name" : "RZ Restoran",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101391169525424662175/photos\"\u003eB C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAL9ndjWxLawCQEX2IGRHG-PARJvrr_VE54EByt5AlT5Nhr0L7kbflXH6qrs9lAFuZH0wSlSqcRhjcBDh5SnOMQSEwuje6P_iszSIiLu6KChtSTgwFinFEKZVk3-fSw73oEhCl5y5lLmyA4kUlF5ZCpV-jGhRv19pcxoCDo6_6zhDZeMBQjSuu5Q",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJTS_xQSTTzzERZwQdKSCrGj4",
+         "plus_code" : {
+            "compound_code" : "GR5C+FF Segamat District, Johor",
+            "global_code" : "6PJ4GR5C+FF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJTS_xQSTTzzERZwQdKSCrGj4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 211
+      },
+      {
+         "formatted_address" : "Lebuhraya Segamat - Kuantan, Kampung Rasau, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5466002,
+               "lng" : 102.7933002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.548003379892722,
+                  "lng" : 102.7944933798927
+               },
+               "southwest" : {
+                  "lat" : 2.545303720107277,
+                  "lng" : 102.7917937201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "513be5ed053099eb00e026d9ccb563166a3dd8c8",
+         "name" : "KFC Segamat Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111263948787428513591/photos\"\u003eHsien Yeow Koh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATeB6aw2-c2BuwJEM9715-rRPiu5XWdIAhpDQXvjLZy-FPcxH4i7Kk96UFtrzTACTGI3IWqCWIogzAm3t24NZv9fCcNNi3-zwvTaUboTXknR57q0l21lzwAuWGdazgdHoEhClrnmVp0LrcQyZKMWofsxtGhSSTfQNizuRZR3hcSrJMorAxUby6A",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJib7qiVotzjERDgDV-3GPkeM",
+         "plus_code" : {
+            "compound_code" : "GQWV+J8 Segamat District, Johor",
+            "global_code" : "6PJ4GQWV+J8"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJib7qiVotzjERDgDV-3GPkeM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 400
+      },
+      {
+         "formatted_address" : "115, Jalan Genuang, Bandar Seberang, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5025331,
+               "lng" : 102.8216692
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.503843529892722,
+                  "lng" : 102.8229833298927
+               },
+               "southwest" : {
+                  "lat" : 2.501143870107278,
+                  "lng" : 102.8202836701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45b53ed44b9a33b8c490693ce7bc148cacae621c",
+         "name" : "Subway Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103387369439457444978/photos\"\u003esyamsul ridzwan yusof\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-8Ua38dVpblAm6Dkpgq4I1bwdYz3w_qSLVZ5Fcbg3HiaOwuvn2d0c_KyPNBKfXG3-F8C5Ls-_DqQQqHg0DJOUQ8Qn3FJZIOUkxcR02gO2o8BksUNvKutUvr87TGchHvsEhCHWZOfJDWGogqSOM4gMgRVGhTZ3v_LWMDL4b7uYDjDqOOaoonZKA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJy2DZmzvTzzERAyugub3kHCM",
+         "plus_code" : {
+            "compound_code" : "GR3C+2M Segamat District, Johor",
+            "global_code" : "6PJ4GR3C+2M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJy2DZmzvTzzERAyugub3kHCM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 154
+      },
+      {
+         "formatted_address" : "Ground Floor, No.17, Jln Susur Utama 2/1, Taman Utama 85000 Segamat, Johor., 85000 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.508322,
+               "lng" : 102.82067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.509623479892722,
+                  "lng" : 102.8219978798927
+               },
+               "southwest" : {
+                  "lat" : 2.506923820107277,
+                  "lng" : 102.8192982201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b2f974c32ce01dbb17bd874ceb9bf341be285a14",
+         "name" : "Domino's Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117435639782848584869/photos\"\u003eAisyam Muddin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQe7ydo9BMVjIzP2txn1fgT2XQYK2zye1WouTQA9CmEtcAV7kDcnDCTIzSdk1d2eIXX3RWhNDm0hD00oUysK7ndjT-nnxWhgqxaXxtO83IBrGHbNcPq-0C9rdz28E7DNkEhD3Sy5TT092oSVS1n7JqzE3GhQgMBbtfRLUUvjh2uAQ3_OhmHbHBA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ-SdOsj7TzzER71AOx-zII5E",
+         "plus_code" : {
+            "compound_code" : "GR5C+87 Segamat District, Johor",
+            "global_code" : "6PJ4GR5C+87"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ-SdOsj7TzzER71AOx-zII5E",
+         "types" : [
+            "restaurant",
+            "meal_delivery",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "1, Jalan Utama 2/1, Taman Utama, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5086939,
+               "lng" : 102.8196636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.510052329892722,
+                  "lng" : 102.8210173298927
+               },
+               "southwest" : {
+                  "lat" : 2.507352670107278,
+                  "lng" : 102.8183176701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc52df25603397ccf227f1db7f01a27497d74ca0",
+         "name" : "Secret Recipe Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116689589693889103024/photos\"\u003eSteven Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATUu9oYesacxOs7Vcf09FFDT9csGL5WzQQR-VK7yssoQ5h8JNEhLU8oqvBhDuq-SgNkFinJRqWcWof097MxCtyyZSrPjwxoIjL5GYmuvDmpUWDUGC2P8rduc_3P7TlkUqEhDgRZlUJEEc7P8jm2Rv0uXnGhSrIJ1FGJWgmatrXkVJiky0IuHu1w",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ7bO7tCXTzzERGIxFARp87A8",
+         "plus_code" : {
+            "compound_code" : "GR59+FV Segamat District, Johor",
+            "global_code" : "6PJ4GR59+FV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ7bO7tCXTzzERGIxFARp87A8",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 310
+      },
+      {
+         "formatted_address" : "Pusat Komersial Sri Utama, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5139802,
+               "lng" : 102.8230126
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.515318879892722,
+                  "lng" : 102.8244005798927
+               },
+               "southwest" : {
+                  "lat" : 2.512619220107278,
+                  "lng" : 102.8217009201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e494aa2a87c72ebd016617984938f145c569416a",
+         "name" : "Sushi King Sri Utama Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115970811378147544152/photos\"\u003eguangyu tew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkzHk0A1K29ZrfjSfCyXLvQgG2phtypN6OJCoJrBsZA4byF1iVCk8GGoFo9Ro7OS0-vaek2TJ8_2bTggeFXEIKYjGm9AuysDfrKrqWd-BUpSb05z6UuC1xy9rPT8dI8KBEhBZuf5oI4hUFdnsJ_PKCKr-GhTW5NV0EZyT_QRuQQYYKJyl6vKDew",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJf1Y2kifTzzERZAtMDZQpHfU",
+         "plus_code" : {
+            "compound_code" : "GR7F+H6 Segamat District, Johor",
+            "global_code" : "6PJ4GR7F+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJf1Y2kifTzzERZAtMDZQpHfU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 242
+      },
+      {
+         "formatted_address" : "Taman Yayasan, 85000 Segamat District, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5494995,
+               "lng" : 102.7929833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.550838279892722,
+                  "lng" : 102.7943723298927
+               },
+               "southwest" : {
+                  "lat" : 2.548138620107278,
+                  "lng" : 102.7916726701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ce71fca053dbb47a966b0d85eab77ea3256c5b1",
+         "name" : "Nasi Ayam Gemas Pak Mus",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100984645299911341989/photos\"\u003eanak johor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvfcX9mXM0lAp_TVznbg2vGcBK9j8ewa38bjd4KkJx8uOspui9elfyFVmedtcuXHhKMsqBbu81ox3nZEh4HsAEXwxUjOv8Xk8LcR0PpVz-z_gnNKNnD3lOWRSxWk91b26EhAyYP99EqC5EPK49c4BtEEoGhRyCErriV6MdQo-cbdHKnregD2H2g",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJdStd0FktzjERAy_uB5dEwhM",
+         "plus_code" : {
+            "compound_code" : "GQXV+Q5 Buloh Kasap, Johor",
+            "global_code" : "6PJ4GQXV+Q5"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJdStd0FktzjERAy_uB5dEwhM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 378
+      },
+      {
+         "formatted_address" : "1939, Jalan Abdullah, Kampung Chabong, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5085824,
+               "lng" : 102.8144014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.509955829892722,
+                  "lng" : 102.8157519298927
+               },
+               "southwest" : {
+                  "lat" : 2.507256170107278,
+                  "lng" : 102.8130522701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "96bed9680d905d79c7707c4a38ded3e19560e189",
+         "name" : "Pakuda Daging Salai (Nasi Goreng Daging Salai)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109002029898619630519/photos\"\u003emohd fadzli iberahim shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIYDJr_XRe4PPtmfhCfHkTvMJlinLityrPZXw0YUS5FBQHfuytAvxg77HvELyFncY5BMMozNVrRKjJiKwFbW6cHjW2IUh3NTts_t0zmZC6-NZtWALFsLyGmDxSBdLEmDbEhDf_jJUGpKhRbu2twBQQ0WjGhRccLoD4RcPgJxhpzRVciah84gcwA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJn-tWHC_TzzERfTcBE47uv_o",
+         "plus_code" : {
+            "compound_code" : "GR57+CQ Segamat District, Johor",
+            "global_code" : "6PJ4GR57+CQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJn-tWHC_TzzERfTcBE47uv_o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 104
+      }
+   ],
+   "status" : "OK"
+}

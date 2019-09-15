@@ -1,0 +1,491 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lot PT 61054, Batu 11, Jalan Pontian, Skudai, Malaysia, Johor, 81300 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.550781,
+               "lng" : 103.650714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.552081379892722,
+                  "lng" : 103.6520368298928
+               },
+               "southwest" : {
+                  "lat" : 1.549381720107278,
+                  "lng" : 103.6493371701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e42339914ecb60e85032cdb8a25a2fddd6599ce7",
+         "name" : "McDonald's UTM Skudai DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108027101027476874296/photos\"\u003eYaXir Mahmood\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-lQdw0hEB-lu-c_mqgxcEH7dgJpV3kY5ScU0rylo5NPQPBz9AbEItbPRFSZHU56Vdvp_zEdOyByURyBYbLU-D-9aykg5dlWIOPtP63quBri1w2ZW6sLYq70Ax8wsqqF1EhCBfElmJYcb0TaW8Bhoxv9LGhTMxrxiBNqzuJnKItd3rYUvlo5YSg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJqScb_uJz2jERyLw_3YyUv0Y",
+         "plus_code" : {
+            "compound_code" : "HM22+87 Johor Bahru, Johor",
+            "global_code" : "6PH5HM22+87"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJqScb_uJz2jERyLw_3YyUv0Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1648
+      },
+      {
+         "formatted_address" : "14, Jalan Ros, Kampung Abdullah, 85000 Segamat, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.5039359,
+               "lng" : 102.8208414
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.505293979892722,
+                  "lng" : 102.8221987798927
+               },
+               "southwest" : {
+                  "lat" : 2.502594320107277,
+                  "lng" : 102.8194991201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1311dde3b7bf707ece37998224358da515cb1f2d",
+         "name" : "McDota @ Segamat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112542321634028938480/photos\"\u003eSalwani Baharum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4qOIX8lhc30zrV4Kywgc5nci4tuqwaXnySFYMP6n_uEmIitxfObUcEj6Wx2RL7Aqc5ljCg7SaqG9KwhyrV-PjF2u3pFG_7FkASs8HZiXEp5FSOUCPBECY8MT9y7Z5rv6EhD5B2vIpHVG6cOSM-Mos9zGGhRkVBrUwkJXtX919u16yaz7gaG4RQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJPT3aEzvTzzERNUxCBfslcjo",
+         "plus_code" : {
+            "compound_code" : "GR3C+H8 Segamat District, Johor",
+            "global_code" : "6PJ4GR3C+H8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJPT3aEzvTzzERNUxCBfslcjo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 197
+      },
+      {
+         "formatted_address" : "Restaurant 1, HS(D) 360166, PTD 174172, Mukim Plentong, Jalan Suria 1, Bandar Seri Alam, 81750 Johor Bahru, 81750 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.49596,
+               "lng" : 103.87123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497366629892722,
+                  "lng" : 103.8725010798927
+               },
+               "southwest" : {
+                  "lat" : 1.494666970107278,
+                  "lng" : 103.8698014201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7c2e89896479e69507089df1e873df1eed4f8102",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113132020795229565811/photos\"\u003eRoszakiah Rabiran\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2K1Ye3lhtlmP0IdBnjfVee-2YeVI_YxelMMm66t_a0rAQYhEe4k6lAhQT_TBGU92s1cFixomMqQ6ACCr1St8ETMyJMKaEahswDPKerMv76BTIgQ7T-IpwvM647mr6_CrEhBuRDkRUZnVRyiwAAPHtForGhQqiko-09j-IPkqYC8EeIGb_nTUqg",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "plus_code" : {
+            "compound_code" : "FVWC+9F Masai, Johor",
+            "global_code" : "6PH5FVWC+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 441
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 85821, Taman Kota Masai, Mukim Plentong, Pasir Gudang,Malaysia, Johor, 81700 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.492281,
+               "lng" : 103.918818
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.493702379892722,
+                  "lng" : 103.9201393798927
+               },
+               "southwest" : {
+                  "lat" : 1.491002720107278,
+                  "lng" : 103.9174397201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b4fa8d8fac1314948a43d82161adeac87357592",
+         "name" : "McDonald's Kota Masai, Johore.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114418010826376183266/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbMRanva9asZssHLNtnEtpkQhtvcYODSS4qtTUd6lhdBs-JbEs3da6lYn_wDKo6_ofBDAEf_JOcX1UEow4rD4vi_SyCZ9HUJ7xsdob1wObVqnTi4PkFoWfPpZlFsgkdzgEhAnAoNRCdZ0AXKWqwHsI7a6GhQPLDGSFaGVYRMpahqIbYdoHGXMCg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ46U05h5A2jERbR7Gbpsj1Gc",
+         "plus_code" : {
+            "compound_code" : "FWR9+WG Pasir Gudang, Johor",
+            "global_code" : "6PH5FWR9+WG"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ46U05h5A2jERbR7Gbpsj1Gc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1126
+      },
+      {
+         "formatted_address" : "1, Jalan Bayu 2, Taman Perindustrian Tampoi Jaya, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5156331,
+               "lng" : 103.740248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.516962979892722,
+                  "lng" : 103.7415989798927
+               },
+               "southwest" : {
+                  "lat" : 1.514263320107278,
+                  "lng" : 103.7388993201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "97a4ca0b29c4172f5187410d637b266747b94a48",
+         "name" : "Indonesian Corner Fast Food",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105829680733872002624/photos\"\u003eHasbullah Abd Rashid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA35aZXuzKNtdLb9eCVR9681P4OSh-Uqwof50Bb3iLpkANBVMXHzpk3SIIfItO1aqGKAH7OWQXwrcExstYpKGBhqEAkTHHTwEvzVOdC177e_lIRXHUaKqdW-d4rdRuvVaQEhC5zojEsyZaTkzse9PjEMqUGhTTj-Kv19SiWWsoipNnSRjSrtJIfA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJHSi7s4Jt2jERWcU8Lglyhf4",
+         "plus_code" : {
+            "compound_code" : "GP8R+73 Johor Bahru, Johor",
+            "global_code" : "6PH5GP8R+73"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHSi7s4Jt2jERWcU8Lglyhf4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 70
+      },
+      {
+         "formatted_address" : "Lot 110034, 3, Jalan Austin Heights Utama, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5577191,
+               "lng" : 103.7816499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.559151529892722,
+                  "lng" : 103.7830700298927
+               },
+               "southwest" : {
+                  "lat" : 1.556451870107278,
+                  "lng" : 103.7803703701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "85c113a83ba2391c570df1eb51dd6faaaf4b1b9a",
+         "name" : "McDonald's Austin Height",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4140,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110218866568102706264/photos\"\u003eONG THIAM CHAI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZTbVNDtv8ybZsFbD9w33seZhH0plyGyQVEy_cR_7u7nJCwUnMoMfRJ8r41lgrbdJNU7AdadQum6BGxVUG3ywh03zmkBPzmA6f8hWusZQ8P0RJu6iSZN7cpH7Rri73eGEEhAqqcLFJ4c-InPf6ehYTCfVGhS7sXUkbDmgB2QNRcUUYKu6ouHVew",
+               "width" : 5520
+            }
+         ],
+         "place_id" : "ChIJtwOwKoRu2jERCc_X9I3R1ec",
+         "plus_code" : {
+            "compound_code" : "HQ5J+3M Johor Bahru, Johor",
+            "global_code" : "6PH5HQ5J+3M"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJtwOwKoRu2jERCc_X9I3R1ec",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1428
+      },
+      {
+         "formatted_address" : "Lot PTD 174172, Jalan Seri Alam, Bandar Seri Alam, 81750, Masai, Johor, 81750, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4961556,
+               "lng" : 103.8708568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497438779892722,
+                  "lng" : 103.8721599298927
+               },
+               "southwest" : {
+                  "lat" : 1.494739120107278,
+                  "lng" : 103.8694602701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40922f8926827db3554814f2c9a3453b34508d8b",
+         "name" : "McDonald's McCafe Seri Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113884083572533618124/photos\"\u003echarskater\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAomyTMeIps2dlmY3kGU1uABpEgk5Ul2__GEGLH_M-k25iC0IEvZkOnMJffTqOq1_qVc7LiXNt30X21uj7yvSBAL8CgMriUbSEtvTnPnBJiQ3VUug-JzSFl1-EDQUFr80NEhCjoSujTqaMEcikDbC-hPnHGhR47vSJneEiEnLZeOkL9gcF1fEzVQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "plus_code" : {
+            "compound_code" : "FVWC+F8 Masai, Johor",
+            "global_code" : "6PH5FVWC+F8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1086
+      },
+      {
+         "formatted_address" : "Tropika Welcome Centre, Lot G1, Wisma SP Setia, Taman Setia Tropika, Kempas, 1, Jalan Setia Tropika, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.54863,
+               "lng" : 103.71724
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.549929929892722,
+                  "lng" : 103.7185878798927
+               },
+               "southwest" : {
+                  "lat" : 1.547230270107278,
+                  "lng" : 103.7158882201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1d866f8cd624602856fdc08d469c55ed4572adc1",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112264190069911965451/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyHm8ekMtOpQnVxVGKu49P36I7qeivAoTf5Le5JnU-0OGVnKblFjC4dsVmGYcqErskDkE8Lln0MwrbMe-YmaeoUFgS4ucmDW_TUjqsL8lUMRncNxjOFR2btL6WtKATThnEhB5T9H2tPAIm420DQwA15qLGhQuEVSi8l-AprmaSM6V03STCsSC5w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJNTo_rRxy2jERCEBc7aJSxEo",
+         "plus_code" : {
+            "compound_code" : "GPX8+FV Johor Bahru, Johor",
+            "global_code" : "6PH5GPX8+FV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJNTo_rRxy2jERCEBc7aJSxEo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 277
+      },
+      {
+         "formatted_address" : "Plaza Angsana, Lot No. L1 - 27, Jalan Bertingkat Skudai, Pusat Bandar Tampoi, 81000 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.495073,
+               "lng" : 103.705666
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.496363879892722,
+                  "lng" : 103.7070981798927
+               },
+               "southwest" : {
+                  "lat" : 1.493664220107278,
+                  "lng" : 103.7043985201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8a1a952f2ce31cd4b405a7e9fd9ba5fd5ed4ed3f",
+         "name" : "McDonald's Plaza Angsana",
+         "photos" : [
+            {
+               "height" : 4736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111982195683691469673/photos\"\u003eRoslee A Rashid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAeFQ3hh87moHVD3zU_D4DpHxHtkN0ou0ISIxYnO5_7IyWj7iuqprEoFhxVFfc1v5oTExjDsKqOHCX8DbunT_VCZfwuZB4XnqcbtOlZwx96vR03nuL1ubO7AbmScTR1eZ6EhBSsnLS0Sd_rOCIiEzIwsEDGhR9JwDNE-9MPVLPRBqv_Qbzh45r0w",
+               "width" : 3552
+            }
+         ],
+         "place_id" : "ChIJAQAAQJdt2jERi6ZARWg2W4I",
+         "price_level" : 2,
+         "rating" : 2.8,
+         "reference" : "ChIJAQAAQJdt2jERi6ZARWg2W4I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "GF-L 008, Austin International Convention Centre No.71, Jalan Austin Heights 8/1, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.560627,
+               "lng" : 103.7752365
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.561899329892722,
+                  "lng" : 103.7766271798927
+               },
+               "southwest" : {
+                  "lat" : 1.559199670107278,
+                  "lng" : 103.7739275201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "179d24441db75f93285f360067dcc45988f6593b",
+         "name" : "Monga Fried Chicken Mount Austin 艋舺ㄟ雞排",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105906212457985452942/photos\"\u003eWei Chin Pearl\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ekdVMOR3c3Szz7t7SGLvhsLAT_saDMNBGh95MS0HiFH2guINhjZ1d7XZXvH2-4ojA_btMMuYepBq1o1uCutzS7GY5V6VoL5p_A2BeESOYpGInCr7hImYFSflX4u04WIEhAq-zdv_dagskiKauhT4OmDGhQnwuoaSLu8N_nk-GvuJcfEBEhg3w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEe6IHHRv2jERwtoCvnpWhJY",
+         "plus_code" : {
+            "compound_code" : "HQ6G+73 Johor Bahru, Johor",
+            "global_code" : "6PH5HQ6G+73"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJEe6IHHRv2jERwtoCvnpWhJY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "01-51 01-52 01-53, Jalan Skudai Batu 10, Skudai, 81300 Skudai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5415859,
+               "lng" : 103.659914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.542812179892722,
+                  "lng" : 103.6611124798927
+               },
+               "southwest" : {
+                  "lat" : 1.540112520107278,
+                  "lng" : 103.6584128201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef193a2b7940e18897dbc3eba87f8378f1af1117",
+         "name" : "McDonald's(Icecream)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103356836168524295889/photos\"\u003eHan Chuan Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAH18SsTeG0Bu2gBgzyvxY1KMxLHic22c5LgJefzKtdvFpf2RF5afaLUj0ceS0_V9C-db0fqkL0mBAQSWhxclX92Nw2pejlaDqUOs0G6RBvx2YQgdAi9yIemXpR_FjA68fEhCC5E3jOyj0ejgqE5Eb7o0pGhRqQSfQnWVJnKGk0IbyWq5wrgdZRw",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJvwvjhsJz2jER84xT60KiAUs",
+         "plus_code" : {
+            "compound_code" : "GMR5+JX Johor Bahru, Johor",
+            "global_code" : "6PH5GMR5+JX"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJvwvjhsJz2jER84xT60KiAUs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

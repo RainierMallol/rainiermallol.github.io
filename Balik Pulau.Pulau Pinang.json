@@ -1,0 +1,842 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAAJ3oSSlsbQRETApzHGP18pUOviiKPBPBzGV7BXvCukCuV3noyA_njdpbJZZs6ZF_w-NsMc-Zl5KDE7qU_BsH-b9zEwuHA4ENZHvtwyMWQdmSqqoCxqXeTczPl6YXsvi42TxXZWh-Yf0nIKiHovwIUxAg9ilPCiDaxyn5LQ5K6sYihlnQHoZAYK43QmVqnB_PGZzDHHvWcxYzvjafQ57qp7lumcjqeqNlmISvJ3AEOroLkFAy6ckVlO3fvGOYYZnr_PFsdSN_yoLySHKyG-a31P9zrlq6J2zjd3m1-za7k35zxHLfh3T-ihvVQ_BECDnlM0sA8jqEekiSZNOBzDx4lIx4jw3ghAadJfatniTOPHiPijXKIk6a5wJbeqNFfDJtRxUypksF3ry1vYBqcxThkNqBKhAdQMVh_gcOYwOzIWUgNdOcXJGjzInSlSWbHYV5uhaRQnHkznB2POycD4Pc64bnnFJQXabEa0L6CsL-9zVivZsTNvSZ7uN9l0i2RijB2jVCMPwRGRFEofqgK0743YQlVMhGrjMT962GRApGULSIeN-2sKC54AAMXcrgeqGvQx2Vlc9VNSqFy2swQodu68OKUqt-PA6cPWY1cQwCi8eR6JP05mXh_NBVcQB7nOicEb5FNApjmfSZuWap58QV7U9Vmfj8juvC7tT8pISQbbVjEhDmHejrlKk57m4IFD0Ja0JKGhROFDjSH-14VxPcynd3vHZEPIbGAQ",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Baru, Sungai Burung, 11000 Balik Pulau, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.349972,
+               "lng" : 100.208911
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.351309879892722,
+                  "lng" : 100.2103292298927
+               },
+               "southwest" : {
+                  "lat" : 5.348610220107278,
+                  "lng" : 100.2076295701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f425078dc3641be4dee4424ccf2c9f7ec989084",
+         "name" : "De' Merchik Burger",
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112113048376546611871/photos\"\u003eMOHD NASNOR MOHD NOOR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ch0_irI-Q473esg5cAgiqPYwCBdR01AjY8WCIOEnK9iAAyUoYrvp5xu8ibfq8-3vfqqY7bRLZ9U69dlv7Wc_5DiQ_ChxOMUOJBOxqsw4QV4qB-GcK5AE6vd9Yf6MwU6EhDX_QzIEfGNTEAXpvaRxxlxGhSrRpWxbWfSC8PWI7nWm6wM1asKbg",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJJzezUAfrSjARgQD9TCYnJng",
+         "plus_code" : {
+            "compound_code" : "86X5+XH Balik Pulau, Penang",
+            "global_code" : "6PQ286X5+XH"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJJzezUAfrSjARgQD9TCYnJng",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Jalan Balik Pulau, 11000 Balik Pulau, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3330449,
+               "lng" : 100.2164459
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.334358829892722,
+                  "lng" : 100.2180888798927
+               },
+               "southwest" : {
+                  "lat" : 5.331659170107278,
+                  "lng" : 100.2153892201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "004bcd6eca8c5630b3e81433fdc5c7539790fa41",
+         "name" : "Bazmin Burger",
+         "place_id" : "ChIJbRE6x-HqSjARvBLcjy6aeF4",
+         "plus_code" : {
+            "compound_code" : "86M8+6H Balik Pulau, Penang",
+            "global_code" : "6PQ286M8+6H"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJbRE6x-HqSjARvBLcjy6aeF4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "No.21 Jln Tun Sardon, MK6 Balik Pulau, 11000 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3512968,
+               "lng" : 100.2380726
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.352653429892722,
+                  "lng" : 100.2394225298927
+               },
+               "southwest" : {
+                  "lat" : 5.349953770107278,
+                  "lng" : 100.2367228701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "22e7c6b8cd5fe27a4a8e5561c5b549987f299b3f",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109877617156520934804/photos\"\u003e我我也没\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnsKTY86IC0iwW8xwaKLLDryKnMrQfugq2RCtO9E6GEcxZOw4aAqU_M67sXmDVL2eW9L-J2p7nis31RUh2pae1YxX261ROIUsF1EzSONECxM0N3LT9_MfIV8FbzEbRRjdEhDDCwAdd5-4f5P7r-UBuqyLGhTJPlBUuIvMJAIkEY4XOT7hpWOS_g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJYfjFEYbqSjARI14tU5HBeP4",
+         "plus_code" : {
+            "compound_code" : "962Q+G6 Balik Pulau, Penang",
+            "global_code" : "6PQ2962Q+G6"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJYfjFEYbqSjARI14tU5HBeP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 377
+      },
+      {
+         "formatted_address" : "Lot 9435, Thean Teik Hwy, Bandar Baru Air Hitam, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3874878,
+               "lng" : 100.2768585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388779029892722,
+                  "lng" : 100.2782283298927
+               },
+               "southwest" : {
+                  "lat" : 5.386079370107278,
+                  "lng" : 100.2755286701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "481390c7b4e3e3ecb0c8a4ddee8fbc8472796146",
+         "name" : "McDonald's Caltex Farlim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116046232000730919668/photos\"\u003eSteve Chor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdMQu2Cg6kW9ss2K_c_EP_ZwznAHOAr9_9gmTOp6MjFRTB5s7IL4PMtxfr0Z_etTPWWoBAlpzuNYkZDPgQbafpk_OGSRXgRbjhZhfej6TJJWcMNxtvurwhsyoaOCUGxHfEhCofq6o77FP_FuVKDCoInwKGhScZkQNU71fLmjy7Co3FYoxNyUZbQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJRzMwKvTBSjARz6h1lV5COlU",
+         "plus_code" : {
+            "compound_code" : "97PG+XP Air Itam, Penang",
+            "global_code" : "6PQ297PG+XP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJRzMwKvTBSjARz6h1lV5COlU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 974
+      },
+      {
+         "formatted_address" : "11500 Bukit Bendera, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.408494,
+               "lng" : 100.2776546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.409947929892722,
+                  "lng" : 100.2791348298927
+               },
+               "southwest" : {
+                  "lat" : 5.407248270107278,
+                  "lng" : 100.2764351701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d433846d24bb3692d33b4d10c9cdc39829674a0",
+         "name" : "A&W",
+         "photos" : [
+            {
+               "height" : 622,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104377429452961261242/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFB7gIt55fbWt7wyhmlWwpnZDRegXmvLuSoxMBDC7f0QUC6XelHu8AFOo99MbIyjh050DX159lMEcdiqaNqpsYmlL0kKP6af-SxSdLr_DJEwu1qiKUhnlhifS0NjTBfPuEhDCqAPYWwlIfWHy_mJYVEWrGhQtmyjTk52AeUA9ax3v0i7Dw_i0Lw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJDXOVvjbDSjARwm1OMXgbQw4",
+         "plus_code" : {
+            "compound_code" : "C75H+93 Bukit Bendera, Penang",
+            "global_code" : "6PQ2C75H+93"
+         },
+         "rating" : 3,
+         "reference" : "ChIJDXOVvjbDSjARwm1OMXgbQw4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "sebelah 703, mukim 11, Kampung Seronok, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2898246,
+               "lng" : 100.2564975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.291198179892721,
+                  "lng" : 100.2578558298927
+               },
+               "southwest" : {
+                  "lat" : 5.288498520107277,
+                  "lng" : 100.2551561701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "62703f542265a0a0c49b03142ce5574f6f70f9f6",
+         "name" : "rendana mini mart",
+         "place_id" : "ChIJk0HNwxSVSjARNhhsw8Jnv8M",
+         "plus_code" : {
+            "compound_code" : "77Q4+WH Bayan Lepas, Penang",
+            "global_code" : "6PQ277Q4+WH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJk0HNwxSVSjARNhhsw8Jnv8M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "LG-87/88 (Postal No LG-72/82) Lower Ground Floor, Queensbay Mall 100, Persiaran Bayan Indah Bayan Lepas, 11900 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.333048799999999,
+               "lng" : 100.3065283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.334424679892721,
+                  "lng" : 100.3076383298927
+               },
+               "southwest" : {
+                  "lat" : 5.331725020107277,
+                  "lng" : 100.3049386701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6d39a633810f044a5ed9b8a03770f16ffe451b25",
+         "name" : "Texas Chicken Queensbay Mall, Penang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116492180161662957178/photos\"\u003eViVien Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgY2XwkBDykbdV7dVKXRVxo0uY4lKK5x92pzB0KJep2x2cUge-Yq7zMy28E8fSnaUkrJCbxoEQFzTvLCmdynWn8TQGbk4Z3AKgXoFEjw6-3W5n8amQd1S06S3gQvjNk6NEhD2WMoK_rwHNJP2ptDV0So3GhSK3jZpK6upEvbX4sz3obs7mace6w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0Y3k4BXBSjARyVV7tvUQ5jA",
+         "plus_code" : {
+            "compound_code" : "88M4+6J George Town, Penang",
+            "global_code" : "6PQ288M4+6J"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJ0Y3k4BXBSjARyVV7tvUQ5jA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Balik Pulau, Penang, Jalan Sungai Air Putih, 11000, George Town, Pulau Pinang, Malaysia, 11000 George Town, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3723855,
+               "lng" : 100.2193397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.373792329892723,
+                  "lng" : 100.2206812798927
+               },
+               "southwest" : {
+                  "lat" : 5.371092670107279,
+                  "lng" : 100.2179816201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68cb671f48e6005e202886151d4d61c54be56bdb",
+         "name" : "Yeh Lin Seafood Steamboat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ3QesuDXqSjARW-m-atoZYvw",
+         "plus_code" : {
+            "compound_code" : "96C9+XP Balik Pulau, Penang",
+            "global_code" : "6PQ296C9+XP"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ3QesuDXqSjARW-m-atoZYvw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "NO.19, Lengkok Relau 2, Taman Sri Relau, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3388712,
+               "lng" : 100.2695444
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.340192029892721,
+                  "lng" : 100.2709025298927
+               },
+               "southwest" : {
+                  "lat" : 5.337492370107277,
+                  "lng" : 100.2682028701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1800552d5d1b8da66cae62a1d304b4e4c1d86ab0",
+         "name" : "Ink fried chicken",
+         "place_id" : "ChIJc4JPQfTBSjAR9a12VG6DLd8",
+         "plus_code" : {
+            "compound_code" : "87Q9+GR Bayan Lepas, Penang",
+            "global_code" : "6PQ287Q9+GR"
+         },
+         "rating" : 0,
+         "reference" : "ChIJc4JPQfTBSjAR9a12VG6DLd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "16 D, Thean Teik Hwy, Farlim, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.391211999999999,
+               "lng" : 100.283077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.392585679892722,
+                  "lng" : 100.2843993798927
+               },
+               "southwest" : {
+                  "lat" : 5.389886020107278,
+                  "lng" : 100.2816997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b5bdcf33c2fd2b7654c95b3eb5424b9c1aeaf0fe",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115192331493667151678/photos\"\u003eGrain Green\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxiy5wwgpPaiO_ywR775tntJIGaIh9uHH53ogzCvm86weXhmJSco0pe8f7WNpbzL6V4-gLcEQco9UANS6q0UXAfv02l_PH5ilA9LHw3H9BstEP3yHpsZqp5iZzfPTyePuEhB4XI9Qy5UlnceQCCNMjYtmGhR-vBQGRgcCwX-vV4EJtUqpPqzyzw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJWYOGiDCSjARMvnTZbED6wc",
+         "plus_code" : {
+            "compound_code" : "97RM+F6 Air Itam, Penang",
+            "global_code" : "6PQ297RM+F6"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJWYOGiDCSjARMvnTZbED6wc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 390
+      },
+      {
+         "formatted_address" : "33, 221, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4013616,
+               "lng" : 100.2907643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.402702679892721,
+                  "lng" : 100.2921457798927
+               },
+               "southwest" : {
+                  "lat" : 5.400003020107277,
+                  "lng" : 100.2894461201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef167b9775290531f977c782c51bc678e66b119f",
+         "name" : "Bihun Singapore Farlim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106973349132989243026/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKEG0AOqaOeb9OExDoyTFsiXm7YLevq09LfQkAcTA0WQYG0-9VXrZyzTsNXy1WR4w2nXHdlXlHgxb9IBpyHfsl4gd1MWniux2RirOepw4RJkQVKgcqpFSdMLb7E2FwqyxEhBJFVFLqSACjd-I8u6GNo7FGhTvMG-K7j5eXQFI-c88vztQuJ-XOA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJm7rME8rDSjARkzutgCihT9E",
+         "plus_code" : {
+            "compound_code" : "C72R+G8 Air Itam, Penang",
+            "global_code" : "6PQ2C72R+G8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm7rME8rDSjARkzutgCihT9E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "11900 Bayan Lepas, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3024511,
+               "lng" : 100.2614899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.303780379892722,
+                  "lng" : 100.2628442798927
+               },
+               "southwest" : {
+                  "lat" : 5.301080720107278,
+                  "lng" : 100.2601446201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14ca1a38a9ac734d8dc957f6bdad17a95e53ccfb",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111509597528963309624/photos\"\u003eLi Ssu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABEkFgyvJ3fWWJ9mwg6c60usqLO_ddS9T7mgM4nw-UEQolmMmQVb4uTIO6jtNV6dJTRheqbQeZBLcwuj8e7Fimq_-ERxp1e3bPzFfX6C3Ip1gqg0i1fyMX_bV6b8jdYLQEhBiOGeD5Oevp4YXy3eH52qCGhR-Z3F1KBMRcTQ78IsbkVUGbAiUjQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJicxR5_2_SjARysHwUpohQng",
+         "plus_code" : {
+            "compound_code" : "8726+XH Bayan Lepas, Penang",
+            "global_code" : "6PQ28726+XH"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJicxR5_2_SjARysHwUpohQng",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1160
+      },
+      {
+         "formatted_address" : "16245, P8, Bandar Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3193689,
+               "lng" : 100.2846646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.320719879892723,
+                  "lng" : 100.2860096298927
+               },
+               "southwest" : {
+                  "lat" : 5.318020220107279,
+                  "lng" : 100.2833099701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70d58bce97ab3062c813030ee70df2a9a391d686",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116694457454912717500/photos\"\u003eTeh Tian Hong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXFK9mhwfpCCo9NKW2ScPHRm9AHZILOtVB4QEhJyO01L6Zp-ohFWf_vY7bE3VQiEe119kf7P1EdXv0yP-KORYyNS_ANOUaCYUBFE6HIDWWA1Jz-Zh1uPFhETZELfS-FqLEhAcJrA-H1Viw2P_4Dio6RBqGhRenA1Bsk5SdWjnXI-axwrD9itO7Q",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJfQlGe23ASjARWUJ5kOR-e9c",
+         "plus_code" : {
+            "compound_code" : "879M+PV Bayan Lepas, Penang",
+            "global_code" : "6PQ2879M+PV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJfQlGe23ASjARWUJ5kOR-e9c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1254
+      },
+      {
+         "formatted_address" : "Jalan Teluk Kumbar, Kampung Teluk Kumbar, 11920 Teluk Kumbar, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.2862459,
+               "lng" : 100.2376139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.287561929892722,
+                  "lng" : 100.2389534798927
+               },
+               "southwest" : {
+                  "lat" : 5.284862270107278,
+                  "lng" : 100.2362538201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "498fbd6e742854e4897403f0111e70a54426adf8",
+         "name" : "Mamu Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105637200877317425718/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVIhxz8gP-qL97_56520QtW_m4pQTAOzn52JEb_1Go_QEEPfQSz5kjhDdAO67nguqyPUQOo84AqFKlsbOhNRddgBX-zHkdheI3MpzbTmlwYKb4aDdhrY-Bryv7r1JCVCPEhBpOdn_2qyHefyRRqZX5eMSGhTVlHFP5hiDwL_Ct1tiDh6qzZx1Rg",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJe-POzGqVSjARCg0MEPCaU9Y",
+         "plus_code" : {
+            "compound_code" : "76PQ+F2 Bayan Lepas, Penang",
+            "global_code" : "6PQ276PQ+F2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJe-POzGqVSjARCg0MEPCaU9Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "Malaysia, Kampung Bakar Kapur, 11000 Balik Pulau, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.306178399999999,
+               "lng" : 100.1946463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.307452979892723,
+                  "lng" : 100.1960380798927
+               },
+               "southwest" : {
+                  "lat" : 5.304753320107279,
+                  "lng" : 100.1933384201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ffbbffe94726bda7b6c439bdf75fac9550b3b52",
+         "name" : "Jia Siang Cafe (家香茶室)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115184651988760635481/photos\"\u003eChaiSeng Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANo6T4GGkIJlVMuZLnOZ83fiVLKvvlRRiMH1rN_IHIU4MFasBXqBxOjgJu8mBRX3h1aUaOJA3TikbhgCFs37jTcIzYFBqD5a3KnGTJ-UhfwvUm7CaQ2m294YngNfYlwZZEhANrUl6MYY7yD4AgqLY7Nr8GhQaun-9T4YMy7cgG7ZB6zz_J0AlOA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJjY8cW8qUSjAR9QJWmGoN74o",
+         "plus_code" : {
+            "compound_code" : "854V+FV Kampung Bakar Kapur, Balik Pulau, Penang",
+            "global_code" : "6PQ2854V+FV"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJjY8cW8qUSjAR9QJWmGoN74o",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 195
+      },
+      {
+         "formatted_address" : "2, Jalan Sungai Ara 2, Sungai Ara, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.325397,
+               "lng" : 100.2706219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.326748179892721,
+                  "lng" : 100.2719575798927
+               },
+               "southwest" : {
+                  "lat" : 5.324048520107278,
+                  "lng" : 100.2692579201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b445f64e45a34012191f55333029308d02053d4c",
+         "name" : "Burger Hot Dog & Mayonis",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102689313902995691086/photos\"\u003eAlbert Yap\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeIHbrKTBRjR-3MpTQkeYTY6gxaOsZFHiOnZw8eOXd6X2rNExPdIiFXSlxZmMB2IyKeWe6ewAKVKYs8GS280sckSTrl9gDD1ww2QS9Fx74L8jcOEn-W1AW1rdV5woqAVpEhDNPSB7-QuMxDkJWyoR3JUCGhRJZzO6GKmookcVQ0XZxTxbYG-qPg",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJRTWf2hnASjARfUdfvhcICHA",
+         "plus_code" : {
+            "compound_code" : "87GC+56 Bayan Lepas, Penang",
+            "global_code" : "6PQ287GC+56"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRTWf2hnASjARfUdfvhcICHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "4 B-C-D, Jalan Sungai Dua, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3525673,
+               "lng" : 100.299399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353878279892721,
+                  "lng" : 100.3007692298927
+               },
+               "southwest" : {
+                  "lat" : 5.351178620107278,
+                  "lng" : 100.2980695701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f93f54a1e97bc2ef1a317d62f82b2a03d648fbd",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117132068940893289943/photos\"\u003eShuen H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgWJsJtOGA5ezroilCteyOMnmJHGwGz_GGd5DR4CRcRc1iUBY2jKk_4StQP9jzuUcwibxweOhJCgP4m2gUtiTKSUVRuDmpEW_GkEsN3_1os20dyD-uWf5N2QhQoJ3A2HUEhCssniIIiV5bTdYy7uM-JcKGhQ_R6LLzk3AgxWDS1KSIsNIi7RelA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "plus_code" : {
+            "compound_code" : "973X+2Q Gelugor, Penang",
+            "global_code" : "6PQ2973X+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1199
+      },
+      {
+         "formatted_address" : "34G, Jalan Mahsuri, Bandar Bayan Baru, 11950 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3266087,
+               "lng" : 100.2867795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.327999779892722,
+                  "lng" : 100.2881315298927
+               },
+               "southwest" : {
+                  "lat" : 5.325300120107278,
+                  "lng" : 100.2854318701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24e71759a4467e3704845ce3019f1da20e4f8ffb",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100009435243911457582/photos\"\u003eSalahuddin Ayubi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-nPtEmqVVFqi7jPQF87yV9eUuLzQI5FBp9EyMIzN98_nHZ4k_uY55Elkm_99As0OcAYDsSPTyOL193LNBiLdQSDhRTFGkoK_YMDXo-EJjvOWfox__PZbzPhGND8KaAI6EhAx8fFlk9CLeFJ8PbNtU6v0GhSuisyULZm4pSMOqBae3wH7KNFWvA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKWA0SGrASjARlTxFNqzYEAg",
+         "plus_code" : {
+            "compound_code" : "87GP+JP Bayan Lepas, Penang",
+            "global_code" : "6PQ287GP+JP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKWA0SGrASjARlTxFNqzYEAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 929
+      },
+      {
+         "formatted_address" : "Nan guang kopitiam, 67 main road, 11000 Balik Pulau, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3519679,
+               "lng" : 100.235693
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353295629892722,
+                  "lng" : 100.2370263798927
+               },
+               "southwest" : {
+                  "lat" : 5.350595970107278,
+                  "lng" : 100.2343267201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "928fa881edb02a9e07bd2bf17c843a33541f1a0d",
+         "name" : "Kim Laksa Balik Pulau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105234818833230819936/photos\"\u003ekali king\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkJKXBTn_Cls7LAzvRSuhFfsEPY6AHy8b7bDv7NoPyl_iGPSZKOogYU9q9RoX85YoBEgevwY7TCBw7-X-fgUFIMKqa28t3MV2aqeegObc56aDCkLVtIMTSr8qCCxQKf9sEhDGi49OWaQZ1nQzhoPMBKITGhSUn-UkkObmzQbNhTEnMOEj9AWSjw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJa5UEsV_qSjAR159NYE8cxyo",
+         "plus_code" : {
+            "compound_code" : "962P+Q7 Balik Pulau, Penang",
+            "global_code" : "6PQ2962P+Q7"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJa5UEsV_qSjAR159NYE8cxyo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 161
+      },
+      {
+         "formatted_address" : "1, Block 5, Jalan Van Praagh, Taman Koperasi Jelutong, 11600 Jelutong, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3977831,
+               "lng" : 100.3104329
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.399170779892723,
+                  "lng" : 100.3117927798927
+               },
+               "southwest" : {
+                  "lat" : 5.396471120107278,
+                  "lng" : 100.3090931201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fac3d2dbcb588b933b3904db8d24cf6421d588e1",
+         "name" : "Mr Fatty Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107476049230256554408/photos\"\u003ewenquan tv\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABSPJaAHU3hJTv8QLvCuHcOf1-ps20kpfqkCz21FbAnNIhHTdr0L1WWdKXoosjbhNwWRfl_J4zp4xMh7d29cjirw8xWa1IIk1pbkescMQmcjDsNxWFiYBFBTonsr9fjsBEhCNU2dncErrOXAMGm03dK5NGhTYXe_ch3phBcXfbKF2iCpaW8Rg9w",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJRQfzzSvDSjARXRRYAy72ssM",
+         "plus_code" : {
+            "compound_code" : "98X6+45 Jelutong, Penang",
+            "global_code" : "6PQ298X6+45"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJRQfzzSvDSjARXRRYAy72ssM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

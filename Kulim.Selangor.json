@@ -1,0 +1,886 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEAwIAAKMnZWT9DOaUpcX7AsdV_80exaFWKXPvt9ZuUqfQ5-keGwKwc0PX6eKXgM8QtO__GZUwznQ4hh51C5qWCJMjgdII-IWfJWWCNCS8GFlz3r14nuIvBsErGkNA6AJQwticznkWVkeFOL7nAV1JA2Eh53_J9e3z8zqW_95Lfv7t8R4lHD8D_kxwo9sb990mzC2SSllFXfqhB6b6lrR5BIBqYeqYyPA4_kMXCkR0d4evtEF3f18YVl41J1YummkWQB5efC0TazKU-m9rDiBA5Fx0SDAWgPrEfKJm9kRx11-ddJrZWhmLljcWyLGQJdUmySQmKrBQugmwYy-THDJqfTvcIucIfY_IFPaNKr9bSB-4gPmo26NpYdHaED0qlp6mfAJGOs3eQ8nNMeH5egkhuH4eYfRkD6MTddcqd9gASaahITb0Ts-VYxks82HA3_MXAXKoyV-Ky5Qj1Cqse2cfr2zFut6F4XEI6s3agNUwbjhGLbKfDlYktzyts4lqNauFBTol0Ghp4YD2u76IAY_04piFksscapQJcs2zchVpPtw2ql20NaNwe1bSJmvevenVipvL1y4JEfrCW-GjoLlg6djxT6jP5Mjzu4umfrnq0z8eNVUNAEoe3QmqWkRNV1gNvX9Jct5Ob1vh94HvPUtnWWT-ZuShQQ1svYbvPU0MZepmzwENT2NB2ZMjSECPlPuVLcL51BIQTlZu0Y4v7e2yJVbsv5GwBhoUhAAboKan_ZSqcqT8l28chs7s_UM",
+   "results" : [
+      {
+         "formatted_address" : "Lot 640, Teluk Piah, Mukim Kuala Selangor, Kuala Selangor, Malaysia, Selangor, 45000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.330074,
+               "lng" : 101.258642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.331501779892722,
+                  "lng" : 101.2599114798927
+               },
+               "southwest" : {
+                  "lat" : 3.328802120107277,
+                  "lng" : 101.2572118201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ccfe8e073e87b2548a2c1b8a5061214283ab9a58",
+         "name" : "McDonald's Kuala Selangor DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102340707562441581204/photos\"\u003eALLYA EINLYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJXNBzr1As7Q9I3KH7v-iM8MhxyxCnWwYPts3OABqiiZcZOsv15_Uu3J7dh5KDSUMKtejSsOvxY1sCKauS0qI3mUCNRyns-HYbmBGJr7zTWlcl-pT66IDtUYF3JPe2xTlEhAdjKgaZc7NMaXMf9EyX5tnGhRQwO-3yeu5AToCy5Glz-aN5462Jw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ53vUdKL0zDERd5eguLgzizk",
+         "plus_code" : {
+            "compound_code" : "87J5+2F Kuala Selangor, Selangor",
+            "global_code" : "6PM387J5+2F"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ53vUdKL0zDERd5eguLgzizk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1331
+      },
+      {
+         "formatted_address" : "No 46/48 Jalan Melati Bandar Melawati Kuala Selangor, 45000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3298139,
+               "lng" : 101.2570468
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.331236829892722,
+                  "lng" : 101.2583190798927
+               },
+               "southwest" : {
+                  "lat" : 3.328537170107278,
+                  "lng" : 101.2556194201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed6b33967bd36a2d50fe9aa3f8934faa75833f4b",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108965512677206699193/photos\"\u003eAmsama Revolve\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe6XuZEVTK-3My1KQirjrJrd0YxNORReHWTs6hJLxEVuP2iOzYatAGi9Qw8MGAaf0eWnSK0tXOxb5ntf4HnTiVRh4rgryHcM9ilHe-_VjEAGsAU31HokUSnyb1gGQf6sKEhDvjmBeH_pq5pZ3JTK0qfhGGhToGdsHS7e2mqe_mjxDioAMc9jCAg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ47-e6p70zDERXkJoHtpn5pg",
+         "plus_code" : {
+            "compound_code" : "87H4+WR Kuala Selangor, Selangor",
+            "global_code" : "6PM387H4+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ47-e6p70zDERXkJoHtpn5pg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 335
+      },
+      {
+         "formatted_address" : "No1, Jalan Besar, Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3481407,
+               "lng" : 101.2515372
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.349469779892722,
+                  "lng" : 101.2529563298927
+               },
+               "southwest" : {
+                  "lat" : 3.346770120107277,
+                  "lng" : 101.2502566701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e80e8ad6abe04c3e9766faf93e2488ad878ec87",
+         "name" : "港景海鲜酒楼 River View Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116708633924792312899/photos\"\u003eJoshua Ananth\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYd2cIS7L-XXGRiNq-sToaqyaFS7Z67Ce6vSBAv3WP-mcrqJWCdE4S45vSW-v5AtUEyLZG_wAihZ6ZKOhzFd25wPXYGcGdCMYFWVWpglltQOqmvGsT2CeLBPsDWlWR2UzEhA2Smgzl3eqb47MlbPIhgDdGhRapd9qAC8Ajuet0ahdiA2Ylyo20A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJxXFOc6n0zDERTjb6mSir6s4",
+         "plus_code" : {
+            "compound_code" : "87X2+7J Kuala Selangor, Selangor",
+            "global_code" : "6PM387X2+7J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJxXFOc6n0zDERTjb6mSir6s4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 388
+      },
+      {
+         "formatted_address" : "Lot G20, No.2, Medan Niaga Tesco, 45000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.319786,
+               "lng" : 101.271112
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.321324979892723,
+                  "lng" : 101.2722422298927
+               },
+               "southwest" : {
+                  "lat" : 3.318625320107278,
+                  "lng" : 101.2695425701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a2583849ddc1c0d63f32e271e260cffefb0f9688",
+         "name" : "KFC",
+         "place_id" : "ChIJVWDlbYz0zDER3Pvw3tNukKk",
+         "plus_code" : {
+            "compound_code" : "879C+WC Kuala Selangor, Selangor",
+            "global_code" : "6PM3879C+WC"
+         },
+         "price_level" : 2,
+         "rating" : 1.7,
+         "reference" : "ChIJVWDlbYz0zDER3Pvw3tNukKk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "4, Jalan Melati 3/17, Bandar Melawati, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3310382,
+               "lng" : 101.2552219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.332375679892722,
+                  "lng" : 101.2565603298927
+               },
+               "southwest" : {
+                  "lat" : 3.329676020107277,
+                  "lng" : 101.2538606701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b3003c7e8e871d30f08929580cd5fa523f074516",
+         "name" : "RS Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104653688150203264983/photos\"\u003erosli saad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPcIaT-boI_4kt_tHay0BFV-5jK45zfTuaez9Dzh2tf68pFUIo1em6gaVpCpKwpPKWQdKgFZaZuA8yvnTk7aiyn7DLObT_w7VWLtyrTKfrjQjsaIeW5bxqMMxVrDdOo1QEhDl7-0Nu9efAHqGrLPlIYRlGhRFvh-PJOkCMZ8JxhoHXxF3QNGe5w",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJb2b-9570zDERlZAj7Lft6g4",
+         "plus_code" : {
+            "compound_code" : "87J4+C3 Kuala Selangor, Selangor",
+            "global_code" : "6PM387J4+C3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJb2b-9570zDERlZAj7Lft6g4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "formatted_address" : "19-G, Jalan Dato' Tan Teng Kuay 1, Sungai Buloh, 45800 Jeram, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.256146,
+               "lng" : 101.307608
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.257536479892722,
+                  "lng" : 101.3090114798927
+               },
+               "southwest" : {
+                  "lat" : 3.254836820107278,
+                  "lng" : 101.3063118201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f3c6af3cce8204267630015ddba22c2b346eea7e",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1616,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114361754423935579545/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAesx8vgn_1wv4d5aBBMBauCeQryZmwgwEDkeBmAd1MjSAh-Vvb6Oadc6Vxbwv3ZAlEUStaVeoXHi1qoGbya2G8qnP8ODScxqP1Ak-cskIiIkXPSiEqqISO5XC6YVXC3uSEhCoQmVqJXUN57MId8OaC7xbGhQ1n5M_sQEkrPzrCXlpeZ9uWOboAg",
+               "width" : 1212
+            }
+         ],
+         "place_id" : "ChIJ1RiPx2f2zDERyB9-KdCmmis",
+         "plus_code" : {
+            "compound_code" : "7845+F2 Jeram, Selangor",
+            "global_code" : "6PM37845+F2"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ1RiPx2f2zDERyB9-KdCmmis",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 163
+      },
+      {
+         "formatted_address" : "2, 45000, 2-22, Jalan Bendahara 1, Taman Bendahara, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.320305,
+               "lng" : 101.2688868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.321660829892722,
+                  "lng" : 101.2702425798927
+               },
+               "southwest" : {
+                  "lat" : 3.318961170107277,
+                  "lng" : 101.2675429201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "210aed09695d766bbe84d3573fb54f666d3cf327",
+         "name" : "Melawati Steak House",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111501088750823102218/photos\"\u003etiu ah piau tiu ah piau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWQSMbKVREUz4VGvqGm_m3dG8hcfBnMlSd4_GRwWPoen6QLFtN2Lq6Rkjs5_LuhFWVGYDt9Zj8y5_GsHUcDZD_VBpvLndvbhaIQs-zoq7HOSyYBvb5wvdsP41W2JvF_xdEhAAOo5-aeYfHG8ITfyEZbWDGhQ0WmRwsFImNRONEbjIZrNfhfVaEA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJj3Zdoo70zDER6HuoyEwMAMY",
+         "plus_code" : {
+            "compound_code" : "87C9+4H Kuala Selangor, Selangor",
+            "global_code" : "6PM387C9+4H"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJj3Zdoo70zDER6HuoyEwMAMY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "formatted_address" : "Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3463725,
+               "lng" : 101.2561805
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.347711679892722,
+                  "lng" : 101.2574999798927
+               },
+               "southwest" : {
+                  "lat" : 3.345012020107277,
+                  "lng" : 101.2548003201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "64423945cc54f5564032cc27dc4543becb37ce3e",
+         "name" : "Thyme Taste & Grill Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113289566189277327078/photos\"\u003eSerri Mohd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbQnUlMaRCn_JSbJXKz8ehyeNl4S1Rt2OtYFfGS_rnEsumzbReJlZo8xLKlA3sZ791jyz1nxdsFuLjs1btlmL2sm3_Jmw0Omi_fhq9JXqvwVWWwqHJADTAxsGVY29qPbcEhCOGQOD5L3Suyob5C_NelIZGhSn4Yry6YnkVgPsUxTBG5uiFdaN7A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJZ3pDIFOLzDERv8qQye8L5rg",
+         "plus_code" : {
+            "compound_code" : "87W4+GF Kuala Selangor, Selangor",
+            "global_code" : "6PM387W4+GF"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJZ3pDIFOLzDERv8qQye8L5rg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85
+      },
+      {
+         "formatted_address" : "97, Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3482411,
+               "lng" : 101.2517639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.349594579892722,
+                  "lng" : 101.2530973298927
+               },
+               "southwest" : {
+                  "lat" : 3.346894920107278,
+                  "lng" : 101.2503976701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ac73d8dac4484e954b96a5de2bc6a96f1c002d3",
+         "name" : "Sin Hai Ping Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114339069530285991305/photos\"\u003eChing Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi-TZ0Y1s6CUb8XZ9QVDo0fN2jLPI_tNMai0BEhEdXIeuz5Sh5IO0Vg9JBPXOLOp_hLagAm8SvnSNXSDqewBBKpIEC7z0IcRth2JzmtJL_n40b9tt-1ae4zZIwLddsuqzEhAMqap_QUFL2mjERzWzGtq1GhS6joAh35Y9ISzS51vQjXLXG7hR9w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJzYgSDqr0zDERor2ugBN3IyM",
+         "plus_code" : {
+            "compound_code" : "87X2+7P Kuala Selangor, Selangor",
+            "global_code" : "6PM387X2+7P"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJzYgSDqr0zDERor2ugBN3IyM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "formatted_address" : "Kampung Telok Piai, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3308648,
+               "lng" : 101.2572379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.332215029892722,
+                  "lng" : 101.2585881298927
+               },
+               "southwest" : {
+                  "lat" : 3.329515370107277,
+                  "lng" : 101.2558884701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ecc1850cd3bfe55c43908e64041a14d8a02f70d4",
+         "name" : "Sushi King Kuala Selangor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116815316273929970820/photos\"\u003eTan Weng Han 陳玟翰\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2dpmUCTV_RA-CKDx7pzC8KeCWY_lrCiyiskQt8GdTuaR4B-JE9f4nqiyQgFxfTlWoPhlbCzRsr-RHZU4HLVyPzll0GxaKfJPnODV0p2Em-tNplmAiIEiwXCoheIiHPsHEhCg6FxsqqbjCxKIL4tSDGLqGhRFZMvjCyDCEBD5HLCBvKDemfHmsw",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJuwahxZ70zDERYzKPAndsfRg",
+         "plus_code" : {
+            "compound_code" : "87J4+8V Kuala Selangor, Selangor",
+            "global_code" : "6PM387J4+8V"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJuwahxZ70zDERYzKPAndsfRg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 194
+      },
+      {
+         "formatted_address" : "143, Taman Pinggiran, Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3529708,
+               "lng" : 101.2525617
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.354308479892723,
+                  "lng" : 101.2539073298927
+               },
+               "southwest" : {
+                  "lat" : 3.351608820107278,
+                  "lng" : 101.2512076701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2b4e615edbbb1be64921ce34ea761a2c7541dc3c",
+         "name" : "Restoran Tian Wai Tian 天外天海鲜餐室",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114750689763378922486/photos\"\u003eTien Sheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGwtlSbJKUZVwSH2tn3qgM0zqglSUsJXsejLsarNAXDVlXWU-JqIHZ0n5TUWHoYf-YnSzUZ99Mm6ZHBqAGijkfrrb5V-8RCMIfBN6TgS6gdCJNcwI0OcQByjFnfBXML7GEhCWrO-1gjNe49WOWVlzDiuCGhSX2XMWHPzRRbRla9gLycm6kQ7QVg",
+               "width" : 3920
+            }
+         ],
+         "place_id" : "ChIJ-6kZoar0zDERA_xvvfEaMZc",
+         "plus_code" : {
+            "compound_code" : "9733+52 Kuala Selangor, Selangor",
+            "global_code" : "6PM39733+52"
+         },
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "ChIJ-6kZoar0zDERA_xvvfEaMZc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 212
+      },
+      {
+         "formatted_address" : "Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.348022,
+               "lng" : 101.2516481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.349372129892722,
+                  "lng" : 101.2529833798927
+               },
+               "southwest" : {
+                  "lat" : 3.346672470107277,
+                  "lng" : 101.2502837201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83ea44434034bad29bca26fb3b4246508e89efbd",
+         "name" : "Restoran Makanan Laut Jeti",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114363203513435591958/photos\"\u003eA.M M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaRkDipd-RSXXbJzU6OS5rGsqlCSj5sPZ4lSYp0KNgpbYgpB1U2QLRdXSwuowkfR3S7D8CreC4V3RjA5bdRA_xgSlEX-xWn_8o8_YjLd8Jl7dZoKMKQ15o7CkCg3Ag3C6EhCEa4h1fN8YUiBxXiG9DxCvGhR2lVf8tCzgJrBoPOAmKLboS3Kh2w",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ70xnF1bzzDERlz3oeSz22w4",
+         "plus_code" : {
+            "compound_code" : "87X2+6M Kuala Selangor, Selangor",
+            "global_code" : "6PM387X2+6M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ70xnF1bzzDERlz3oeSz22w4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "No. 439A, Jalan Sungai Yu, Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3490562,
+               "lng" : 101.2512566
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.350401779892723,
+                  "lng" : 101.2526581798927
+               },
+               "southwest" : {
+                  "lat" : 3.347702120107278,
+                  "lng" : 101.2499585201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "105213d6ab94700dadc451afbeec87acd5806d5b",
+         "name" : "Kuala Sungai (Ah Yu) Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106759254649274614448/photos\"\u003eChester Tan陈川镇\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbui5ECCxpeR3X_t_6UAhoA3pFoyuuF5Z_UrtESkuZiiXTtATP9w1Nm_ejtjC_oZBWK1cCjDmDg61nfLzDIDUXMb2JH0QfGTQJEcCx7EtXYO1OPuWRZjx8KdnRA3Qhk7jEhAhNlH19Q0VkO-1mCNHHuvsGhRPSQqz5l-vkZB9xEIqkf-C5pyTwQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJt2LCDlbzzDERxFMU9Og502A",
+         "plus_code" : {
+            "compound_code" : "87X2+JG Kuala Selangor, Selangor",
+            "global_code" : "6PM387X2+JG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJt2LCDlbzzDERxFMU9Og502A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "Kampung Permatang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3725079,
+               "lng" : 101.2400493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.373791879892722,
+                  "lng" : 101.2413126298927
+               },
+               "southwest" : {
+                  "lat" : 3.371092220107278,
+                  "lng" : 101.2386129701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b513ade81d2b997c8edbd8b18580cbdb6f3f304c",
+         "name" : "Cendol Durian Borhan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108108946049741407455/photos\"\u003eAmira Amira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-ml3__JjhjvUw-ADDwxyAss_NWztuns7f7TN5IFMZBqNA3R82JdmZEpRIY3sCI8inHdYUGTPLzZoIsgNxIpnX_Ur0kWzUfjL9rnPJmgeSWRUFZsh620jHJPy-jHc6z93EhD5pk-mYFPr4GYldhWLtm6QGhRsr1eYLRqUK7jM-UrA-EtMr-L2Tw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJXRBkuJeMzDERSxEc9Or84Vc",
+         "plus_code" : {
+            "compound_code" : "96FR+22 Kuala Selangor, Selangor",
+            "global_code" : "6PM396FR+22"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJXRBkuJeMzDERSxEc9Or84Vc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 539
+      },
+      {
+         "formatted_address" : "No. 2 (GF, Jln Aman Suria 1, Tmn Aman Suria, 45600 Batang Berjuntai, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.380064,
+               "lng" : 101.412789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.381399629892722,
+                  "lng" : 101.4141466298927
+               },
+               "southwest" : {
+                  "lat" : 3.378699970107278,
+                  "lng" : 101.4114469701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32257f2a614ad69c44a2e38fddfe1a0353e139c0",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115980628045355000064/photos\"\u003e淇淇\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQeUqZzv-82zVGn8cFRktOvsjkz5__1M38sgplvgSathN8qCzxcO2GC37Os7wp0epIS18joSqf4qj6pVr1fS6fJ5qzoMqlUJV5WmW0KZ6kxpG6VFNDA6xMmvGP4-9UCkHEhCYINvwB7DQCuk1FrXyl53RGhQqtPWfxYvk2M4RjtPQVSCClOhnAA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0zoB7cJgzDERiYlEsSMLH-s",
+         "plus_code" : {
+            "compound_code" : "9CJ7+24 Bestari Jaya, Selangor",
+            "global_code" : "6PM39CJ7+24"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ0zoB7cJgzDERiYlEsSMLH-s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 292
+      },
+      {
+         "formatted_address" : "Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3521444,
+               "lng" : 101.2488949
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.353548229892722,
+                  "lng" : 101.2503788298927
+               },
+               "southwest" : {
+                  "lat" : 3.350848570107277,
+                  "lng" : 101.2476791701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0acf782605c4ebd51e1bccd6a2c6fce09cbc862d",
+         "name" : "Hai Ung Seafood Restoran K.Selangor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116861380584496577130/photos\"\u003eChan Jeffrey Choon Hao\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJknOSKzydbzhn8RftXAOAO35EL_x_blo26rETom9cB3jcfXsPKk0uaxcqQhTnyhlTVCnpI3fdGIdVRIKCxqErREA2ixwLjmJknLKLpecuCjN4e1hZYsu1LQP-uyJrGALEhBRdAbojQ2EJgAlguzTkqGlGhSaq6APDE3NQvE3bao9Qk0UwzH-2w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ97CN71TzzDER5XXBrWTQu54",
+         "plus_code" : {
+            "compound_code" : "962X+VH Kuala Selangor, Selangor",
+            "global_code" : "6PM3962X+VH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ97CN71TzzDER5XXBrWTQu54",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 409
+      },
+      {
+         "formatted_address" : "Lot 170, Batu 25 1/4, Jalan Klang, Kg Assam Jawa, 45700 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.307782,
+               "lng" : 101.2836072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.309173329892723,
+                  "lng" : 101.2849159798927
+               },
+               "southwest" : {
+                  "lat" : 3.306473670107278,
+                  "lng" : 101.2822163201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d880fd3174343e47bb57c4e85f96c217a90e9d84",
+         "name" : "Cendol Bakar Kuala Selangor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114892648316822174378/photos\"\u003eRaja Jaafar Raja Ismail\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADmMJKld-YO5R4aR4MWJS4Zdm4PyqXEh03Y3V8D-e_bIHqP2cr6ZQoJDsxxqD4Nym7JJ0Uni7JDs6V_QqgoulxZrpPvWStxL9OrU4Oc1_SdEw8H7LnuM_2wuInp2ftOIoEhC2rKonpkuBKHCl_JB3k8WbGhROKdJoKFZ9zfhYcQ9UvkbCQxhPRg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJiWbZT030zDERPcTkmKVaEDg",
+         "plus_code" : {
+            "compound_code" : "875M+4C Kuala Selangor, Selangor",
+            "global_code" : "6PM3875M+4C"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJiWbZT030zDERPcTkmKVaEDg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 485
+      },
+      {
+         "formatted_address" : "21, Jalan Perusahaan 2b, Taman Iks, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3192136,
+               "lng" : 101.2635264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.320614629892722,
+                  "lng" : 101.2649284298927
+               },
+               "southwest" : {
+                  "lat" : 3.317914970107278,
+                  "lng" : 101.2622287701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd9b9a1005c36190e021a9f57d71eb4a7485e5a7",
+         "name" : "Noah Street's Burger Kuala Selangor",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3526,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106823300859782007167/photos\"\u003eSiti Afzan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAw1TFF_QJ96KGA3yfgkbTVdD2KeJN6J3sPwkPPzDhJYjonCuJmW91yzOAVfzajDa98ZIx1rh2u7R1oInoZzAgvHKaNDz88QOyH91_xXHGbGFrn0k97Y0dcGt2dJQagML8EhAz6EcXzGQM2W92ov6a36nVGhQEwSKFUJcHh083uxcwOpPYZv1Mgw",
+               "width" : 2886
+            }
+         ],
+         "place_id" : "ChIJLWMq_oX0zDERFikhOZW_GQM",
+         "plus_code" : {
+            "compound_code" : "8797+MC Kuala Selangor, Selangor",
+            "global_code" : "6PM38797+MC"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJLWMq_oX0zDERFikhOZW_GQM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+      },
+      {
+         "formatted_address" : "1A, Jalan Bagan Sungai Yu, Pasir Penambang, 45000 Kuala Selangor, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3517104,
+               "lng" : 101.2492199
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.353112429892723,
+                  "lng" : 101.2506570798927
+               },
+               "southwest" : {
+                  "lat" : 3.350412770107278,
+                  "lng" : 101.2479574201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "478cde874c7f4ce596ae2bc97c6305ce9f6f4a87",
+         "name" : "Kuan Hwa Seafood restaurant 群华",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111853367802169020694/photos\"\u003ebrigitte de bruijn\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfWJxv4Hgu9MDUJ3lkOLwmG-OfWmB4bc3Cm-1_aN1Owde_pOSZbZWMgI7wVy8PN0J9VZRu5RRdGWvzO6dS0DiGYdH6jPV9TbXB0uB-UKZA04crNnQvXFVxT0kOpn2NXIIEhDcizrHIu3VI-gJetk5qEyoGhQJGq1P5kmmYqiHE9L54xYGSyBoBg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJx12SbAqNzDERL_hDkT3sRI0",
+         "plus_code" : {
+            "compound_code" : "962X+MM Kuala Selangor, Selangor",
+            "global_code" : "6PM3962X+MM"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJx12SbAqNzDERL_hDkT3sRI0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 858
+      },
+      {
+         "formatted_address" : "lot pt 85 jalan bagan pasir penambang, 45000 kuala selangor, selangor darul ehsan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3414908,
+               "lng" : 101.2540079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.342900829892722,
+                  "lng" : 101.2554733298927
+               },
+               "southwest" : {
+                  "lat" : 3.340201170107278,
+                  "lng" : 101.2527736701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9ffe985f050b234d19b79cb8818310109bae7dfe",
+         "name" : "Restaurant D'coral Kuala Selangor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116131275893867771782/photos\"\u003eMohamad Khasiri Ariff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPXsPTA7cs9qOXLOi_k8iUiBJ_s71zrri9XXeEr2_d0asWVtlfEsAH15W_dfkkgem85TT28RblU-uqCCVHnJZ_LvswUTjSXuKU1jB1quDPkWqdFeAUaIcs7667fUGLqB4EhC0OPi31IfSw3ChXo6-GYgbGhTnp5xVTwDubljgHJPJcgh5u3ue-w",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ1fBcCqf0zDERH_mkLzF2yJ8",
+         "plus_code" : {
+            "compound_code" : "87R3+HJ Kuala Selangor, Selangor",
+            "global_code" : "6PM387R3+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ1fBcCqf0zDERH_mkLzF2yJ8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 398
+      }
+   ],
+   "status" : "OK"
+}

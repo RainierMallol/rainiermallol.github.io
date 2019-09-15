@@ -1,0 +1,304 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "5270,, Jalan 5, Kampung Batu Tiga Puloh Sembilan, 45200 Sabak, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7461527,
+               "lng" : 100.9759406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.747469829892721,
+                  "lng" : 100.9773256298927
+               },
+               "southwest" : {
+                  "lat" : 3.744770170107278,
+                  "lng" : 100.9746259701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ae21ad6cef028113e51d2b68fe3b99ac0015dfd",
+         "name" : "Cendol Durian Borhan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109309716226732102377/photos\"\u003ebasyar saad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABVdfZMJZJGMod5TS4oJIn46k1SIQT8HmtNZbfQ742U-M-2kwvsk3kvoDX3NPD1ovzuaBbYi-LeXOglZ6eu_8OGXKiDpqX7FVL7stYueL2hH_rt1iCXzRamKIpLhEMJosEhAI7m6usuWwOMc97CLjUgfxGhSTB4GFWKo-g6HWcnFTO5HEN3Sa2A",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJyVGqQwNeyzERt-8cCc1ip38",
+         "plus_code" : {
+            "compound_code" : "PXWG+F9 Sabak, Selangor",
+            "global_code" : "6PM2PXWG+F9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJyVGqQwNeyzERt-8cCc1ip38",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "619;;620, Jalan Raja Chulan, Pekan Sabak Bernam, 45400 Sabak, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.768117,
+               "lng" : 100.9825808
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.769481229892721,
+                  "lng" : 100.9839192298927
+               },
+               "southwest" : {
+                  "lat" : 3.766781570107277,
+                  "lng" : 100.9812195701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b64b7798e2cfa1fe52bdcaedd91d070d20ac5be1",
+         "name" : "99 Speed Mart @ Pekan Sabak Bernam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJn4R0pV5nyzERbqeLkjTyM4A",
+         "plus_code" : {
+            "compound_code" : "QX9M+62 Sabak, Selangor",
+            "global_code" : "6PM2QX9M+62"
+         },
+         "rating" : 3,
+         "reference" : "ChIJn4R0pV5nyzERbqeLkjTyM4A",
+         "types" : [
+            "convenience_store",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Kampung Sungai Gatal, 45400 Sabak, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7009769,
+               "lng" : 100.9422413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.702377279892722,
+                  "lng" : 100.9436272798927
+               },
+               "southwest" : {
+                  "lat" : 3.699677620107278,
+                  "lng" : 100.9409276201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e26379891f4de11540bf402afa58861989cfded8",
+         "name" : "Restaurant makanan laut Tien Yin",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112851529185684132923/photos\"\u003eChoonBeng Ooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABVfT_G8LBh-aCg2L4l3WHC77Rr5_VxPYtsAbDwFrOeLgbP9pe0QRoZcthcamVDAINmb0ouA1CrHpW23hke_3vU9VWd6vkIG10_vJOb5DWnJ0E7ccFQ22yos8p1KFEs3MEhCY5vc2IjGGo-dDYggCcohCGhSbvaAz3Sf4T4dbE_6CEmmPuQ8lKQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ4xgjDKRfyzERC_RDv7ksKIw",
+         "plus_code" : {
+            "compound_code" : "PW2R+9V Sabak, Selangor",
+            "global_code" : "6PM2PW2R+9V"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4xgjDKRfyzERC_RDv7ksKIw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 196
+      },
+      {
+         "formatted_address" : "45200 Sabak, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.766999199999999,
+               "lng" : 100.8728224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.768352429892722,
+                  "lng" : 100.8740930798927
+               },
+               "southwest" : {
+                  "lat" : 3.765652770107278,
+                  "lng" : 100.8713934201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "33b0ce7bf5e2b5cc715816b0a4116e066a100693",
+         "name" : "Gerai Mee Udang Banjir BNO",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102428711503433821995/photos\"\u003eFarid Aspar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5T2Q58tLb1zwWrmJJPrRi4B0ci2Y0c0AwN71ZaWllgn0nuXSXo0hCa6IdJC8qiPXw5duiAv1n3pB0g10pr4I6VSLDE6588XypyMztXJtNpdMsuhItK5mcfrwuhVT7Q0tEhDYJrD8k-4oIVpu8G-G6_QyGhTBfqksoeto5l3HKZfT_2J5yGs3CQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJRQUssOhbyzERHAFnM8xuw4U",
+         "plus_code" : {
+            "compound_code" : "QV8F+Q4 Sabak, Selangor",
+            "global_code" : "6PM2QV8F+Q4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJRQUssOhbyzERHAFnM8xuw4U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 188
+      },
+      {
+         "formatted_address" : "Sungai Besar, 45300 Sungai Besar, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.6735673,
+               "lng" : 100.9914622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.674847029892722,
+                  "lng" : 100.9928663798927
+               },
+               "southwest" : {
+                  "lat" : 3.672147370107278,
+                  "lng" : 100.9901667201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0ca0f26ad57039ca47d8b06e9bce142279c6e19b",
+         "name" : "McDonald's Sungai Besar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110471117324132831162/photos\"\u003eIsZul Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0jdR5jN-zJc5ZjI0PrvMUsGVI6xbe-oxOZfvW9zNLa4pea-GnuIfF0fm2YLPHPywcpjsbS4_VKe8WQPyTrvYWSaFDReZUlkzlDuE-wT2yzjOXu5jobQkrWc37fPD2IahEhDH95YRUcL3u4YYTz-Y4b6-GhTClKFNEU9-SDv8rAo1-dqV5e07zg",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "plus_code" : {
+            "compound_code" : "MXFR+CH Sungai Besar, Selangor",
+            "global_code" : "6PM2MXFR+CH"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 866
+      },
+      {
+         "formatted_address" : "PETRONAS Sungai Besar New, Lot 9197, Mukim, Sungai Besar, 45300 Sungai Besar, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.67418,
+               "lng" : 100.9911996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.675560879892721,
+                  "lng" : 100.9925756298927
+               },
+               "southwest" : {
+                  "lat" : 3.672861220107277,
+                  "lng" : 100.9898759701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0da1e67512864804b0f19e3099f1ab1ca87174e",
+         "name" : "mcdonalds sanbal bernam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxae_Rf2fzDERgj4Wn7ZWQkA",
+         "plus_code" : {
+            "compound_code" : "MXFR+MF Sungai Besar, Selangor",
+            "global_code" : "6PM2MXFR+MF"
+         },
+         "rating" : 3,
+         "reference" : "ChIJxae_Rf2fzDERgj4Wn7ZWQkA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "496, 16, Jalan Menteri, Taman Berjaya, 45200 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.763561,
+               "lng" : 100.98363
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.764927679892721,
+                  "lng" : 100.9850143298927
+               },
+               "southwest" : {
+                  "lat" : 3.762228020107278,
+                  "lng" : 100.9823146701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "28144dc1e4aaa7a4fbe3eb0593f3865d59af2935",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101171236989881202019/photos\"\u003ePakiawathy Paramasivam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiJjaoG_Rhv6rcxRyI4Th7cOKY1PnOfpUAiw0LuILremJ4SjXdwzwgxV2INaroMMv-DPNZtIF70PPmcf52T1VSDkMHEuELU5EvFR734-rxy-jyt78vYaM4e5DlSxSNk9GEhDgR6bkT8I58TgYfFgplBbtGhSOlPmADHDRd3Hzj4dSlmyLgoE4Ew",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJg8D0CldnyzEReWiaT5itBV8",
+         "plus_code" : {
+            "compound_code" : "QX7M+CF Sabak, Selangor",
+            "global_code" : "6PM2QX7M+CF"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJg8D0CldnyzEReWiaT5itBV8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 246
+      }
+   ],
+   "status" : "OK"
+}

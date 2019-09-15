@@ -1,0 +1,274 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "No 17-21, Ground Floor,Jalan Mahkota, 36000 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.025474,
+               "lng" : 101.020714
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.026807329892721,
+                  "lng" : 101.0220923798927
+               },
+               "southwest" : {
+                  "lat" : 4.024107670107277,
+                  "lng" : 101.0193927201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "926584fc6e822525e93d3cee28adc7f7eba0a681",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112224479253219321760/photos\"\u003eHaszura Safei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdE2_sUDhx-4OjR7Eqip_bbCelAcyaZsUtcbImV2kpl6pm5_pcB5mag1zfc3iRDMSpfsLnL7UUiV81GI1MUaTa50u-gROZwtkXE45_quxRFId5MpfPxT5IgWNnvKB8lB0EhAl-2CkxwfOA6DKZLfL08h-GhQ7REyQ0d32XeM5bPFYZ6m4w4_VLA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJfzgEWgMVyzERNpo-7XtsC3I",
+         "plus_code" : {
+            "compound_code" : "22GC+57 Teluk Intan, Perak",
+            "global_code" : "6PP322GC+57"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJfzgEWgMVyzERNpo-7XtsC3I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 505
+      },
+      {
+         "formatted_address" : "Jalan Changkat Jong, Pekan Teluk Intan, 36000 Teluk Intan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.023921,
+               "lng" : 101.0200691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.025313729892722,
+                  "lng" : 101.0213466798927
+               },
+               "southwest" : {
+                  "lat" : 4.022614070107278,
+                  "lng" : 101.0186470201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eebfd81272bfffe779060ac8ada052179ebf1c10",
+         "name" : "Domino's Pizza Teluk Intan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110722365459223687357/photos\"\u003eSyazana Nasir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3iEXoLiBwPtwV4GzuLlCdVao1TN8NXeaBCmBC9H2PwJNXAKLeK-ZHXDmgN8YaIkIFVboFuEsDXl-_TBPum6p3EAd3HMMxs8OpkdA0Ubyp686cBF3aM5AAKqevd6kS6w-EhBcpr3vqf3aIt05UWBydFlcGhSaWZey4-siPV3obg3p8qg0y7ZC6A",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJezsyvUxryzERhiwWcvEl9hU",
+         "plus_code" : {
+            "compound_code" : "22FC+H2 Teluk Intan, Perak",
+            "global_code" : "6PP322FC+H2"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJezsyvUxryzERhiwWcvEl9hU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 49
+      },
+      {
+         "formatted_address" : "Lot 5017, Jalan Changkat Jong, 36000 Teluk Intan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.0173824,
+               "lng" : 101.0274974
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.018604929892722,
+                  "lng" : 101.0287753798927
+               },
+               "southwest" : {
+                  "lat" : 4.015905270107278,
+                  "lng" : 101.0260757201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2a89b0ee590d7bdf71dd1c6a43eb3b10384c0f84",
+         "name" : "McDonald's @ Teluk Intan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106639393353058700217/photos\"\u003eShahrizan Ismail\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAE_aPFQKafcQmBA7SaTV_wkMe6Uvdi9tqYG_2OXWz1BSFYtDZtR-j0WkUp377hWfgNcs37kEHHUXIo1UZNnOp_UwkCh9FZ9xmtUp_ah2xHhj9z6nobNtnoiPEFTuWEZy-EhBa_st9ECSbYXDJY_t9jS7_GhT0ILCt1i-7GciDLsUufV3KR8CgWw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_yqfo0xryzERc29HN8UtdnI",
+         "plus_code" : {
+            "compound_code" : "228G+XX Teluk Intan, Perak",
+            "global_code" : "6PP3228G+XX"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_yqfo0xryzERc29HN8UtdnI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1199
+      },
+      {
+         "formatted_address" : "244, Jalan Intan 10, Bandar Baru Teluk Intan, 36000 Teluk Intan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.0168727,
+               "lng" : 101.0211519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.018256829892722,
+                  "lng" : 101.0225217298927
+               },
+               "southwest" : {
+                  "lat" : 4.015557170107278,
+                  "lng" : 101.0198220701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dcd2e613d7b9724c2a4b437fe7f3c23fe4231be3",
+         "name" : "Marrybrown Teluk Intan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113793361167316138774/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUYJrSnAtrnMtR7CafLzkYKlkzLou_s_US_85WsT1fh_Z8TYyklZN0wBztgaD6cvJeEF-5iIrlGRbWEl5YCliD_RBpH_3NIZAYatJOvTfBnITvzVv1EzGrZfE1csdXjcbEhBv3kexY-kmOy1IakLRpx4OGhQrL5NfL-0BOE14M9ukukJ7rWB8ow",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJFcOsJR8VyzERCVtSYxR3AJQ",
+         "plus_code" : {
+            "compound_code" : "228C+PF Teluk Intan, Perak",
+            "global_code" : "6PP3228C+PF"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJFcOsJR8VyzERCVtSYxR3AJQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264
+      },
+      {
+         "formatted_address" : "Lot 1789, Daerah Hilir, Jalan Maharajalela, 36000 Teluk Intan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.000681,
+               "lng" : 101.0102716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.002201179892722,
+                  "lng" : 101.0114250798927
+               },
+               "southwest" : {
+                  "lat" : 3.999501520107279,
+                  "lng" : 101.0087254201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1caa9611d186f391343dfa46e6bd99db7dfa8dba",
+         "name" : "KFC Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115403079365257865392/photos\"\u003eMOHD ALAWI AZMI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1UzPzc3TaDp_ezSn5EMMHi6sqmdq9_YkUYn6k3tU8O0_klwsz5k-Yb6mVMh6VlV7ZuWhUD0gqL406ZXsz29fWuN4RA0FppR1iWlCTBbfs0u497EGWZ_He0cuFXUxUX63EhBCZfimDrxrANUtydbk2uAgGhQaB7BHsi17a54RsSYyK0vADc9lDw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJY8PEMxkVyzERecSzufj1Wmo",
+         "plus_code" : {
+            "compound_code" : "2226+74 Teluk Intan, Perak",
+            "global_code" : "6PP32226+74"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJY8PEMxkVyzERecSzufj1Wmo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 252
+      },
+      {
+         "formatted_address" : "Taman Ros, 36000 Teluk Intan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.0054855,
+               "lng" : 101.0168554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.006832829892722,
+                  "lng" : 101.0182097298927
+               },
+               "southwest" : {
+                  "lat" : 4.004133170107278,
+                  "lng" : 101.0155100701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "08baa61bc274ddacdafc3f196a2bde90e16c50a9",
+         "name" : "Mat John Taman Ros",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111778480532354276429/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAS8W1dcEGkCK4aLVt8XRgj80T65glbZ9Wn1VTvAxPSyYY9woldHcAjNfZUuZfJrmv_Xk6PUj_tBrH0xiZ-JKybAy1Jfb8Kymy1LkjDFNIEWsq1V2Ul9JSH8bUGEDynLqvEhBazljD_vA1AGXtlRLLgO1zGhRodMfxnV4g97F7FiczABovTqRKyQ",
+               "width" : 3542
+            }
+         ],
+         "place_id" : "ChIJl8cqm4UVyzERaqqprOJRpA8",
+         "plus_code" : {
+            "compound_code" : "2248+5P Teluk Intan, Perak",
+            "global_code" : "6PP32248+5P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJl8cqm4UVyzERaqqprOJRpA8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

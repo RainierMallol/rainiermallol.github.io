@@ -1,0 +1,628 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lot 303177, Jalan Batu Sinar, Bandar Baru Kampar 31900 Kampar, Bandar Baru Kampar, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3255931,
+               "lng" : 101.1478719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.326926479892722,
+                  "lng" : 101.1493155798927
+               },
+               "southwest" : {
+                  "lat" : 4.324226820107278,
+                  "lng" : 101.1466159201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5675b9ad60d3f170657d60f3be0e1a4429cfd7b0",
+         "name" : "KFC BHP Kampar Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106712918763268831079/photos\"\u003ekahwai Low\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA36oMZw31f4eQjkZNS09b1AUPZBUDJ9PykSImLR7KzYhWfWUYT3Du8LR28c0RgFAjtffk7Bs5IK2b_uAqIaVt2S6vlPxEHu63MmWQJET5nwdd4zsM7f1QuZ-Y5Pp3VWj4EhBELQqWyk4XdY8WGx4tNaLbGhTtrfGhOQaf7kQ7zuhFda5meDYcyg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJi8Kr0LriyjERQrnWdMUaE_M",
+         "plus_code" : {
+            "compound_code" : "84GX+64 Kampar, Perak",
+            "global_code" : "6PP384GX+64"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJi8Kr0LriyjERQrnWdMUaE_M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 303
+      },
+      {
+         "formatted_address" : "107, Jalan Idris, Kampung Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.313362,
+               "lng" : 101.15224
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.314711229892723,
+                  "lng" : 101.1535836798927
+               },
+               "southwest" : {
+                  "lat" : 4.312011570107279,
+                  "lng" : 101.1508840201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5c8b69579b6e577cd58fd5dfe225ea55ce438b81",
+         "name" : "Kam Ling Restaurant 金陵酒家",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102315691251056193413/photos\"\u003eyong chin dek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK3Fv9cTy4xw1QwdMUIHm84TjEQDe_qTUDsVM9AVxow3j95yER_jH-2HZk5ckpx9xhzAFeRBl0l_rEVzZnZECJf1qT1x3j8RGp4ZXhkdmYJsPtawzsatJ70A7u5e0PJf-EhC97AHmHGwK7TEaazqqa9D0GhQq9ZN42iCqTBsVsKEDdp54CzMEYw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-wgqxFcdyzERsLlBDOKuO_Q",
+         "plus_code" : {
+            "compound_code" : "8572+8V Kampar, Perak",
+            "global_code" : "6PP38572+8V"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ-wgqxFcdyzERsLlBDOKuO_Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 298
+      },
+      {
+         "formatted_address" : "55 & 57, Jalan Idris, Kampung Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3116688,
+               "lng" : 101.1522604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.312968729892721,
+                  "lng" : 101.1537580298927
+               },
+               "southwest" : {
+                  "lat" : 4.310269070107277,
+                  "lng" : 101.1510583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cec271f583aa92279b3386fd2735dbbe4573743e",
+         "name" : "Yau Kee Restaurant 游記-麵包雞",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111971311104703168843/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3jZFQA_zi4WfjtYCyz13nULqbCB8JOXYtC3lkyKRFw7MSG4Bkeo2FywZfBbq5NfqDDnBMzKi4THmfrvtEKonEmLhxBLZWumNobF6e5ReovbY_KZvwGBvLkE5larsqsNDEhBKRh_jf1coRGzkNUFPUIi2GhTPWZwBW-SBw_ZpEYsyLY4Qoe-cvQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJbbd3D1cdyzERd6PXFE1iAos",
+         "plus_code" : {
+            "compound_code" : "8562+MW Kampar, Perak",
+            "global_code" : "6PP38562+MW"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJbbd3D1cdyzERd6PXFE1iAos",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 639
+      },
+      {
+         "formatted_address" : "9 & 11, Jalan Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3147439,
+               "lng" : 101.1516675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.316139379892721,
+                  "lng" : 101.1530132798927
+               },
+               "southwest" : {
+                  "lat" : 4.313439720107278,
+                  "lng" : 101.1503136201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d38df1f84172c5f01f66955498d2e88aa5d05c6e",
+         "name" : "Restoran Jia Kampar 家好月圓",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103407674365673782932/photos\"\u003eEddy Cheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYBkw-_0uOaEZdUCk6OnUAmFjX8n_I8CTOebHjfsVltekTtu3wZ1axnFa-V521BC28EgCxT2S3Q0VODITfleyzeX9B6jVCjrwlpl59jDOpxmTUSGiJhZY4TQaycoYHOY5EhDkGh9WFujsTJuXDRsue0SvGhT1_gBKNADpN3PrYl0qIlrEmjwGug",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJcxw_4lcdyzERrWxHuzuilVs",
+         "plus_code" : {
+            "compound_code" : "8572+VM Kampar, Perak",
+            "global_code" : "6PP38572+VM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJcxw_4lcdyzERrWxHuzuilVs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 309
+      },
+      {
+         "formatted_address" : "2188, Jalan Timah, Bandar Baru, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3274735,
+               "lng" : 101.1452535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.328797279892722,
+                  "lng" : 101.1465580298927
+               },
+               "southwest" : {
+                  "lat" : 4.326097620107278,
+                  "lng" : 101.1438583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4912e1e0b4482e6efd600857b2e6ce1f08c89fb8",
+         "name" : "Grand Kampar Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111233164739460043794/photos\"\u003eGrand Kampar Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsC-3D1w1dTi_qcLI6wTo31fPn4aypT05TakYQYaWQM7tmJ5eGfqyyxLBtYlY777SGqfbd37fF2y2nCELyu8nhvewZJspx3KTrEL8rhmwQDtKv-kDqAI4zVzvYkabRYgHEhArjUQ9zc5GZ7pSHbJ6O_12GhRIGVd7a3TvtjfjLnhicO6oXJ6sUg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJl8bUgbviyjERvIvbEIraHww",
+         "plus_code" : {
+            "compound_code" : "84GW+X4 Kampar, Perak",
+            "global_code" : "6PP384GW+X4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJl8bUgbviyjERvIvbEIraHww",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1026
+      },
+      {
+         "formatted_address" : "Sebahagian Lot No. 126028, Jalan Batu Sinar Taman Bandar Baru Kampar, 31900, Kampar, Perak, 31900, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.326299100000001,
+               "lng" : 101.1447008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.327695729892723,
+                  "lng" : 101.1460582298927
+               },
+               "southwest" : {
+                  "lat" : 4.324996070107279,
+                  "lng" : 101.1433585701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b198515c8ec9b72ab5372f8e2493574e85998f96",
+         "name" : "McDonald's @ Kampar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110702784801681292428/photos\"\u003eVincent Sim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARD7OOJns4iHiBFkJg3PU0nPyZkKrLDAWzbjs_SJZUj-tLlIG5HzUer667Bab6EaNTcmIwY5JJXK_yhbv_3in_1oRNAsNESse8ZjaBDyrGC1hVzMjg43ETqTzI7EmbqStEhDqHFyPGZ2ou2ldupWAe_DYGhSbO8h6rXpF0OM_ozh4eosgsM79sQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ_QkevbziyjERS0S8b-Djsss",
+         "plus_code" : {
+            "compound_code" : "84GV+GV Kampar, Perak",
+            "global_code" : "6PP384GV+GV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_QkevbziyjERS0S8b-Djsss",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1021
+      },
+      {
+         "formatted_address" : "2322, Jalan Hala Timah 1, Taman Kolej Perdana, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3274492,
+               "lng" : 101.1444054
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.328807529892722,
+                  "lng" : 101.1456963798927
+               },
+               "southwest" : {
+                  "lat" : 4.326107870107278,
+                  "lng" : 101.1429967201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a846580a6f14bab0cffa8dbcecb4e160b05537d1",
+         "name" : "Spade's Burger Kampar (The Origins outlet)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101113202767277107808/photos\"\u003eyifantastichili Jia Jun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnTpgvNVMfBKp0BDO_zee0W2e5TTqGIWUZRJK7r1ZCGL_8cFtQiv5WhJczNGtuNV7WZSVT2UMLVMvKtwPZ49fOsk5wUg_IrNQ_9o6q_FJ5VLGBomOwP1VQUrTm6u6ZoUYEhA7m5dwJjF8OYDZvt00zncWGhQwvjo6l5FwypKL1Smtn064wtXTbg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJyRlDebziyjER15JWRN_3qHU",
+         "plus_code" : {
+            "compound_code" : "84GV+XQ Kampar, Perak",
+            "global_code" : "6PP384GV+XQ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJyRlDebziyjER15JWRN_3qHU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 127
+      },
+      {
+         "formatted_address" : "31900 Kampar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.329500299999999,
+               "lng" : 101.1468888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.330849729892722,
+                  "lng" : 101.1481373798927
+               },
+               "southwest" : {
+                  "lat" : 4.328150070107278,
+                  "lng" : 101.1454377201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a7ce1def40132e5ee99b5a4e20d2dc4926bc755",
+         "name" : "Domino's Pizza Kampar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289030931530388457/photos\"\u003eSue Rahim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA91XQdGP09X0d-GyFZb_voCEcB4ocUGeoTo_C_05LyL_WfEGf8cdbOMm5lR4-AvXI-1dINcgrODt4BaV5ihArPCbLILacEOQrzGAouVwlQ9kEnRnmpTtfXqvPwznpfVG5EhAbIJPtkWymLwWe7DA2NNluGhSzojEKF55HzhtDvYEX8wtsjwHaQg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJDQv8TrviyjERSTGyPdf4rh0",
+         "plus_code" : {
+            "compound_code" : "84HW+RQ Kampar, Perak",
+            "global_code" : "6PP384HW+RQ"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJDQv8TrviyjERSTGyPdf4rh0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "158, Jalan Idris, Kampung Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.31478,
+               "lng" : 101.152289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.316125829892721,
+                  "lng" : 101.1535707298927
+               },
+               "southwest" : {
+                  "lat" : 4.313426170107277,
+                  "lng" : 101.1508710701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "652c8d6e494a94a91650917d91f682558c05d717",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102702246206796575688/photos\"\u003eKee Thang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf_egJ1yO4EQLmrYQeg02TOhEsakm6c1e6Y7mE6FvqUKotgc_ZsSo9AHY8H0dmSy9PFsQgAH0RwbzKmxDLc3vEYDMuIS4AWSy2qgAxy7RsXwCIv3Rpj7d21M1140bKSPUEhC-fTu14rxfr9s4GyYH_lykGhTTfUOQ3U6mUa5UiBUPEXO4PeLVnA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJY5362FcdyzER6DA8K8gi_Cw",
+         "plus_code" : {
+            "compound_code" : "8572+WW Kampar, Perak",
+            "global_code" : "6PP38572+WW"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJY5362FcdyzER6DA8K8gi_Cw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 210
+      },
+      {
+         "formatted_address" : "Lot G04 Ground Floor Jalan Kampar Perdana Taman Kampar Perdana, 31900 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3354628,
+               "lng" : 101.1541579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.336853279892722,
+                  "lng" : 101.1554806298927
+               },
+               "southwest" : {
+                  "lat" : 4.334153620107278,
+                  "lng" : 101.1527809701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0db9e4440bfcccb7daab5293e79ce3d74cc2a7c",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118408322566275012829/photos\"\u003eMehmed Syazwan Md Zabri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUC4Z9aac3quKP4e1jDhfKSjUWCyDftQu7XuFYQHwZddhVX3tyqZPexkAbzH9cXXqZHz8QwT-tOqlasAoQSlNv3ORGCgBxc5_zOfsww56c6Z9IT1Ji0hAd04PkLEHBj5sEhDYzfu_fIeVp5DpcXkgiDIBGhQi1aYtwb3BFPz3_3saUEI2NG-fyQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJP1Jg5cniyjERTqVv64mHpp4",
+         "plus_code" : {
+            "compound_code" : "85P3+5M Kampar, Perak",
+            "global_code" : "6PP385P3+5M"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJP1Jg5cniyjERTqVv64mHpp4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "formatted_address" : "Jalan Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.314362099999999,
+               "lng" : 101.1503747
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.315883429892721,
+                  "lng" : 101.1517069298927
+               },
+               "southwest" : {
+                  "lat" : 4.313183770107277,
+                  "lng" : 101.1490072701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "087d0c232a51a2dc54678a2c5678c8db7747e7f1",
+         "name" : "Pusat Penjaja Kampar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106712918763268831079/photos\"\u003ekahwai Low\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWpqdYoyWgaZFiYrME9TXgDfU_vI0aaYNVohgoboO0BVON7LWTp4he0p4jkT4A7BN1fZR7OBzT5bmWdILwxTdXQrWKLZXki1GmlHBrVuqM6YTxM_b25PwR1AHszyKv-1NEhB1baeB3gOUH24u0j6Be-XpGhTYyjsToHJykwuGV2MBu_t7Y_g6NQ",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJ95KkAlgdyzERa5lFfOKaUVk",
+         "plus_code" : {
+            "compound_code" : "8572+P4 Kampar, Perak",
+            "global_code" : "6PP38572+P4"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ95KkAlgdyzERa5lFfOKaUVk",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1098
+      },
+      {
+         "formatted_address" : "2279, Jalan Hala Timah 1, Taman Kolej Perdana, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3264125,
+               "lng" : 101.1438781
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.327709629892722,
+                  "lng" : 101.1452196798927
+               },
+               "southwest" : {
+                  "lat" : 4.325009970107279,
+                  "lng" : 101.1425200201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df3d02f2fb1bc68512b5b3e7eae39df3e887de10",
+         "name" : "Wing Zone Kampar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105807179134042452266/photos\"\u003eAun YiChiet\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9a8wf-1rO3q9IWnYnW09OsMn1ALTGgB71nQY79ZzXEQmrzPe5R0x3pP3Xccv6D9oQNB5r8WoVLwLt9LZlmQaw-u7YjMP7E2pRmczSW_nHdYu0j0EBTxRiWqInNCLjAp9EhAlXnrEnieqdrB9fMx1mrq6GhRsvrGhh-hlyNKjmMesSRcuKmy3hA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ65rTl7ziyjERiAp1UM4oitY",
+         "plus_code" : {
+            "compound_code" : "84GV+HH Kampar, Perak",
+            "global_code" : "6PP384GV+HH"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ65rTl7ziyjERiAp1UM4oitY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 234
+      },
+      {
+         "formatted_address" : "86, Jalan Idris, Kampung Masjid, 31900 Kampar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3124809,
+               "lng" : 101.1524937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.313823929892721,
+                  "lng" : 101.1537727298927
+               },
+               "southwest" : {
+                  "lat" : 4.311124270107277,
+                  "lng" : 101.1510730701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6a8e2234631c9f5000d3de712a8aa46c97823e75",
+         "name" : "HENG KEE (The Original Claypot Chicken Rice, Est. 1955)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107046247505404396700/photos\"\u003epolar bear\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8BdDbEcwQ5uBAlDnX6uTo0x3vwypb3O8Sd4djW3-41jRtmUAUf_OW_q_lBKbsv1yd5Tgn64QkSztl0UBQIrXBKcLAJtbviurPAo8c9Osv9OnHPu8DI7yyEYAcj5JudT_EhAX8CjvpRFZI1oFGiQtwPOKGhSKYT6gPZQUdeUv6NZvCfEiZLW8hA",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJEf1dqFcdyzER6ftFLSImOtk",
+         "plus_code" : {
+            "compound_code" : "8562+XX Kampar, Perak",
+            "global_code" : "6PP38562+XX"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJEf1dqFcdyzER6ftFLSImOtk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 86
+      },
+      {
+         "formatted_address" : "Kampung Batu Berangkai, 31900 Kampar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.3033279,
+               "lng" : 101.1570202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.304719329892722,
+                  "lng" : 101.1584335298927
+               },
+               "southwest" : {
+                  "lat" : 4.302019670107278,
+                  "lng" : 101.1557338701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1cf2f0ccf98e5eff77d2c691fc140d7c0de6a687",
+         "name" : "Kelapa Lelehhh Kampor",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104454394931717594146/photos\"\u003efahrur hamid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArNt4cYxOhV6KMZ9EEa5GnCoNuH5sGN_7JwTr1-LfUNu88Yz0j58QT9En7wulV_mbFa7LAMaiZHEjFeIqEphSqLHZ_2fnKx1pfOEWlQzuta642HFBFcReukOzGzPOxAL1EhBcwiuQPdq2HqGZGdsxuisdGhR9_PxH0_wpvVWFEATanweWohLexA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ81YA9UwdyzERLV_IY73gEIU",
+         "plus_code" : {
+            "compound_code" : "8534+8R Kampar, Perak",
+            "global_code" : "6PP38534+8R"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ81YA9UwdyzERLV_IY73gEIU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 551
+      }
+   ],
+   "status" : "OK"
+}

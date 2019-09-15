@@ -1,0 +1,879 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-wEAAA5xRScMl6aYVlM31ag7fBOMsBo8Dxv-CX-F5LJh0DbnzZeVCOx8jQHERPpXnkCXek4OtV791_viPFPdS2QaNUtDjC5yrTrZ-Yhwc0zegBCADE2vM_D2LnS7t25k6R10NszYJcFIT-JdcUvrPVM0cO1d1KinKuKE_i1Twg96L04B-RgLpgVALZYaUNrduoEnfyr-Yd2rMilU50bHQG-EtfKXOkzNV-gVfOIr850QQR4rheJk4o1bw6OzuZplZ67DukCTw40Kt6ZlC3HBiiFa2Uzelmmgl2UUQt1a39vrzCIn3qlcs5q64fh6L2SLYeaB3Ot2lpAjRaQXOwAhtCPl_OEQHunDZpCSOQjcleQ1On8mj0NezrfgcCjcfNdOv9A4Ju9m4-CN6MmdSzQ2Er5K3B1KT3yfLB0-hngGkSKfV6eH1Lud6XWdsEIoLG3boAZd3R-Q8mK2OsYGrU88Yyx75mD9AzNb5Nm23i2tvmmvoVQaPa6RUAOTrmClSv0nWb8jg9HTiwJ4C5KowpyAVy2IjW-b-aehzSR0fPbT8PB3mMTwoH9nhZir2FAdUMoS4gyW6hdlKTtCAFpK4O1y5sUaTIl3ccTj3uPJplWxyfzP7JXCWtyNVX15Hl-eRmpDIWZ9nUKvF7MCsJPfSwnjTbCSx79fyZT7_ujAwaFDlxyoeolEEhCGjlWiZcp2tmKe61FARbZGGhQDxO7ytzHmPfgQAsdscZb10_-reQ",
+   "results" : [
+      {
+         "formatted_address" : "105615, Jalan Pesona, Taman Pelangi Indah, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5823645,
+               "lng" : 103.8009485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.583652679892722,
+                  "lng" : 103.8022812298927
+               },
+               "southwest" : {
+                  "lat" : 1.580953020107278,
+                  "lng" : 103.7995815701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0620d5673cf18ff049456e465874e53c898195a7",
+         "name" : "McDonald’s Pelangi Indah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110309204037167248561/photos\"\u003eWan liang wei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmUeDX2cQRO-7s3aReHbOzVLMkDJLipnmDImZvPM0eZNqBsxU0JECA9VW5M4cZDJEbNnPTaGB_aToibhtU-GCv0lgWQaRWo_mteZOPLu8_SvbgrpBUqsKnt4JBdXnSmcPEhBpK4S-QrsQIdx5SmPbpEDEGhTl7zfEdx2CG7A7kRyipXMsyduFcA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJlxRkBt1u2jERvhTr4I2sKRE",
+         "plus_code" : {
+            "compound_code" : "HRJ2+W9 Ulu Tiram, Johor",
+            "global_code" : "6PH5HRJ2+W9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJlxRkBt1u2jERvhTr4I2sKRE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 704
+      },
+      {
+         "formatted_address" : "Lot PTD 113519, Taman Puteri Wangsa,, Mukim Tebrau, 81800 Johor Bharu, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.573783,
+               "lng" : 103.814403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.575122229892722,
+                  "lng" : 103.8157416298927
+               },
+               "southwest" : {
+                  "lat" : 1.572422570107278,
+                  "lng" : 103.8130419701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9f2657305e08a71226696688463ae1d43a32277d",
+         "name" : "KFC Puteri Wangsa Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104379260621046732064/photos\"\u003e郑楮隍\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuysPq2zsk-n3TVRPbN1OJQrsCDqdWYRHw0xDOywvP2oPd6qi4bWLap73wzLFgPA-7jhsDt_IDbwwLJgYPniQP4mi4EJZgCwqfX62likVD2UvahZ9drHaak67sdQ-dtn8EhDcLaSC0ATi2Fski1-bgiqlGhTMsw1v7tAXVfTakisLIQGSdayH5Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJPXQxc8lu2jERuRwbnSP9i_c",
+         "plus_code" : {
+            "compound_code" : "HRF7+GQ Ulu Tiram, Johor",
+            "global_code" : "6PH5HRF7+GQ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJPXQxc8lu2jERuRwbnSP9i_c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 765
+      },
+      {
+         "formatted_address" : "Mydin Hypermarket Pelangi Indah, Ground Floor, Persiaran Pelangi Indah, Taman Pelangi Indah, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5708901,
+               "lng" : 103.7996233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.57224085,
+                  "lng" : 103.8006230798927
+               },
+               "southwest" : {
+                  "lat" : 1.56854225,
+                  "lng" : 103.7979234201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80bdbeb977b3abd9c037ec6a3fcc39809e0c9311",
+         "name" : "Marrybrown Taman Pelangi Indah",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110309204037167248561/photos\"\u003eWan liang wei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0JilS2arjhXjz_HEePv-BqMsmL0yUpQVy3q9z9A3LR7rxJWBrrroyaEW35t5fLN-raXAwD0kSKSn4bqo_DzMNqgFYaUMMH9RvbuP-3LkLzTiSqpXc5VRiCHBZoK_ApcJEhAVL_UEICo3r0yEVL5aNDPcGhS4LVwXNavSGBnitGS0L4lQw7Vtew",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJkVlr9L9u2jERj0JXcM1SwyQ",
+         "plus_code" : {
+            "compound_code" : "HQCX+9R Ulu Tiram, Johor",
+            "global_code" : "6PH5HQCX+9R"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJkVlr9L9u2jERj0JXcM1SwyQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "UG37, Today's Mall, Batu 13 3, 4, Jalan Kota Tinggi, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6083682,
+               "lng" : 103.8206333
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.609630679892722,
+                  "lng" : 103.8219547798927
+               },
+               "southwest" : {
+                  "lat" : 1.606931020107278,
+                  "lng" : 103.8192551201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c50df7432433ea634426c972c5eec19c6a70a222",
+         "name" : "Marrybrown Restaurant Ulu Tiram",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105010602235817181948/photos\"\u003eanselm jiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8vjF3ja9okiKuYluz7q5uuLWMm1pCJm4O_JgoUQ22qAHE1b7rKD8DCDZVWVQSFu4FoU08EEfmtqZAwITxXJPMEgRySpT7VkUgyU259NflaMkKc8K0KiJl8CU47xjQ2nTEhCD1xRFwK3YATOfFq7E6dKsGhRB-2__zxjCrOYdG1d2i4JC5XSQnw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ3Sa5m8pv2jERAO2uJT-tY84",
+         "plus_code" : {
+            "compound_code" : "JR5C+87 Ulu Tiram, Johor",
+            "global_code" : "6PH5JR5C+87"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ3Sa5m8pv2jERAO2uJT-tY84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "27, Jalan Johar 15, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5623701,
+               "lng" : 103.8130479
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.563754629892722,
+                  "lng" : 103.8144178298927
+               },
+               "southwest" : {
+                  "lat" : 1.561054970107278,
+                  "lng" : 103.8117181701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "248a62bc1970012785eaee4b894f27e1c5423a72",
+         "name" : "Era Chicken Chop",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104678868489791286011/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8H2gGR5QORIkmkuSekScowxgGnRQijTGSyJu-7iACLjNeplsBzGty-adCKqWRQjWkALvYr8ap5eAcivFJbPo6fuL0KNzMnfOEAvw5bMniPohd2TmlBxN-gkunTnmXJE9EhAONiAIjVCg0kiiE_W0fSg9GhRyyRNoEchWtoFfF7H3uxw0_N7Bzw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJAwbkzLFu2jER4xSyY04DAyE",
+         "plus_code" : {
+            "compound_code" : "HR67+W6 Ulu Tiram, Johor",
+            "global_code" : "6PH5HR67+W6"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJAwbkzLFu2jER4xSyY04DAyE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Caltex, Subway, Lot-88070, Persiaran Pelangi Indah, Taman Pelangi Indah, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5697988,
+               "lng" : 103.8004327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.571118529892722,
+                  "lng" : 103.8017999298927
+               },
+               "southwest" : {
+                  "lat" : 1.568418870107278,
+                  "lng" : 103.7991002701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ec1b09e2fbf4a028d7d63a00802df354437a4804",
+         "name" : "Subway Caltex Pelangi Indah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102485534228321886358/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVDyOTOIllPuLg2S8tS5PivpbCSjrU_g5LHEtyOJjRRkpDS_SwhAqOuwBVs_ZzruNjOW-jFnTl7xk8ONL3guEXVUi_kLA9fJewRGXWQ_pemdi4yQD9inHflRI3Ec4aG2LEhDaxums88B4ZGzqHHRg-0OoGhTXibipYaFLa4eHXP9ii-iCJFIrjA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJR5UGJH9v2jERiHStD-ZFxPI",
+         "plus_code" : {
+            "compound_code" : "HR92+W5 Ulu Tiram, Johor",
+            "global_code" : "6PH5HR92+W5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJR5UGJH9v2jERiHStD-ZFxPI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Rambutan, Taman Tiram Baru, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5988229,
+               "lng" : 103.8225707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.600161529892722,
+                  "lng" : 103.8239224798927
+               },
+               "southwest" : {
+                  "lat" : 1.597461870107278,
+                  "lng" : 103.8212228201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "853011dfdcb3d903219a460779aad378c05344ea",
+         "name" : "Syukran Kebab",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109320777187872766656/photos\"\u003eSyukry Haneff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAemAj5tlsoq9pua_PpvLv7mLIvA8vR-7hrBUCNRZnOltN1V3xu1wlLrnxAR1748Ns2-PFrBqyDeWmbp8ofNSoOrVMubAjcrQVUxCVy26H0DWYm_xVsSnkXaEcHZDuSldsEhC97O5nzxAZIYVyflDSGp_7GhTUuJWysSk6Cd9FNU_FSPfbfZFodw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ_0i-1rtp2jERbtpWIBi54K4",
+         "plus_code" : {
+            "compound_code" : "HRXF+G2 Ulu Tiram, Johor",
+            "global_code" : "6PH5HRXF+G2"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_0i-1rtp2jERbtpWIBi54K4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Taman Pelangi Indah, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5701847,
+               "lng" : 103.8005462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.571527979892722,
+                  "lng" : 103.8019001298927
+               },
+               "southwest" : {
+                  "lat" : 1.568828320107278,
+                  "lng" : 103.7992004701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed65b8dfb91113a1c5136cafc6a3d7abd5c87e5b",
+         "name" : "Atan Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105161714084106362260/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVfSKhC4Jr4wg2MDjmpPqVV5_TmZ_iQk3_CxA942bSO4sHoQfpacaV-BxQjSA93FGQBAxFBjobZZKjlRUv65kxJKVMEcNiF4s5e32wHFu6Mr0j3vW_Ge8gMeTJKwDKRD5EhBYQwP72hcLsdQbm6bsJ5bmGhSX1cHDe8KMuMhz8njwfHzDQPPHAQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJfzJ1zqhv2jER193ujaDdQjE",
+         "plus_code" : {
+            "compound_code" : "HRC2+36 Ulu Tiram, Johor",
+            "global_code" : "6PH5HRC2+36"
+         },
+         "rating" : 0,
+         "reference" : "ChIJfzJ1zqhv2jER193ujaDdQjE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Kampung Mulia, Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5906544,
+               "lng" : 103.8563756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.591988979892722,
+                  "lng" : 103.8576877298927
+               },
+               "southwest" : {
+                  "lat" : 1.589289320107278,
+                  "lng" : 103.8549880701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ab6aabb14685bae7bbe94e43fa7377d2f0df121",
+         "name" : "Roti John Uncle Jdt",
+         "place_id" : "ChIJlVUuteJo2jERXB1KoElsqQc",
+         "plus_code" : {
+            "compound_code" : "HVR4+7H Ulu Tiram, Johor",
+            "global_code" : "6PH5HVR4+7H"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlVUuteJo2jERXB1KoElsqQc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Sebahagian Lot PTD 19827, Mukim Tebrau, Ulu Tiram, Johor Bahru, Malaysia, Johor, 81800 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.594846,
+               "lng" : 103.820079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.596291229892722,
+                  "lng" : 103.8214446298927
+               },
+               "southwest" : {
+                  "lat" : 1.593591570107278,
+                  "lng" : 103.8187449701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c966103045089491ec2bfbad6462ec9ec038cdc",
+         "name" : "McDonald's Ulu Tiram DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105010602235817181948/photos\"\u003eanselm jiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA55fqIp-6Y6tfMma77paLgdp3p6cQMGuRRKt7E7MxPkcU1YDbuI7ut9KXxZn7up8esISFX59-xBnUOl6F9LRnRcghkw3EPPGE_2VugzbjxI_tKOy464C35PTsLa6Vfz4AEhC2NziTZZXVIC5enXvUw0yfGhToXKFMYi6jLtCrNeyRC7iUUCwPQA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJY0bRmCxv2jERMdvstW6X0GY",
+         "plus_code" : {
+            "compound_code" : "HRVC+W2 Ulu Tiram, Johor",
+            "global_code" : "6PH5HRVC+W2"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJY0bRmCxv2jERMdvstW6X0GY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 780
+      },
+      {
+         "formatted_address" : "1, 13, Jalan Resam, Taman Bukit Tiram, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6022315,
+               "lng" : 103.814395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.603576679892722,
+                  "lng" : 103.8157372298927
+               },
+               "southwest" : {
+                  "lat" : 1.600877020107278,
+                  "lng" : 103.8130375701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "849248900a7ee1a262e3b716cfae234e2c8a48d8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112331641545261066682/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAziqLzSK18D0YIqqcCfvDcs_2dJVaFFPad3u7_2DeZh9Qr1DVDxIUW9qndse9oIGfKYUi-XaSdgSiY0znQFc6F7jDpjQSRTR7QKeaZymvlzJxO8CEO-xfbe-oEFu9vQg5EhBL9bpM-zH5y1wFgEqnKvZVGhSR_kJ1YsjKnyoMUPI8CY0oddnH_A",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJOWy91Utv2jERk2A6zhG4wwQ",
+         "plus_code" : {
+            "compound_code" : "JR27+VQ Ulu Tiram, Johor",
+            "global_code" : "6PH5JR27+VQ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJOWy91Utv2jERk2A6zhG4wwQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 302
+      },
+      {
+         "formatted_address" : "21, Jalan Sasa 6, Taman Gaya, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.568318,
+               "lng" : 103.803236
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.569614729892722,
+                  "lng" : 103.8046227298927
+               },
+               "southwest" : {
+                  "lat" : 1.566915070107278,
+                  "lng" : 103.8019230701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fa60867c0691344c0c2a501077880e8a0cf605a6",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114733884593241737843/photos\"\u003eMohd Fitri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh33B4BRB3PYsbg3B1EiaqIDCd7xK2suCkvs87qgwuwohi5qdRHgtp6liQLmEvSaCUF_mIswok8BA_yxbgQCMR_w0fcpbcmFdqPtlbneVoUEVfrU1UK-GgbAXI-w2AQkPEhCrGHirkesAgNR6VLvTTeJuGhSgtBWwYF3_wttoioVgq3M8n3FUKA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ7RKf275u2jERLme3yRa4KuU",
+         "plus_code" : {
+            "compound_code" : "HR93+87 Ulu Tiram, Johor",
+            "global_code" : "6PH5HR93+87"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ7RKf275u2jERLme3yRa4KuU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "139, 141, Jalan Dedap 4, Taman Johor Jaya, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.543552,
+               "lng" : 103.8014989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.544970979892722,
+                  "lng" : 103.8029352798927
+               },
+               "southwest" : {
+                  "lat" : 1.542271320107278,
+                  "lng" : 103.8002356201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "08d04485fdc35612d1b4e65e0a1f00d6440ab764",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105320321120663071198/photos\"\u003eKendy Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuOBQIVuqEX5E8LZxvcdlEHuDH41Ejf9XOzmJbbMbK39XGFN8LNa5nqBQccQu2cvKHTRsxRp3wgwGLrKaf6sCP05IiR91vFax7mH7Vp6SfxsyplDYdVmQ8QRdSF-1hBWgEhBOvu5LMc9sgyK9W6WwEuVKGhSgOggbhxh5lQTtw3iRppB6WsAiaw",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJaeKOyxls2jERmSaeR0_JAuA",
+         "plus_code" : {
+            "compound_code" : "GRV2+CH Johor Bahru, Johor",
+            "global_code" : "6PH5GRV2+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJaeKOyxls2jERmSaeR0_JAuA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 178
+      },
+      {
+         "formatted_address" : "Lot 110034, 3, Jalan Austin Heights Utama, Taman Mount Austin, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5577191,
+               "lng" : 103.7816499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.559151529892722,
+                  "lng" : 103.7830700298927
+               },
+               "southwest" : {
+                  "lat" : 1.556451870107278,
+                  "lng" : 103.7803703701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "85c113a83ba2391c570df1eb51dd6faaaf4b1b9a",
+         "name" : "McDonald's Austin Height",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104326693880019440436/photos\"\u003eKenny Choo Wai Peng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFf2XElS5PcPBFyFfhSZ_fBAtW9jOT7f71MUXDUIu9npl8CFx-PGYwL1GJmQ8FysdY8ydxa_T-0lNNPmyIyKXfq-9lo8fQya4VFoePTAsfxyqvpj-H4eSX_LoCIGLcliFEhCZzXXmgPjnalT9VY0fXIqjGhRgd-bYSCSdVJaxIvog5i5gOjrn9g",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJtwOwKoRu2jERCc_X9I3R1ec",
+         "plus_code" : {
+            "compound_code" : "HQ5J+3M Johor Bahru, Johor",
+            "global_code" : "6PH5HQ5J+3M"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJtwOwKoRu2jERCc_X9I3R1ec",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1428
+      },
+      {
+         "formatted_address" : "Aeon Tebrau City Shopping Centre, S27, Jalan Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.54966,
+               "lng" : 103.796432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.551236129892722,
+                  "lng" : 103.7976577298927
+               },
+               "southwest" : {
+                  "lat" : 1.548536470107278,
+                  "lng" : 103.7949580701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53eee9766db678a0b6285f208790ac87e69c22dd",
+         "name" : "Rasamas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ8TsqsiFs2jERh9-7vDZJmpE",
+         "plus_code" : {
+            "compound_code" : "GQXW+VH Johor Bahru, Johor",
+            "global_code" : "6PH5GQXW+VH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ8TsqsiFs2jERh9-7vDZJmpE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot R130, No, 3, Jalan Masai Lama, Taman Perindustrian Plentong, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5273811,
+               "lng" : 103.8151324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.528608679892722,
+                  "lng" : 103.8165922298927
+               },
+               "southwest" : {
+                  "lat" : 1.525909020107278,
+                  "lng" : 103.8138925701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af52ae1df923bbf69d5aff4348173fe5c4f32599",
+         "name" : "Marrybrown Giant Plentong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113961731188401935995/photos\"\u003eTony Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApaoTT69D79Ld5HpSfxjQCB380e5wuh6uB2D4ygPtRDrw3kZ9S1VMAr6iIeG4sA4NhVWbBAErgWJE26bc8wmb-DZtXBJnWAJd8y6A910bak6_fxVfxrtN1v7vsNkbDYA5EhBkl9k_WCqOR5UrXgZYbA2XGhThRwr2e0s4HxJW-R_78Yj_XDpOCA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJm76MN3Fs2jER38ClYVUg6e8",
+         "plus_code" : {
+            "compound_code" : "GRG8+X3 Masai, Johor",
+            "global_code" : "6PH5GRG8+X3"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJm76MN3Fs2jER38ClYVUg6e8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90
+      },
+      {
+         "formatted_address" : "Giant Hypermarket - Plentong, Lot K 7, Ground Floor, Jalan Masai Lama, Johor, 81800 Masai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.52842,
+               "lng" : 103.814657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.529987129892722,
+                  "lng" : 103.8157516298927
+               },
+               "southwest" : {
+                  "lat" : 1.527287470107278,
+                  "lng" : 103.8130519701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd0788ad9b4c6cbf74677b537c78efb60f02f61f",
+         "name" : "Kfc Holdings (Malaysia) Bhd.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108300409891180458678/photos\"\u003ening nyco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQG9WwttFDe9mBoRqhymV2K4DQoF9pSJSEE4hgzly6wdqB2EmS3HJsBILzBg71eX1ubATz8KjVcfYQ7dikg1ZTFTMi5RYQ7UXrzmzQ0wpcO2v9j2FyYCfhYZnIkFX3uJEEhCIBgSvSmeXuVqY1MnseD9HGhQCUCM9WbmZggegu31JGXr9Vc6p-Q",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ8Q3AXnFs2jERHVJRqc0BJxE",
+         "plus_code" : {
+            "compound_code" : "GRH7+9V Masai, Johor",
+            "global_code" : "6PH5GRH7+9V"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ8Q3AXnFs2jERHVJRqc0BJxE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "No. 1, Jalan Beladau 15, Taman Puteri Wangsa, 81800 Ulu Tiram, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5901376,
+               "lng" : 103.8068288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.591484279892722,
+                  "lng" : 103.8081815798927
+               },
+               "southwest" : {
+                  "lat" : 1.588784620107278,
+                  "lng" : 103.8054819201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0c9c8ebd6d4c66d16282e3df606257db51896f7b",
+         "name" : "Cafe Kopi O",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105411915370723890451/photos\"\u003eYuki Koo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAN0mzJ9SP3UM7eQYK3PVIU-ScFvoEEcu3Zz1AQB5RQpv3OYZIx5OiIDkPDw6ZSLa_NjenVfIRzYBRv3VKRQAvClio2G36EPpPjfddytCnOBx7nTupw9jXeqRpN254-fUPEhDGa6XWfL3rwDW06WVf6NNnGhRwovo8wYt3e1ecoxAO3kbhfVl_hA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ4a2miNhu2jERNrtMiO9Gzuk",
+         "plus_code" : {
+            "compound_code" : "HRR4+3P Ulu Tiram, Johor",
+            "global_code" : "6PH5HRR4+3P"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ4a2miNhu2jERNrtMiO9Gzuk",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 73
+      },
+      {
+         "formatted_address" : "No. 3, Jalan Masai Lama, Plentong, Masai, Johor Bahru, 81750, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5280497,
+               "lng" : 103.8157043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.529328279892722,
+                  "lng" : 103.8171522298927
+               },
+               "southwest" : {
+                  "lat" : 1.526628620107278,
+                  "lng" : 103.8144525701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0500aebe4506f3147a7b715caf23c7635680f810",
+         "name" : "KFC Giant Plentong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103803873760868097958/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsGZC9t7jUyLqcvyK4T7LWENzqaKkM1sd2a72EwclptnMpqeUGgnPZ-jZgWkTm6yG6Mv1IkG0gIl-3jpGjZJZvrQASjk5mKMVexiu53ttd7ohXnpifjg5bTRKqCD3W6iNEhAFASfL85amKpMuGxImQZweGhRxwH0YFTCSUHrY9k7BiYKQ-EhwYA",
+               "width" : 2128
+            }
+         ],
+         "place_id" : "ChIJT8yGt3Nr2jERd3vICjCexQ4",
+         "plus_code" : {
+            "compound_code" : "GRH8+67 Masai, Johor",
+            "global_code" : "6PH5GRH8+67"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJT8yGt3Nr2jERd3vICjCexQ4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "Jalan Austin Heights 3, Taman Austin Heights, 81100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5588702,
+               "lng" : 103.7813604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.560223179892722,
+                  "lng" : 103.7827156798927
+               },
+               "southwest" : {
+                  "lat" : 1.557523520107278,
+                  "lng" : 103.7800160201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e195aad5319e4fcd7b31c4d1eb78489b53d0e96b",
+         "name" : "A&J BURGER GRILL (JB)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100486058234144656191/photos\"\u003eMohd Johari M.Jaffar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1yhYV-3sFUB3IBcKVr3OdVP6SUyEacMQekdFRBSof7PnqOKlsa2lgNSmma0x06EyOsBEAt5P8AE4EKelJCUBf7a4LbzkJweFpKHvXIsQx9RMzrmc88Q6vMVDtRUWpMiuEhDquehiRUP7egjzh92rwe0-GhSpt1oxMunTs3fX64RBwJ0GB4oaRQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJW1U2B61v2jERA9AcqiWRm_o",
+         "plus_code" : {
+            "compound_code" : "HQ5J+GG Johor Bahru, Johor",
+            "global_code" : "6PH5HQ5J+GG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJW1U2B61v2jERA9AcqiWRm_o",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,826 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAABR4GWEwlkbcdYI7Uh8HGCP7ro8AzfDmKQoDOvFfzISA8PdA6vdo5IDn_59OuNqhuk9TuR4Uex-YZ39Qv3HjbZA4pj5WYp7jIpgIOFoJS8XT6FKxIhFhdc3ba-8PfB0iCGx8CyvTLUypjcyo8sQZL_vvvXgP9No4jROZWIK5xGv56SgtcsSPifA0QKKarFIpyIihLUOGhAFkPpufFs6e4hYQdDYzbOntfaudAOsJHuZtFxeVCcHKgHyHqR6QHXQFn5UYiOPyyr8Sr64yrGWLQrgA5UfryHiNkns7XpkdORO-HTi4EWNcr3N-S2b4jPoWaxLYljeBwekv-EkVko6F5qqUAmzdANrkzvirGeG6W3akggPBAchDJlgQZTk33iXyA1lnhhzjLwrKIfM7Bg_-jpHpkq-jzMXKUk6oIerWIoaIH3wWLVM8jmDVdcgoC48X3Xf9wEXi83DTsz3XiQoL0h_fKzbTOJVYQzyzYJdPvY_gloQCpsQrYYD9xhmA_cbnLjJGSJY7s-LHt845dPY0RAuPFr0Ippvqdvy7TXGvYVur0qIPC6UbE8SDe3OBbGf2WPiEmjfJ_qdpLivOLsJveWzuRZ8lcPtE4OaxHDvR-HMvWRKldnjDITa_WVhuzEn7x8FnffFJ9xPQU9Yjmj2K2farF9o8L80e3uuEBBGwff31EhC5mYk12EvJ46Kuz9yEC0rEGhQTz_-fy8gvp003oGzWFZkAMgIdog",
+   "results" : [
+      {
+         "formatted_address" : "A'famosa Resort, Jalan Kemus, 78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.44331,
+               "lng" : 102.20996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.444592129892722,
+                  "lng" : 102.2112580298927
+               },
+               "southwest" : {
+                  "lat" : 2.441892470107278,
+                  "lng" : 102.2085583701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7e0c8c0f4b32a4d63fa4964ff2e12cc3b63db341",
+         "name" : "Western Fast Food Court",
+         "place_id" : "ChIJW9Sk4_8CzjERyPkzTbPojRE",
+         "plus_code" : {
+            "compound_code" : "C6V5+8X Alor Gajah, Malacca",
+            "global_code" : "6PJ4C6V5+8X"
+         },
+         "rating" : 0,
+         "reference" : "ChIJW9Sk4_8CzjERyPkzTbPojRE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3632905,
+               "lng" : 102.246035
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.364754429892722,
+                  "lng" : 102.2474829798927
+               },
+               "southwest" : {
+                  "lat" : 2.362054770107278,
+                  "lng" : 102.2447833201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "817eaf3952519b9d1dfecca0a4ec968a8818d8f4",
+         "name" : "Idaman Fast Food Corner",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101974672172156580546/photos\"\u003eR Santoso\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtpm8xJUXwQAAg5VcWLTuUpv2h1j3iIp9x9K7SbCatS6JGYBU8pwlcs3OYM-vnNaP67Me8UkimSi9FWKzzjtXWt8CZ5TcMpPJNyRXtS7cg41f9vy1eZGkT0c8KokdOlhdEhDUBDNT7isOdY4XxdbqFZ5HGhTyzVyCok9eltQvc0rQSZHqMaovdw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJAbh70b_90TERaRuy5dZGM7s",
+         "plus_code" : {
+            "compound_code" : "967W+8C Alor Gajah, Malacca",
+            "global_code" : "6PJ4967W+8C"
+         },
+         "rating" : 1,
+         "reference" : "ChIJAbh70b_90TERaRuy5dZGM7s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No 17, Prima, 78000 Alor Gajah, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3803474,
+               "lng" : 102.209684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.381699379892722,
+                  "lng" : 102.2110022798927
+               },
+               "southwest" : {
+                  "lat" : 2.378999720107278,
+                  "lng" : 102.2083026201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f4132d8fe0bf4fddd6681034345aa7a5636cc78",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110324812916719930227/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFbEd-6iHBS4R0_g8Y5oe0rHUX0ZbCARw3FV9krJi2UPbUt-ANS8xsNFz9GHKAU1lpP8ktgoi52_PVBqiYk88ycWDIvjmsAF-TBuPV469Ptgkm1j1_o6iA6gOgJYMR4j8EhBz4so6Zzr0AH9A58HB5XmKGhT1gMx5oIixGXM0gKAwAwkdC6jeSw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJu-vx-Qn90TERkzSB67xPF2E",
+         "plus_code" : {
+            "compound_code" : "96J5+4V Alor Gajah, Malacca",
+            "global_code" : "6PJ496J5+4V"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJu-vx-Qn90TERkzSB67xPF2E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 614
+      },
+      {
+         "formatted_address" : "Ayer Keroh Lot R3, Ayer Keroh Overhead Bridge, Restaurant KM210, 78000 Ayer Keroh, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.397904,
+               "lng" : 102.2216832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.399294379892722,
+                  "lng" : 102.2231326798927
+               },
+               "southwest" : {
+                  "lat" : 2.396594720107278,
+                  "lng" : 102.2204330201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "240c5cdbdb7a097b992aceed893d5c5be46207ff",
+         "name" : "A&W OBR Ayer Keroh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108283666845815621575/photos\"\u003eMieulium Biblio\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgAl1_F51ssa0-Ou5WJT8ii1AWnTh7-F-mgAiJju_ZNOXW7u7q4hKFvHjFRKRbyOVZTrQKSkg0jf3EPYWTF-U0bJ6UEH3zyZ_Ap610ThXvrHjzX8zWkwkjCEYmcuAfWwGEhCH4IB5uOxkYkqw_2wW8yh5GhRNd8pVbzx2mbZ_SOt0pYkRIhg4zQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJEz_cK3v90TER3NYxycvu1Ws",
+         "plus_code" : {
+            "compound_code" : "96XC+5M Alor Gajah, Malacca",
+            "global_code" : "6PJ496XC+5M"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJEz_cK3v90TER3NYxycvu1Ws",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 529
+      },
+      {
+         "formatted_address" : "78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.4439647,
+               "lng" : 102.2063507
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.445210529892722,
+                  "lng" : 102.2076954798927
+               },
+               "southwest" : {
+                  "lat" : 2.442510870107278,
+                  "lng" : 102.2049958201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "63629a7c1c44219f7075471d01ea1fba115bc484",
+         "name" : "Marrybrown",
+         "photos" : [
+            {
+               "height" : 1445,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105124464594612575160/photos\"\u003eNazim Hamdan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANcO-Ahu-bi5QucjONPhobRs24hByiT9maf0GikCs7jdbt5WqfHigIHNwYX3czXpFIYqHehLiUVI818tT2aJz8eOy02vj2c_I8CdPZFEKm6wWsSZsBjNWJntDL68kJxmXEhAujoySVh8SQm3VivcofidvGhRi7eU6XFWhctNrdAagPLq25M6bRA",
+               "width" : 2848
+            }
+         ],
+         "place_id" : "ChIJE-Dc8TwDzjERj318qXIIwdY",
+         "plus_code" : {
+            "compound_code" : "C6V4+HG Alor Gajah, Malacca",
+            "global_code" : "6PJ4C6V4+HG"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJE-Dc8TwDzjERj318qXIIwdY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3984993,
+               "lng" : 102.2210696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.399849129892722,
+                  "lng" : 102.2224194298927
+               },
+               "southwest" : {
+                  "lat" : 2.397149470107277,
+                  "lng" : 102.2197197701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f132b18a94ff2387643e9bc20f198e0b61e8f467",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100665360106625732376/photos\"\u003eItan&#39;th Ita&#39;qal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeqsSdcoBTf2-SK-CR2LZzlIYTn3Mx2jW8VHCaqHdi9TnYmhxx3XyN_v2bfjvX4DuRjrVzSeZ-fTiUzvePqN9uEYMFev3RGmcfrQZ3Jn1LhK76i4uxA-5AyLU5J1xqZZXEhDJSPD1n7UEx2JlrTdNmQ-PGhSHeyMEJGpfBypz711SDPaw6o2JoA",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJLbq8BE790TER56o8ZvswYzQ",
+         "plus_code" : {
+            "compound_code" : "96XC+9C Alor Gajah, Malacca",
+            "global_code" : "6PJ496XC+9C"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJLbq8BE790TER56o8ZvswYzQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "4, Jalan Perhentian Bas 2, Taman Clonlee, 78000 Alor Gajah, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.4670674,
+               "lng" : 102.2300289
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.468429829892722,
+                  "lng" : 102.2313907798927
+               },
+               "southwest" : {
+                  "lat" : 2.465730170107277,
+                  "lng" : 102.2286911201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d6a9c0ff8701027c4297d816bf25c2fdbdf41424",
+         "name" : "Uncle Bob",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115720282571509086791/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANXI7uoXneTWJvMQAK_HDoZpe_DgC99cIw8REOD1RESyRMFNGaYKgDPUjIwprHtK_hYBjec7usJics3j9RXluYlYRHd3agnDBOzcJyk1NwQuX64HnGt_IDSpT23cROMukEhAAXBfKDow4uqAaC8TSON5kGhSFTILbj5VXSflqxpleVH7OgSdO9Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ9wtgJGoDzjERtnxxENw4J58",
+         "plus_code" : {
+            "compound_code" : "F68J+R2 Alor Gajah, Malacca",
+            "global_code" : "6PJ4F68J+R2"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ9wtgJGoDzjERtnxxENw4J58",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Kampung Sungai Buloh, 78000 Alor Gajah, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.4314344,
+               "lng" : 102.1628948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.432818229892722,
+                  "lng" : 102.1641919298927
+               },
+               "southwest" : {
+                  "lat" : 2.430118570107277,
+                  "lng" : 102.1614922701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9094e048f159e94bcd7ec7d7f93bf70b6da1087",
+         "name" : "Burger Aqis Sungai Buloh",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117396846573224441610/photos\"\u003eNik Rashidi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIPPRPToZdEKX3_hS8pm5veJPop77rwyzhBml8OulT4zSff3Rcz8_2JbtRo8BYd6o9aBHcV2jpADRG4khk73rX5Onx_VwdRjn3Vgvlh4SkDws_VEiFcnhXQFqJQ0DpWDyEhDSCOjToiZfKFlRDdt9BNKhGhSW80Hv5KJh0L0j9nC9HVfrU2kJqA",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJTTfh_YgBzjERYPS9EUGgqpk",
+         "plus_code" : {
+            "compound_code" : "C5J7+H5 Alor Gajah, Malacca",
+            "global_code" : "6PJ4C5J7+H5"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJTTfh_YgBzjERYPS9EUGgqpk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "No 1 & 1-1, Jalan Kerambit 1, Bandar Baru Sungai Udang, 76300 Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.290152,
+               "lng" : 102.139616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.291551379892722,
+                  "lng" : 102.1408894798927
+               },
+               "southwest" : {
+                  "lat" : 2.288851720107277,
+                  "lng" : 102.1381898201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12b9ecd26129e2d7fefbce0346e89aef6b458bd9",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2112,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117796334933775248822/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAavPQHRDV0wJm--F4mCNPHdjzMPPmKF0H5-LXlagfAw68UfmqMm5fbsgdOTM4Il6Swcb2WOdje5ZEpzBU_XWEGyYFSL8bqIjZ4Ato-LJrmbrmkSwoYn5MnWthDm_Zqy2DEhC_lZEnEWlQxp3Tcux7vpuuGhSWO1ekXR92U1AvAsK-xmwFXqIrkQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJt83mRwj50TERdQ2yvPJU-qc",
+         "plus_code" : {
+            "compound_code" : "74RQ+3R Malacca",
+            "global_code" : "6PJ474RQ+3R"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJt83mRwj50TERdQ2yvPJU-qc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 362
+      },
+      {
+         "formatted_address" : "76450 Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2904857,
+               "lng" : 102.181331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.291831529892723,
+                  "lng" : 102.1827419798927
+               },
+               "southwest" : {
+                  "lat" : 2.289131870107278,
+                  "lng" : 102.1800423201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "893493e5eee6710c8cb981663991f5fbadd84e44",
+         "name" : "GPC Tanjung Minyak Perdana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJG6rLacv70TERMoiSGu-Mzg0",
+         "plus_code" : {
+            "compound_code" : "75RJ+5G Malacca",
+            "global_code" : "6PJ475RJ+5G"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJG6rLacv70TERMoiSGu-Mzg0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "jalan KJ2 taman krubong jaya, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2963624,
+               "lng" : 102.246441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.297731029892722,
+                  "lng" : 102.2478021798927
+               },
+               "southwest" : {
+                  "lat" : 2.295031370107278,
+                  "lng" : 102.2451025201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8beda808510afceabb3ba5be145d287284a6d886",
+         "name" : "Bubur Ayam Dan Ayam Goreng Cik Kiah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJQVBOUi770TER-HEjrGzj178",
+         "plus_code" : {
+            "compound_code" : "76WW+GH Krubong, Malacca",
+            "global_code" : "6PJ476WW+GH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQVBOUi770TER-HEjrGzj178",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 1639, Jalan Alor Gajah Lama, Kg. Air Semubuk, Melaka, 76100 Durian Tunggal, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.318169,
+               "lng" : 102.279011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.319480979892723,
+                  "lng" : 102.2803444298927
+               },
+               "southwest" : {
+                  "lat" : 2.316781320107278,
+                  "lng" : 102.2776447701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4136d47702580970420d9e8525e9da728e835891",
+         "name" : "DOH Ka Ting Farm",
+         "place_id" : "ChIJu2hyFpjk0TERf5XpmO73jHk",
+         "plus_code" : {
+            "compound_code" : "879H+7J Durian Tunggal, Malacca",
+            "global_code" : "6PJ4879H+7J"
+         },
+         "rating" : 0,
+         "reference" : "ChIJu2hyFpjk0TERf5XpmO73jHk",
+         "types" : [
+            "grocery_or_supermarket",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot No. 65, Tampin Square, Jalan Besar, 73000 Negeri Sembilan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.467592,
+               "lng" : 102.231064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.468902529892723,
+                  "lng" : 102.2324117298927
+               },
+               "southwest" : {
+                  "lat" : 2.466202870107278,
+                  "lng" : 102.2297120701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6ad3d7d33f30db2d40bdfbe58bbac0a06ebb41ef",
+         "name" : "KFC Tampin Square",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107726062098998408439/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnS9TTKDzLCPvvt-Zo2hPvgdCq375m2OBuUFoxW0vqyqaPUfkKYF8wM2yXVradTP7GiaBjJ6fll21ZP5AmF3ZhbVMTrFpAqgA5dUoQqFM95xnQ_-59QdqXaqDDyoSEUzKEhBLiRiI12gCxK5FUO8w1z1QGhQumWXqmhoszPmIKhwJNiucPBgeuQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJN9aN62kDzjER5eaFo8xZOu8",
+         "plus_code" : {
+            "compound_code" : "F69J+2C Tampin, Negeri Sembilan",
+            "global_code" : "6PJ4F69J+2C"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJN9aN62kDzjER5eaFo8xZOu8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 366
+      },
+      {
+         "formatted_address" : "Jalan, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.3514742,
+               "lng" : 102.1153446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.352877379892722,
+                  "lng" : 102.1166965798927
+               },
+               "southwest" : {
+                  "lat" : 2.350177720107278,
+                  "lng" : 102.1139969201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "03ca0241a46051fb5b22522182bdd06ed5010e90",
+         "name" : "Lapauulah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114676591149471583030/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvpbWslBZxY3CHsmp8OVa6SjCH3kWMwemFC0L_BjYxbk6hrfuhTKbvLrmjPDjwiDpBzcNKgK8977latQy7woj2V9So75oOtGPjd47v-C_IQxJSIS4zB1f9WumTl1nSHqFEhD6lyLmnDk2V9qtnQv1poMmGhT6YAZs4DV46mYzaOhXdVDN3GATow",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJrRQ5EO__0TEREHPHF4Ozh3U",
+         "plus_code" : {
+            "compound_code" : "9428+H4 Masjid Tanah, Malacca",
+            "global_code" : "6PJ49428+H4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJrRQ5EO__0TEREHPHF4Ozh3U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "76300 Sungai Udang, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2876351,
+               "lng" : 102.13312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.288928929892722,
+                  "lng" : 102.1344121298927
+               },
+               "southwest" : {
+                  "lat" : 2.286229270107278,
+                  "lng" : 102.1317124701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c1244975acf255cebd9f74e5f92995f718f8d946",
+         "name" : "GPC SUNGAI UDANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJVcdhPuz50TER3mkh-tGS1Zc",
+         "plus_code" : {
+            "compound_code" : "74QM+36 Sungai Udang, Malacca",
+            "global_code" : "6PJ474QM+36"
+         },
+         "rating" : 0,
+         "reference" : "ChIJVcdhPuz50TER3mkh-tGS1Zc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Mt 675, 78300 Masjid Tanah, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.352267,
+               "lng" : 102.1095409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.353573229892722,
+                  "lng" : 102.1109312798927
+               },
+               "southwest" : {
+                  "lat" : 2.350873570107277,
+                  "lng" : 102.1082316201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1678f262a53281b74df67c996c81d05bcd972878",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108633554307971271900/photos\"\u003eamirul sahadad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXBcIjWWv3HMVohijgn03xOJHlC970vKwA0EOW4wIDJCAFTMHqGGuA1AINoMPl1jEsk6Idz2BMNuhqFVmdD8yMpa3XFk8uy-HStcgmUZkbWWr4fpXPxdBRgqSGzDdrFEdEhBVSnPByDBAI1QSVZmXkTQFGhTQMsdGGNvLxrRA3MPbV_V2dD4U7g",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJxwmrQhr_0TERxEgr4UaFi2I",
+         "plus_code" : {
+            "compound_code" : "9425+WR Masjid Tanah, Malacca",
+            "global_code" : "6PJ49425+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJxwmrQhr_0TERxEgr4UaFi2I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 552
+      },
+      {
+         "formatted_address" : "78000, Jalan Besar, Kampung Tanjung Pisang, 73000 Tampin, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.490236,
+               "lng" : 102.237133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.491922329892722,
+                  "lng" : 102.2381579798927
+               },
+               "southwest" : {
+                  "lat" : 2.489222670107277,
+                  "lng" : 102.2354583201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c9534f65c8d65ee4551e258ab342e12821ce13b",
+         "name" : "Unclebob fried chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113091901342064147294/photos\"\u003eUnclebob fried chicken\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOgDFIwhRM3P4-bfxk9J6d1J81kTHcNX5bUWGLnK3EHMXmeD_tKumFutVg-Ltqjb6lImakZ6Xas4ATZIYKVn_Ypk5DHdyXAjSLBF3TV69O9ymw9gwWMPqVhYYWC6QxcltEhCvCApL606OjBJ0Us-dGdCEGhSJjhFB5FPy40uXcURqlB9ey5k8tA",
+               "width" : 512
+            }
+         ],
+         "place_id" : "ChIJ_QXyZqMEzjER-GCP-zHa1jk",
+         "plus_code" : {
+            "compound_code" : "F6RP+3V Tampin, Negeri Sembilan",
+            "global_code" : "6PJ4F6RP+3V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ_QXyZqMEzjER-GCP-zHa1jk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "Lot No G14 & G15, No.1, Jalan Inang 3, Taman Paya Rumput, 75400 Utama, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.281517,
+               "lng" : 102.215917
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.282866479892722,
+                  "lng" : 102.2171598798927
+               },
+               "southwest" : {
+                  "lat" : 2.280166820107278,
+                  "lng" : 102.2144602201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "640b2e2a8bc6052a8404cd8aa8ef5f947f7b29c2",
+         "name" : "KFC Tesco Bandar Cheng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116130035050903831368/photos\"\u003eSyaiful Zul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6S9xdrKDxS14qyixFjce0szrbaqvmOCZZrMLxmDY8GDmoHxX1MY-CnFT-dncFx9DMMq_WVIcz0wSj0pZBetQ4Jf9KMXzSEMzOpnIlEMHMK4zq9-4RmlnTDk2TAvcF07DEhA2jcCqDrwss9Fc08TgGC-PGhSP4jkfFWOLKUpiioNY0wBiwpeGNw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ10ivNPr60TERsP0p-5CNw1Q",
+         "plus_code" : {
+            "compound_code" : "76J8+J9 Malacca",
+            "global_code" : "6PJ476J8+J9"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ10ivNPr60TERsP0p-5CNw1Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "24, Jalan Inang 3, Taman Paya Rumput Jaya, 76450 Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2808394,
+               "lng" : 102.2167908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.282161629892723,
+                  "lng" : 102.2181402298927
+               },
+               "southwest" : {
+                  "lat" : 2.279461970107278,
+                  "lng" : 102.2154405701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a137bdcf6258cbb5dea7f3c0f9fae23c0eedfcb",
+         "name" : "GPC TESCO Cheng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJOaSVRPr60TER1qWa6bqLp18",
+         "plus_code" : {
+            "compound_code" : "76J8+8P Malacca",
+            "global_code" : "6PJ476J8+8P"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOaSVRPr60TER1qWa6bqLp18",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "F&B 43, Freeport A'Famosa Outlet Village, 78000 Melaka, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.443322,
+               "lng" : 102.20434
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.444786179892722,
+                  "lng" : 102.2056442798927
+               },
+               "southwest" : {
+                  "lat" : 2.442086520107277,
+                  "lng" : 102.2029446201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "afcb56e30ac1608502d2352991890ec12a041ab2",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106286558890290703832/photos\"\u003eThomas Tiong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnlUISFq6gG4Wpr9i_URyU1f0t5KjBwM2A2t8SiWvAxT9_vbgObZZHVIG1gnHbqBfcBy02Hz5B6x1q5CF6mKHZiwuFcH26mX8TL1aKc7wvr1UaV20lrmw2Lt2WQrVR3X-EhCtufoz0RKVBjNfDnSaOj4FGhT8-2ftcksh7XrmFx5YnwHDhcIUtg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJrSfws1QCzjERAF7Lla66rBk",
+         "plus_code" : {
+            "compound_code" : "C6V3+8P Alor Gajah, Malacca",
+            "global_code" : "6PJ4C6V3+8P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJrSfws1QCzjERAF7Lla66rBk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 448
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,889 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-wEAAAuocTHOdYbHzNJAXtKNA0e6zgrxK5DkSFF6pt-ptpUGLz5PRzNzc_vfYDwjVdexycSYkyA5ieB7c7zTdQsa14Ymfyb0VK0TMarZbxUCPL_unsjffX_dB34DpJ8mW0H5rSNRqs0YklEw4EVwLToT9k3pKMEjMJTzkU1f9Xv_RCSGLr7O1XVXKv6Is1QixU5qUV9Q8-RysAREa6bq_EfxeoYAEqVwEIriCJmjuiWpfkhpLv8eIZUGVq4RPBRjmgZzclCDUDvx2VghTWU-p4ZdDRBxJM6_QlYJVCN6s5nx-QX-wL0JMSC2T0CEAFlE3RM962gHQ1NgDTdklMegDpyDSvV7Ut-63xGDHJGg8nqHDVSwlO1L4rOweR0ILsHbkto8ZYzIYqy8VzoAPCCA04nRsIaQ5QHItwtpZDmIHzSYsv32z2LlsL5ne8MEq5FAUQbSe0YaGOrCG1Lkg47nGba3kocXLFK_Um4v789P5EIkeNREctwcwG0dgyM2orQ81J0p4oSBqGPvvFN7Aa8cz5ez_APBLMz5qRx34Ub2ReoUu3RctnYQB-EHC54WJl0o2XsyvINLqC9Kt2CdbDr9ZDO49rvV12nTsj_ZiI57xNshbSc6Or_1VIyO5WL4Wi66pC2Hn_SM7zYrnWYyNVd_Hjv-BMPxLXGh5nRSeI5idHFne9dBEhAXR5ajFoXLDejatx5v0luSGhT4aka10NCvz4HKGYIBWMJW_bPdzg",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Mewah Utara, Taman Pandan Mewah, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1281569,
+               "lng" : 101.7628005
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.129547379892722,
+                  "lng" : 101.7641510298927
+               },
+               "southwest" : {
+                  "lat" : 3.126847720107278,
+                  "lng" : 101.7614513701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e3fe7577814c6e598e1468d85e002d747d80dc3",
+         "name" : "McDonald's Pandan Mewah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117201287230399753053/photos\"\u003eAkashah abu bakar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz75SPcmGS8XpkumsDLl3ViN62mArq_Uf5FXoLjy9UKOGeDGEAYt_FbJYKCBfcULFGz4ItaINstKHguA-8QM16MeIiR97kpl3P7aMVFvM4Pr9DmQWmABNGiVpEPvXn6FjEhDtWdvvCVRPPR0wCXCNz0pmGhSWGKUS63WjymqE6BbVeVsvS2QT_Q",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJHXPOm402zDERcG1b8U8MFug",
+         "plus_code" : {
+            "compound_code" : "4QH7+74 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QH7+74"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJHXPOm402zDERcG1b8U8MFug",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1616
+      },
+      {
+         "formatted_address" : "20-G, Jalan Wawasan 2/8, Bandar Baru Ampang, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1446214,
+               "lng" : 101.7679254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.145973879892722,
+                  "lng" : 101.7691995798927
+               },
+               "southwest" : {
+                  "lat" : 3.143274220107277,
+                  "lng" : 101.7664999201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "438ba3c973e559abd88b2d513b0ab81221180fc9",
+         "name" : "Texas Chicken Bandar Baru Ampang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101065074452268508157/photos\"\u003emilg new\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAz5RUrs_Od5SoibwbfFVEMNKDjSJ2d12zhs3RJhChXWtKwSG28su_dzUTl9luGbXLugqIXlmSogaX4olX_MmnjJ7co-GdgwTXCURLMRfR167nTpCAyqiDwSI9vvtnLQqfEhDmJiz6q36EIsxZXLH5MjoNGhTx6k3vJ2Ukc8KddwOJ3y7SGRENaQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJJU32auQ2zDERbtB9cpMkAGk",
+         "plus_code" : {
+            "compound_code" : "4QV9+R5 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QV9+R5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJU32auQ2zDERbtB9cpMkAGk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 416
+      },
+      {
+         "formatted_address" : "33, Jalan Bunga Tanjung 9c, Taman Muda, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.120317,
+               "lng" : 101.762906
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.121670579892722,
+                  "lng" : 101.7642962298927
+               },
+               "southwest" : {
+                  "lat" : 3.118970920107277,
+                  "lng" : 101.7615965701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "177e2ee684ed1754721a1ed766212d994ab474be",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116394784923405084174/photos\"\u003ebob fendi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAx8hCxtycnO42ixRNHkHjXLJ-X_cR6Qsp_VXmr-dwUFj_UG94UIOYOMo6T-VxDh3agumCyqT5ArLRrqFQgEMjrzYOtj204YeSR_j4LMQmheGf9T3tp2MWsepcEoVP15CsEhBJzoKmWIjg_JchKCa2pwm7GhQnUTMcVgXLM_XKL4hWYxp1huU3xw",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJy1PFRoU2zDER1ImIzFPRlO4",
+         "plus_code" : {
+            "compound_code" : "4QC7+45 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QC7+45"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJy1PFRoU2zDER1ImIzFPRlO4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 266
+      },
+      {
+         "formatted_address" : "Lower Ground, Ampang Point Shopping Centre, Jalan Mamanda 3, Taman Dato Ahmad Razali, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1575017,
+               "lng" : 101.7511325
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.158799879892722,
+                  "lng" : 101.7525929798927
+               },
+               "southwest" : {
+                  "lat" : 3.156100220107278,
+                  "lng" : 101.7498933201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aa5e7ee48e2d6ced7c3a583aad3a82270f14edfd",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108389795249210235930/photos\"\u003eAhad Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ6ZD29yonvMyfyT72U-rI8GJN9vaNcEAFO-Xsjo95xLf2IrGCAwXQ8z8Up5za0_n5kD2RHa_DlIUsdkWcQiV3dQwYkZ19aQrOo_LgJArTVghGChmD4YeB-STO4J34wqIEhDMghsnac-swLWvjnJyHfGWGhSY0ep4L8TRhfrEIsTHUPssQ0SUNQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJF722uKk3zDERCtrqKAm2H0Q",
+         "plus_code" : {
+            "compound_code" : "5Q52+2F Ampang Jaya, Selangor",
+            "global_code" : "6PM35Q52+2F"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJF722uKk3zDERCtrqKAm2H0Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 69
+      },
+      {
+         "formatted_address" : "53, Jalan Watan 20, Taman Sri Watan, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.136222,
+               "lng" : 101.772048
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.137596829892722,
+                  "lng" : 101.7734137298927
+               },
+               "southwest" : {
+                  "lat" : 3.134897170107278,
+                  "lng" : 101.7707140701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2c8d5818b428980520c282aa4a2523b33f6983f9",
+         "name" : "De Food Empire",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109384743894324365611/photos\"\u003eDe Food Empire\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA73E2XjLcglbhKzpN9lbx6IlQZOKLa_gcO8Dv73HTmWcltsotBnRwkXNPqw1_a67kX_kXv3uTEgfP2dbeWPhApk-Qotf55Rse_Ml_3tAYp3cuHAVQLMIgEOEnE3EYJoZSEhA82yt5M599etKMy5FG0r0_GhQ25ogAU0AbMVUTsRPbjas76s7VQw",
+               "width" : 959
+            }
+         ],
+         "place_id" : "ChIJC5Yteek2zDERBmybx6523Xc",
+         "plus_code" : {
+            "compound_code" : "4QPC+FR Ampang Jaya, Selangor",
+            "global_code" : "6PM34QPC+FR"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJC5Yteek2zDERBmybx6523Xc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Jalan Ampang, Ampang Waterfront, 68000 Ampang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1434969,
+               "lng" : 101.7791455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.144800929892722,
+                  "lng" : 101.7804949298927
+               },
+               "southwest" : {
+                  "lat" : 3.142101270107278,
+                  "lng" : 101.7777952701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bf67d32e2511b3bcab44fdc41642190a268b4a6d",
+         "name" : "D'Zana Food Court (Malay)",
+         "photos" : [
+            {
+               "height" : 1632,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116352811571962463220/photos\"\u003emuhammad sabri ab ghani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4O-Zqb-FwbmGFFU38U75oRsPpybCSlJeD194wJyjEnF6TPJSjWZJpcaf4lFzm1NZtCx4YeVMa2IB4WX9FMwm-74Lzipr9qZGHSGF7WQJoD0Bwzt7N-hweOwCDgXV3d2-EhCNGrPeEOHGgDbIjkw2gPtsGhS2YRTHe5Z839EcDvzH6j5Trf3dLg",
+               "width" : 1224
+            }
+         ],
+         "place_id" : "ChIJ1fmWXNw2zDER2LH2bVM08mA",
+         "plus_code" : {
+            "compound_code" : "4QVH+9M Ampang Jaya, Selangor",
+            "global_code" : "6PM34QVH+9M"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ1fmWXNw2zDER2LH2bVM08mA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Dagang Avenue Food Court, Jalan Ampang Putra, Taman Nirwana, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1490608,
+               "lng" : 101.7541084
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.150324979892722,
+                  "lng" : 101.7557165298927
+               },
+               "southwest" : {
+                  "lat" : 3.147625320107278,
+                  "lng" : 101.7530168701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "be247a8335dcfbe37e8d1cbe8c3ae2325ce70b0d",
+         "name" : "Burger Bakar Abang Burn",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111092889118234167804/photos\"\u003eAinggararuban Ganeshan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1ct7fgU_i0DqRutJETmSMOHVo32CUq-g6SXpUTggrtmbCgflAmGiZhc0wEwL80E6MlGJpQB-RiwNVhxWqQVtgNeIFd8bI0o-ItRLUuN2oegngAvFgEHqvfqO3peQpF44EhC4btALBkRs7590HqWw_txlGhS54uYWJJDyHET-R1mrKJyfcI947g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJL8DwvP82zDERwsAdJpB0pj4",
+         "plus_code" : {
+            "compound_code" : "4QX3+JJ Ampang Jaya, Selangor",
+            "global_code" : "6PM34QX3+JJ"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJL8DwvP82zDERwsAdJpB0pj4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "formatted_address" : "Lot 36904, Jalan Kolam Ayer Lama, Taman Dato Ahmad Razali, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.160056,
+               "lng" : 101.754153
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.161423329892723,
+                  "lng" : 101.7554427798927
+               },
+               "southwest" : {
+                  "lat" : 3.158723670107278,
+                  "lng" : 101.7527431201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b783e9a055a3afc9f0b79b388c0e25fa9af001f2",
+         "name" : "McDonald's Jalan Kolam Air",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105143825834869509733/photos\"\u003eBryan Leong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK0ry7O_UnlJ7eGt7mzmoNxa2Hn19ZtOglp4AXiOKk-3fQTKrqFy5DSPZ14_k3_gCRf6q4Bzwe4MYvY97NejRoqBJ0EtCFwDMGr9jkhHbZozWFAQrPngJYksn-O1e3nCxEhAe5CfHxuPohP69aOxFG1lyGhSBPjwJBUpl8Beip6sOl7sFlqiH9Q",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJvYEL2wc3zDER1HYW_K0cWNs",
+         "plus_code" : {
+            "compound_code" : "5Q63+2M Ampang Jaya, Selangor",
+            "global_code" : "6PM35Q63+2M"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJvYEL2wc3zDER1HYW_K0cWNs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 779
+      },
+      {
+         "formatted_address" : "517, Lebuhraya Lingkaran Tengah 2, Gombak, 40400 Ampang Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2023685,
+               "lng" : 101.7603442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.203692579892722,
+                  "lng" : 101.7616571798927
+               },
+               "southwest" : {
+                  "lat" : 3.200992920107278,
+                  "lng" : 101.7589575201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b28fde0e7228d9b2c36e3b6652244890739c15a",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109728159061852993175/photos\"\u003eZaharahanum Kamarudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3XOFZs13bqK75lmc0lJxJsZouEFCiOOaQa94n0evAhDWaSX1hZyrrCjB-Y5dETGkAlJIENgpNeafLaqCeRI2kzvsCf1urXH7sFYJeYHL7NVhxtJoKspakW8MCgWxzlEcEhDhav0Rl68HwudhhhpwHgNpGhSYNzkIM8prsKi81aDVT2FWblnInQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJLTsfUc45zDERjU1GFUM1Pvs",
+         "plus_code" : {
+            "compound_code" : "6Q26+W4 Ampang Jaya, Selangor",
+            "global_code" : "6PM36Q26+W4"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJLTsfUc45zDERjU1GFUM1Pvs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1031
+      },
+      {
+         "formatted_address" : "G08, Ampang Point Shopping Centre, Jalan Mamanda 3, Taman Dato Ahmad Razali, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1577296,
+               "lng" : 101.7507463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.158933429892722,
+                  "lng" : 101.7524090298927
+               },
+               "southwest" : {
+                  "lat" : 3.156233770107277,
+                  "lng" : 101.7497093701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1eef1c6c9e4ad6d2e21e3d37454de01f961deee",
+         "name" : "McDonald's Ampang Point",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117240280316055617904/photos\"\u003eFauzi Arpan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0nqwenhS_BXT5i_e75pHMZJtqL-b2OE8kdXN9c-wTZ-wMfoRVPmJ3jc4R3UfAhbYOGxMhxXb4lvNCpCYTnCCiyJX9GTXqNbe0EadNH7GIwnOs0PNpajlpNbJ8TSONPMtEhBICuRE4MySHXgwN7sxPv0-GhRMHEZop17rMVSC5GCmvZ6OcNoctw",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ_z3LyKk3zDERgGIhNBvGbiA",
+         "plus_code" : {
+            "compound_code" : "5Q52+37 Ampang Jaya, Selangor",
+            "global_code" : "6PM35Q52+37"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_z3LyKk3zDERgGIhNBvGbiA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 437
+      },
+      {
+         "formatted_address" : "Lot PT 8882 HS (D) 108175, Jalan Lingkaran Tengah 2 (MRR2), Mukim Ampang, 55100 Daerah Hulu Langat, Selangor Darul Ehsan, 55100 Ampang Jaya, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.141566,
+               "lng" : 101.742582
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.142892679892722,
+                  "lng" : 101.7440414298927
+               },
+               "southwest" : {
+                  "lat" : 3.140193020107278,
+                  "lng" : 101.7413417701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0c7a43756c7d808f7f4cb049f17c793f37c21cfe",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100524889308382772207/photos\"\u003eMuffinMan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADBCKwEe2_k_9_ozORcp24Pio8UtMeA4JGdCQcOUiA2SfJJUywUWl9h1seRByOpN2dSaX0gi_rjw-5riQfC75s01bS8GIUttwORdR4Xe3OPAeDu-j7DP9imzwar49-cW1EhC0rp9sD3Sv_0UPxXH5OmvfGhQnndytIW-NcdYxnHZh06ZSaBaMlA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJW-X93F02zDERYQzDPI9GlYk",
+         "plus_code" : {
+            "compound_code" : "4PRV+J2 Ampang Jaya, Selangor",
+            "global_code" : "6PM34PRV+J2"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJW-X93F02zDERYQzDPI9GlYk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 638
+      },
+      {
+         "formatted_address" : "Lot No G-12 & GAF 13A, First Floor Axis Atrium, Jalan Cempaka, Ampang, 68000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.136737,
+               "lng" : 101.747069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.138114979892722,
+                  "lng" : 101.7484003798927
+               },
+               "southwest" : {
+                  "lat" : 3.135415320107278,
+                  "lng" : 101.7457007201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ba141751fb0f58a3f366a509b211dabb2dfdd324",
+         "name" : "KFC",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115250321548451821120/photos\"\u003eAbuzar Abbas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtXcpblURgnScYPkktfjvM1TATEbJeKr9UlgUVpMMAo5yIRKSs6okbXozi38IMgivBJla-JfofkEktn7dHX2gZVffSECeLI1AvleEMJN2tF3GsADxPdeJE7Mf6W0dWpLCEhAO5yQPErh9rP4A1jxkRrLTGhTvTaIrjcGN_stQuYY3WMkVbnhdPA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJNStVD1k2zDERmdxw3hp1hMc",
+         "plus_code" : {
+            "compound_code" : "4PPW+MR Ampang Jaya, Selangor",
+            "global_code" : "6PM34PPW+MR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJNStVD1k2zDERmdxw3hp1hMc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 72
+      },
+      {
+         "formatted_address" : "23 A, Jalan Awf 3, Ampang Waterfront, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1435749,
+               "lng" : 101.775809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.144869879892722,
+                  "lng" : 101.7771584298927
+               },
+               "southwest" : {
+                  "lat" : 3.142170220107278,
+                  "lng" : 101.7744587701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "deab19a7cf8359a955e19133a8632331963f546d",
+         "name" : "Domino's Pizza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108575934514722115773/photos\"\u003eCabriz Ghazali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi2rTZVwda19PkQfRVFIzsckQxePfDOOvs-gWUVQFX7nj0DEj6wQ-v2Ly2zdCr3oUEby94oEERRGCOQd_ierJPJM248IFDOvdfR7wHorvw67bxqo8tkjfj4IIxgJJrHb6EhCJhynqSYI_dqvZDCW7sHYwGhRT6XT_4iwDKB5BGWAllzojNkPtCA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJUdLHhN02zDER6Br9_S1adAI",
+         "plus_code" : {
+            "compound_code" : "4QVG+C8 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QVG+C8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJUdLHhN02zDER6Br9_S1adAI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "Ampang Lot 36904 TT27423, Jalan Air Kolam Lama Petronas, Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1597192,
+               "lng" : 101.7541222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.161216929892722,
+                  "lng" : 101.7554036298927
+               },
+               "southwest" : {
+                  "lat" : 3.158517270107278,
+                  "lng" : 101.7527039701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1eaecd84cfc8032851b664f005551df1726162ab",
+         "name" : "SUBWAY @ Petronas Air Kolam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1176,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110641766557305660028/photos\"\u003eHamster Low\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAti5kw6LMtVLetR_AVxQtnvwKf1FzZD1Yd6pEsfeKGDki4NML7w-WTJ3BBIS17pxlV--yxomazRj74t8cD34vEDIJ6MiayDwJORQiMkByw5YEyRCd7Wz8NK-4PnAlfs1VEhCYXx7Q8jcWMPtwbf4TVjFGGhSse2GRh0Z-J7Xb1AQkOsm6bHumtQ",
+               "width" : 1176
+            }
+         ],
+         "place_id" : "ChIJ134ScAY3zDERVxfJ3T7lnTA",
+         "plus_code" : {
+            "compound_code" : "5Q53+VJ Ampang Jaya, Selangor",
+            "global_code" : "6PM35Q53+VJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ134ScAY3zDERVxfJ3T7lnTA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "formatted_address" : "65, Jalan Melur 1, Taman Melur, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1210298,
+               "lng" : 101.7701698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.122373729892722,
+                  "lng" : 101.7714778298927
+               },
+               "southwest" : {
+                  "lat" : 3.119674070107278,
+                  "lng" : 101.7687781701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6bb0d6c6b110c6b0e24ba773d4dbab7befbc172d",
+         "name" : "Hasma Tomyam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103402954034481873807/photos\"\u003eTony Kee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALucJ3P6p4hxNWfj4H-h0yDyxEVufnpUF69dEkJF8yEDFc8jjjUZAnVFxJ15FuStR_N7OR2xkNyZC1ISvnAFRM0wK4TBML-wq2ydn28A8hrL1UgX8OmupqjMqJUMh5X8nEhDw4qVq78QgGxey4o98Vf2ZGhQMJ8OKqK31doHEtpVSfGRQmiy23A",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJn5Q1_Zk2zDER-UO_32Fc1Ko",
+         "plus_code" : {
+            "compound_code" : "4QCC+C3 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QCC+C3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJn5Q1_Zk2zDER-UO_32Fc1Ko",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "Jalan Kosas 2, Taman Kosas, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.148955,
+               "lng" : 101.7674719
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.150267879892723,
+                  "lng" : 101.7688308298927
+               },
+               "southwest" : {
+                  "lat" : 3.147568220107278,
+                  "lng" : 101.7661311701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "325d8b1b85c5fe766c87dc9a636ce240c4fad2d3",
+         "name" : "Kedai Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 526,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109253327655323592528/photos\"\u003emimi shafinaz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXIfBdrWMzL0dvJpsrcskOceHqL-w9sh9oHDs4mY1sZWvjWLGlcrmjcn1ypiXLldFRVtdfeDv_DVqUi--XNu36B6_CEzT9FKP6M9oGisxIR7bhDoa08fWRpGIehumx3XvEhAfyB5KOYTOJE6HsF9wv7E_GhQB_h8XjWzoKOZNzVwup_S1rJeorg",
+               "width" : 525
+            }
+         ],
+         "place_id" : "ChIJDbUCReI2zDERH6_NwfKgCxs",
+         "plus_code" : {
+            "compound_code" : "4QX8+HX Ampang Jaya, Selangor",
+            "global_code" : "6PM34QX8+HX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJDbUCReI2zDERH6_NwfKgCxs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "2, Jalan 5/4, tmn sri raya, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1226766,
+               "lng" : 101.7681817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.124066929892722,
+                  "lng" : 101.7695220798927
+               },
+               "southwest" : {
+                  "lat" : 3.121367270107277,
+                  "lng" : 101.7668224201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ecdeefc3e09a6bdff814a39788ed03720475e02f",
+         "name" : "RotiReetz",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 767,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103892748286147551638/photos\"\u003eRotiReetz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-kTgLy1meRJPkbYCW_dL_Pt1D1HxvTQCz9w7Act_eAeIrai5TlJv1zC7iqq2mxP7dqGwc534VY3B6u2G3L5k7W-ZjHh-QEtRbO5fMg3IWNjZ3bsr-ze22iShCSgF0RUAEhB4HkfRXa4rLQKuYIVlHp6WGhQHD4eVYDfkDW50m0ozs5fx8p6ywg",
+               "width" : 541
+            }
+         ],
+         "place_id" : "ChIJkdFKwpA2zDEROYJiCqFBovQ",
+         "plus_code" : {
+            "compound_code" : "4QF9+37 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QF9+37"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJkdFKwpA2zDEROYJiCqFBovQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Petronas Taman Dagang, PT 12671, Jalan Nirwana, Taman Nirwana, Ampang, Malaysia, Selangor, 68000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.145167,
+               "lng" : 101.755248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.146485879892722,
+                  "lng" : 101.7567117798927
+               },
+               "southwest" : {
+                  "lat" : 3.143786220107278,
+                  "lng" : 101.7540121201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "74db19ac14487c4bf2edf16ae2e247487754d131",
+         "name" : "McDonald's Taman Dagang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116578465095844097128/photos\"\u003eMehrnoosh Di\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgCCetU6b1G9VgOsJnVYDn8_rLcJ3_d2IgetuHDdcAJTM3du71lwkwvZE9Z4f-m2bR449Ry_0AH3943NA0GaMd4-rICaS5FEEcCj5czhVsIkoE9bIkWmttrFOTd_kE5qTEhCqHBERAtdsgoVeTIsJK3-vGhSoL5bGnX-NuhTV-jzBqGeRzQfXvg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJEcwGTf82zDER8EygWgi3zfM",
+         "plus_code" : {
+            "compound_code" : "4QW4+33 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QW4+33"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJEcwGTf82zDER8EygWgi3zfM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1072
+      },
+      {
+         "formatted_address" : "Jalan Mewah 1/3, Taman Pandan Mewah, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1262581,
+               "lng" : 101.7632558
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.127618529892722,
+                  "lng" : 101.7646063298927
+               },
+               "southwest" : {
+                  "lat" : 3.124918870107277,
+                  "lng" : 101.7619066701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4e8d691b62994e00b83041672debf0ad3dae7d65",
+         "name" : "Burger Abang Champ",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 809,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111319688339919762792/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAczhKOkd3j70g6RCDVcL2XgVrSZbxAjsfCJPrvn7oV8Wat6Bxjl7cKgGZTVUHGX1NeTUwL28iHKMEH5m9x6Y54Epuia_R9dqs0GhbSFetDhMpPruUVMU3WSXIRBrDGp2bEhACOAz5czYCkv-ztGTgHpj-GhRN9rKy20q50jNlnqI9mFMWO2ZwRQ",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJCeYEDZk3zDERwPTedF998Sk",
+         "plus_code" : {
+            "compound_code" : "4QG7+G8 Ampang Jaya, Selangor",
+            "global_code" : "6PM34QG7+G8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJCeYEDZk3zDERwPTedF998Sk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Jalan Mewah 4, Taman Pandan Mewah, 68000 Ampang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1292387,
+               "lng" : 101.7648141
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.130557029892721,
+                  "lng" : 101.7661641798927
+               },
+               "southwest" : {
+                  "lat" : 3.127857370107277,
+                  "lng" : 101.7634645201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a95ea5222c44367763fa6d55fd4d8b8f67ec358d",
+         "name" : "Warung lepak santai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105882358148473981544/photos\"\u003eRaja Gene\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7GpJ6aZJDYaX9BO3RiMsFZJAYLoFnsIfKWNeN4J7hZaXCQ2x3pirL_XjEzc1AFavcc9JOFRnRasWMCTpnhDNFaRNeNu2Km_rXKQCxnGxJuUrxt_G1Z8yd1-DUCa3MblaEhC9JfwsDbQ9MEgMPCWLR8UgGhRtdLlmaF5O8dpKvS_H8QEuxfjShQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ26uujLQ3zDERqBU-uBxHR20",
+         "plus_code" : {
+            "compound_code" : "4QH7+MW Ampang Jaya, Selangor",
+            "global_code" : "6PM34QH7+MW"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJ26uujLQ3zDERqBU-uBxHR20",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

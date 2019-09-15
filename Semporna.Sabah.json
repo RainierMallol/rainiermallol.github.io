@@ -1,0 +1,680 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAHRQ_Xlj5z-sYUkHs0zToc6hWoDNidh5gLnviUD03CQSyHRyB8qAXUWaSl0Ce6drQGD24V7mpqh66Irg6FLWz5KWQxomF1Riba1nZk0OyMU02Ma_Qm8MGUTWLRlkooXmehesQvOGDAnYFtgM6QEIt22-phgUoLtckqUfjYhwk7pLI1CT-CZRcK769WGDwXBzvjwEQlW2QTEW6QcLjQ_v6VG9HszFlf0w-Sezi7tChI-NhU3IzfeXsYvQIwsGZTnpUvac7OXWgoX2jcidkfsWY6Rrzjece_HEfakdToagEbKox3oOuVWQY4ZpbaLjUqc-6BrAQpFgEpQTpcZuGThUZTwC4rSZuamkAsvGA3hLS5vIfMuUPVgg9u2Qx2nigq1OjHWRTHbXpqIuOGH1jlHeAzceR1ZwsDTwDUwDwYKBPyHpLtzX4CRRkmRsbt_YgnTN2VD566ggEk5e20xftJV_uJrNCB7IAs6bx6h6_Q3pPvojqeRrvKOXef8Kl9W67khoomP7i1T9IskbS9IIljChGCdTet2wmScwutT9RjJ8V1hQN6s8FL3FRhaH3aVTmCdXr8uH0BTsWcKgz0l2FfNvuc_kLlhksciR2hBHn0oYBh7HiT5IJ81nhSNd_3LO445Cacg3HqE0l3vunYj95l714IjM-FRVPwbKcrBVInrdmDROEhCVQ_nWSd1g0lSX_XFGYIa0GhQFNR8L7A-dHq94rBz2JtPk-QP1Zg",
+   "results" : [
+      {
+         "formatted_address" : "Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.478501,
+               "lng" : 118.6103369
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.479815079892722,
+                  "lng" : 118.6117169298927
+               },
+               "southwest" : {
+                  "lat" : 4.477115420107278,
+                  "lng" : 118.6090172701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bcaaf894d9f9cf44c98177aae718cda5b435e238",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJW73HIln-PzIRGSn--5rill4",
+         "plus_code" : {
+            "compound_code" : "FJH6+C4 Semporna, Sabah",
+            "global_code" : "6PPWFJH6+C4"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJW73HIln-PzIRGSn--5rill4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 535
+      },
+      {
+         "formatted_address" : "Ground & 1st Floor, Lot 36, Block E, 91300 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.436338999999999,
+               "lng" : 118.531829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.438134629892722,
+                  "lng" : 118.5334986298927
+               },
+               "southwest" : {
+                  "lat" : 4.435434970107278,
+                  "lng" : 118.5307989701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b75856d0e2958369d4d1194e2bcb4b8f79e3dbc2",
+         "name" : "KFC",
+         "place_id" : "ChIJ7fb03sxXFTIRq6DeCPxDZTc",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJ7fb03sxXFTIRq6DeCPxDZTc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "WDT 146, 2331, MDKNK, 2332 & 2333, Bangunan Kunak Plaza, Sabah, Pekan Kunak, 91209 Kunak, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.6831941,
+               "lng" : 118.2470895
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.684481829892722,
+                  "lng" : 118.2484513298927
+               },
+               "southwest" : {
+                  "lat" : 4.681782170107278,
+                  "lng" : 118.2457516701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c7092a58bce13c7e80cdeca1b7af2d8157eef017",
+         "name" : "Golden Fish",
+         "place_id" : "ChIJXdahgH7BPzIRk-FVhuDbAUE",
+         "plus_code" : {
+            "compound_code" : "M6MW+7R Kunak, Sabah",
+            "global_code" : "6PPWM6MW+7R"
+         },
+         "rating" : 3,
+         "reference" : "ChIJXdahgH7BPzIRk-FVhuDbAUE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Semporna Seafront Township, Lot C1, Ground Floor, Jalan Simunul, 91308, Semporna, Sabah, Malaysia, 91308 Semporna, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4777505,
+               "lng" : 118.6138255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.479050379892723,
+                  "lng" : 118.6151908298928
+               },
+               "southwest" : {
+                  "lat" : 4.476350720107279,
+                  "lng" : 118.6124911701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "20b8ff936c06c9587087819258f7a608c668b305",
+         "name" : "Ocean Treasure Live Seafood Restaurant",
+         "place_id" : "ChIJvT50wln-PzIRx978u63F_Fk",
+         "plus_code" : {
+            "compound_code" : "FJH7+4G Semporna, Sabah",
+            "global_code" : "6PPWFJH7+4G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJvT50wln-PzIRx978u63F_Fk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Lot No. A26 Bandar Utama, Jalan Bubul, Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4773391,
+               "lng" : 118.6082176
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.478716279892722,
+                  "lng" : 118.6096051298927
+               },
+               "southwest" : {
+                  "lat" : 4.476016620107278,
+                  "lng" : 118.6069054701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4fc403e8a2b9c4f4cce101af38beaaef89d5ae67",
+         "name" : "Summer Breeze Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJtciDr17-PzIR7gRAmmgL4No",
+         "plus_code" : {
+            "compound_code" : "FJG5+W7 Semporna, Sabah",
+            "global_code" : "6PPWFJG5+W7"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJtciDr17-PzIR7gRAmmgL4No",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 201
+      },
+      {
+         "formatted_address" : "91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4647941,
+               "lng" : 118.5920202
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.466132929892722,
+                  "lng" : 118.5933987298928
+               },
+               "southwest" : {
+                  "lat" : 4.463433270107278,
+                  "lng" : 118.5906990701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2c55f01494b30fafcd473ebcec365d823834e812",
+         "name" : "Taman Sempol",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJYbAAXW3-PzIRFNccDLi4uYY",
+         "plus_code" : {
+            "compound_code" : "FH7R+WR Semporna, Sabah",
+            "global_code" : "6PPWFH7R+WR"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJYbAAXW3-PzIRFNccDLi4uYY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 68
+      },
+      {
+         "formatted_address" : "Taman Bandar Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4799837,
+               "lng" : 118.6134809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481324879892722,
+                  "lng" : 118.6148221798927
+               },
+               "southwest" : {
+                  "lat" : 4.478625220107278,
+                  "lng" : 118.6121225201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "055ccdca9e38386bc7c5df784c9b3b37d42b4d1c",
+         "name" : "正宗肥妈海鲜楼（Fat Mother's Restaurant）",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ-UPGP1j-PzIRzYEUYIRHoPk",
+         "plus_code" : {
+            "compound_code" : "FJH7+X9 Semporna, Sabah",
+            "global_code" : "6PPWFJH7+X9"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ-UPGP1j-PzIRzYEUYIRHoPk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 133
+      },
+      {
+         "formatted_address" : "Next to jetty, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4791357,
+               "lng" : 118.6138557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.480526029892721,
+                  "lng" : 118.6152406298927
+               },
+               "southwest" : {
+                  "lat" : 4.477826370107278,
+                  "lng" : 118.6125409701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9ca221a750f5ca81e075d2235be79904fc73112",
+         "name" : "Then Wang Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqe7jqFRZFTIRH-uvkSOW_PY",
+         "plus_code" : {
+            "compound_code" : "FJH7+MG Semporna, Sabah",
+            "global_code" : "6PPWFJH7+MG"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJqe7jqFRZFTIRH-uvkSOW_PY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81
+      },
+      {
+         "formatted_address" : "Kampung Tampi-Tampi, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.452910999999999,
+               "lng" : 118.635498
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.454192779892722,
+                  "lng" : 118.6367882298928
+               },
+               "southwest" : {
+                  "lat" : 4.451493120107278,
+                  "lng" : 118.6340885701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "63dbb2c5cd14faaaa9b19eeccbe6916f6a7b6c13",
+         "name" : "Scuba Tiger Semporna Holiday Resort",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJB5DNxVf-PzIRaRxU-u90XeU",
+         "plus_code" : {
+            "compound_code" : "FJ3P+55 Semporna, Sabah",
+            "global_code" : "6PPWFJ3P+55"
+         },
+         "rating" : 4,
+         "reference" : "ChIJB5DNxVf-PzIRaRxU-u90XeU",
+         "types" : [
+            "travel_agency",
+            "lodging",
+            "restaurant",
+            "food",
+            "school",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "Ground & First Floor, 8, Block B, Kunak Shophouses (under TL Tittle 24750141), 91200 Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.683596,
+               "lng" : 118.247971
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.684953879892721,
+                  "lng" : 118.2493631798927
+               },
+               "southwest" : {
+                  "lat" : 4.682254220107278,
+                  "lng" : 118.2466635201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2f92af728fe24857041d30a08be270df57cb0851",
+         "name" : "KFC",
+         "place_id" : "ChIJx4LOjX7BPzIRgvVPIG_6mZ0",
+         "plus_code" : {
+            "compound_code" : "M6MX+C5 Kunak, Sabah",
+            "global_code" : "6PPWM6MX+C5"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJx4LOjX7BPzIRgvVPIG_6mZ0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "waterfront, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.479654099999999,
+               "lng" : 118.6139473
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.480989579892722,
+                  "lng" : 118.6152671798927
+               },
+               "southwest" : {
+                  "lat" : 4.478289920107278,
+                  "lng" : 118.6125675201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fdcd22539adf60d790ebb6e569a4f9f926624285",
+         "name" : "Anjung D Samudera Seafood Restaurant, Semporna, Sabah.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJY2USO1j-PzIRNH-xNfo_Euk",
+         "plus_code" : {
+            "compound_code" : "FJH7+VH Semporna, Sabah",
+            "global_code" : "6PPWFJH7+VH"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJY2USO1j-PzIRNH-xNfo_Euk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "Taman Bandar Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4801886,
+               "lng" : 118.6133501
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481535579892722,
+                  "lng" : 118.6146971798927
+               },
+               "southwest" : {
+                  "lat" : 4.478835920107278,
+                  "lng" : 118.6119975201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "64536c643133b89f6cbbf44c331ba7d1512980e7",
+         "name" : "Fat mom's Restaurant",
+         "place_id" : "ChIJJUzValj-PzIRRyiWY87y1rU",
+         "plus_code" : {
+            "compound_code" : "FJJ7+38 Semporna, Sabah",
+            "global_code" : "6PPWFJJ7+38"
+         },
+         "rating" : 4,
+         "reference" : "ChIJJUzValj-PzIRRyiWY87y1rU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "SA51, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4540222,
+               "lng" : 118.5621508
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.455274929892722,
+                  "lng" : 118.5635070298927
+               },
+               "southwest" : {
+                  "lat" : 4.452575270107278,
+                  "lng" : 118.5608073701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8b0622e7fadd6fdda1871039b108218cc2e32b60",
+         "name" : "Damai Cafe And Carwash",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJB2SQKfL9PzIR2GMt4UeJrdw",
+         "plus_code" : {
+            "compound_code" : "FH36+JV Semporna, Sabah",
+            "global_code" : "6PPWFH36+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJB2SQKfL9PzIR2GMt4UeJrdw",
+         "types" : [
+            "restaurant",
+            "car_wash",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 94
+      },
+      {
+         "formatted_address" : "Taman Bandar Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4799101,
+               "lng" : 118.6127386
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481218329892722,
+                  "lng" : 118.6141332298927
+               },
+               "southwest" : {
+                  "lat" : 4.478518670107278,
+                  "lng" : 118.6114335701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a1d68ebedf8795c0930f1854bf0f52a340099523",
+         "name" : "Buddy Bistro",
+         "place_id" : "ChIJN00C-N3_PzIRZZrAHcG9OoE",
+         "plus_code" : {
+            "compound_code" : "FJH7+X3 Semporna, Sabah",
+            "global_code" : "6PPWFJH7+X3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJN00C-N3_PzIRZZrAHcG9OoE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Jalan Hospital, Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4797354,
+               "lng" : 118.6093665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481069679892722,
+                  "lng" : 118.6107437798928
+               },
+               "southwest" : {
+                  "lat" : 4.478370020107278,
+                  "lng" : 118.6080441201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a94974f76ed3a6b3f6975d70c4868ce14e5000e2",
+         "name" : "Family Cafe",
+         "place_id" : "ChIJbVlxzlj-PzIRBpECTdTolsQ",
+         "plus_code" : {
+            "compound_code" : "FJH5+VP Semporna, Sabah",
+            "global_code" : "6PPWFJH5+VP"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJbVlxzlj-PzIRBpECTdTolsQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Taman Bandar Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.479691499999999,
+               "lng" : 118.613907
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481023579892722,
+                  "lng" : 118.6152381798927
+               },
+               "southwest" : {
+                  "lat" : 4.478323920107278,
+                  "lng" : 118.6125385201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee1c7025302089f4ffa28796f5557ff4b017c69a",
+         "name" : "Fish Village Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqVp2O1j-PzIRwoUdbywFsaw",
+         "plus_code" : {
+            "compound_code" : "FJH7+VH Semporna, Sabah",
+            "global_code" : "6PPWFJH7+VH"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJqVp2O1j-PzIRwoUdbywFsaw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "107, SA51, Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4755007,
+               "lng" : 118.6074664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.476942429892722,
+                  "lng" : 118.6088454298927
+               },
+               "southwest" : {
+                  "lat" : 4.474242770107278,
+                  "lng" : 118.6061457701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af713cb7c690e4593da5967990d135062c265356",
+         "name" : "McDonald Semporna",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJNRawvkD_PzIRTfILUvTJs_A",
+         "plus_code" : {
+            "compound_code" : "FJG4+6X Semporna, Sabah",
+            "global_code" : "6PPWFJG4+6X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJNRawvkD_PzIRTfILUvTJs_A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Taman Bandar Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4802263,
+               "lng" : 118.6133079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481575229892721,
+                  "lng" : 118.6146568298927
+               },
+               "southwest" : {
+                  "lat" : 4.478875570107277,
+                  "lng" : 118.6119571701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a88e800979e7c6261b69f512f42b85a896576e33",
+         "name" : "Original Seafood & Co.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJDcduVkj_PzIRXreOTNpZTEM",
+         "plus_code" : {
+            "compound_code" : "FJJ7+38 Semporna, Sabah",
+            "global_code" : "6PPWFJJ7+38"
+         },
+         "rating" : 3,
+         "reference" : "ChIJDcduVkj_PzIRXreOTNpZTEM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Jalan Hospital, Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.4801966,
+               "lng" : 118.6080028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.481506529892722,
+                  "lng" : 118.6092937298927
+               },
+               "southwest" : {
+                  "lat" : 4.478806870107278,
+                  "lng" : 118.6065940701072
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c5f7643c4f0670fbfc0f83503a0885eef065740",
+         "name" : "新口味海鲜楼 New Taste Restaurant 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJS7w7cTr_PzIRSQz5JzU7fcw",
+         "plus_code" : {
+            "compound_code" : "FJJ5+36 Semporna, Sabah",
+            "global_code" : "6PPWFJJ5+36"
+         },
+         "rating" : 5,
+         "reference" : "ChIJS7w7cTr_PzIRSQz5JzU7fcw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Pekan Semporna, 91308 Semporna, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.479391,
+               "lng" : 118.611545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.480706079892722,
+                  "lng" : 118.6128710298927
+               },
+               "southwest" : {
+                  "lat" : 4.478006420107278,
+                  "lng" : 118.6101713701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ab1e3393ed701a6eaee683e7be6ff485aac4258",
+         "name" : "restaurant",
+         "place_id" : "ChIJSxDx6H__PzIRetNv97mt3N0",
+         "plus_code" : {
+            "compound_code" : "FJH6+QJ Semporna, Sabah",
+            "global_code" : "6PPWFJH6+QJ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJSxDx6H__PzIRetNv97mt3N0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

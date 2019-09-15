@@ -1,0 +1,231 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Persiaran Damai Perdana, Bandar Damai Perdana, 43200 Cheras, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0535319,
+               "lng" : 101.7439985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.054795429892723,
+                  "lng" : 101.7455230298927
+               },
+               "southwest" : {
+                  "lat" : 3.052095770107278,
+                  "lng" : 101.7428233701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "56a904df83c17fac3143ccbf66e6ca3c56e2669c",
+         "name" : "A&W Damai Perdana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113741869211490733965/photos\"\u003eJoanne Lip\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACZAr02d6Fe6F1Xrcz17u0HCygE92w_bKHlULLJaJR5vZ7ND3wKqeivx5WeoUoD64omCS_z9HeJjgSkk73VqNimOsKdJWc6kPqXyRpqFC4sWfuZMuyfgrTnCyrS7fI9qOEhAiDp_4RtSDhy3g79kg6ov7GhQ5I74udzLzY4MIW_Sr0tKJdNHvcQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJaalhiRg1zDERQKnIT3UGda8",
+         "plus_code" : {
+            "compound_code" : "3P3V+CH Cheras, Selangor",
+            "global_code" : "6PM33P3V+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJaalhiRg1zDERQKnIT3UGda8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 301
+      },
+      {
+         "formatted_address" : "120-120A, Bukit Bintang Street, Bukit Bintang, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1467117,
+               "lng" : 101.7108853
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.148072979892722,
+                  "lng" : 101.7123977798927
+               },
+               "southwest" : {
+                  "lat" : 3.145373320107278,
+                  "lng" : 101.7096981201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e35f16e10a7129e0b6f0a83ded74aa14082971c",
+         "name" : "McDonald's Bukit Bintang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110382695766900104189/photos\"\u003eTarik Aman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh4R16tnWng80ViWpb7R_qINj-ZgBnFdFqc91ej3VSJGvm0gXwa1LCipIUdHKBOzboyysc7QZMbHcCNDavkHsGUF1eBOQUlBHOzN7f3vxH6y5gKktBZExz0Hd2TiZfcaDEhA62ChkWWHWUcInIY6yUTk7GhTVXZKjnMDJJTPAuA9OVWSt71Ok_A",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJTV7I3Ss2zDER9TNVDfiXk84",
+         "plus_code" : {
+            "compound_code" : "4PW6+M9 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PW6+M9"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJTV7I3Ss2zDER9TNVDfiXk84",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4429
+      },
+      {
+         "formatted_address" : "Mid Valley Megamall, Lingkaran Syed Putra, Mid Valley City, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1176499,
+               "lng" : 101.677443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.118341679892722,
+                  "lng" : 101.67901035
+               },
+               "southwest" : {
+                  "lat" : 3.115642020107278,
+                  "lng" : 101.67510775
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ea26274a59450ee93a80073099453f82c1384f2f",
+         "name" : "Texas Chicken Mid Valley Megamall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115406309524846444293/photos\"\u003eKamarul Anas Syafiq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuMPY3e2tY_ReJ6CuRVXCTv1TjZ0YkrUbOBty6OBNqEk6JupjjTd_wawBUn7ZPEzXGIvl4AEv-CcACGiSVwH9vIWnSxtneF0TszdPTCDFCup7Re_rRXho1Et5zhitQHQ5EhAvi52EtxktynOyK2Ek1Ju9GhR9E_db5CB6gl5ZcFGPkGVA6gExpQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJzVYOsY5JzDERx5PH9xP9Fko",
+         "plus_code" : {
+            "compound_code" : "4M9G+3X Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34M9G+3X"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJzVYOsY5JzDERx5PH9xP9Fko",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 262
+      },
+      {
+         "formatted_address" : "391, Jalan Cheras, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1269407,
+               "lng" : 101.7244137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.128392779892722,
+                  "lng" : 101.72621305
+               },
+               "southwest" : {
+                  "lat" : 3.125693120107278,
+                  "lng" : 101.72289685
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6b2f2884ca52c41e649d99a5a5ca48ef87aa4c24",
+         "name" : "KFC Sunway Velocity",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111197967115925145842/photos\"\u003eYee Chien Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9_CN9DP0wF-zf3k7eoesnRcABi6yK2-pgy1Ct_ukXT-TvIi8Ws6tNWNs-Ato1FzvkJ_OTyfpA2-Ar-TYQko5GidInu99Q5PH43vEeTXlb3NZej0GCKLfqUiIrWUIjyXuEhDxVKBNsjpo3iNXJhl0SLLYGhQK6TBTjRrMRu7cC4GtkP7phzgNzA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ8wVJBBQ2zDERPl1E0v2Zpw4",
+         "plus_code" : {
+            "compound_code" : "4PGF+QQ Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PGF+QQ"
+         },
+         "price_level" : 2,
+         "rating" : 2.7,
+         "reference" : "ChIJ8wVJBBQ2zDERPl1E0v2Zpw4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 91
+      },
+      {
+         "formatted_address" : "No 1G, Jalan SS 21/1a, Damansara Utama, 47400 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1370445,
+               "lng" : 101.6210216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.138394079892722,
+                  "lng" : 101.6223335798927
+               },
+               "southwest" : {
+                  "lat" : 3.135694420107277,
+                  "lng" : 101.6196339201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45937cd42fdb447feb1a8739eef4c71c22e42762",
+         "name" : "Texas Chicken @ Damansara Uptown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117966664191141056100/photos\"\u003eSayde Sibly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9JSJuIaU3yzrGJMKCtI37qtqSkfvdoHsxuhbUjQxBLPKtTu7wrVVoLAuXH_A9xB2zTEV7o6fOyz370U39D31dfqDFodVq-_lkZzYznTEzWgk5Kz3N00gEvZcdb2klAZMEhCK2y3V5QhVKbuV77eDlKKdGhSdHDxEeIg7XuqFE7CsgtPYNaXLnQ",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJZcN_jjJJzDERIZGnQpRGWZE",
+         "plus_code" : {
+            "compound_code" : "4JPC+RC Petaling Jaya, Selangor",
+            "global_code" : "6PM34JPC+RC"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJZcN_jjJJzDERIZGnQpRGWZE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1352
+      }
+   ],
+   "status" : "OK"
+}

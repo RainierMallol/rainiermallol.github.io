@@ -1,0 +1,895 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_QEAAA1LLRY88sJ0X19QM38IQwO_Ct23Qsea9h0zzcMwNerT9ItbywqvKJ9SOM6QeLc2O115aRxsqcz8p_LmiK311BR6gQB22Ma90UdRgNKFT1GEhL4VIyiXc0G71tdiV1wVmqsSIdOCVr5a9mutHwTDcj6ByxFrM02FpNnSqWcbon4pQ84g3W7xw-AvcQBu7yQzaLrhjXFWZUA6sHeMr5kMW2800GjX1_zznnd4VfKktRHQTTvhyRu8BAtZQ0wHccBeWLgp5v5BkckEQIdpviSPs_S9t8hal_LVZRol38P5QMJay-zyssOnrIlCJIbQVmZKQEVg0Iv2vk4TugHtWj5m1hmycFd9hpyVw4ixw5HDLaCxzQXQEZt96OPhH2nmM3ehWNDh2zhEeSkOO_3Aqps_qRplmZeKn-PdXFvtPPfrdQkGyvpB8BkwIPgx3pNxtbCNyalwBg1aiavt7BQu5pj2ApbvPKSCGdGntmckzS6iknA-IInmfCUMGbpa4h60LNXNX00qTVu0DgCm8jWyRfrL8uwqIh63h9u6hIIUKnAXknYB8rdzkyOsLDz11uWzuRPhjUpulmT9zQ5m26PTbDyrb3_q8C71n_64_VE0STLNu_NLrjYOUXW9XkYQWAk_xEgiuJYBoJfP2BiyhuawMy_vWSit2PS1JisItLyQLjX2Tmr7EhAxnE2Q2gUGzg56t7W-CRuCGhQTIuDnXgh7D2YxVd3IYOd26US-_Q",
+   "results" : [
+      {
+         "formatted_address" : "Unnamed Road, Kampung Batu Empat Belas, 34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0097923,
+               "lng" : 100.4075136
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.011077679892723,
+                  "lng" : 100.4088905798927
+               },
+               "southwest" : {
+                  "lat" : 5.008378020107279,
+                  "lng" : 100.4061909201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c3c441ed3b397a6802e702e9677d3f968fdf0399",
+         "name" : "Mee Udang Parit 30 Kuala Kurau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110260146958674928563/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdAWaoCMxC29vADxRd1ijxJcrP5D0TVRO_NyDYhXS95B_rL0eYxEYzh-VVhjN4sQBuOd6KojMNpDo_fbVv4R6_RHqIbbZ5gw88Yn91g5xkFEoJbwO6FBOEkwI6x5rdCcyEhCEIQRNOSfKzjXt6GsgKY1EGhQBoZeQAX8hGK_HhRkygJDjM3ku5g",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJDwV5R7CnSjARuhx4jDmqKW0",
+         "plus_code" : {
+            "compound_code" : "2C55+W2 Kuala Kurau, Perak",
+            "global_code" : "6PQ22C55+W2"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJDwV5R7CnSjARuhx4jDmqKW0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 374
+      },
+      {
+         "formatted_address" : "34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.007183899999999,
+               "lng" : 100.4281085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.008547579892721,
+                  "lng" : 100.4294414798927
+               },
+               "southwest" : {
+                  "lat" : 5.005847920107277,
+                  "lng" : 100.4267418201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0f00303af49d3574395be9f51b0df6735d572f65",
+         "name" : "Kean Seng Lee Café",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114787040857761848902/photos\"\u003eJonathan Koay\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAENTSzOAuDW_0pDANuz59FpxEo3h_ibtl73ZoZ9mGZ8meM6E-UqJl025sj5I47bwHe3CoJDpDZ71Eljc7BOFULloX-kPJx5cyqr7ND1j7lL16735L4q6IVM3g71QSFTLQEhDysTU-V4pUC1X22Qbn9jdkGhSRr_Fa4rfzfOMpFDE2Tm4_NETnHw",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJeQUaVMWnSjAR80s5u4u_DiI",
+         "plus_code" : {
+            "compound_code" : "2C4H+V6 Kuala Kurau, Perak",
+            "global_code" : "6PQ22C4H+V6"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJeQUaVMWnSjAR80s5u4u_DiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 158
+      },
+      {
+         "formatted_address" : "34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.00706,
+               "lng" : 100.42857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.008412029892722,
+                  "lng" : 100.4299216298927
+               },
+               "southwest" : {
+                  "lat" : 5.005712370107278,
+                  "lng" : 100.4272219701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "22023e32347db32eab4d94d90fd564e9b94e304a",
+         "name" : "Kuala Seberang Prawn Omelette",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2490,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110646379895848608741/photos\"\u003eVincent Yeow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANLmAV2F_agrTDyo373WNlpTiKKlgz72L7zJw8pORGZC3hZNjPSsL19s7Ujx5JBlxSDB-Xbsw97tlTSPDxzcbDVANSc2TBlp1CiCyaxMbrqj_W7OgU0Fo6ylNkdJ5yw0zEhDwrJjbzllDt6oEI7WuT4t2GhTLskXEmt9V_FCvPTfIriHUZ89fHg",
+               "width" : 2490
+            }
+         ],
+         "place_id" : "ChIJUamOrNqnSjARZyp9-T1JDhM",
+         "plus_code" : {
+            "compound_code" : "2C4H+RC Kuala Kurau, Perak",
+            "global_code" : "6PQ22C4H+RC"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJUamOrNqnSjARZyp9-T1JDhM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 274
+      },
+      {
+         "formatted_address" : "120, Jalan Setia, Pusat Bandar Bagan Serai, 34300 Perak, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.012772,
+               "lng" : 100.534384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.014107479892721,
+                  "lng" : 100.5357034798927
+               },
+               "southwest" : {
+                  "lat" : 5.011407820107277,
+                  "lng" : 100.5330038201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b92309643dc839f5a8cf2c0aad14aa53e06bf8cd",
+         "name" : "KFC Bagan Serai",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103650880571694158104/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkCjtdYEs0tQIU5_A2f4Dlj9agTHwHaPxpwRZEntxKttMBC3A2b1BtFJH_CDxgpH-Ae7ie6l_3pRn7hCaLWHxHxCJTXtgIjxPSs1cf0qD-i2xEBl5wg2WpaWzs7JS_2qFEhDWxv4_kXqXsWsGSchKwSJIGhQk4TEDazFJtTia__hUk1zI9huKKQ",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJb5lLlCuqSjARh2SnvkyhZoo",
+         "plus_code" : {
+            "compound_code" : "2G7M+4Q Bagan Serai, Perak",
+            "global_code" : "6PQ22G7M+4Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJb5lLlCuqSjARh2SnvkyhZoo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 234
+      },
+      {
+         "formatted_address" : "61, A190, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.022456,
+               "lng" : 100.432734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.023724529892722,
+                  "lng" : 100.4341847298927
+               },
+               "southwest" : {
+                  "lat" : 5.021024870107278,
+                  "lng" : 100.4314850701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e69b4b12c3343b5e31bfa279f3aa9fd5cebd32d",
+         "name" : "Kari Semilang Pak Njang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111160373311251053538/photos\"\u003eHamzah Din\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt1hjH6UXQhsTlzB-f6No8bY9g7LgTxt3v_ZkAbiUvTRjljIuFCPk_rJwXLgn_HnTQz4L5zSRI8n75vpmu9LafWcXbOQpTKKYdQHZ5AsuOv-iWPpOK2WtXoiYtbSjseWCEhB7L9QRX3cs0qN7R6EigIQpGhSHd8v6IR-mjAvV82OWgUI6IUwbtw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJT4udRiymSjARb9-bHW72f7M",
+         "plus_code" : {
+            "compound_code" : "2CCM+X3 Bagan Serai, Perak",
+            "global_code" : "6PQ22CCM+X3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJT4udRiymSjARb9-bHW72f7M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 42
+      },
+      {
+         "formatted_address" : "504, Jln Pantai, Taman Kurau Permai, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.009100699999999,
+               "lng" : 100.4257766
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.010425979892722,
+                  "lng" : 100.4271482298927
+               },
+               "southwest" : {
+                  "lat" : 5.007726320107278,
+                  "lng" : 100.4244485701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b049779656f268f9346b6d4596c1dece71888a72",
+         "name" : "王玉缘 西亚煎",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101455482405810212428/photos\"\u003eLay Fang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbkFhsdRFe9u5TPEipBXjupmnLtAVIDAYgiqwsNLio-vm3nJhEKGj7Yh34_3A-mTPBu_Vcju7RYfoZaqqBgEavaKW_gQkanJwYxtBYXGZJT92M3A70-144AaY9tkMZLcfEhCdSofYQ0_y5nJ3VLu7Lr9fGhTQTMI3acvAotMb_SDOXvLm0zqZAA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVZ4k9MWnSjARyjZvoeUe_PQ",
+         "plus_code" : {
+            "compound_code" : "2C5G+J8 Kuala Kurau, Perak",
+            "global_code" : "6PQ22C5G+J8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJVZ4k9MWnSjARyjZvoeUe_PQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45
+      },
+      {
+         "formatted_address" : "35, Jalan Muhibbah 1, Taman Muhibbah, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.9311278,
+               "lng" : 100.4648963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.932474129892722,
+                  "lng" : 100.4663044298927
+               },
+               "southwest" : {
+                  "lat" : 4.929774470107279,
+                  "lng" : 100.4636047701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "efae55c9241bd16350f9ebde3b677b87ad39acf1",
+         "name" : "Ai Tee Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101180632256017508908/photos\"\u003eKim kim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM9X5qfSOCetynrd6Oao77cy_s8ZlJns_83WIUR52_MfomvZfwo5Mo1gxvWd8EYT4cxqlLdth0shVZhJIvVdZc4yk87RZawt2sxSI3XkUQ03GXTO9a9UkMXPbB6aIWvOiEhDJYdmtUnQFp3YvVZgXt4oAGhTg_s58L6TLlRfz8q109KTG6bC3dw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGYA-ngtXNTARz_8RHj7BW-E",
+         "plus_code" : {
+            "compound_code" : "WFJ7+FX Kuala Kurau, Perak",
+            "global_code" : "6PP2WFJ7+FX"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJGYA-ngtXNTARz_8RHj7BW-E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 67
+      },
+      {
+         "formatted_address" : "34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.004724,
+               "lng" : 100.4260155
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.006021429892721,
+                  "lng" : 100.4274571298927
+               },
+               "southwest" : {
+                  "lat" : 5.003321770107277,
+                  "lng" : 100.4247574701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8dd114c89b19dde09ce89df05ce8ac112d9fa03d",
+         "name" : "海景海鲜大餐 KEDAI KOPI GAIK HOON",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116129485162838358429/photos\"\u003eyap ellis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnLgIaP1T47MYDvNsn6wuYENxoKaW_cHCEI0PqBFkmGfwGLsSOIU7ULFajivgaIe3wkPTBxBOnknStXKeNZTM8Wq-QG4BOEDhR0vMbCISnqSqpknVIaLEU1ISE6tb8wjFEhBYJ2io6etFqAjI5arjCEJQGhRLu8EWBtQoUmsKS3S5wdEj8vSPLA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJX_Qw_MSnSjARntyHSmgcQmQ",
+         "plus_code" : {
+            "compound_code" : "2C3G+VC Kuala Kurau, Perak",
+            "global_code" : "6PQ22C3G+VC"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJX_Qw_MSnSjARntyHSmgcQmQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101
+      },
+      {
+         "formatted_address" : "Jalan Setia, Kampung Alor Senggut, 34300 Bagan Serai, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.012155,
+               "lng" : 100.5346912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.013488979892721,
+                  "lng" : 100.5360088798927
+               },
+               "southwest" : {
+                  "lat" : 5.010789320107278,
+                  "lng" : 100.5333092201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ebaeae1145dc4f2913af77a71405ed7c5a5c8e27",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 856,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289352285420872573/photos\"\u003eMiSs hAyAti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHNoARXo_HGOv1SoQqzwD-V-PtVp1tLok8gEUZiXyqgrdkmyBRSW-BunlR0cM7aBkb72kl2RkdDttZaqJrg78PznxA63dM8ClVH03uepKf1eL9XiUec2XXJBvStFCEhUwEhAO382TlHKV_GaHu8brBgbrGhQx4OZqw_uSMES7DQzbr1h5dCEVYg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ2cKf_iuqSjARANZBzexegbE",
+         "plus_code" : {
+            "compound_code" : "2G6M+VV Bagan Serai, Perak",
+            "global_code" : "6PQ22G6M+VV"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ2cKf_iuqSjARANZBzexegbE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 91
+      },
+      {
+         "formatted_address" : "34300 Parit Buntar, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.063958299999999,
+               "lng" : 100.5072292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.065283629892722,
+                  "lng" : 100.5085337798927
+               },
+               "southwest" : {
+                  "lat" : 5.062583970107278,
+                  "lng" : 100.5058341201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7bab4f9a4db3df0598630357978f99413f1860a3",
+         "name" : "Cendol Pulut Dan Jus Jambu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116753207788047465671/photos\"\u003eHidayat Hamzah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPdUb75RHHeKNYCW4qVHmzEK3CLPGbcQuCVuJ64Q71wV3ifWJh22ED-YQ2MbJvGmp1lvlo9SnwbAlorCMW9tz1t-mWcLqrg5pPnJ_fNNJSRsnlhoYUiZ5ZXcIKRS6loHUEhB83U8XBCWx4yBHOu2OwjIpGhSQFWNzCdnARDrZh9CIBm3FdUcLvQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJb5ZbILauSjAR8sJgi9xGSVc",
+         "plus_code" : {
+            "compound_code" : "3G74+HV Bagan Serai, Perak",
+            "global_code" : "6PQ23G74+HV"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJb5ZbILauSjAR8sJgi9xGSVc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "27, Jalan Temenggong 2, Pusat Bandar Baru Parit Buntar, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.117020000000001,
+               "lng" : 100.48644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.118341229892721,
+                  "lng" : 100.4878559298927
+               },
+               "southwest" : {
+                  "lat" : 5.115641570107277,
+                  "lng" : 100.4851562701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a3f0ef9d266e025f6a7014fc9095ad5646c3830f",
+         "name" : "Restoran KFC Parit Buntar 2",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101289352285420872573/photos\"\u003eMiSs hAyAti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKv2U9C2KlvBPryYT0MnGGipn00wQynHwK5ivUU1Xm6BAjQrR-iZ6p1DQBCpPFeTBpGSFDMe0Lp0anYPIHv_fBIy_VlraxgNj06e4s5x_K_VEFIVpLwQ28dYfuQsm6rxdEhBfzXKBh6puu-1gUHg2pB99GhQeqcMZGSFr_CG65TMMFZFpsVLCIQ",
+               "width" : 576
+            }
+         ],
+         "place_id" : "ChIJJz7u40quSjARCNwLRFvRn0I",
+         "plus_code" : {
+            "compound_code" : "4F8P+RH Parit Buntar, Perak",
+            "global_code" : "6PQ24F8P+RH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJJz7u40quSjARCNwLRFvRn0I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 535
+      },
+      {
+         "formatted_address" : "298, Jln Pantai, Taman Kurau Permai, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0098231,
+               "lng" : 100.4269441
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.01123692989272,
+                  "lng" : 100.4282360798927
+               },
+               "southwest" : {
+                  "lat" : 5.008537270107277,
+                  "lng" : 100.4255364201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "802452393259286e44f83da93844551fb6d78611",
+         "name" : "大肥德臭头麵",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 360,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106506144826213485912/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARwvg1Sk5DljUP0DTXI1D6IpW-QfDbwzZRaMKW-rEX5RnDiubMtWU4aQk70tl1jQAXLQogUatWnKGlSN1n-IuqU91tfskEeSB8rn73Pr6IKw7VXi-QL8lfo98AufmKDG_EhDMJTSpwzcgjM1aMxGBvTIiGhQ3qSf4AzvLl51pWwFz_KPuuKggqg",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJK-H1yM-nSjARMIfj1UxTg00",
+         "plus_code" : {
+            "compound_code" : "2C5G+WQ Kuala Kurau, Perak",
+            "global_code" : "6PQ22C5G+WQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJK-H1yM-nSjARMIfj1UxTg00",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 154
+      },
+      {
+         "formatted_address" : "Taman Kurau Murni, 34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0131581,
+               "lng" : 100.4173729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.014535129892722,
+                  "lng" : 100.4187563798927
+               },
+               "southwest" : {
+                  "lat" : 5.011835470107278,
+                  "lng" : 100.4160567201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a525c7c668435edf4e97638d4d9083afd41255db",
+         "name" : "Satay Mamu",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109250054140462919762/photos\"\u003ekoragg liembow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxiJyXYg7_PXSpg7tX_UZanIMVQdFAgNjAxaIWV1gll36aAX6dtX9HpJQuBV5hzR_CxjxxuVfPCHl8YC0tqrLNqdE1KHL1h3SeGVk5Yo6PVxE0Tz_vvLSULK6-Q8pUnS2EhC_dUjaDEOaLn-PWjaDV0iCGhTwSwSSTyDvixvVE2QaABLiafM_kw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJA2rhBsqnSjAR_u7rcRwx2rs",
+         "plus_code" : {
+            "compound_code" : "2C78+7W Kuala Kurau, Perak",
+            "global_code" : "6PQ22C78+7W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJA2rhBsqnSjAR_u7rcRwx2rs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 164
+      },
+      {
+         "formatted_address" : "34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0161763,
+               "lng" : 100.4264173
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.017580029892722,
+                  "lng" : 100.4277274298927
+               },
+               "southwest" : {
+                  "lat" : 5.014880370107278,
+                  "lng" : 100.4250277701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6781dc9ac9dcb00948e713a69b6c162da545e75",
+         "name" : "海鸥宴席酒家",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101786722980935568625/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF6F2e0OOkEG6pfcA9DWzARvaNGcqrh0pxhJc2pLLRXkLGW-Jpazg6jCkpqOXkf4xqm1TpqoYN6YBqDMjd-xukJ5k3SlOynWwnLSqO3-Xklrjs3n_Sc-CsZSXYEtPh9-uEhBbZwP1HOIIGd_MISi3MIHlGhTFCVCMMgX44UNF6UYMS8Hx-P-tog",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJEUU5F82nSjAR1uSNnKij9ZQ",
+         "plus_code" : {
+            "compound_code" : "2C8G+FH Kuala Kurau, Perak",
+            "global_code" : "6PQ22C8G+FH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJEUU5F82nSjAR1uSNnKij9ZQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "formatted_address" : "Kuala Gula, 34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.9389726,
+               "lng" : 100.4690336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.940247029892721,
+                  "lng" : 100.4701915298927
+               },
+               "southwest" : {
+                  "lat" : 4.937547370107278,
+                  "lng" : 100.4674918701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6722d457dc0c315d0ef501a371e13b9eacf854a4",
+         "name" : "JS Muara Restoran Terapung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102806076714692506076/photos\"\u003eMohd Solahuddin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJt6ZTKbYk-IE-oWAHwf1_kNZg7QmdbylAQ3_1zJb2PgEFxXdAdo_cNCEqqChLdsU3N4ExBydh2yTDVpAIrg4YnnPUbd5qyW55PIDzJNVQlBGzTsmykFgM-QQ0a-3D4uQEhBcWYTfXysyYgQ3Kue83Qd3GhRd8u0nYltlbhrDLdf_WlB6RTQ1mQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJK6pNuKZXNTARjNkX9uPK1ww",
+         "plus_code" : {
+            "compound_code" : "WFQ9+HJ Kuala Kurau, Perak",
+            "global_code" : "6PP2WFQ9+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJK6pNuKZXNTARjNkX9uPK1ww",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 264
+      },
+      {
+         "formatted_address" : "34350 Kuala Kurau, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0047086,
+               "lng" : 100.4187137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.006004779892723,
+                  "lng" : 100.4201128298927
+               },
+               "southwest" : {
+                  "lat" : 5.003305120107279,
+                  "lng" : 100.4174131701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ea1262973fc3729feefd7b1ea45ed3f6dadc735c",
+         "name" : "Kak Aya Laksa Ketam & Udang Lipan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111874924448826110334/photos\"\u003eFuadi Rashid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGFvDMbQtV8TRFtNqlbwMu4hdl2iVzDH3y2Y6zJ_gcnxFwKYebdpXNgNJyRjVsKJKavNJgNlOkX_s6-E5XpzuR63bG1tmRhqc9Rk0KKZ_IjmgK3eEdZXMpi3dUva9OxnVEhAh0ojWkLYl8Yxc8fdQDzYeGhTLprG99oLZcnnmxGlIgUSFoqGt6Q",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJFYLoDsenSjARlFb3nkyiIT4",
+         "plus_code" : {
+            "compound_code" : "2C39+VF Kuala Kurau, Perak",
+            "global_code" : "6PQ22C39+VF"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJFYLoDsenSjARlFb3nkyiIT4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 75
+      },
+      {
+         "formatted_address" : "Lot G03,G04,G05 & G06, Mydin Mall, Lot 23252, Jalan Sekolah, Kampung Permatang Tok Mamat, 34200 Parit Buntar, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.128538,
+               "lng" : 100.4827749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.129848879892721,
+                  "lng" : 100.4840051298927
+               },
+               "southwest" : {
+                  "lat" : 5.127149220107277,
+                  "lng" : 100.4813054701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6bd0afaf57406c215dc6165dd789f59fd75061ac",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115831243289573125423/photos\"\u003eAbi Fa&#39;iz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARZKNcU1XV856I_V2lhJU-4sYI0EFMpZlvM842_9rWDT6s6Qstt280fc_5wpriCqrFsjOHin5nrBmrYoqrF0Vo_nTMQ56wqxiulaG-7LNTFX_M9C5QxPNcVQWNQntzIhTEhCZg7IyVeuXvLkT5eHzzyPiGhQbqym8BPn6nvGa694ztM6c9cK0Lw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJSe1dbM2vSjAR044tOHejBBE",
+         "plus_code" : {
+            "compound_code" : "4FHM+C4 Parit Buntar, Perak",
+            "global_code" : "6PQ24FHM+C4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJSe1dbM2vSjAR044tOHejBBE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51
+      },
+      {
+         "formatted_address" : "187, bagan seberang, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.004543,
+               "lng" : 100.425931
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.005955979892721,
+                  "lng" : 100.4274148798927
+               },
+               "southwest" : {
+                  "lat" : 5.003256320107277,
+                  "lng" : 100.4247152201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cae97bef7f437b3142dc1134cd2a3c93904c3c4f",
+         "name" : "日落海鲜村",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102979672249693613779/photos\"\u003eJaNet Teh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAG_ikl6sg-HkxO0cVOgqfr9WdTs0PbR9G62UZ7QDdLs1w39DgsYOMJAL5yhV9g8AugQD9mvsU8zfImzWayj0vliB4_BRhDbcjoS6swaRdCokThIvOdW82hJIyNl7vVi1HEhDYf7DI1wo_DdLAci2ZChG7GhQbnCLCihYD8JT-yR-oZ70xWXmd8w",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJJYJK-sSnSjARG9PoCRXQvL0",
+         "plus_code" : {
+            "compound_code" : "2C3G+R9 Kuala Kurau, Perak",
+            "global_code" : "6PQ22C3G+R9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJJYJK-sSnSjARG9PoCRXQvL0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119
+      },
+      {
+         "formatted_address" : "7, Jalan Muhibbah 1, Taman Muhibbah, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.9298538,
+               "lng" : 100.4648554
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.931202129892722,
+                  "lng" : 100.4662522798927
+               },
+               "southwest" : {
+                  "lat" : 4.928502470107278,
+                  "lng" : 100.4635526201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fa354d0309966f1de81ef12dd5fe7a9525e8d2ee",
+         "name" : "来食福海鲜饭店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104283097258639800082/photos\"\u003eChanghee Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb1HBAPOgPXuxJ1wYGzbIwO7bvZMS5y-rqgDe7vgStv38IMrLp2uwC1wlhGz3zvi0VhDMd5zDf8DHIgyY74C3-hqHnlha11KCT2pMPdl6UTL0Ox9NQ83nRh9Zzt3-ksTwEhAuzPyV9AKQksuLZw3_G32RGhRcFGJWB3x0wn3zUJGQtKwAqT4_ZA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJddpXhwxXNTARAKRBNzHZt20",
+         "plus_code" : {
+            "compound_code" : "WFH7+WW Kuala Kurau, Perak",
+            "global_code" : "6PP2WFH7+WW"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJddpXhwxXNTARAKRBNzHZt20",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "351, Jln Pantai, Taman Kurau Permai, 34350 Kuala Kurau, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.0090142,
+               "lng" : 100.4257783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.010340729892722,
+                  "lng" : 100.4271487798927
+               },
+               "southwest" : {
+                  "lat" : 5.007641070107279,
+                  "lng" : 100.4244491201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4593e9a4267c1b88bdee11bdbbd9d4afce61879d",
+         "name" : "Awesome cucur udang (prawn fritters)",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113447663685861769154/photos\"\u003eTonghau Khor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArxmwvcMvNRZJDRTh27nxLncpssPvb8XYP2uZMftt1tmrYOD5xrErnPQ3xMRfovSuYBoV5ST3ji51jevOudZ0fePvdvQV6iXJvsPWkCQSKTjEqUwLR2qSPd2JTmh80xDVEhDs0omq_RaFKqRdiHCGh_DMGhTEP8zDqWyXtqM2klKJ7uQHrLPRAg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJOaDfoM-nSjARmRbOqvOxSKs",
+         "plus_code" : {
+            "compound_code" : "2C5G+J8 Kuala Kurau, Perak",
+            "global_code" : "6PQ22C5G+J8"
+         },
+         "rating" : 4,
+         "reference" : "ChIJOaDfoM-nSjARmRbOqvOxSKs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      }
+   ],
+   "status" : "OK"
+}

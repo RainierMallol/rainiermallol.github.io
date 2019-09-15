@@ -1,0 +1,379 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Taman Boulevard Setiaraja, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.895301,
+               "lng" : 112.0930251
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.896632829892722,
+                  "lng" : 112.0943960798927
+               },
+               "southwest" : {
+                  "lat" : 2.893933170107278,
+                  "lng" : 112.0916964201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1a29d27f7d56ae7e39ab7e413c1711d7f21d331d",
+         "name" : "Cai Fu Fast Food",
+         "place_id" : "ChIJEbwtuB1N9jERLKTsAoz9sTQ",
+         "plus_code" : {
+            "compound_code" : "V3WV+46 Mukah, Sarawak",
+            "global_code" : "6PJJV3WV+46"
+         },
+         "rating" : 0,
+         "reference" : "ChIJEbwtuB1N9jERLKTsAoz9sTQ",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Mukah New Township, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8924035,
+               "lng" : 112.0902103
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.893754379892722,
+                  "lng" : 112.0916045298927
+               },
+               "southwest" : {
+                  "lat" : 2.891054720107278,
+                  "lng" : 112.0889048701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b4dd446da7b7dbc9e40aea383ef2e1450c29680d",
+         "name" : "SugarBun Mukah",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109341841601179718192/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5SWLCYHygi0tydm2INEB5pUIgif2Axp8dXUtek9v5EylJ9feFLOUpYXqF3daCSEpZf0serZk7QDQwZXFrkMnhEYuJuEkFX7TvMyu92yclbLFinKhQZqVWuA3k-Udb4NIEhB8KjlQdVLab5B_eBAo3_0XGhT_TaePiRnPG9g43W3TDmEqEMhHQw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJN4xvxR5N9jERJNVmd9vfNoI",
+         "plus_code" : {
+            "compound_code" : "V3RR+X3 Mukah, Sarawak",
+            "global_code" : "6PJJV3RR+X3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJN4xvxR5N9jERJNVmd9vfNoI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "formatted_address" : "96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8992362,
+               "lng" : 112.0951588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.900589329892722,
+                  "lng" : 112.0964592298927
+               },
+               "southwest" : {
+                  "lat" : 2.897889670107277,
+                  "lng" : 112.0937595701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b663ee35f996d9b6e93ec5188e2202ee564f6137",
+         "name" : "Riverside Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116228771663168137836/photos\"\u003ewilsong3602\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAphOAWlvcebYoVTgPKC2k8k7v-vjre0fgx9NEdI4dFd_GGYV8Y08Cd6044RJVE-Y256vO-e2t33-9o5sNcCy0_Yq1sM7wZ-5oFG2FtZCQvJHF2083-r2iBjeD_HOmG4p8EhBuFvh09e9xeMgpIJliqYwdGhSQiACZ0mWAL3p_NnpQJHiVdW6doQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJQ8JxqAJN9jER-XnchvkNi9E",
+         "plus_code" : {
+            "compound_code" : "V3XW+M3 Mukah, Sarawak",
+            "global_code" : "6PJJV3XW+M3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQ8JxqAJN9jER-XnchvkNi9E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 147
+      },
+      {
+         "formatted_address" : "Bandar Baru Mukah, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8913765,
+               "lng" : 112.0923039
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.892776979892722,
+                  "lng" : 112.0936737798927
+               },
+               "southwest" : {
+                  "lat" : 2.890077320107277,
+                  "lng" : 112.0909741201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6fb90ddb99f4432fe42398f2a899027463aa4c4d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105704138651343803568/photos\"\u003eKris Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApr1iqfJ7XR3b-czBtMB-4gG5HHFLYUo0mxnqwlmnEhuOh7QtW3QQlXtPOUohZ-k9EIAIYvSjjkXR8DdMfxTO9TL9uCaMkORad2jdz6CQNOclA6Bb9foooq-Nl5j6_rm-EhAhVtc5y73Puk10dCw5i59BGhR_sP7sI3vCqH4xVd5lDu-mik-4iQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJC7a4_x5N9jERnbtfJ3b0ZA0",
+         "plus_code" : {
+            "compound_code" : "V3RR+HW Mukah, Sarawak",
+            "global_code" : "6PJJV3RR+HW"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJC7a4_x5N9jERnbtfJ3b0ZA0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 450
+      },
+      {
+         "formatted_address" : "Bandar Baru Mukah, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.891936,
+               "lng" : 112.0887497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.893278279892722,
+                  "lng" : 112.0900671298927
+               },
+               "southwest" : {
+                  "lat" : 2.890578620107278,
+                  "lng" : 112.0873674701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2283dba4a9f5c54f032891ec23876e0f41e04202",
+         "name" : "JS Seafood Restaurant",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109207181575018589402/photos\"\u003ejohaini jemat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkn_lNarORT5SOWuPrBLNlTyPHSByTrhfL7daDHzQWaC6aGML6dqQ3OeMESEWJXQRFUPeh_-NoKJtUDLCJczID2Wm_i0ipF_HUwg2yBrxawQEUH_f5MmqTKQgRyRX7dJUEhDx9MeBUkEG-BNze6FxXsZrGhR8Wk6QBnhYIBWKYh_x8hkRGRipBA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJoxqqKBlN9jERvQh8KN9LfnM",
+         "plus_code" : {
+            "compound_code" : "V3RQ+QF Mukah, Sarawak",
+            "global_code" : "6PJJV3RQ+QF"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJoxqqKBlN9jERvQh8KN9LfnM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52
+      },
+      {
+         "formatted_address" : "27, Lor 6, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.9024188,
+               "lng" : 112.0685405
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.903723529892723,
+                  "lng" : 112.0698903798927
+               },
+               "southwest" : {
+                  "lat" : 2.901023870107278,
+                  "lng" : 112.0671907201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df8a290fe8887c129203f35a5358943215b04071",
+         "name" : "Mukah Homemade Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100400774867442560724/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX1Ky_ZgxmIZra7MZQf5rAwAGXltIAkXeejpqNNJMHd1qJi43KM5IKOZJJSUnvGU_gRPA5K7jhtjJ8Ku7lpxPiJVvLXp2qO0doanYXfqltq0uD6sD1ds39GQb8rzdnhIXEhAAwtPcqXYeU9XH0fKbRM5AGhQ2TjcJX9Yj4IXHSsmvvv8c4ARa1A",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJHeaaCnNN9jERyLcZku7GJng",
+         "plus_code" : {
+            "compound_code" : "W329+XC Mukah, Sarawak",
+            "global_code" : "6PJJW329+XC"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJHeaaCnNN9jERyLcZku7GJng",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "Jln Wawasan, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8921092,
+               "lng" : 112.0848115
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.893440229892723,
+                  "lng" : 112.0861366798927
+               },
+               "southwest" : {
+                  "lat" : 2.890740570107278,
+                  "lng" : 112.0834370201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9dd37769760178336be2b280f12071ed422e025d",
+         "name" : "MK99 Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112153770385471037381/photos\"\u003eJosephine Ong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbYX2sISSYQR7dQgN7CZWWHSPshBRAhVI-81Eep_0QjxRjfw2lhJLusWy4wxzXN4cgDHb7C75tTTWJAms0X9VhgULNXQske9-OkARAjen8eOkXc8nXyBcCRXLpTdHNAY1EhAhuQGEGr6IHwp5ul7WqsFlGhTVAvqpaX_1TqRKjbN3Hwt9CCb1Mg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJi-ZttRlN9jERzb7J5L-IF_s",
+         "plus_code" : {
+            "compound_code" : "V3RM+RW Mukah, Sarawak",
+            "global_code" : "6PJJV3RM+RW"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJi-ZttRlN9jERzb7J5L-IF_s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 194
+      },
+      {
+         "formatted_address" : "No.36, Jalan Lintang, 96400 Mukah, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8968002,
+               "lng" : 112.0948563
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.898185329892723,
+                  "lng" : 112.0961901798927
+               },
+               "southwest" : {
+                  "lat" : 2.895485670107278,
+                  "lng" : 112.0934905201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d68cf0d403a68feb467695c86ccf3702d064c7e",
+         "name" : "2 + 1 Fastfood",
+         "place_id" : "ChIJvRHHZB1N9jERH-_roPnga_Y",
+         "plus_code" : {
+            "compound_code" : "V3WV+PW Mukah, Sarawak",
+            "global_code" : "6PJJV3WV+PW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJvRHHZB1N9jERH-_roPnga_Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "LOT 2157, SHOPLOT 1, GROUND FLOOR,MEDAN MALL,, 96400, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.8907358,
+               "lng" : 112.0933639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.892087079892722,
+                  "lng" : 112.0946838298927
+               },
+               "southwest" : {
+                  "lat" : 2.889387420107277,
+                  "lng" : 112.0919841701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "04e526254943553d886970bc770c1d0108aca0c0",
+         "name" : "SugarBun Medan Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111570762303362993716/photos\"\u003eMOHAMMAD FADRUL MIS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALDUhC6M0SnvQuXw6kyl7-QWH1DBnCmOEmnCvwrKGDE8LX5WzOcM5cG-98th3s79IkQAtWl8hn9HqnxgkY1AKh1Z-SvfhSvaM3zrSBPgjPdUWQjUwVi94wvP08UVYVOrdEhCYGcMl6wWAyYRb8p9GCxo7GhSH7Qv-mQxBtVpDq7k1AO5spUsPpQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJiX2Tux9N9jERTAF0PBtmq_U",
+         "plus_code" : {
+            "compound_code" : "V3RV+78 Mukah, Sarawak",
+            "global_code" : "6PJJV3RV+78"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJiX2Tux9N9jERTAF0PBtmq_U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,841 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Sungai Tiang, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9869723,
+               "lng" : 100.5884968
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.988286229892721,
+                  "lng" : 100.5898854298927
+               },
+               "southwest" : {
+                  "lat" : 5.985586570107277,
+                  "lng" : 100.5871857701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "173dee23af1e431b5a1edd35a2185888ce46c641",
+         "name" : "Kedai burger abang mie",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111907278827237026879/photos\"\u003esuhaila suhaimy\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGa4y9UDKXeEWUpJYQgwQs4A56lnimQI_8QjucsZVhJu-C0l3BDsTy1gJ-HZCUpLcWP_Sjec0XiKj-dmynyVYkwb8dacO3ZYx86YiOuJuidESCZQhBR7vU4K1t6y-TCGCEhC8j4uQd2MGjnEsHrTOrhG-GhTcBgUJTMyCGR-9UNYEhwWX8UU6cg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJg_hTJu1KSzARm5Fz768LwEU",
+         "plus_code" : {
+            "compound_code" : "XHPQ+Q9 Pendang, Kedah",
+            "global_code" : "6PQ2XHPQ+Q9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJg_hTJu1KSzARm5Fz768LwEU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "Pendang, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.992253499999999,
+               "lng" : 100.4758967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.993491079892722,
+                  "lng" : 100.4773076798927
+               },
+               "southwest" : {
+                  "lat" : 5.990791420107278,
+                  "lng" : 100.4746080201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "f5c5ddb3e6217050749735ed9bbe7de726abb0a0",
+         "name" : "Jodeko Western Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1052,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116872932172840239529/photos\"\u003eHiSOM MNS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeNOFYqBXi6ZUa92qUM5bt4DOPsB9Zzp1onkf-w32g4VGkqBomYTComPHGmgLrhOSf_if32ANl78-na5miwb48ZkHIKZbhFOjXpvtsJbKpFFIwiMWtfJzO6JGGVFFE1giEhCONgiZZtdyWL8AOCPRx_MRGhRKudXL1wGcXWJIVwMGMrYWv8TwXw",
+               "width" : 592
+            }
+         ],
+         "place_id" : "ChIJk-7i4EhISzARPJVZmsdRY7Y",
+         "plus_code" : {
+            "compound_code" : "XFRG+W9 Pendang, Kedah",
+            "global_code" : "6PQ2XFRG+W9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJk-7i4EhISzARPJVZmsdRY7Y",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+      },
+      {
+         "formatted_address" : "Pendang, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.987670899999999,
+               "lng" : 100.4673378
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.988961579892721,
+                  "lng" : 100.4687261298927
+               },
+               "southwest" : {
+                  "lat" : 5.986261920107277,
+                  "lng" : 100.4660264701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1aa0ca3a5418e17297aa2bff4bc0424b0a6f8842",
+         "name" : "Restaurant ManBai Ikan Bakar",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105451997482421668179/photos\"\u003eElly M\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI1s1E3tpL63N05_BlL6xwZaK7XrwntAAndxq8q39wbzVCZhmLIgBBLevd9KwCgjkr870kYtLheAdSPnwLvb1LSwc3onUa92ftMMzHWLLXB8P3y6W7W6MKh1tz6FaYuQwEhDPiXMVlmfMr7BNEzjGG0pSGhTKzPz1wR6fx5H8LG3UEaK_T52ncQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJjS2MTj9ISzARubF74w4GEVw",
+         "plus_code" : {
+            "compound_code" : "XFQ8+3W Pendang, Kedah",
+            "global_code" : "6PQ2XFQ8+3W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJjS2MTj9ISzARubF74w4GEVw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 74
+      },
+      {
+         "formatted_address" : "Unnamed Road, Kampung Tanah Seratus, 05400 Simpang Empat, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.047537699999999,
+               "lng" : 100.3733052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.048894029892723,
+                  "lng" : 100.3746728798927
+               },
+               "southwest" : {
+                  "lat" : 6.046194370107279,
+                  "lng" : 100.3719732201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6077ff5c047374967e4b26f9361d598dc780eec",
+         "name" : "Budin burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101024134101154086479/photos\"\u003eMuhammad Daniel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT82emH-DFoEjQvFbigemVVgWW_OsfKtI4XkbCbyBOZB77x2AbM1knSILDLznYCMrvZo77M5j-ircrFaUhVq_TgMaX5Y52r6BXpMEB8_nVo4ww8UIns1VIwUEKvyjWr-9EhDBTn4P-BVKam-2aGBzM0RYGhQZHn7XhW8TZ27h5fP8YDhthFdR_g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJCWGCtJhGSzARAca3wzLOraM",
+         "plus_code" : {
+            "compound_code" : "29XF+28 Simpang Empat, Kedah",
+            "global_code" : "6PR229XF+28"
+         },
+         "rating" : 4,
+         "reference" : "ChIJCWGCtJhGSzARAca3wzLOraM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "No.153 Ground Floor/1st Floor & No 154 1st Floor, Pekan Pendang Baru, 06700 Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.990754,
+               "lng" : 100.481062
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.992112129892721,
+                  "lng" : 100.4824190798927
+               },
+               "southwest" : {
+                  "lat" : 5.989412470107277,
+                  "lng" : 100.4797194201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b3ea622a71f6fac3e272ee99956147854c70dbca",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116296083678632013376/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5HIKjYSw2pV254xGYvTH3W-ppAzPVnRuKzd-EzSYUgBZFoJc3R5BOLHldHIIaOToVBYXqpAwmw0yhe8uW2G-x0Zk_ijdP5pCaKgjXaN6r8twWK6g6hEenV7N-J4Vug_gEhD55bGBEc8Xn0Rnt2zbUmsEGhQuP_-93Fj1CadeBegTAuDQBy3enw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ71v6YRZISzARCO1uzCWJFE4",
+         "plus_code" : {
+            "compound_code" : "XFRJ+8C Pendang, Kedah",
+            "global_code" : "6PQ2XFRJ+8C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ71v6YRZISzARCO1uzCWJFE4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 206
+      },
+      {
+         "formatted_address" : "Jalan Utama Alor Setar-Sungai Petani, Kampung Selarong Panjang, 05400 Simpang Empat, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0188372,
+               "lng" : 100.3843036
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.020193279892722,
+                  "lng" : 100.3855559798927
+               },
+               "southwest" : {
+                  "lat" : 6.017493620107278,
+                  "lng" : 100.3828563201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70cfb5290249110db7a6985cb8b9fe42145b9d8e",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109999265142884042559/photos\"\u003eSandy Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGyxLmfQqmcv3AjJQsjrhPm-lqv784P_pPAjKcmOP8Y-xMGm45zu0IlrVCn1GSbod_j6pddqCqWmiQhQtC8_STJ5J9DW8lTy57xjXlLILI99COOeUeOns8-YDrTJCeRMJEhClRanfWNtn6Z18jy0BXu4-GhSYMd-bxkCIXQldfb59vJ0DtdXVGw",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJcXkT0shHSzAR3DCZDnBNmrs",
+         "plus_code" : {
+            "compound_code" : "299M+GP Simpang Empat, Kedah",
+            "global_code" : "6PR2299M+GP"
+         },
+         "price_level" : 2,
+         "rating" : 3.1,
+         "reference" : "ChIJcXkT0shHSzAR3DCZDnBNmrs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "No.12&13, Kompleks Perniagaan Guar Utama, Jalan Guar Utama 2, 06900, 06900 Guar Chempedak, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.859422299999999,
+               "lng" : 100.4549406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.860831829892721,
+                  "lng" : 100.4562736798927
+               },
+               "southwest" : {
+                  "lat" : 5.858132170107277,
+                  "lng" : 100.4535740201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f8a317dfc8fde524134627a9315d296dfdd59693",
+         "name" : "Marrybrown Guar Chempedak",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110127136106956097440/photos\"\u003eCap Kapak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPoVLKmLcCikVfJ3icOr0tghMGgln4gOHq4kkcuUJAYUNkgkzyd6R0EzS50buDxrkiGmYChI0iSXSD8L_vQDmhNK_X6cqBhjHfalK-7zyxcphZRPjX432E5Z-_MhY2YXjEhDpaM065wXwZ4FXvlyWFBfmGhQGI6iI-nwam7NWc3PrtBJUzCqezQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYz2rx5YwSzAR7NP8Dnt-BlM",
+         "plus_code" : {
+            "compound_code" : "VF53+QX Guar Chempedak, Kedah",
+            "global_code" : "6PQ2VF53+QX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJYz2rx5YwSzAR7NP8Dnt-BlM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 123
+      },
+      {
+         "formatted_address" : "North-South Expy, Kampung Pulau Chengai, 08300 Gurun, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8330807,
+               "lng" : 100.4868588
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.834467279892722,
+                  "lng" : 100.4883058798927
+               },
+               "southwest" : {
+                  "lat" : 5.831767620107278,
+                  "lng" : 100.4856062201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "faac89c91dd302eea43a52a8080b8a91a5e5af7a",
+         "name" : "KFC R&R Gurun (N)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109299370265683129846/photos\"\u003eFaiz Fadzlan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0_kz8Bj2H77Pjz0QtiWm6xv3DlBABzZzEQcIW0BynIpN66Lt_keVR2g13L89jLbtlkh2oD4NZ1aEv1X5ceDbSCnbdGn9fcS4Axeepp4_lWUv236F9IMq2Ie1skXLE3C4EhAU2VnPP6aWKEbym1OXxU6rGhTJ9mKyhj1ivvFVop83dSd7kYx18Q",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ4_j7da0xSzARl8-Vtrjz7fA",
+         "plus_code" : {
+            "compound_code" : "RFMP+6P Gurun, Kedah",
+            "global_code" : "6PQ2RFMP+6P"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ4_j7da0xSzARl8-Vtrjz7fA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 227
+      },
+      {
+         "formatted_address" : "Guar Chempedak, Yan, 08300 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.855099999999999,
+               "lng" : 100.458972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.856497379892721,
+                  "lng" : 100.4603463298927
+               },
+               "southwest" : {
+                  "lat" : 5.853797720107277,
+                  "lng" : 100.4576466701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2265b6750e6fc5be26005f995a69f70a9795a5fe",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116272498485467382600/photos\"\u003eHadhari Dhari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQdskbVnoZxaiGB_6B39g42xQbe-7WYRJc8w7NtJ0r01oYZh8Vzl4K2EczHsJICLDWsjDW_LJA12vOygeA4gzC19fJjJ9VZszVbFTD-W-76MF1wvIeJ6VEj5722cGaF8pEhCLBRInm4WGkcSi-URtG0VvGhSIsxbIF_8fpRv0q5RRhVMm2fjuKA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ0VUkXJIwSzARv0K-yikAfXA",
+         "plus_code" : {
+            "compound_code" : "VF45+2H Guar Chempedak, Kedah",
+            "global_code" : "6PQ2VF45+2H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0VUkXJIwSzARv0K-yikAfXA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 306
+      },
+      {
+         "formatted_address" : "Jalan Utama Alor Setar-Sungai Petani, Kampung Batu 17, 06900 Yan, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8782187,
+               "lng" : 100.4481999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.879591679892722,
+                  "lng" : 100.4495926798927
+               },
+               "southwest" : {
+                  "lat" : 5.876892020107278,
+                  "lng" : 100.4468930201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1f01262081dd863db3e5fc92bbe498808a3c9648",
+         "name" : "GPC BT18. GUAR CEMPEDAK",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110976958116478615955/photos\"\u003eIntan Liyana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfJozS6wRtV_lf4GZ5eitSBk9UeW_DAhNp5tNF2gN4vUWft8kzTRuXt04l43IVOdVqpl9xPlXmOTOAZwqERXuoBrTPQKjWWalr0XWAHhKQvfDIHLDJ01np60lJu_TiQtUEhBoiIKKKgVCvbWUYvXXW25CGhQXytZciq5v5U9fxvDu9olqoS3cBQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJu3PbX64wSzAR7OpcSRkNPfQ",
+         "plus_code" : {
+            "compound_code" : "VCHX+77 Guar Chempedak, Kedah",
+            "global_code" : "6PQ2VCHX+77"
+         },
+         "rating" : 0,
+         "reference" : "ChIJu3PbX64wSzAR7OpcSRkNPfQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Simpang Tiga Paya Kelubi, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9838413,
+               "lng" : 100.4616961
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.985209329892721,
+                  "lng" : 100.4630363798927
+               },
+               "southwest" : {
+                  "lat" : 5.982509670107278,
+                  "lng" : 100.4603367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e8677d53ff394352bb608848b62cb7d1eae69f1d",
+         "name" : "Restoran Koboi Bendang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112601250817197413848/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJwu068JUwjEGTiEE4rl8Kq7qPyKC-XhziOZY2ingQKekkppIDAX5PQYu_iq03jGryECUybj9qm3i7803FYTcOTCHpfeyK0Fhl9NlvuGexXAgArXlAt2DzGHShoS185N8EhDz4CJ7KO094B6X1suhxKwNGhRaYsn63grfWZGmhPcb69JhNRsS7Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJS6m4-xVISzAR1LfWlFpD4pc",
+         "plus_code" : {
+            "compound_code" : "XFM6+GM Pendang, Kedah",
+            "global_code" : "6PQ2XFM6+GM"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJS6m4-xVISzAR1LfWlFpD4pc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "Jalan Utama Alor Setar-Sungai Petani, Gurun, 08300 Gurun, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.8319735,
+               "lng" : 100.4736819
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.833331729892722,
+                  "lng" : 100.4750581298927
+               },
+               "southwest" : {
+                  "lat" : 5.830632070107278,
+                  "lng" : 100.4723584701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "969e5124f129f5f3f47ac94799337b8dee4e5c2b",
+         "name" : "GPC KG JELATANG",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101322772369606302158/photos\"\u003esyairol azwan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4oIM8gB2P1YKW2KYEb_-Z3CcHEWKxduVg_gXTAqFIAVrHORbNM973PZmMpoP_x-p7YI8ibzMiRoWzfVpDPTHTEYEIlPUtRyW357F7uJGWr6wkMZPHNgT07h0BfOyBKK8EhB_Ssx05WIugdEGqsjrCEYRGhTL2O8Wge7DEHy1uTRG_8tXF1gyvg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6xay_k8wSzARy9Sx-x35sOo",
+         "plus_code" : {
+            "compound_code" : "RFJF+QF Gurun, Kedah",
+            "global_code" : "6PQ2RFJF+QF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ6xay_k8wSzARy9Sx-x35sOo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "06700, Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9993458,
+               "lng" : 100.4712598
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.000701979892721,
+                  "lng" : 100.4726750298927
+               },
+               "southwest" : {
+                  "lat" : 5.998002320107277,
+                  "lng" : 100.4699753701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ca614ccefca656e5cf8ae277e8184882a86c591",
+         "name" : "Pendang Waterfront",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105321919104076167905/photos\"\u003eSham Mat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZqUNqb0PRzhqLELVUAf9VQeoFEp2G_1hj8fuBYAQjAnXCDHC5HwzI313CZAoPT0SRQ95upn70vXeurbL4idjoUhu2YaF1euOfId9RWKOL09f1fIcMhHV6CRWhpM78BZEEhAGyQswPwJIWaNyJavDIreDGhQodEl6sl0o_bxVuFS8Rn5WmR99VQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJf9_U0VpISzARnAnJWjRUV6M",
+         "plus_code" : {
+            "compound_code" : "XFXC+PG Pendang, Kedah",
+            "global_code" : "6PQ2XFXC+PG"
+         },
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "ChIJf9_U0VpISzARnAnJWjRUV6M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 93
+      },
+      {
+         "formatted_address" : "no 1, medan selera kenanga, Pendang Square, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9900069,
+               "lng" : 100.476733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.991333179892722,
+                  "lng" : 100.4780961798927
+               },
+               "southwest" : {
+                  "lat" : 5.988633520107278,
+                  "lng" : 100.4753965201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da9f969a8ece8a7141e9bb92eb71121af6913132",
+         "name" : "Nen Tomyam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113065027473121075156/photos\"\u003eVivo V3\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmNfiSXxtqshAWle-FFSQGgzfOyH4p2G9uXPURWn4QVgUqjbdfrS5xQ02NTbf5jy3RTwj0TMD0BXc11PzcpINi8OilfqNglRCipQv5ufe-XMEv88u2QYgVHzVTZfj8QkMEhCpI9JyLTawU36Fitlj4IFRGhRSxltxLRhkAHJIyHXwxgPSoa6tPQ",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ69jJXRtJSzARMLtKpcsBEdk",
+         "plus_code" : {
+            "compound_code" : "XFRG+2M Pendang, Kedah",
+            "global_code" : "6PQ2XFRG+2M"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ69jJXRtJSzARMLtKpcsBEdk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Gurun No 18/F, Jalan Raya, 08300 Gurun, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.810073,
+               "lng" : 100.478744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.811416879892723,
+                  "lng" : 100.4800413798927
+               },
+               "southwest" : {
+                  "lat" : 5.808717220107279,
+                  "lng" : 100.4773417201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "587d729b1df42de46888cf7122be629eff952f50",
+         "name" : "KFC Gurun",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109999265142884042559/photos\"\u003eSandy Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3ggTvVt3bSOpZtNSN57S5Qo53cX2CTqHLbpxlrUp2SswYP7Hvz7fs1GfgPZQw8_oSB1hv0u66eb_4-CtHTgmntjmGGJ4MjOWJ2HGlwYPaBcwTu1ujQQEX4Al4fGCguAYEhBqWKExviz1vGBVM-R0YAptGhS7ZyAvZfWyKN59PbNjDd5Cqoqs1g",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJAQAAAEQwSzARV6oIF6diPZI",
+         "plus_code" : {
+            "compound_code" : "RF6H+2F Gurun, Kedah",
+            "global_code" : "6PQ2RF6H+2F"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJAQAAAEQwSzARV6oIF6diPZI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 269
+      },
+      {
+         "formatted_address" : "06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9540601,
+               "lng" : 100.5076842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.955431229892721,
+                  "lng" : 100.5090596798927
+               },
+               "southwest" : {
+                  "lat" : 5.952731570107277,
+                  "lng" : 100.5063600201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ddafddd8e54be588d3a8ab83aa7fec65cb48902d",
+         "name" : "Bihun Sup Paya Kerchut",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116000030805715433136/photos\"\u003ehelmi yusup\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAnIs48whOxRKTBvPxaDRFVsA02V-OScxs33vG32wQui2PHqyIGP8KzNGsMs_Vsa3-3cOytaYMRfyaQK4vqF5lqoSLWRVOBleq6kWtFkz0GHXi_-Wx1tgR6bNoJ5tUH6iXEhAibH8ic_Ue6M_vDreVkOYiGhRJ0DuLGPZQJKN39f6VlhEOU5UA1Q",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJW2NX0hc2SzARf-HcMIgzkrs",
+         "plus_code" : {
+            "compound_code" : "XG35+J3 Pendang, Kedah",
+            "global_code" : "6PQ2XG35+J3"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJW2NX0hc2SzARf-HcMIgzkrs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171
+      },
+      {
+         "formatted_address" : "Alor Star Mall, Kawasan Perusahaan Tandop Baru, 05400 Alor Setar, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.0818542,
+               "lng" : 100.3609446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.083252829892722,
+                  "lng" : 100.3623550798927
+               },
+               "southwest" : {
+                  "lat" : 6.080553170107278,
+                  "lng" : 100.3596554201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6e6dd851eab6a05e75e709f4c130069167f21ddb",
+         "name" : "Subway, Alor Star Mall, Alor Setar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100458815739370805354/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiz8rJX0E9D7t0JQ3s11d9XSWiTcTffThjkLVmtRLASBmXvYw17zpEdrLcK-1i3zfiNvud19DJoXzgFTPglHatbcrIh_LczyDZqcijKxToI2jSlhyyOM38Xf3bkb-ZvwvEhDzjcGpj3IpkK-ROe97uSINGhSmqGbaHThgCfKZFcwVPcrL_RhBUA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJVVVVJm5ESzAR_FEsWNx1Ukc",
+         "plus_code" : {
+            "compound_code" : "39J6+P9 Alor Setar, Kedah",
+            "global_code" : "6PR239J6+P9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJVVVVJm5ESzAR_FEsWNx1Ukc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "106, Jalan Pendang-Tanah Merah, Pendang, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9980946,
+               "lng" : 100.4801361
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.999422979892723,
+                  "lng" : 100.4815988298927
+               },
+               "southwest" : {
+                  "lat" : 5.996723320107279,
+                  "lng" : 100.4788991701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3ebf4b6cb207614c22e195a83545f87024b8baef",
+         "name" : "NASI Daging Seberang Pendang",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109491955116307588379/photos\"\u003eAkyem Samad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuvNen5BQG6CDBKsPmIgJZ6rKyqnNwTaR6aNbKszFjS-tKJkJC0I1OgfLRbQW4dTzTnRkv2Q7hOajSJ3auOOYLWYyxtS4yiStXhIMWoRu60hbGnUDL4Lwb1jVkEz2EaWKEhDeY2sMwumZfkVHP1WBi83cGhTgo-Qb1KYvHmVN9tO1n6GveCsNxA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJPxQT8k1ISzAR_kuGWZnHdgs",
+         "plus_code" : {
+            "compound_code" : "XFXJ+63 Pendang, Kedah",
+            "global_code" : "6PQ2XFXJ+63"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJPxQT8k1ISzAR_kuGWZnHdgs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 52
+      },
+      {
+         "formatted_address" : "48, Jln Sungai Tiang, Kampung Batu Hampar, Jln Sungai Tiang, Kampung Batu Hampar, 06700 Pendang, Kedah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.9829953,
+               "lng" : 100.4871358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.984292929892721,
+                  "lng" : 100.4885076298927
+               },
+               "southwest" : {
+                  "lat" : 5.981593270107277,
+                  "lng" : 100.4858079701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "26c432cdfcb82d2088a90d6d8315722bc3bc9d06",
+         "name" : "Nasi Daging Hampaq Original",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114882057552222976399/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIh5LTD5KYJYCYvuXk3-K1_LXScOHwQpfKLG35PEEvwbWK48J98pXL4g6s7fpY5WEW-iXRNafe3X_uCFi7FlY2kZGZU0zOJXjWcYbRomxftMHZmufo71_DifPNRAxxWn2EhDK_wUJpJyiFw5OxLMoCWJlGhSgRVxwtioKZZzMP6JB98zUoUrb4w",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJiVYSfstJSzAR-GTs_PNFni8",
+         "plus_code" : {
+            "compound_code" : "XFMP+5V Pendang, Kedah",
+            "global_code" : "6PQ2XFMP+5V"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJiVYSfstJSzAR-GTs_PNFni8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 34
+      }
+   ],
+   "status" : "OK"
+}

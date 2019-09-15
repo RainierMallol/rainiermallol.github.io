@@ -1,0 +1,859 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAADf9rPMU7DOpA6z_kKDNVkGKpEin1NXRpg-l07zqGOZ9CN6WB1Cbxpgke9ybrgtNptGnDLCqLGW4jT1wY1f1FS23iuwPyp7gvOMTNL1Jh15Bl3G3tzO2toliqKqqYUhnMqI_VSiEQnX2-J15bwfNtYyTayily_Y2xFhXM8oTFRwPiK9tUScRggWQk97ImkJoJz9BkEB2yMVYZIr3ZJOhLxNSdWr8b17KVY3QuXcQ4NOxIXK-6JtchvAJsTiAO3UXN-oEOPwP7zw65zNo-iblINLUqGBRgQXuGDiTuo4AZcANy9OAbBixrlU3c6Qv7m2bLaPblT2uAc5CJAFngZdItpV4wgCwZS4q8Knk3_cn5MKLyOn657bTEee0YsdjDBxy4A3GP88BfhpC9QBDRerKFUdDkpSfGRQuItttJw-uN_lvkEo-QYPbVyyuHGkjV_qe9-6rJgVT12j6HURYVV6YLByQAuJhz5IABogk-f-OHwNbyrFpetHZGj88X7xY6A4ltpkqyTajnDObTb-bbNhhwsCp1qwpbr5uNiKKv6bVhVoDqTinG0FV7anyTLl88IAOX27Z9HPl9xtbnV8WEezkBbcBwKRLzFJMcUDiuCpIVjTOBoaG8RxyZcljki0RJ2NNBda945YT_sugGGiddf7Fh0iV0zihcZc2UvCGb1tVbfHPEhAT7kUf778DJ5f75qjSPlUGGhQTSl9UWWx3nSKRCiA2A_zeY2pRvw",
+   "results" : [
+      {
+         "formatted_address" : "Jalan Liew Nyan Foo, Pekan Bau, 94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4171404,
+               "lng" : 110.155066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.418522679892722,
+                  "lng" : 110.1564300298927
+               },
+               "southwest" : {
+                  "lat" : 1.415823020107278,
+                  "lng" : 110.1537303701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a0955e54f647d7f4885bbfc27ce3e2c3eef32c74",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102797625277828742682/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAahB8s12KJK-3IyJJzrkTM7a2xgKVFdloujzFzHfa9gAQw4OS2ZKHM4y6Y7f2On92vp70kWJO4HEk-jRME5HeHtRoloWfErVhTtKhqsWrkiccislNzLC9nHzoV6ucsRuXEhATqy4xp99S86KVyHcpLafxGhTTrBFWt0XELIwQw-Cjd0yofR4yAg",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJX1029rpy-zERlXsWRTydR9U",
+         "plus_code" : {
+            "compound_code" : "C584+V2 Bau, Sarawak",
+            "global_code" : "6PHGC584+V2"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJX1029rpy-zERlXsWRTydR9U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 109
+      },
+      {
+         "formatted_address" : "G7, No. 148, Giant Hypermarket Kota Padawan, Jalan Penrissen, Kota Padawan 10th Mile, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.429444,
+               "lng" : 110.326096
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.430724179892722,
+                  "lng" : 110.3274497798927
+               },
+               "southwest" : {
+                  "lat" : 1.428024520107278,
+                  "lng" : 110.3247501201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "becf003a1a38a7b19ef38db9ecd6ba8761bd5200",
+         "name" : "SugarBun @ Giant, Padawan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100046977081491698883/photos\"\u003eSwee Sin Ong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKyrM-g7ReBeTt1lY3zyFcEuy1ZwgW4I0S0lOA9qT8FMOQDYM8WJd1-WJiCRSlXZ_9s20ShV36qmiPpAwsSe4tDvNm4zOBxKgy0DYCIQyIVlHu5ZvHWZ1OFiAihfA0nX_EhDi3q27wjIqeBrgj8DAsUySGhRYxubP4Tnx2RwHZsIB97H04Iuacg",
+               "width" : 4208
+            }
+         ],
+         "place_id" : "ChIJ_dMHxqsK-zER907hpVKsi8A",
+         "plus_code" : {
+            "compound_code" : "C8HG+QC Siburan, Sarawak",
+            "global_code" : "6PHGC8HG+QC"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ_dMHxqsK-zER907hpVKsi8A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "No 148, Giant Hypermarket Kota Padawan, 10th Mile, Jalan Penrissen, Kota Padawan, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4296899,
+               "lng" : 110.326293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.430853129892722,
+                  "lng" : 110.3276534298927
+               },
+               "southwest" : {
+                  "lat" : 1.428153470107278,
+                  "lng" : 110.3249537701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53f406e02ccd35fd9a4dda92d34c1de95f8bb932",
+         "name" : "Uncle Jack Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111671932976481268599/photos\"\u003eLIU LUCAS\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAws1Yi3ybRWI9NxGgA2eIbQL79RD-ptNIcYd0LpQEmhxHXtgZh8a244UDDml7sQNkJ_Pv_Pjc6FM-cB7zSPt_aP5YLXkpuVDsY612Drat39uPM02iL9p7xT8WTYfPJzjHEhALh7W_klQ9l_rtgF97KNY7GhR4fU0wYjdZi5oGKxDwm4S3oXU5dg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkUXp6qsK-zERVpSx5_Lwv_M",
+         "plus_code" : {
+            "compound_code" : "C8HG+VG Siburan, Sarawak",
+            "global_code" : "6PHGC8HG+VG"
+         },
+         "rating" : 2,
+         "reference" : "ChIJkUXp6qsK-zERVpSx5_Lwv_M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "Pekan Tondong, 94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.456093,
+               "lng" : 110.162081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.457403979892722,
+                  "lng" : 110.1634050298927
+               },
+               "southwest" : {
+                  "lat" : 1.454704320107278,
+                  "lng" : 110.1607053701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3116e2e1dda7c47d8537b2772b92ed6ee5cb41e1",
+         "name" : "Maker Fast Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113402668789878158408/photos\"\u003eLiew Yong Yuan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAJ0xvtmVKTo2705t07XN8FQ04BI1ibQp9yl-kfgcc0gGf4hmy2fW521g88bapZHxXPkqx-uBd7fih3L7CsHm3WT9R2n8DuuPPejiF-Ex657FP_pS0vB7echh68eO_7BKEhDgYyMUuuy-I_bXUS1RrAaKGhQRtrOdYqizLnSwCdrUm7Z1HLV6Rg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJw_tYBJIN-zERoklJe6mIRR0",
+         "plus_code" : {
+            "compound_code" : "F546+CR Bau, Sarawak",
+            "global_code" : "6PHGF546+CR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJw_tYBJIN-zERoklJe6mIRR0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Open University 9 1/2 Mile, Opposite, 93250 Kota Samarahan, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4382999,
+               "lng" : 110.3296713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.439738879892722,
+                  "lng" : 110.3310363798927
+               },
+               "southwest" : {
+                  "lat" : 1.437039220107278,
+                  "lng" : 110.3283367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "56dcb019a3652f25f6a389174f3d05f4b02c362f",
+         "name" : "Syarikat Selera Fast Food",
+         "place_id" : "ChIJQeU7QroL-zERyCrjaSXDsaI",
+         "plus_code" : {
+            "compound_code" : "C8QH+8V Kota Samarahan, Sarawak",
+            "global_code" : "6PHGC8QH+8V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJQeU7QroL-zERyCrjaSXDsaI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 3421 (Parent Lot 2433), Block 217 KNLD, New Township, Batu Kawa, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.511649,
+               "lng" : 110.3045522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.513064879892722,
+                  "lng" : 110.3058834298927
+               },
+               "southwest" : {
+                  "lat" : 1.510365220107278,
+                  "lng" : 110.3031837701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fbc8642a7fd5b21eb96ef6cf1ff83ffba72e1455",
+         "name" : "McDonald's MJC Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104258423598441886239/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUYe98gafcYpqoeiqiizep--5gNtFJpabed67gg-g--KOIoU4gW8Js1pryHzVBbcDUBuC2PK-wy1Wfup6VDmIfHuR5MD4PsytAO4dUGYRJFgq9PrXJ-HBztWXWRfGHN64EhDRstvJDDGsYLKNLt7j28R9GhRitNsZmN_Ts3YSiPykrQj09nUo9g",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJtaAqc5MJ-zER8Dq2WB27yIY",
+         "plus_code" : {
+            "compound_code" : "G863+MR Kuching, Sarawak",
+            "global_code" : "6PHGG863+MR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJtaAqc5MJ-zER8Dq2WB27yIY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1375
+      },
+      {
+         "formatted_address" : "94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4054633,
+               "lng" : 110.1657711
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.406776029892722,
+                  "lng" : 110.1670976798927
+               },
+               "southwest" : {
+                  "lat" : 1.404076370107278,
+                  "lng" : 110.1643980201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f90f24b392156884a435a9dac6a4d6f3fec66a63",
+         "name" : "安福素食",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116370468096094042785/photos\"\u003eHwang Kay Siang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd4bxHWoeve0pbu7oevEIMqMpYLdyM3HxldZQGHyUvAL0P-LHs6kcszlYpeh6YcbiyFzq2yfkoPbtQOHU2A9-H_F9Anx7D-2p1RLRyiSXiubcdSo5NX-eqitpHMFNJwqaEhBAhl9GK0kqxRTWKY58QqvDGhRiOq7RLHKH3ytSTM6XRqAS9JOyRg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJN_U0Zuty-zERi7RSq9aVR6g",
+         "plus_code" : {
+            "compound_code" : "C548+58 Bau, Sarawak",
+            "global_code" : "6PHGC548+58"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJN_U0Zuty-zERi7RSq9aVR6g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Sub 25 & 26, Block 46, Jalan Penrissen, Kota Sentosa, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4658639,
+               "lng" : 110.329113
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.467213329892722,
+                  "lng" : 110.3304176298927
+               },
+               "southwest" : {
+                  "lat" : 1.464513670107278,
+                  "lng" : 110.3277179701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0a1d4763725381e9ff15850c9746bf160f5ce70",
+         "name" : "SugarBun @ B7 Kota Sentosa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101491002909083240234/photos\"\u003enashrul hakeem\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxtiL9WeNLp3sW0ZwultAKREbGmVM9xzIawNHABSdEfHTfxkwElffOanW1B3J0mFujA4kB64Z9WD4DvqZsmKs4rLqD2dQxuYcFlZc7tdnsxMN6MKZAYKOUyGxITJX4pwbEhB17PjQ2-8lsUecF1zu-HibGhTCLzCuvy5iyNJwCuQhhgbj0ypYww",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJpbKUFX8K-zERbMkjkIcTe0Q",
+         "plus_code" : {
+            "compound_code" : "F88H+8J Kuching, Sarawak",
+            "global_code" : "6PHGF88H+8J"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJpbKUFX8K-zERbMkjkIcTe0Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21
+      },
+      {
+         "formatted_address" : "94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4155256,
+               "lng" : 110.1488198
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.416829229892722,
+                  "lng" : 110.1501912298927
+               },
+               "southwest" : {
+                  "lat" : 1.414129570107278,
+                  "lng" : 110.1474915701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "90968a1664b5281d26590f9d0d57ad2489a4c4f9",
+         "name" : "Good Luck Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103068700349372092254/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn4xo76HPj8YTGduYn54tXViMp8Kyj1W2Xo96UndfSXBXLoK1niUtdkeeGQAPF-mKTeA1ekOUSAxuncCdaiCkXYAfINJu0BEFWQcg3glWaVDPU2T1OQFSLf6h1IjcQXwyEhAzGpIzFVwg6q58x_Aod7BPGhTx6kfRbSEa9_M2qkz0w2zbsDHopQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0a4gXKRy-zEREA_RyP-IjiI",
+         "plus_code" : {
+            "compound_code" : "C48X+6G Bau, Sarawak",
+            "global_code" : "6PHGC48X+6G"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ0a4gXKRy-zEREA_RyP-IjiI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 61
+      },
+      {
+         "formatted_address" : "Taman Desa Wira, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.506536,
+               "lng" : 110.299603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508086779892722,
+                  "lng" : 110.3009490298927
+               },
+               "southwest" : {
+                  "lat" : 1.505387120107278,
+                  "lng" : 110.2982493701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8da3f1fc87698f87584eed4f5568eab5ea9f13fd",
+         "name" : "SugarBun @ Desa Wira",
+         "place_id" : "ChIJiStWXY4J-zERgkJ8jBz9hwU",
+         "plus_code" : {
+            "compound_code" : "G74X+JR Kuching, Sarawak",
+            "global_code" : "6PHGG74X+JR"
+         },
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "ChIJiStWXY4J-zERgkJ8jBz9hwU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "LOT 48G & 49G, BLOCK E, SYNERGY SQUARE, SECTION 65, KTLD,, Q309, 93050 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5738274,
+               "lng" : 110.2953967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.575104779892722,
+                  "lng" : 110.2967438798927
+               },
+               "southwest" : {
+                  "lat" : 1.572405120107278,
+                  "lng" : 110.2940442201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e1256194ef5fe414aa68b12b0042805fdd407a1d",
+         "name" : "SugarBunᴷᶠ @ Matang Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106715161461708850835/photos\"\u003eAndreas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAecvvL5lI_vBxSaBE-rEZQhc31kn9qGDUSx4zGyOVLUx-gVI90H7vxTG8L1tbZOc7PPnqccAvlg598ZmAOeRzxMp0PqxUsKVMOm-yo9xZOlgRergMffSJnTIyy2QuVMF_EhB7V1CFr_oXW2jzJqdHHVskGhQzLMBNDW-b7wsMwEt0E-5sIlsz7g",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJn7yWKNgH-zERVV9qGDRfbuQ",
+         "plus_code" : {
+            "compound_code" : "H7FW+G5 Kuching, Sarawak",
+            "global_code" : "6PHGH7FW+G5"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJn7yWKNgH-zERVV9qGDRfbuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 87
+      },
+      {
+         "formatted_address" : "Emart One Shopping Mall, Jalan Batu Kawa, Taman Desa Wira, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.506832,
+               "lng" : 110.298658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508239029892722,
+                  "lng" : 110.3000085298927
+               },
+               "southwest" : {
+                  "lat" : 1.505539370107278,
+                  "lng" : 110.2973088701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0c3ce1967057525ab1c8968ff2f679db92847810",
+         "name" : "Selera Misra",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJl-7WTo4J-zERT7BKkLbdT6w",
+         "plus_code" : {
+            "compound_code" : "G74X+PF Kuching, Sarawak",
+            "global_code" : "6PHGG74X+PF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJl-7WTo4J-zERT7BKkLbdT6w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "87B, Emart One Shopping Mall, 4th Mile, Jalan Batu Kawa, Taman Desa Wira, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.506839,
+               "lng" : 110.299783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508240029892722,
+                  "lng" : 110.3011318798927
+               },
+               "southwest" : {
+                  "lat" : 1.505540370107278,
+                  "lng" : 110.2984322201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a08ce5592233834312a47d2ca361bf040288d51",
+         "name" : "Azon",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117350199725391385972/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdLJQnG0Nfi6Qn1cuxKylvSQWwBA5i78N-aEs5F0vkc0AyEpq84zzcgCQPm5l3g2-v6-IMuEJlU_qsLApIcU1llQnh-Z2wrosH2xp3VMxolgMpT1og4KCjXwBMh9dt56OEhBOd-j0SjIvG3Z67DZpNfNaGhRhP85cPHmGp68kqXntlv1iVqIF0A",
+               "width" : 731
+            }
+         ],
+         "place_id" : "ChIJC0SAaY4J-zERWcPBJjMt-l4",
+         "plus_code" : {
+            "compound_code" : "G74X+PW Kuching, Sarawak",
+            "global_code" : "6PHGG74X+PW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJC0SAaY4J-zERWcPBJjMt-l4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "88, Lorong Desa Wira 2a1, Taman Desa Wira, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.506555,
+               "lng" : 110.2995832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.508096079892722,
+                  "lng" : 110.3009294298927
+               },
+               "southwest" : {
+                  "lat" : 1.505396420107278,
+                  "lng" : 110.2982297701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c56eb5fd76678c17648aaf4ce3054e3c65751e7",
+         "name" : "SugarBun @ Emart Batu Kawa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2198,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115250788499298383450/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABjhEEmy4UGHh6xUXJmBNbZpb9zYq-vkaAb4m1TZooxH1yZLO2FKHa5tjX-_lgrFVp5FOZem1aqqzQYNuB29g620IsEHHlCcDr64hpIiVjiLilKxsCiD1iYuP1d5ynflqEhB0GhoYqFx9rxw2fJZKZkxqGhQGUEhWFj-7eFy4ilP-wCzggvByvw",
+               "width" : 2931
+            }
+         ],
+         "place_id" : "ChIJ_4RUXY4J-zERFr_gLc8qdqM",
+         "plus_code" : {
+            "compound_code" : "G74X+JR Kuching, Sarawak",
+            "global_code" : "6PHGG74X+JR"
+         },
+         "rating" : 3.1,
+         "reference" : "ChIJ_4RUXY4J-zERFr_gLc8qdqM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Pekan Bau, 94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4180598,
+               "lng" : 110.1557422
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.419437329892722,
+                  "lng" : 110.1570283798927
+               },
+               "southwest" : {
+                  "lat" : 1.416737670107278,
+                  "lng" : 110.1543287201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "97b592a4a1ebabf7eb7f334386bca69fa0173a6b",
+         "name" : "Siang Siang Garden",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104944725123635452393/photos\"\u003emichael chung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAc6YFrNeGLUZfky-gnLidvWWltdXULmHXfO2SFOJl0VOp8A44fHr5jJFuBF7bK1L-rTGH2lNb33ttjdhIVO73VjTghVDcX_YsKzOPGuOFFtsHgp2cbjLC6812BE7xqWl2EhAelTt9fxxlGKxM1xS6lKg0GhQQ9cdKJr0fq0r6757L8q_Zx1c8FA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJKfZ3Zbpy-zER8nLo4Zf6FT4",
+         "plus_code" : {
+            "compound_code" : "C594+67 Bau, Sarawak",
+            "global_code" : "6PHGC594+67"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJKfZ3Zbpy-zER8nLo4Zf6FT4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 171
+      },
+      {
+         "formatted_address" : "Jalan Datuk Salau, Pekan Bau, 94000 Bau, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.418577,
+               "lng" : 110.1561245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.419885529892722,
+                  "lng" : 110.1575424798927
+               },
+               "southwest" : {
+                  "lat" : 1.417185870107278,
+                  "lng" : 110.1548428201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "be4720a08621e8439e83a441dd83d8942e87b4bf",
+         "name" : "Ming Ming Foodcourt",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117392906430788691879/photos\"\u003eAmanda Lo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_wI-8lMaNuuRRh1HTDARUI6Yx00kNGNQN_6lcKz-co0cIT1Ta4YHf77tkHcwUQA-tqLCxr01siZ_tz39jdjRro7QtUwOPezXMYUpSKI_mP7uu5SDmz54qwJL6Q4e-UFPEhA5LgcaO04kJsHMRhqokjIPGhQccXgA9ZGLrfQPibs-npbsjb9uyA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJNfk2drpy-zERFLbDs_6mP3Y",
+         "plus_code" : {
+            "compound_code" : "C594+CC Bau, Sarawak",
+            "global_code" : "6PHGC594+CC"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJNfk2drpy-zERFLbDs_6mP3Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 717
+      },
+      {
+         "formatted_address" : "Q309, Taman Fah Tah, 93050 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5682459,
+               "lng" : 110.3085282
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.569446579892722,
+                  "lng" : 110.3099121798927
+               },
+               "southwest" : {
+                  "lat" : 1.566746920107278,
+                  "lng" : 110.3072125201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2c44f88838cfc76d7800e9957f0443669b4307de",
+         "name" : "McDonald's Metrocity @ Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106814466048715550667/photos\"\u003e王閔\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoWc8o-eNdFMe3TmdFVL-tDFlJ4kUrBxg2112gDUEdYfM0Z2JoIkTtKeyylA0dA_mKIHEGqUBZphvUPSMLDU0HeqdWUHID6rL5SApsQQRKnCZDL9dfkIsnryLaatH95fqEhDfemcXerqWpTeLrjPAnxByGhSwYtrllYuyAPbJfDd8eBxLh2tHug",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJbcP_aQsI-zERB7qOTHWWMSU",
+         "plus_code" : {
+            "compound_code" : "H895+7C Kuching, Sarawak",
+            "global_code" : "6PHGH895+7C"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJbcP_aQsI-zERB7qOTHWWMSU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 880
+      },
+      {
+         "formatted_address" : "Q309, Taman Fah Tah, 93050 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.569663,
+               "lng" : 110.3067758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.570982079892722,
+                  "lng" : 110.3081846798927
+               },
+               "southwest" : {
+                  "lat" : 1.568282420107278,
+                  "lng" : 110.3054850201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab58f4d522ddb308cf130dc34483815b666740b6",
+         "name" : "KFC Matang Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117434279331605016549/photos\"\u003eJamaludin Md Zin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEDCfUmZ4tA-mcs0__xY-EnuQXDzKKSZtjSdMBdfRDDg7k9oHVnlyhbc2elCJftw4L8YgMVm91GR1-tfWAjincG7Nf6Ef1B29SMrHkqNlncXe7LXjXP3G5uQXsQIb5qzhEhAnpJcFK3TpN-Wlgw27bWmYGhScjJnewQacVGBMNHEUUMW9n87kuQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJhUsIKnUI-zERwk33VDUiB5I",
+         "plus_code" : {
+            "compound_code" : "H894+VP Kuching, Sarawak",
+            "global_code" : "6PHGH894+VP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJhUsIKnUI-zERwk33VDUiB5I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 240
+      },
+      {
+         "formatted_address" : "Lot 1965,ground & first Floor ,Cinmuk Commercial Centre,Kota Sentosa, 93250 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.469557,
+               "lng" : 110.329237
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.470860329892722,
+                  "lng" : 110.3305821298927
+               },
+               "southwest" : {
+                  "lat" : 1.468160670107278,
+                  "lng" : 110.3278824701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4bcdddba33da4bd9311888710f4bcabb92a3e6da",
+         "name" : "KFC @ Kota Sentosa",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104849877424180804886/photos\"\u003eDan Hezron\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA87Lr4brrIwhejCEgEU0Bw9IRK2uwM_7t0LxB35SZrsxtVRpAeC-ftuI9FhHzuYbHflBOq4spmOSAAgZV_Xe9zsNfqrXuP6AbVxK3_CU5_K-MhwAj32jhy-B2gGfSnONBEhDQNlx6hfCLPV_y84AllF1bGhSZ1ZfLNMntRvlHzc-EHmq5y6fKuQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJX9d7gngK-zERZNS8-BXmrDY",
+         "plus_code" : {
+            "compound_code" : "F89H+RM Kuching, Sarawak",
+            "global_code" : "6PHGF89H+RM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJX9d7gngK-zERZNS8-BXmrDY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 299
+      },
+      {
+         "formatted_address" : "Bandar Baru Batu Kawa, 93250 Kuching, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5134445,
+               "lng" : 110.3093481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.514810379892722,
+                  "lng" : 110.3107472798927
+               },
+               "southwest" : {
+                  "lat" : 1.512110720107278,
+                  "lng" : 110.3080476201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d9903314bf37121ecd9d0282d024aad677e0be1f",
+         "name" : "BurgerDell : Cheezy & Yummy",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107882235041071946453/photos\"\u003eZul Fadylah Roslan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy55UmZMF1yKuB7eUuEJkpYuClnue0sjZZS9m6GTdjDJggKIMcPP8iu6sKp_rnDbwE1NHg4Stxk_cV2tZTdgPz305bY8f-oBBpKH29p3tWzEYpxJzo5u9QNiCEQUkN_h7EhCWGHmGNcjWgUCSv2G6wFNPGhSJuqd14Aa77bjiEJC8NLwDxB5RnA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJLzRQhvYJ-zERVtfRe9P8qhw",
+         "plus_code" : {
+            "compound_code" : "G875+9P Kuching, Sarawak",
+            "global_code" : "6PHGG875+9P"
+         },
+         "rating" : 0,
+         "reference" : "ChIJLzRQhvYJ-zERVtfRe9P8qhw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

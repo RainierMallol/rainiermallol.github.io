@@ -1,0 +1,451 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "33&,, 34, Jalan Dato Balai, Kampung Tun Abdul Razak, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5643032,
+               "lng" : 101.658259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.565691729892722,
+                  "lng" : 101.6595787298927
+               },
+               "southwest" : {
+                  "lat" : 3.562992070107278,
+                  "lng" : 101.6568790701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7791ce25fb50d15ca02146189772c363f6811b6c",
+         "name" : "Restaurant Nine Thy Eight",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110315832984418528706/photos\"\u003eRachel Yong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeFaer7Dor-3LyUvrqUjsIis74DDVFrpBO2vUKB88chcGsZIdFD0KY7qt9awIbTkg6ZyHloFhAzi7O_ih3GK7otGv7q_kdFHw6vn9z1ijF56m77k71qHhXewGqmPny5EBEhDLNxIRe1LCfZ7Gj5sXqhU7GhS9AU6PZEJ4e0_0cBD46f7j4grumg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJiV_UA6FzzDER7xyb7m8WGTc",
+         "plus_code" : {
+            "compound_code" : "HM75+P8 Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+P8"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJiV_UA6FzzDER7xyb7m8WGTc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 204
+      },
+      {
+         "formatted_address" : "55, 44000 Kuala Kubu Bharu, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5570084,
+               "lng" : 101.6424367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.558248929892722,
+                  "lng" : 101.6438295298927
+               },
+               "southwest" : {
+                  "lat" : 3.555549270107277,
+                  "lng" : 101.6411298701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a864dd95fadda44f5b9b3ce35bc21225cd744836",
+         "name" : "Dataran Kuala Kubu Bharu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113523452041069816013/photos\"\u003eMai. Zafierah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGuRQ3tq2Efof69GhRqacCdFOHto83eJ-J0a7aSPg5-zPxRcP7W0BCgab-THl0LwYtdkCZnslQ5PRJ1Pz5iVbloaqKyjmHEWyZkge_XIeajqDyR8KyMjaxuHmoxjkbTXYEhClU9t5_NIXxJmWxtkYkuV0GhQHb9bYY0IyfnNqwXCGVLAV-A_l2Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJRRshXbdzzDER8Zzku9X9ztg",
+         "plus_code" : {
+            "compound_code" : "HJ4R+RX Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HJ4R+RX"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJRRshXbdzzDER8Zzku9X9ztg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 365
+      },
+      {
+         "formatted_address" : "14, Jalan Mat Kilau, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5633623,
+               "lng" : 101.6593668
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.564744779892722,
+                  "lng" : 101.6606915798927
+               },
+               "southwest" : {
+                  "lat" : 3.562045120107277,
+                  "lng" : 101.6579919201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "15ebb3b0a513eb8d9903f49ffe5f5268550e9b6c",
+         "name" : "Yogi Cafe Kuala Kubu Bharu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102837537791791115711/photos\"\u003evicky ho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeO27NiBZcSzDxuqcGDjKfjRGt2a5A7XfdeNtQiITiuEfKRuj6CbOgWi0nKKY76HOVZbI1DN9VztmN-m7A_8JDAC7Ngf-AlaSeCJzShznAye0vxYAG6OkKg2mVXE4HQUjEhAuKgrOkeQCkwMtpLRRuEqOGhTXc-a8e4vSdaztIkqI-diDxOPmPw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJA-_b6aBzzDERl1hD7X_3w6E",
+         "plus_code" : {
+            "compound_code" : "HM75+8P Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+8P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJA-_b6aBzzDERl1hD7X_3w6E",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 199
+      },
+      {
+         "formatted_address" : "8, Jalan Mat Kilau, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5632214,
+               "lng" : 101.6592525
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.564620779892722,
+                  "lng" : 101.6605643298927
+               },
+               "southwest" : {
+                  "lat" : 3.561921120107277,
+                  "lng" : 101.6578646701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ad7274c7492e0b3e4585c296ccf1d71b8dd7ce9",
+         "name" : "Sun Sun Nam Cheong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117539183037381858311/photos\"\u003eSteve Leong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkiZ7tBLRIcbbyCmJNrE8-LHneDspUdiadznvD4vrAw_UZ5Ri23j5JfJXIvVtCobROOMnC5b3CVAlevJDIdobDn4P4UvN_S-jYMtCMIuqql66jRCKoCQlNHK4LnxWYpY5EhDxHxID_OlUfo_OB4vCnxc6GhRxV0nfTRsNEuLBnvDlZqFmFVGyCA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJS9EV2aBzzDERxmPbmLE3dIs",
+         "plus_code" : {
+            "compound_code" : "HM75+7P Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+7P"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJS9EV2aBzzDERxmPbmLE3dIs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 103
+      },
+      {
+         "formatted_address" : "No. 8, Jalan Merdeka, Kampung Tun Abdul Razak, 44000, Kuala Kubu Bahru, Selangor, 44000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5626549,
+               "lng" : 101.658697
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.564064529892722,
+                  "lng" : 101.6601401298927
+               },
+               "southwest" : {
+                  "lat" : 3.561364870107278,
+                  "lng" : 101.6574404701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ee70b1ebdd32498a2523948c878ec155760d6bc2",
+         "name" : "Kedai Makanan Teo Kee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105539445413052680851/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvdY3dfPw6JdGeZq73CXuOjd6-63FjOvP0MhiYPjmO-hF8f6nokmnsi5BW1gFraNSFUK5PsIUNg8Tm6u_9EA2dvDFGv9HlTWO1s7J0PWiBYfdirhXAWlwzK2LsRDiAB7nEhAzuLPjVoGKb2b3VaBC4P7sGhQACaHQOZTweXXTVjeSTN3imteZZA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJof16z6ZzzDERqV5YKDMtx98",
+         "plus_code" : {
+            "compound_code" : "HM75+3F Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+3F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJof16z6ZzzDERqV5YKDMtx98",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "Jalan Mat Kilau, Kampung Tun Abdul Razak, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5629025,
+               "lng" : 101.6584163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.564198929892722,
+                  "lng" : 101.6598073298927
+               },
+               "southwest" : {
+                  "lat" : 3.561499270107277,
+                  "lng" : 101.6571076701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9d48fdf24ae3c539ca8f9a7724845af4aa4219da",
+         "name" : "Restoran Fazlina Maju",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111839802682106561292/photos\"\u003eErin Shaw\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn9Y-veaFT4ydRJSlY36NmHcdfqCttmkNNqXhJfWtpLJqBUT_x5Hl00gYCoOSdG0nCPxS6eOv-vXh8Hp9Rx8yvJR4s1FX_zyxmGKtL6hBEplZEn1ITQhWtZQcgVTzit8JEhD4Qb-kBNYf1wZ4ZsUAvWARGhTrXQzA5BGy1J9hkKCYEYAYQnS2Hg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJn70D2aBzzDERM6zcE2zTNyI",
+         "plus_code" : {
+            "compound_code" : "HM75+59 Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+59"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJn70D2aBzzDERM6zcE2zTNyI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 533
+      },
+      {
+         "formatted_address" : "22, Jalan Dato Muda Jaafar, Kampung Tun Abdul Razak, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.564077,
+               "lng" : 101.6590898
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.565450029892722,
+                  "lng" : 101.6604220298927
+               },
+               "southwest" : {
+                  "lat" : 3.562750370107278,
+                  "lng" : 101.6577223701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "59bba08280dc72c8bfd4ac8a16c036fedd01a0c8",
+         "name" : "Xin Yuen Kee 新源记卤面店",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116093964492590312664/photos\"\u003efoo wenlin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3dMkXH0xhRZEfycsMAlltrYQNGeQnAW1ASLmnTHxRfbUGSJ2fouQ-kg-nPc1qwxp98rtysncGn9CH1XO6mwJ0nFwJUf8BBDVsaqp9r-3SOX3cFUfHFcvA52X-leS-L-IEhBGMOkoN6xjrqeVxxoSQnwNGhSM5_UtoI3qMKZr0NPvTVcbZ_w14A",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJTdAuYaBzzDERwxS5xaHJkNY",
+         "plus_code" : {
+            "compound_code" : "HM75+JJ Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+JJ"
+         },
+         "price_level" : 1,
+         "rating" : 3.8,
+         "reference" : "ChIJTdAuYaBzzDERwxS5xaHJkNY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 109
+      },
+      {
+         "formatted_address" : "Lot 3 Biz Box Kontena, Jalan Dato Balai, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5655122,
+               "lng" : 101.6599894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.566924579892722,
+                  "lng" : 101.6612936298927
+               },
+               "southwest" : {
+                  "lat" : 3.564224920107277,
+                  "lng" : 101.6585939701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "109b7aaaf4ece019700e099ba713f37485fd8c90",
+         "name" : "Sumo Kitchen BizBox Kuala Kubu Bharu",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1061,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116147761492441785780/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfaLLm3Ul3g4GpF0EeGxsUUQmIujprrhiXslzUH-hlZf57xGGkZsr7JHa14S85MiXjiMm528qLlji10K6uAW0l2I_Dw6svkCfFy0EWEONNAdNaED2TA-cQ5vP6RdRYCmtEhAJlcOL3ehwLmbYoWv4i3BSGhQ5EmiUg-zA-lUM248BafOsP1STzQ",
+               "width" : 1061
+            }
+         ],
+         "place_id" : "ChIJ69XHQytzzDERkg6CdaeWnTU",
+         "plus_code" : {
+            "compound_code" : "HM85+6X Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM85+6X"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ69XHQytzzDERkg6CdaeWnTU",
+         "types" : [ "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "19, Jalan Dato Muda Jaafar, Kampung Tun Abdul Razak, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5640532,
+               "lng" : 101.6588394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.565374579892722,
+                  "lng" : 101.6602108298927
+               },
+               "southwest" : {
+                  "lat" : 3.562674920107278,
+                  "lng" : 101.6575111701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "90efcbdf668cc3c0b177db80438fd3dcb07cb9f8",
+         "name" : "Kedai Makanan Basikal Stopover",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118343372604420342605/photos\"\u003eCharLee Yeong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJ7wiefBi1K8ZkqUQK51-GOtW2Wj1pWefWUiOcFDdpl--9JuqWlQjfrSuTwlgArvEL1SIbONDkIulo2g331ub0f2md5RKWLtNOMMKCoIG91zG9IlabVIcAOLGNwZB1Q4sEhCnKvMHi85jOLVA3WN-cXheGhRWOteznj2MCfLa2a4Ko71ViIHeug",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJw3Jb-6BzzDERgMN3G7LuXZw",
+         "plus_code" : {
+            "compound_code" : "HM75+JG Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+JG"
+         },
+         "rating" : 4,
+         "reference" : "ChIJw3Jb-6BzzDERgMN3G7LuXZw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "7, Jalan Dato Muda Jaafar, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5640224,
+               "lng" : 101.6586983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.565319679892722,
+                  "lng" : 101.6600880298927
+               },
+               "southwest" : {
+                  "lat" : 3.562620020107278,
+                  "lng" : 101.6573883701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "5dd645a8fad177523a4335c254f1277d99316be4",
+         "name" : "Yoot Loy Coffee Shopgdx",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109038945058411862318/photos\"\u003eSay Keong Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMkxfJ03nZkJfxqP-5qs2ZQH9nAsiI2tRYvgJTS3tHRmOzgaFDy0HZUAqYnwJszB9okmuxhzzwvgG2t-RPAFw-R6AexKh80TFgQWx5VCveCHa1X8gzqSrlTWOqEjud0cnEhAodAHLSAfJ8PWjUDM1oP3DGhRxSjyoP9TGhniOq1xD8IePQXsP-w",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJG--d_KBzzDERey0n-vSAuGw",
+         "plus_code" : {
+            "compound_code" : "HM75+JF Kuala Kubu Bharu, Selangor",
+            "global_code" : "6PM3HM75+JF"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJG--d_KBzzDERey0n-vSAuGw",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,803 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "77, Jalan Masjid Lama, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.13037,
+               "lng" : 111.518721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.131709879892722,
+                  "lng" : 111.5200737298927
+               },
+               "southwest" : {
+                  "lat" : 2.129010220107277,
+                  "lng" : 111.5173740701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9fe0c92cc4aad2547b326d6635b6e13202365d6f",
+         "name" : "SugarBun @ Sarikei",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111532613869178978619/photos\"\u003eWilson Liew\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWJdQdBU7__6ZoSv-VBL-koonUk1bbOM8f5QzfPm-1Hw8nfnZdQwZDOI14P3rTCUELyYazYhg5yjzglIUpqhg4JQOdLtCxQdXiObfAL0IJRnykakUVOuorxz-HE7Dh79cEhA2lylruRFVeL1I-2gQ0W2GGhSoHSA8oir1PCfLTMVAbORupr9gAA",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJQbtHDNnC-TERY1BNLlt0WKM",
+         "plus_code" : {
+            "compound_code" : "4GJ9+4F Sarikei, Sarawak",
+            "global_code" : "6PJH4GJ9+4F"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJQbtHDNnC-TERY1BNLlt0WKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 603
+      },
+      {
+         "formatted_address" : "Lot 1440-1441,Section 36, Sarikei Land District, 96100 Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.131214,
+               "lng" : 111.520231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.132523429892722,
+                  "lng" : 111.5215919798927
+               },
+               "southwest" : {
+                  "lat" : 2.129823770107278,
+                  "lng" : 111.5188923201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5bd7582487ebab7d5022bf8d45a3c22a3179570a",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106605941511740440705/photos\"\u003eYusup majeni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjT64PSiymi8bqdu1kqfNl7osYrQ7o-TRXI2Xz-hvRf3dvANnjzKDA0T258CiHGoKVVkYR1CG4BuGoKCHQ9QUsntIQBB-d7rr-urmc2O5LcEmBVAWKwyJnw4xxLq2RYtvEhAyG3lliCQJoKMsNsDFgHQPGhT5waC2QOW9Ug2Z5c0TGrEcKdZWug",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJ37xoy97C-TERqNyjoGROSEY",
+         "plus_code" : {
+            "compound_code" : "4GJC+F3 Sarikei, Sarawak",
+            "global_code" : "6PJH4GJC+F3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ37xoy97C-TERqNyjoGROSEY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 256
+      },
+      {
+         "formatted_address" : "Lorong Nenas 2, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1282108,
+               "lng" : 111.5225896
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.129529329892722,
+                  "lng" : 111.5239361298927
+               },
+               "southwest" : {
+                  "lat" : 2.126829670107278,
+                  "lng" : 111.5212364701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29e115318dc6a3edd0f01165b3033b82ea2a1aa1",
+         "name" : "Chickilicious Sarikei",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104758870887605987055/photos\"\u003eTiong Siew June\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZvhFdXSWopEBPStuxKw3ibBJ3MDNaEjhYvF1h0fhv-IHKlLR3EnAgtDg2rGpcAvLrMGJwytB4XfXeep3T9pGGFjlQUfQ-dqprhxN2P2_YPvH_KgF4BwY_Nmoz6EPo6llEhDXccpNm10jrOBywdack9XdGhQrzc7vR5ruKev0Oi1FEHaMOApljQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJMUHwm2HD-TER5nkW3nxbE5E",
+         "plus_code" : {
+            "compound_code" : "4GHF+72 Sarikei, Sarawak",
+            "global_code" : "6PJH4GHF+72"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJMUHwm2HD-TER5nkW3nxbE5E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "409, Jalan Cempaka, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1360089,
+               "lng" : 111.5094367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.137362729892722,
+                  "lng" : 111.5107872298927
+               },
+               "southwest" : {
+                  "lat" : 2.134663070107278,
+                  "lng" : 111.5080875701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fa73cb13fb8b69cebd6a96650f9f0224d946865f",
+         "name" : "Stall Simpang Tiga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114069097509811503126/photos\"\u003eherman sulaiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3USJGAq6ffDDKzsqLXZ6OwwOXfN0NJJoyIrGz2jGfacx-_iPIpmXZZhGpn_bIwV6wqju-yaycezol0KaWWu0RpRVwLPHSt2sxZi-W5tNO9ZnLYx47UBDeN7z08Cyxqd2EhDm1bp_juiqkpaER3IlWzxSGhTpXsoU8osc_GiwLPwNnvCTWS7ITA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJLVLGR87C-TERvtndXvERX4c",
+         "plus_code" : {
+            "compound_code" : "4GP5+CQ Sarikei, Sarawak",
+            "global_code" : "6PJH4GP5+CQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJLVLGR87C-TERvtndXvERX4c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "no 25, Jalan Kiong Soon, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1165945,
+               "lng" : 111.5223165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.117948829892722,
+                  "lng" : 111.5236747298927
+               },
+               "southwest" : {
+                  "lat" : 2.115249170107278,
+                  "lng" : 111.5209750701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "51fb244577f9cdbf5a90c087e5b9f913ab81ef25",
+         "name" : "Dayangku homemade",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102551442482355077156/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyAJWS5ivoF4cVcrfiBY6lmReaqkk9YHBluKVzNXaX1nFIfOfH0dtZY7eC3Lu1WUxX0TdCf_aI9rUXiEpkO9vAr4eEkY-81O7hExyuManxPODpbwa9q03b4_ID0H3HyBcEhCX-V2zKB5r3OeGu9d3gGFDGhQKGRaGu2ykW0tGHS8WhCVfp6VsaQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ3cyCnGPD-TERZRsvMbXkBG8",
+         "plus_code" : {
+            "compound_code" : "4G8C+JW Sarikei, Sarawak",
+            "global_code" : "6PJH4G8C+JW"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ3cyCnGPD-TERZRsvMbXkBG8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "19, Jalan Bank, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1321767,
+               "lng" : 111.5186069
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.133533829892722,
+                  "lng" : 111.5199542798927
+               },
+               "southwest" : {
+                  "lat" : 2.130834170107278,
+                  "lng" : 111.5172546201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "80f9c3a1c5de5924405f4767cc6a4d4691b235f5",
+         "name" : "Glory Cafe Coconut Tomyam Prawn",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110901638086373315486/photos\"\u003eLawrence Ong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYTWKJmyywau56LMBTxrdawiHI2Ef2WVMC7ew5cuTMxNSRoXJGhj_H-B8RK0WPe2VrkVj1abEHl7KbEMvO1taRZB4pcltq1IzDeHJCQ0Wth_rE_FnWhCM0hP7c6U3-pD-EhAgs6CSl4UiQ0jm3_Bd5b4RGhS5U3qI3uocZHFXFOKTr1UA-oE87w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ3-0w7NnC-TER7tIT0FYNM-0",
+         "plus_code" : {
+            "compound_code" : "4GJ9+VC Sarikei, Sarawak",
+            "global_code" : "6PJH4GJ9+VC"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ3-0w7NnC-TER7tIT0FYNM-0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 244
+      },
+      {
+         "formatted_address" : "BNTANGOR LEASE 5115, GROUND FOOR, PLOTS 6 & 7, UTARA, 96500, 7, Jalan Bintang, 96507 Bintangor, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1702822,
+               "lng" : 111.6382114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.171640629892722,
+                  "lng" : 111.6395315798927
+               },
+               "southwest" : {
+                  "lat" : 2.168940970107277,
+                  "lng" : 111.6368319201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "71823ab76e5ffcec711180830d85699085a1aedb",
+         "name" : "SugarBun @ Bintangor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110195543560933320087/photos\"\u003ememz zuledda\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAv1P80fur1ZZ6bXalml6Z6K5sr5v44MDhbBZfmaSEYqCaSEDUsGAKAd2i7_Enk_iQtEgH0Ao2mBvQcOs1aH6W5ZFINOlj--5sogBd1-QHaonBLYeqtYSORWAoz1XszAQCEhDtJMYOqxaST6khzaksuh9QGhQeN2Hte48-3ErwB_9WGeBIzKzB0w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJp2t1s_Pa-TERq9Ml4bX6Njo",
+         "plus_code" : {
+            "compound_code" : "5JCQ+47 Bintangor, Sarawak",
+            "global_code" : "6PJH5JCQ+47"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJp2t1s_Pa-TERq9Ml4bX6Njo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65
+      },
+      {
+         "formatted_address" : "Jalan Nenas, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1291941,
+               "lng" : 111.5228314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.130580579892722,
+                  "lng" : 111.5241943798927
+               },
+               "southwest" : {
+                  "lat" : 2.127880920107277,
+                  "lng" : 111.5214947201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f96eacc587d4d0aa2f195a6443fefa92d619e4aa",
+         "name" : "Marrybrown @ Sarikei",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102213419342269246996/photos\"\u003eTiong Hua Sang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi_P8i828WWpuNMVWY4fiQruPo7TMoqVzD6IepkEohWX34wqjpoFHZJfxaISu9-5ToouIsVQzwN-w54TYF8zKYV6P6baxQU4WvjXYpa-g7vNaW4D9c4CD8euR5lQuE2VaEhBflYX0cTXcK5oaycdj6X6xGhRVAvkMYcCF826OSYJU4lw5ti2O0g",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0exjU9_C-TERqgqA6BFDN4Y",
+         "plus_code" : {
+            "compound_code" : "4GHF+M4 Sarikei, Sarawak",
+            "global_code" : "6PJH4GHF+M4"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ0exjU9_C-TERqgqA6BFDN4Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 102
+      },
+      {
+         "formatted_address" : "49, Jalan Masjid Lama, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1308218,
+               "lng" : 111.5204788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.132171629892723,
+                  "lng" : 111.5218286298927
+               },
+               "southwest" : {
+                  "lat" : 2.129471970107278,
+                  "lng" : 111.5191289701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "94011a1ccf826af9dbf7b8ec0ef14091fdd7ac2f",
+         "name" : "Pizza Hut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104339785993725219317/photos\"\u003eHuat Huat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX7BDU36kNJon6E_xCCB_IFSlAbmrYcJX6zwYrKhADhJSYvrt6kXSNHXvQ1ufzylxhpaWYRRUScdasWh_4X3TXA8qhw-WyBqjVOp_mM1kAzZ26ucqqgynO2lyHG4duCskEhAuGBROGY3lTY-xvs4iqot3GhRCmwMnnBGl2svF9-dbf5oYpFriRQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJDcOJANnC-TERPhaZCfLcq-s",
+         "plus_code" : {
+            "compound_code" : "4GJC+85 Sarikei, Sarawak",
+            "global_code" : "6PJH4GJC+85"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJDcOJANnC-TERPhaZCfLcq-s",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 72
+      },
+      {
+         "formatted_address" : "Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2873976,
+               "lng" : 111.8306725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.288759229892722,
+                  "lng" : 111.8320700298927
+               },
+               "southwest" : {
+                  "lat" : 2.286059570107278,
+                  "lng" : 111.8293703701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9841adb8a0eb5483f915df331a3c6a93d6e7c84a",
+         "name" : "SugarBun @ Sibu Gateway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107797059872559714656/photos\"\u003eSaif\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIGTZqs7Je6q-45P7ZeUY-rJlbM6sqRwaSm7ie8srXJCSjhaXlDg5Xutx0zKpEB3Yc8WsASYcKVSeU5rYpDJ3l4PwXrJAd0ucK8U9cVHM_bdIZhPzT1kUTlCLzeW0FDtKEhBg-HF5D_KT2qr0MYY4eyAcGhQmrTaRe9rlrwWiF6Oh_yjKcxXR5g",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJad3qXN5_9zERk7kboSvH2ic",
+         "plus_code" : {
+            "compound_code" : "7RPJ+X7 Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7RPJ+X7"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJad3qXN5_9zERk7kboSvH2ic",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 100
+      },
+      {
+         "formatted_address" : "LRG 25 B4 LOT 3475, Jalan Ulu Oya, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.300912400000001,
+               "lng" : 111.8501816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.302173529892722,
+                  "lng" : 111.8515837798927
+               },
+               "southwest" : {
+                  "lat" : 2.299473870107278,
+                  "lng" : 111.8488841201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a978c00fe70b195b626daa37f5b945981a41a450",
+         "name" : "SugarBun @ Oya Drive-Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101992989025271802501/photos\"\u003eEileen Chua\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaFTDZcHJAX4yzBkUAgaIGocmnxKZ3yUXDD1tIEOBUrUHHonXpONTYKN8U5tfl8u4R3iNtOOZfFdAe4vlExJu6FixtL9_lAeQdTSM_u91D6yI3YaHztiSnDN27H7CQnaUEhCqKwQDYP38tucoScHszUVXGhTZTTJOXPdwJcXTq5Y60KsqRGLOgg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJy_m8Z_N_9zERQn4cpqnymzs",
+         "plus_code" : {
+            "compound_code" : "8V22+93 Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH8V22+93"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJy_m8Z_N_9zERQn4cpqnymzs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 403
+      },
+      {
+         "formatted_address" : "Jalan Ulu Oya, Pekan Sibu, 96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2958247,
+               "lng" : 111.8960312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.297182879892723,
+                  "lng" : 111.8973221798927
+               },
+               "southwest" : {
+                  "lat" : 2.294483220107278,
+                  "lng" : 111.8946225201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86df0eb1642bcf15a6c0091c676938ccb7ce3629",
+         "name" : "SugarBun @ Jalan Ulu Oya",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107368207051857379752/photos\"\u003eLily Harith\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAe-cJT6PYhrSpDCbzxog-1o8do4OD3nez4n0yJ9Museex7HPb1_l9X6y5LUCyzZuHj8-zR9mZ-hAzGIQK50nJKtxmzTHq2obAsqB9xvp6VZo6rMbJcX4EsZc-IPV1ymkiEhBsm1Ag0qYrIrpmFl0fxRA9GhQW7IM6nzN1YnJ-xzbCxsFDew3DEA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJcf1ANmSA9zERpi1w9ufI9IE",
+         "plus_code" : {
+            "compound_code" : "7VWW+8C Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7VWW+8C"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJcf1ANmSA9zERpi1w9ufI9IE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "96000 Sibu, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.2664061,
+               "lng" : 111.8623373
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.267797729892723,
+                  "lng" : 111.8636323298927
+               },
+               "southwest" : {
+                  "lat" : 2.265098070107278,
+                  "lng" : 111.8609326701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b4dadc7bbb19afcc5a38fc8f2aae154de4e9e53a",
+         "name" : "SugarBun Salim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112063078215933073435/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0hKRibGkGlt0nDjNqRoetJGGHuPxg4Stei1oWk1LxdjsYPV2Jdcx6xhAylAwfQiA7p3dPSpiuT4PQx1fa3FI5bKQ7dITZSod_T1gEwCxEBdZ8Fb8PqminYSq8THWWHVTEhBojAypk_dsADgxVPCAf6J1GhRUWt0nIFCdkyvHUUNTnPUVdD6d9g",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ1-lo57Uq-DERkt3d4BFdHJo",
+         "plus_code" : {
+            "compound_code" : "7V86+HW Pekan Sibu, Sibu, Sarawak",
+            "global_code" : "6PJH7V86+HW"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ1-lo57Uq-DERkt3d4BFdHJo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "19, Jalan Bank, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1321274,
+               "lng" : 111.5186404
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.133523029892722,
+                  "lng" : 111.5199750298927
+               },
+               "southwest" : {
+                  "lat" : 2.130823370107278,
+                  "lng" : 111.5172753701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8dc719e750d162e3785d0a0514907169dc0772ab",
+         "name" : "榮光茶室 Glory Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114824449536492408197/photos\"\u003eStefanie Seli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPlLZTE8A5ai3fEv2Ug7wxBx__HY5i9fiX5M-OOJznHwm4Zg6bL67GtVwTmQi4kXmOuoo4XmDQkRgRnDo0yCiKYhAPAGdoU2VtUayhD7g9FjRf-DspuiF8v7ma7j6NCT6EhBH0WrUF-Wrfe4fEYyoimPgGhRbqI-DPFyo3O06X3I3xoV5xgHJTA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJZ5hzwtnC-TERbchktZdCKqQ",
+         "plus_code" : {
+            "compound_code" : "4GJ9+VF Sarikei, Sarawak",
+            "global_code" : "6PJH4GJ9+VF"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJZ5hzwtnC-TERbchktZdCKqQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85
+      },
+      {
+         "formatted_address" : "2013, Jalan Masjid Lama, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1299124,
+               "lng" : 111.5177861
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.131293179892722,
+                  "lng" : 111.5191261798927
+               },
+               "southwest" : {
+                  "lat" : 2.128593520107278,
+                  "lng" : 111.5164265201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bf933ffff3e813995350a8abfd92114fef308f82",
+         "name" : "1 Malaysia Cafe Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109203731789717120629/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1LPGq5yZWT4sAuklnREXFM52dBiHhfQgrRwMX5fDlheMY9gPKdjTCspjIQ18LhCXoVfT_-AZjR_GKJ2G1JfOB_nybVVqvVp_02NZEuzs25EptVaLYbceTX_UakL2oxFOEhDbm7Ce5nR92k2L0G-j9WmOGhRYcFif0ID9MQFk7JvtIgpgKD6Tew",
+               "width" : 1970
+            }
+         ],
+         "place_id" : "ChIJn0RhZdnC-TER1Bh2oHzphlU",
+         "plus_code" : {
+            "compound_code" : "4GH9+X4 Sarikei, Sarawak",
+            "global_code" : "6PJH4GH9+X4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJn0RhZdnC-TER1Bh2oHzphlU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 119
+      },
+      {
+         "formatted_address" : "Lorong Nenas 2, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1283555,
+               "lng" : 111.5218654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.129671579892723,
+                  "lng" : 111.5232116798927
+               },
+               "southwest" : {
+                  "lat" : 2.126971920107278,
+                  "lng" : 111.5205120201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "76cb94d37d552c9b5ff09aeb39d54d29c5cc5ce0",
+         "name" : "Suka Hati Steamboat Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104561252639735632047/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvnS-XYJ99x5I19EuS0jQXe4AT-lPIf6uPEANsq-fPXhzyWnY8lcx9bDNOTqJXnrhrkF-xtQMWK3pvSkhh6LKKQqLE-DBGJYN9LNlN4i9lx5VXOFpvGyj_ykr_Gs9Z3anEhDiCxhgpzFHP6CjoQlp2encGhTaodhESMkc0CNWMVU9O053yK7_xw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJa9UJs9jC-TERW0RnLMhmjlU",
+         "plus_code" : {
+            "compound_code" : "4GHC+8P Sarikei, Sarawak",
+            "global_code" : "6PJH4GHC+8P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJa9UJs9jC-TERW0RnLMhmjlU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 209
+      },
+      {
+         "formatted_address" : "40, Jalan Haji Karim, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1299476,
+               "lng" : 111.5202142
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.131223729892722,
+                  "lng" : 111.5215864798927
+               },
+               "southwest" : {
+                  "lat" : 2.128524070107278,
+                  "lng" : 111.5188868201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "355655bde908873c9c02aaa2be8df89e04c3a01a",
+         "name" : "Golden Happiness Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108742368898387382845/photos\"\u003eYiu Betty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAU4NFson4v6pHHuuTxtx9ubvI4ym_i2h4jC152F_zjMwb1eDLbmynJVGfrkjzlxQFN4LEN3dvODZLcKAbGUwAz28c6IEmNSCwRAlqtolpJS4ZO7RhV55BmH54DUZwjolXEhCLkfoc0ABzwRLEdwWJ07ntGhSLMre5SeuKwOaFguGfqsH-9suP0w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJY0vK_NjC-TERRYmuuKyqDPc",
+         "plus_code" : {
+            "compound_code" : "4GHC+X3 Sarikei, Sarawak",
+            "global_code" : "6PJH4GHC+X3"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJY0vK_NjC-TERRYmuuKyqDPc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 59
+      },
+      {
+         "formatted_address" : "Ground Floor, No. 7, Jalan Tok Tok, Bandar Sarikei, 96100 Sarikei, Sarawak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1302847,
+               "lng" : 111.5225678
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.131714629892723,
+                  "lng" : 111.5238928298927
+               },
+               "southwest" : {
+                  "lat" : 2.129014970107278,
+                  "lng" : 111.5211931701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c7d11b1eecf306aa495a9b28e9b6ac7de6c89145",
+         "name" : "New Hua Hua Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100141303791812866814/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_BZYHVGEjWxA9z9zMv4zO9RO_24vDPk80OHEldnYTDKrsxrBUAetaGjbyFyZA671XMlKAPrJ6Fza8WQ-irk55U7F-5Gv7j7KTCwW4vAvLzZsSG_c5wY6gJ142cZs_yf_EhBJA_01KTILNX08uj-QTOGVGhSXLmoOvNdnWRQ4D_3irezC5sDLJg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJP4SygNjC-TERhxKZESCNjmo",
+         "plus_code" : {
+            "compound_code" : "4GJF+42 Sarikei, Sarawak",
+            "global_code" : "6PJH4GJF+42"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJP4SygNjC-TERhxKZESCNjmo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 66
+      }
+   ],
+   "status" : "OK"
+}

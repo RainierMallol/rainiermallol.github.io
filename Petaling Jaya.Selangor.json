@@ -1,0 +1,909 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQEAwIAAFLEJAilwC4X6aaObsAEAypkXQ7J94_ojslNlkk7T4URW3SHDS1O6x9p2qo71RPAkat_RydqIfUyshIpiJDF7sneOLyJ0-_2xh06_lnzg1zhjsLzu5SK2RfZpGdtS1f0Rtvn-prcmB0mfzb0beSooh7p4MP-RQMhun6J9etiArWB0c7KsLqZ8085_9XE-Ws6eTZ1MwCDXa14cljvm_vHMzvyX8IQx-VWd4_SeLSBE3r81btIRlvqum6mTFnE8BikKDhCNeIJ5H2GtvSq-LSwscOgPAmFGP-iMX2DBtL9F7mLZ7MBMsTUe4_mUhHHCoDo3In39Cq_3_R9y9rKaS79kznK3U-TSqxvCgGEItp4Qv405yIbZ7KcemU6-cqIOitzqq9GUkI0qUyy3QWcIq1Xybbf2sMBMEML-4EsI5Cz3kSP6PGQHWf4QlMvbVjLoqhPpU9kOD_SNOj6p9Q9tcbe-EZA6BoLCleYlkOWIRYRj5G0538zV3OxFUEXFGhq7qFhZEdLqlU_iDSiRVU3B6coMmVUK7tkx7aJGK23SkBqSkDnqfuuEUtLwLA9a6kZ9gV3v8QJWnIoRcHRroitZI4Wz2Dx5OBtmTVET6HaPUyU43u9LtVbZbEXL9EZlwLrnUcqVNFgOlJs6ddmlK5h55bhe9FP_dmmzPpHJ6yIRqU5_baGop7JfLaM6h1w2GKgkQDWLRIQv-JLn0v98PmxQ3Nq8TkyxxoUWf1Sz5jOK5vPl1zm1jhOp1mqe9w",
+   "results" : [
+      {
+         "formatted_address" : "5, Jalan PJU 5/12, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.153294,
+               "lng" : 101.5926844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.154708279892722,
+                  "lng" : 101.5940375298927
+               },
+               "southwest" : {
+                  "lat" : 3.152008620107277,
+                  "lng" : 101.5913378701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "74d6d7250099e791e2fdb50453865c96e20da766",
+         "name" : "Asian Fast Food Mixed Rice",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113442211043434260928/photos\"\u003eChristopher Loh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACGYqVJZSDkwOpS5A9iKAJk1LSMD8cbT8hUNoANsNC2_65xxtTRL684grsCpiVIVE01Faj4Cx7IiE42Cf0vL_CSsaq8d-Rm-DXZR3XTuszkRN1vDLFeqn_LNr0TsFIBwvEhDSSB6Vl5Y2bxNLY8Fn6-YdGhSCGHU2kzRy65aZ4yKY5tMrhKLOkg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ9WEc2wJPzDERheJ9IGlIBak",
+         "plus_code" : {
+            "compound_code" : "5H3V+83 Petaling Jaya, Selangor",
+            "global_code" : "6PM35H3V+83"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ9WEc2wJPzDERheJ9IGlIBak",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "Petronas, Persiaran Surian, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1495184,
+               "lng" : 101.5800368
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.150801429892722,
+                  "lng" : 101.5813890798927
+               },
+               "southwest" : {
+                  "lat" : 3.148101770107278,
+                  "lng" : 101.5786894201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "103319d8eb0ff2f66c6949187d8ac7f2ab95e5cb",
+         "name" : "A&W Kota Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115909537728226869978/photos\"\u003eJacky Sim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAQF5KOUUjNGArX2lsuPXKsiN0rF6hohNBCSgzMtq7WUN5OztYWA0L03LloK-unIhHk7ymQO74JAJzxpDPYh9n_G8eEDu2hnuNVlHL2iznfCII_MMh5r_vbzpO38fhxZU4EhDRel2dQ4YHRjkfxxEQUiUyGhQcr-dMxACNRWvc2t8yguj-upJ-7Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ4THl5vxOzDER91QUjDQQ0YU",
+         "plus_code" : {
+            "compound_code" : "4HXJ+R2 Petaling Jaya, Selangor",
+            "global_code" : "6PM34HXJ+R2"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ4THl5vxOzDER91QUjDQQ0YU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 679
+      },
+      {
+         "formatted_address" : "Lot B, Jalan Cecawi 6/18a, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.160462,
+               "lng" : 101.57424
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.161905629892722,
+                  "lng" : 101.5755282298927
+               },
+               "southwest" : {
+                  "lat" : 3.159205970107278,
+                  "lng" : 101.5728285701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1e81e968a9ef501c3152fc843809fbf3ce3458a9",
+         "name" : "McDonald's Kota Damansara DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100850155636474990600/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5SkzXlLP_xZLkMJfFw1yOPOVEWusadngEVxhNW_dsJQmwLBDTrOtPTrxQhPiLvSyDABe6Q7MAO-UQrFOyik5n6FEvO1PHYbXByjZwZYG264cRPqWmbsVUBHOPR9h264FEhDgtskqsoCmM6KTSwT1TMiIGhQCzY33k4zzZp1EHGbrxm2Wa8TpQQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJXwvGXgZPzDERnmt-Fn-pSuQ",
+         "plus_code" : {
+            "compound_code" : "5H6F+5M Petaling Jaya, Selangor",
+            "global_code" : "6PM35H6F+5M"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJXwvGXgZPzDERnmt-Fn-pSuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2249
+      },
+      {
+         "formatted_address" : "Lot 1, Jalan Camar 4/1, Off Persiaran Surian, Seksyen 4, Kota Damansara, 47810 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1505827,
+               "lng" : 101.585486
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.151812629892722,
+                  "lng" : 101.5868876298927
+               },
+               "southwest" : {
+                  "lat" : 3.149112970107278,
+                  "lng" : 101.5841879701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "91e46cb5367d54e3c8b0bdde98d2ba7904d2e58e",
+         "name" : "KFC, Section 4 Kota Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116104371915265284172/photos\"\u003eAzlan H channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr92KJfp33SMXAsa8zSkQiZt0Y8BdyJfk6Ww4j4a-ZicbAkeXGnu3lTfM7lj0rhunpqkv8aNjW78XATFeuod3PB7i4B5KKlv9J4JuNk1ueTd1lmeu3Twc2xRH_EAYlm6ZEhAgYwo-shqG8-uu9CvXEiBeGhRF4Voc1Sol_ulioLtJgJNWQBSVcw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJh49YcuJOzDERiv8T9Ttfncc",
+         "plus_code" : {
+            "compound_code" : "5H2P+65 Petaling Jaya, Selangor",
+            "global_code" : "6PM35H2P+65"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJh49YcuJOzDERiv8T9Ttfncc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 368
+      },
+      {
+         "formatted_address" : "Jalan Cecawi 6/18, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.160113,
+               "lng" : 101.5748899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.161344779892723,
+                  "lng" : 101.5762620798927
+               },
+               "southwest" : {
+                  "lat" : 3.158645120107278,
+                  "lng" : 101.5735624201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a361b535cb8d5732de3278c75fb977365d0c9c83",
+         "name" : "KFC Seksyen 6 Kota Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102864453421569345315/photos\"\u003eBernard Rouhi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAL_H5QEIcXR3Gc1YP4EyA34IKHTfFNuHIltHIDJEFOhmqhnedmRP-qxfndOyRBKCq5CHbgXzr_81n86Tf7P1uebOvegXwA82aK8POTnjj6HQisxiW4qozQlIMO_6C3TThEhDQ6hLIgt225d4eDxH0-0UDGhQc_4vYdKHx0FtEg3k-JmzxgNAdHA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVasnigZPzDER11RFFgyRwc4",
+         "plus_code" : {
+            "compound_code" : "5H6F+2X Petaling Jaya, Selangor",
+            "global_code" : "6PM35H6F+2X"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJVasnigZPzDER11RFFgyRwc4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 315
+      },
+      {
+         "formatted_address" : "Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1606722,
+               "lng" : 101.5745349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.161943179892722,
+                  "lng" : 101.5758466798927
+               },
+               "southwest" : {
+                  "lat" : 3.159243520107277,
+                  "lng" : 101.5731470201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "48591c7a818d74b2932edb4770fc1ae50422aa9b",
+         "name" : "Fuel Shack Kota Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116000212790437113157/photos\"\u003eSajid Boi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAObsFeb858JcVOmh9ACieW4oiZ0Pb0IsdwDuGEw6pGHCj4nSGa4RZKspHn6cXQdmlphrIq1ghx3KFfcGe7-YDvB0FB2Lphfw394HbFcOtKhratNLh5mk0khCCAVadDOU3EhCjLEGeSIGrH5OiXpG1QPzKGhT5NCxv5Ejk4f6cO8TeRwwyYy5bqw",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ8-GAXQZPzDERsOrEr9xgmmA",
+         "plus_code" : {
+            "compound_code" : "5H6F+7R Petaling Jaya, Selangor",
+            "global_code" : "6PM35H6F+7R"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ8-GAXQZPzDERsOrEr9xgmmA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "formatted_address" : "No F-15 Giant Hypermarket Kota Damansara No 16, Jalan PJU 5/1 Petaling Jaya, 47810 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.156511,
+               "lng" : 101.59665
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.157968929892723,
+                  "lng" : 101.5980078798927
+               },
+               "southwest" : {
+                  "lat" : 3.155269270107278,
+                  "lng" : 101.5953082201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c8873c9ee9fee1d5b53ebba75498f3fa4c489995",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116104371915265284172/photos\"\u003eAzlan H channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUrxu8ve_75z5ZwL0oC240ODplcXI4upGDx5UPU58erG8nwAcFDfd53JHJu-w3b4hl7gZ7bckp9OMTGcNkBLV_tUAOmbrep3kP7rYKHkT3RYYuw0CfbRIinei1pWFvJykEhCUjKn3Pra6PA7zPIF1j9_6GhRPzMzsdkBDLRn8s23oQzrUkmh2NQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJyyUWDCFPzDERD0m7U5rksDA",
+         "plus_code" : {
+            "compound_code" : "5H4W+JM Petaling Jaya, Selangor",
+            "global_code" : "6PM35H4W+JM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJyyUWDCFPzDERD0m7U5rksDA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "27-1, Jalan PJU 5/13, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor Darul Ehsan, 47810 Kota Damansara, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.15167,
+               "lng" : 101.592353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.153018129892723,
+                  "lng" : 101.5937224298927
+               },
+               "southwest" : {
+                  "lat" : 3.150318470107278,
+                  "lng" : 101.5910227701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ed2c463a106a13efd029939a3b5351a06a71a76d",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108028835592297101361/photos\"\u003eJulia Bimbok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABpD3OJra3IZ3yUP2YYYR8TQqPE-yu-XrZd8BXIOh_DdB3DTqpgbGYQ-w88XXIAMF4JgfVLPOmn3rZz4DCHkiPpb7hCYy9RRunuvEyr4KlamWjxDhnYZVXbzwoKdItoicEhCbCNVD_jRXPc8claDDan02GhQiPkbY_ockn1I22dWbTWm_nNYX_Q",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJg__tDeBOzDERJpLMNoWn6JI",
+         "plus_code" : {
+            "compound_code" : "5H2R+MW Petaling Jaya, Selangor",
+            "global_code" : "6PM35H2R+MW"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJg__tDeBOzDERJpLMNoWn6JI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192
+      },
+      {
+         "formatted_address" : "30, Jalan PJU 10/10, Damansara Damai, 47830 Damansara Damai, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1949308,
+               "lng" : 101.5913894
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.196116529892723,
+                  "lng" : 101.5927446798927
+               },
+               "southwest" : {
+                  "lat" : 3.193416870107278,
+                  "lng" : 101.5900450201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8f7126bbfb8d0d8b3fb0682f248f424ff2e3332c",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100774142765473972706/photos\"\u003eZulfi Harun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeLL4w3Cjq5bcnsw6Xrkf42pOHNflLHDDQCGZZRpjWrZWMs8uA_ReS2E8Kn6JcSG_Q7QWMuuAmt6ACozXjKXgwW3n0LXVyuyqVUIkxoFVIRHtXGVRyws0NR2SbDLDKQtiEhAaYt5zu9wRvghl8SsEYv8pGhT7yNMd_eZy1KyUkivo78-rpSjagg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJQ1koSfVFzDERmgjMl4KrUss",
+         "plus_code" : {
+            "compound_code" : "5HVR+XH Petaling Jaya, Selangor",
+            "global_code" : "6PM35HVR+XH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJQ1koSfVFzDERmgjMl4KrUss",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 648
+      },
+      {
+         "formatted_address" : "30, Jalan Teknologi, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1497344,
+               "lng" : 101.5797344
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.151103779892722,
+                  "lng" : 101.5810625798927
+               },
+               "southwest" : {
+                  "lat" : 3.148404120107278,
+                  "lng" : 101.5783629201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1889c290cbd3ee1236d4513f6443b084db7cd508",
+         "name" : "McDonald's Drive-Thru Petronas KD",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116104371915265284172/photos\"\u003eAzlan H channel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFSkIwkmQW7q2zyJZ4rIxmwdKXdMvuDPR7j8rj6bgkrR_oJzUEjtPfSZWTYTa6MgG5v7YBYsHzItLlY1x5_AXY6JXi-JT_TvOBCz_zfALPwu9M5HtBphIFvXN1zvnxHF-EhDYe4vNrvXObWlcJ2SZ7Q9HGhT5_nNKOMiZsXr4-DWiqV43WtOIjQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJNU6LMRVPzDERDeoaAfJzm30",
+         "plus_code" : {
+            "compound_code" : "4HXH+VV Petaling Jaya, Selangor",
+            "global_code" : "6PM34HXH+VV"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJNU6LMRVPzDERDeoaAfJzm30",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 128
+      },
+      {
+         "formatted_address" : "Lot R 2 Overhead Bridge Restaurant, KM 458 Nort South Highway, Between Sg. Buloh and Bukit Lanjan Interchange, 47000 Selangor, 47000 Sg Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.188553,
+               "lng" : 101.586445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.190019579892722,
+                  "lng" : 101.5879937298927
+               },
+               "southwest" : {
+                  "lat" : 3.187319920107277,
+                  "lng" : 101.5852940701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ff22dfad8714300f265bc78d2721f8e65dc0208",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103193603337919846628/photos\"\u003eOON TEIK TEONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAP_GEDcE0-mXv_rRUObpqSYf96h7XLCmjkK7eulfaDfsggBg4Kg8hlY3MCADsBm_zLU0IQt_tiDFc5PY0SLvfoaH0CS_eWILHwoMu3UQAPjcxwEybJgqJeId5K3SPsKXcEhAaENjLAI9DgIszzD-8jBGTGhTB3HjmyLIGkiDRlUztNs7i5aTyog",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJSZtCxWNPzDERh1ojcox5exo",
+         "plus_code" : {
+            "compound_code" : "5HQP+CH Petaling Jaya, Selangor",
+            "global_code" : "6PM35HQP+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJSZtCxWNPzDERh1ojcox5exo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 324
+      },
+      {
+         "formatted_address" : "Mutiara Damansara, 47820 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1587741,
+               "lng" : 101.6127547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.160328829892722,
+                  "lng" : 101.6137850798927
+               },
+               "southwest" : {
+                  "lat" : 3.157629170107278,
+                  "lng" : 101.6110854201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0af30671a89d96d6b12e45e5c27c96e8a277cc10",
+         "name" : "Marrybrown @ Tesco Mutiara Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103954733219727168759/photos\"\u003eMHafiqAR 哈菲克\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnQ8Vyl0P1TPXJVaHjWZvv6h28SIlOUHcit-j7R9QusgZWSwPWb4U8j45FL06EJP_E-k43CCJ48O1RsphKy0S8PwZwPguSA0GwqsAKPujFB_D7uojZd3yr8xEwfmG4aWWEhAAY5LcLTnbyvjzT7fl9YpwGhRV7HKH-Hizyz7ZUJZYsrIBHRVXaA",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJx2_BmSxPzDERJObzS7svRvc",
+         "plus_code" : {
+            "compound_code" : "5J57+G4 Petaling Jaya, Selangor",
+            "global_code" : "6PM35J57+G4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJx2_BmSxPzDERJObzS7svRvc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 71
+      },
+      {
+         "formatted_address" : "G-30 & G-31, E-Curve Shopping Centre 47810, 2A, Jalan PJU 7/3, Mutiara Damansara, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1566902,
+               "lng" : 101.609939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.158737000000001,
+                  "lng" : 101.6110778298927
+               },
+               "southwest" : {
+                  "lat" : 3.155249799999998,
+                  "lng" : 101.6083781701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "426062ab2a3ddb76d09ef09adbd2a7ae2112fec5",
+         "name" : "Fuel Shack",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104331470499796197011/photos\"\u003eLeo Tay\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh-lSyeNVIoi-1kxdrm7iS6JRt5mB_mLttaROl5VbBL0buD4yd6Me0o0nYkqUdRazNajeTUbNV7-3HqYihB_FQVy-ZIUBH-OXS-4gBGl8_GFlQ6lEVagD1hWEMt1MKg_DEhBTcWfnjem2Tvrw7yT3Rcv9GhT5AEyLFfv4YbPQYnGFszBYMU3jjA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJV7CCCyxPzDER0JMXAZGdJFA",
+         "plus_code" : {
+            "compound_code" : "5J45+MX Petaling Jaya, Selangor",
+            "global_code" : "6PM35J45+MX"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJV7CCCyxPzDER0JMXAZGdJFA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "22-1, Jalan PJU 5/10, Dataran Sunway, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.151503,
+               "lng" : 101.59317
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.152847929892722,
+                  "lng" : 101.5945196798927
+               },
+               "southwest" : {
+                  "lat" : 3.150148270107278,
+                  "lng" : 101.5918200201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c08a9a5f18d166a8ba59ad289e06a14b07928482",
+         "name" : "Albin Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115332517832056222198/photos\"\u003eSamuel Kiu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArPqH3AIJ2b2bs1081hWobUyI8amd_9Gx4Tvy4XwY_g4UHpD8lbjymVxPKMJ7crslkw4L-meC5Wbmrf8M450-Q-YKc3QVrNKaH4u_sb91zQ3Ss4V3l420s_l6GRwHglihEhDI-EWeOBOW6NCdiU8uBPX7GhTkSw8ZtdXF_e-RXbJL_I3Ucgf3TA",
+               "width" : 1930
+            }
+         ],
+         "place_id" : "ChIJJVpP9utPzDER4iXG2qYzvP4",
+         "plus_code" : {
+            "compound_code" : "5H2V+J7 Petaling Jaya, Selangor",
+            "global_code" : "6PM35H2V+J7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJJVpP9utPzDER4iXG2qYzvP4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Shell Persiaran Sg Buloh, No 1, Persiaran Sg Buloh, 47810 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.166023,
+               "lng" : 101.569266
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.167326829892723,
+                  "lng" : 101.5706917298927
+               },
+               "southwest" : {
+                  "lat" : 3.164627170107278,
+                  "lng" : 101.5679920701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a3378b43ef76c475f9d3328a2367bcb7b9299a2",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100164927585657793877/photos\"\u003eBoon Boon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0ye7lMB8cYkqQ71zeGFpcvvpYxhN3_3dPU4NRv255yNmJZhn9sjh8mABca3yUvMCnOKc0I8UkuyjejMURTKMa2BNLOtKLeZH3p6WB5gRzPel1CRjpQUkY1Py13iOwY_eEhDS0rJ9LvLGTvUmq0R-_yuxGhSyQLrkMqEAbb0hoAnwNtQViv4X5Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJfXcPNQhPzDERtN4WDPYkYrE",
+         "plus_code" : {
+            "compound_code" : "5H89+CP Petaling Jaya, Selangor",
+            "global_code" : "6PM35H89+CP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJfXcPNQhPzDERtN4WDPYkYrE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "formatted_address" : "Jalan PJU 7/5, Mutiara Damansara, 47820 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1581839,
+               "lng" : 101.6136536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.159532779892722,
+                  "lng" : 101.6149710798927
+               },
+               "southwest" : {
+                  "lat" : 3.156833120107278,
+                  "lng" : 101.6122714201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7fa3be37bf1daf65d670f0f2229bbb52a5ed252d",
+         "name" : "McDonald's @ Curve NX Mutiara Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110332132560029884963/photos\"\u003eAzizul Rahman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj7iwG0x1n4FoaUzrs1OcCc019Ua4jJebw9qgWu5FwJiF1tHdHaWuR729G9nF2RuTAKuoF0EHWFi09c0SZoMJ2crsAnyX2eFhTJIghA8bb17OucRd-iYvPEd_-F8lht63EhAq_uWuF8xx61VtULKBs7g6GhQEOHJ3pCTq3Y5WX_rPWxfUsXXhhg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu0EOkSxPzDERSIZZrhegdeo",
+         "plus_code" : {
+            "compound_code" : "5J57+7F Petaling Jaya, Selangor",
+            "global_code" : "6PM35J57+7F"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJu0EOkSxPzDERSIZZrhegdeo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 865
+      },
+      {
+         "formatted_address" : "Perdana Business Centre, Jalan PJU 8/5h, Damansara Perdana, 47820 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1661566,
+               "lng" : 101.6072873
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.167438629892722,
+                  "lng" : 101.6085567798927
+               },
+               "southwest" : {
+                  "lat" : 3.164738970107277,
+                  "lng" : 101.6058571201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aeb5aaeb99b220e32948b55fe7652c2f3d674713",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 335,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109119803733419422928/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAActbpUF_derZZ8X73MicjTlalOc-uoswxtKduCTSOmlTOyZSeQcQ3FuoUjy2GwRuwwGul9HgG5LWesJUoQraaJoyHI8QvYzkDPc4GaUXR9RJtAHWdlgAPTzlfj2JxW8mIEhAKQO8rkZxaI9AXVC-abo6yGhR9EPEIWHpUmuIm99AnqgiB3N_hyg",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJxfbtIDFPzDERZTZCRpaiP7k",
+         "plus_code" : {
+            "compound_code" : "5J84+FW Petaling Jaya, Selangor",
+            "global_code" : "6PM35J84+FW"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJxfbtIDFPzDERZTZCRpaiP7k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108
+      },
+      {
+         "formatted_address" : "28-G, Jalan Teknologi 3/9, Bistari De Kota, Kota Damansara, Petaling Jaya, 47810 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1647641,
+               "lng" : 101.5751186
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.166106429892722,
+                  "lng" : 101.5764825298927
+               },
+               "southwest" : {
+                  "lat" : 3.163406770107278,
+                  "lng" : 101.5737828701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "342b2c9d5eadaeba3a249b984b88afe83f51d23c",
+         "name" : "Domino's Kota Damansara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103462726320253879676/photos\"\u003eFendy Fazeli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYADg5LKr0xIdP0V0lig-RKoR9C1-WPwMht7l9qTD2ZIg7AYt6GFD8BgDG8COLphZfmrByDcs0eGYUylo3-njUwLrZa60UCC-E3uuT8lp5eErqZpf-OMtiU1iw7R6o2tCEhAbf89lTs2339KVKepKGY7jGhQ7H-9esNKbnt0OqjShVxuxU_eAgg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ14Rt5whPzDER2UnB5wi9qhQ",
+         "plus_code" : {
+            "compound_code" : "5H7G+W2 Petaling Jaya, Selangor",
+            "global_code" : "6PM35H7G+W2"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ14Rt5whPzDER2UnB5wi9qhQ",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 167
+      },
+      {
+         "formatted_address" : "5-13-5B, Restoran Jejantas, Lebuhraya Utara - Selatan, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1887825,
+               "lng" : 101.586628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.190165829892722,
+                  "lng" : 101.5880701298927
+               },
+               "southwest" : {
+                  "lat" : 3.187466170107277,
+                  "lng" : 101.5853704701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "572c0744aeddab7a61bf367b3e7e0e8ffa4d46d3",
+         "name" : "A&W Restoran Jejantas Sg Buloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104563466004844877678/photos\"\u003eSharizad Effendi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcJtp6gvDaGVOx9JvVJY1iMYvoK_4_ir1eyI70MY-iglM88CFcGLtA5G_Twu_yvGnoD8WcGMjtECRzUONp1YcLYhERY93WrbhawZWYgbGJDMqn75VWg2wC5mCrpqmYbJkEhByJAgP97ivjzD1IfSctk6NGhQgJ4mEb2pkgmZBGIjqMW6dJbAnYg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJo9Bq_GNPzDER-z-qudoZUyQ",
+         "plus_code" : {
+            "compound_code" : "5HQP+GM Sungai Buloh, Selangor",
+            "global_code" : "6PM35HQP+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJo9Bq_GNPzDER-z-qudoZUyQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 824
+      },
+      {
+         "formatted_address" : "6, Jalan PJU 7/3, Mutiara Damansara, 47820 Petaling Jaya, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.15725,
+               "lng" : 101.6117392
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.159191529892722,
+                  "lng" : 101.6128217798927
+               },
+               "southwest" : {
+                  "lat" : 3.156491870107277,
+                  "lng" : 101.6101221201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7100c5efa3efdfef812fa96a4130dfb2cd779fee",
+         "name" : "Kim Gary Restaurant The Curve",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112738013635599287025/photos\"\u003eDerek Tey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIM3KS_epvh0dliw6iAvUlR1H05rIYp8iM0glrGDzYsDT_cWMgICs4j6TJ-TKZvHUFJlSckJaPq_PZf5k6Q8yatb9fhS3y57BKOF0k__wcqTHO9maoICshcz7wq8UsJnxEhBLotss-Ytx4JCvgv0qKMCoGhQLIorbR2Os8YJkgUIcLWZg2GfqvQ",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJdWpDiitPzDERUWM3qb-rMgE",
+         "plus_code" : {
+            "compound_code" : "5J46+WM Petaling Jaya, Selangor",
+            "global_code" : "6PM35J46+WM"
+         },
+         "price_level" : 2,
+         "rating" : 3.2,
+         "reference" : "ChIJdWpDiitPzDERUWM3qb-rMgE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      }
+   ],
+   "status" : "OK"
+}

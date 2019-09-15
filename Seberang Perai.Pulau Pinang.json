@@ -1,0 +1,898 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_gEAAMKru4ZYq4ny1zM3e6odOXPL_entNmjSa4RODNDCYMxr8w545OLQONhC5TmNU0CLGU-wwPZrdRQOKbukSk4h3KIvxD8Qi2DNoMOxb5Hd-0RZg0RG3YaEy3bfM8xiVNg54pYs-iTouttS6jGfw5XnTuVaUsOnelM_5BZXqWxMJxpoa7ymONr51Eaj9mA3pM-AGTybqi3uNdNrqSDF_NWAm9mQygcsYcM_rId9WyDjxST2MewRaSVte_UwS58q8GjisURmUT4lOE5wP2yPVW8tEOyME6xCefi-nmL6a_U0IBu174BsSkgSkXavMvIpzJQkgKYYWXqoRySkzmLQDG3VmnLlxyksgEF0X5_nWPLMJ99WQAsvJV30Xm7sDogiaahOhZttTbqCi1HBDn5_vJI41JT_XKbAoxB-H9hMPO4lAm46apmHcukDukZjsBSRwdU-6AUDOxj27R-ZSuB7wKIg7G1jIWwVwdT7UirDILuogVUvF8f31lHvNhrlrZivYyCabVy9CuyigGfhBT5WVDHVrJeT17IgHXAsmFuAcngRWj7h8wjUls4yMtnyCi55E3nv3DpAiCbDFJ6rpsH8elz6SCtdtlDGXwqLYXPoBadabG_pkERULWImNEcTLo6vOtWMhsPXKlZLo2-PPgMtmSD3Z9K2YojKfmIE5rjBCX0eYP3YEhBJYUQArsUkxJjnyKYjbER1GhRAz5HZ3eUniq6TaAWVn6VItLxJkQ",
+   "results" : [
+      {
+         "formatted_address" : "Lot F2.D Ground Floor Carrefour Shopping Centre Seberang Perai, 13700 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.390038,
+               "lng" : 100.40801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.391482479892722,
+                  "lng" : 100.4092163298927
+               },
+               "southwest" : {
+                  "lat" : 5.388782820107278,
+                  "lng" : 100.4065166701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3549a56ca8fa9416f6565f94dbeb04c5efb1b0c8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111644666064309771000/photos\"\u003eAndy Styles\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjdgmSB4Mo9QqK5USQILKJzL9Mc1CVlohkcxZRSgvW3Msb5KeX4TRdqnhwgcxubtsn3DZOA7z4Rx7LEMRM0cUI-4iJ5abHrUwGbgB8w6TY6DeCRvZkjEXWzT7zSt2uaBcEhAusTgspbnoq7_b5_p9PQtqGhS1zuYJD6FDjIH_C_rAOHCnYBpwQg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "plus_code" : {
+            "compound_code" : "9CR5+26 Permatang Pauh, Penang",
+            "global_code" : "6PQ29CR5+26"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "1&3, Jalan Cempaka, Kampung Bagan Jermal, 12300 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4270597,
+               "lng" : 100.3829505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.428422629892721,
+                  "lng" : 100.3843056298927
+               },
+               "southwest" : {
+                  "lat" : 5.425722970107278,
+                  "lng" : 100.3816059701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1ff39254e6fb29babc75a6e093010190a7b8599d",
+         "name" : "Texas Chicken Raja Uda",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115760827505345446761/photos\"\u003eChong Shanyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6NCk36qtHYt_ywXrHfpIUyrPmmwoA6EQUX_ekHWt1kr2vU_HPKjqCsRAhCF7HPJw-yA2inyNwq-UXaq1UGLdxwxU9sj-RDYufS3lOamViNITf-EDObh5TbJwrXSptt_FEhDUem6JaxLfUNPXkDYNtE4OGhQnZkVuwSpRuHhr9WYj352_f85dyw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "plus_code" : {
+            "compound_code" : "C9GM+R5 Butterworth, Penang",
+            "global_code" : "6PQ2C9GM+R5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiUwb01nESjARTcqDJdLz8Rc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 890
+      },
+      {
+         "formatted_address" : "Lot 8888, 13200 Kepala Batas, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.5133816,
+               "lng" : 100.4356773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.514738979892721,
+                  "lng" : 100.4369151298927
+               },
+               "southwest" : {
+                  "lat" : 5.512039320107277,
+                  "lng" : 100.4342154701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6a49ad72772223c44f8ab9fdb15139358eb8fd85",
+         "name" : "Arango Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1982,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107967072909880514239/photos\"\u003eArango Roti Bakar Arang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk6WnNO0iUYEg1DlsrYqfNY0LiH048kE2xwKdhtpqcgwgEIoLvgTo8-N29Lb4r2rFdQVWoOxXG4VqTxS_OKd1BHyNYCWf9SHssoJ0Yd2YuFXvjjDqHricqKQdaGv023SaEhC_5vNm5zsWf4E04L1EtrOvGhQqR6JzqfrqcIBKN4Pyd42sXOKMTA",
+               "width" : 2471
+            }
+         ],
+         "place_id" : "ChIJ4Zn_zsXFSjARLtxKMyO5-DI",
+         "plus_code" : {
+            "compound_code" : "GC7P+97 Kepala Batas, Penang",
+            "global_code" : "6PQ2GC7P+97"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ4Zn_zsXFSjARLtxKMyO5-DI",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 276
+      },
+      {
+         "formatted_address" : "Jalan Raja Uda, Taman Bunga Raya, 13000 Butterworth, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4383402,
+               "lng" : 100.3864108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.439685929892722,
+                  "lng" : 100.3877928798927
+               },
+               "southwest" : {
+                  "lat" : 5.436986270107278,
+                  "lng" : 100.3850932201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e337be6759b0a24f240a2f1458de26ee004ca425",
+         "name" : "Apollo Market Chee Cheong Fun",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107958701473399841641/photos\"\u003eTemmy Thum\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlFzHEMjreYDln2FEjqTr_yHVidApWtvmzW3xDBciF1yD2p1LwTPIP_aAGKYTmk4mYizkYMYlyE4eobnSPdpq4j0LkwPm8GAHRgAIuO-_6CeXmMkuAdtxQhf06_J5bo8NEhCeFpH2Ms0ylSyRyaaRoGV6GhR1LGY0YxPCbP2OmOtcQhoyxy3S_w",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "plus_code" : {
+            "compound_code" : "C9QP+8H Butterworth, Penang",
+            "global_code" : "6PQ2C9QP+8H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJTdin4vrESjARDPl2hrsju2E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "54, Lebuh Kurau 3 Chai Leng Park Malaysia, Chai Leng Park, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3858707,
+               "lng" : 100.391494
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387231179892721,
+                  "lng" : 100.3928494298927
+               },
+               "southwest" : {
+                  "lat" : 5.384531520107277,
+                  "lng" : 100.3901497701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7711655b4210506f35f608f1c387de88e9fbea76",
+         "name" : "Sunny Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2688,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101846116104460015213/photos\"\u003eLam Woon Fatt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ9LxQDkU1pnJ4EO9hnWUKp0CCb_hCbS8F37XPK7Kr3Gtym9l5rc4OjzJeOXTYMeSbZif3I_f9gGd69ZoJ0LEhHy9AnQU1BJDZYAmY79IY-M1JeYLLml_jW26-QhPByjJEhBx_Couldq5h87EfMVtFHFfGhRTtvurZ2xA5IsPq3koksH52Bx3ig",
+               "width" : 1520
+            }
+         ],
+         "place_id" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "plus_code" : {
+            "compound_code" : "99PR+8H Perai, Penang",
+            "global_code" : "6PQ299PR+8H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "1-1-22, Ideal Avenue, Medan Kampung Relau 1, Kampung Seberang Paya, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3325815,
+               "lng" : 100.292963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333880529892722,
+                  "lng" : 100.2943049798927
+               },
+               "southwest" : {
+                  "lat" : 5.331180870107278,
+                  "lng" : 100.2916053201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a934431b054fdbab077eb112ad62f3010431492",
+         "name" : "Spade's Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100896934877918086775/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2Ht041hluLihNVuICv92ec9lN0SxQBVh-IsWQzqYBVLx7BPFfaAZm723VPClF94rhaF-e_u24jniqbBe7lJQC7R8q5Rl5HKHdW1KaJDFT6ML1TyuZHIHz0CcZFaVkxwwEhDPUPJ2AebpOXKMfqMCjtnzGhT35t6qVuU7e1Wq4tj-csbDmmEiKQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "plus_code" : {
+            "compound_code" : "87MV+25 Bayan Lepas, Penang",
+            "global_code" : "6PQ287MV+25"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1110
+      },
+      {
+         "formatted_address" : "325, Chulia St, Georgetown, 10200 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4183428,
+               "lng" : 100.336109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.419707779892721,
+                  "lng" : 100.3374665298927
+               },
+               "southwest" : {
+                  "lat" : 5.417008120107277,
+                  "lng" : 100.3347668701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9875a5a9c9838407b3ec089e2caaa44a28191383",
+         "name" : "Old Trafford Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106632415493746644197/photos\"\u003eChuan Koon Ang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAUlDcOpDvkCzossTQjz4Bg7qjMcVgwXtNmVuHzt7W5ZBqItmgJPtKKt6GOHWG2CBuArCuqgBXlpvpo3OdtQ-6xN_jVu_jxQCkNnEuELkHnpZHeBg6Sio_pBor_6OBCkAqEhB5lQ2ggde0xbKbA5GduDpUGhQB7mgFT0Bouc5X7dSHi0sVyJpAmA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ7--iUJDDSjAR2Z1tuPoFmjY",
+         "plus_code" : {
+            "compound_code" : "C89P+8C George Town, Penang",
+            "global_code" : "6PQ2C89P+8C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7--iUJDDSjAR2Z1tuPoFmjY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "G-11, 2898, Jalan Baru, Bandar Prai Jaya, Seberang Prai Tengah, Malaysia, Pulau Pinang, 13600 Pulau Pinang, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.377035999999999,
+               "lng" : 100.400156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.378590029892721,
+                  "lng" : 100.4016002298927
+               },
+               "southwest" : {
+                  "lat" : 5.375890370107277,
+                  "lng" : 100.3989005701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ecfbc0a3113901c10421f8109ebcf400217fa394",
+         "name" : "McDonald's Megamall Penang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1812,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100600797764227126718/photos\"\u003ewill Ls\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANburZvLW47lYkJ8zWFEGROk94SEyMrrkyWzXO1tdGa-w9k9Q25-FIwKujvebJuox4eb5Enp45grzMUCtXTROwHTLaZ2cLH95vnFQnEk2S-XYE91Lr3Q1rcntb9lYbjnsEhAfJNWhSoCDCyEyeQmNTfKqGhRIYjcAAIBvfTj2xVVjehvMVSzANw",
+               "width" : 1359
+            }
+         ],
+         "place_id" : "ChIJ6boqX2PGSjAROhCkaA4JGvg",
+         "plus_code" : {
+            "compound_code" : "9CG2+R3 Perai, Penang",
+            "global_code" : "6PQ29CG2+R3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ6boqX2PGSjAROhCkaA4JGvg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 837
+      },
+      {
+         "formatted_address" : "73, Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.412831,
+               "lng" : 100.326031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.414354379892721,
+                  "lng" : 100.3273459298927
+               },
+               "southwest" : {
+                  "lat" : 5.411654720107277,
+                  "lng" : 100.3246462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "853755b9199404543ce4e027f284a504846d8ac2",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109106449226946132119/photos\"\u003eYoungbok Seo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAm7S6doBn7Hhkk1wpa6GhVJ0wJzBfPTnjaA18RlN2n4UIKdI61TLI2AFJdV5XWSwdZ2oYdgR8BGAdMFzCO7FHfyQg3Y2HfWAyKfrt01VeQeUxVaoFvDx3ju-hJ-T7ngwaEhD72I6G3TIPFHLwuvjf44gOGhQ_f2YOST3_aQ1fxNqt-Bn7LXEzig",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNX82Nb7DSjARi69ngyK2wqU",
+         "plus_code" : {
+            "compound_code" : "C87G+4C George Town, Penang",
+            "global_code" : "6PQ2C87G+4C"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJNX82Nb7DSjARi69ngyK2wqU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1250
+      },
+      {
+         "formatted_address" : "L3-12, Level 3, Penang Sentral, 12000, 12000 Butterworth, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3946383,
+               "lng" : 100.3653032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.395863629892721,
+                  "lng" : 100.3665852798927
+               },
+               "southwest" : {
+                  "lat" : 5.393163970107277,
+                  "lng" : 100.3638856201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a44cc5e38d8e78ee11575f4747d4862ee578c298",
+         "name" : "Marrybrown Penang Sentral",
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118247748104271345373/photos\"\u003eAnn Nee Ooi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5qa7fgsz-ewosF_j-garfUKTlMiJ2RjzixCjzaD8wKAIv_iQFOIwddaRBmEZZpi1IGDmzuMm9y1xKjfWb2dl8XdqKQHDwzCdFdgtO116oUxcjRAi2VEVTKQBXw32qjwUEhCMfUrXJ-UpUrTT2hJu2DknGhRt2KdfdTnHE4N4BG8KZQV1b6ALDg",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJrSpOuNDFSjARmKfGDq1gLEc",
+         "plus_code" : {
+            "compound_code" : "99V8+V4 Butterworth, Penang",
+            "global_code" : "6PQ299V8+V4"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJrSpOuNDFSjARmKfGDq1gLEc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "126, Jalan Sungai Pinang, George Town, 10150 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.407462,
+               "lng" : 100.31842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.408820329892722,
+                  "lng" : 100.3197792298927
+               },
+               "southwest" : {
+                  "lat" : 5.406120670107278,
+                  "lng" : 100.3170795701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "511657b1a568ccbafed4dfdacf7b1fa4dc47d300",
+         "name" : "Street Grill - Burger Bakar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112711278462272092960/photos\"\u003eHakimah Ramli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-1tppHgZL8BQ2D81mOMszvvJqRQPmU1-PbTtVk9IgcT9jrEPLX-xIENYJgGwqS_qgC-0_cVms_XTvzbWQXiqVSCCURMRM5KDKgYosZLd8pk48XWbeQHx1Li-WEoK5kkDEhBag4V0aC3zbnd_mKf19QclGhR8nLMifxhD5YQ4QSI0oPZDjlauyQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJO1x9kefDSjARKsbapjm4Ct8",
+         "plus_code" : {
+            "compound_code" : "C849+X9 George Town, Penang",
+            "global_code" : "6PQ2C849+X9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJO1x9kefDSjARKsbapjm4Ct8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "formatted_address" : "559, Jalan Masjid Negeri, Greenlane Heights, 11500 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4051838,
+               "lng" : 100.3030934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.406532279892721,
+                  "lng" : 100.3044652298927
+               },
+               "southwest" : {
+                  "lat" : 5.403832620107277,
+                  "lng" : 100.3017655701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b88eb5094dd67f6edbd1004962dc7c42a3217476",
+         "name" : "KFC Greenlane Penang Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117282271516336623392/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIpsijMCYgjPGMQRyt-DICGwEemRH-nuIID27PVo2vInrKgTfTIyzxiWPslSgBmdvrBzbnQdOLSuZnz_2xyeS1pbBVNq7iXs1iYllEzUdJcBon6Gi_w1E7wlb-pjMKucxEhDXYOJpAqPZeeCksm8ygJw1GhTMzvmMc24DKqpT5DacszskfV6e7w",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJdZpBnTTCSjARO5hs-JLUpMQ",
+         "plus_code" : {
+            "compound_code" : "C843+36 Jelutong, Penang",
+            "global_code" : "6PQ2C843+36"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJdZpBnTTCSjARO5hs-JLUpMQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1026
+      },
+      {
+         "formatted_address" : "No.1220, Jalan Perda Utama, Bandar Perda, Bukit Mertajam, Malaysia, Pulau Pinang, 14000 Pulau Pinang, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.368169,
+               "lng" : 100.42421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.369505279892722,
+                  "lng" : 100.4255103798927
+               },
+               "southwest" : {
+                  "lat" : 5.366805620107278,
+                  "lng" : 100.4228107201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "82c417e6999466514a8172653b0bbc578d876280",
+         "name" : "McDonald's Bandar Perda DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115085842188253115026/photos\"\u003eHemak Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEfn2j1zYR-EPLpDVziFAnZ94594MkbA1o_ChIix9bivThzZwmFxTjJxLmG-AFncsXSORBoKT83Bcl9O6OEymgiW4gT9qz3eZWMxQZjqF2Pw4JY5NZr8ywg2vNQQt4FC0EhBns8hj8SH10F2jCPLjVOLLGhQ0TM2pPaDIse8Fjxisx09BGFywIQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJQ-iKPRbGSjARYVaFk4BDmtQ",
+         "plus_code" : {
+            "compound_code" : "9C9F+7M Bukit Mertajam, Penang",
+            "global_code" : "6PQ29C9F+7M"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQ-iKPRbGSjARYVaFk4BDmtQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1647
+      },
+      {
+         "formatted_address" : "57, 1, Persiaran Karpal Singh, George Town, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3954119,
+               "lng" : 100.3267596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.396818479892723,
+                  "lng" : 100.3280363798927
+               },
+               "southwest" : {
+                  "lat" : 5.394118820107279,
+                  "lng" : 100.3253367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68b3acc9b719b8689e7c35a9494a2a90fb691b92",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104156453514267246599/photos\"\u003eJesson Khor Keah Seng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVAwxL35o1jNadRF7Mr0jIrHw0-TBqLPN6AT_phM9GuFLYrBqT577zA3HPwoIL0Jk9onH5JKcxO4aX2igEpqpr33DapUf0ZRY1j0r4pADyyJkzWDQ9DSTl0PEEliY3NfIEhD6b3lSFDdJjIHk6DyOoaxoGhTrmpllvXBS0eVEnyqfvebcrjx8kA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "plus_code" : {
+            "compound_code" : "98WG+5P Jelutong, Penang",
+            "global_code" : "6PQ298WG+5P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2687
+      },
+      {
+         "formatted_address" : "1687, Jalan Perusahaan, Bukit Tengah, 13600 Simpang Ampat, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3374004,
+               "lng" : 100.4311833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.338709229892723,
+                  "lng" : 100.4325085798927
+               },
+               "southwest" : {
+                  "lat" : 5.336009570107279,
+                  "lng" : 100.4298089201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29e10376376fad794c9f1d3051fb52657ff47c24",
+         "name" : "McDonald's Juru Autocity",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100896934877918086775/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcXblJ8Kp51xsv5PP_a7Bea3wxZA67Z4tEOkIhdXdFcULwvEv77RPv9SUYKtMeVvpQQ7d6HmZ-2cfLhO27t3-WSPHw9FKPBgVXbJyVkmuvyxKGxO00G1TbbbLeZsL_DVyEhDSf0g4nwdh-jz8ZFbvQl8WGhSJiEl6r9Ny6zbNLG1KFtiQTuzJtg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJVwaEitDHSjARchevA-_vX20",
+         "plus_code" : {
+            "compound_code" : "8CPJ+XF Perai, Penang",
+            "global_code" : "6PQ28CPJ+XF"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJVwaEitDHSjARchevA-_vX20",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1391
+      },
+      {
+         "formatted_address" : "Lot 33-1-40, Prangin Mall, Jalan Dr Lim Chwee Leong, George Town, Malaysia, Pulau Pinang, 10100 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.414493999999999,
+               "lng" : 100.331328
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.415724429892722,
+                  "lng" : 100.3327728798927
+               },
+               "southwest" : {
+                  "lat" : 5.413024770107278,
+                  "lng" : 100.3300732201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8edfd2dd318ea764b431858fbf00af166a244347",
+         "name" : "McDonald's Prangin Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114697933258870074774/photos\"\u003eTakashi Yagi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGrqToKPqkQLX_ciXjY8komcO7RA1noB68MWCrUcIzOJ_vtlkqrVzTyIoI0KTlU-GoD-e3XX-4Yyvkb7ozz1eIupsHmZKJNz6jGUUtqUONO56CrWLcWFFrRC81rjJBQprEhBQ6dHTT04kq8-xnXI8f3eZGhRQZW79YeTv7qQl0BiDPUFow6KWXw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq40pPpTDSjARarTlCITZbCI",
+         "plus_code" : {
+            "compound_code" : "C87J+QG George Town, Penang",
+            "global_code" : "6PQ2C87J+QG"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJq40pPpTDSjARarTlCITZbCI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 132
+      },
+      {
+         "formatted_address" : "4 B-C-D, Jalan Sungai Dua, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3525673,
+               "lng" : 100.299399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353878279892721,
+                  "lng" : 100.3007692298927
+               },
+               "southwest" : {
+                  "lat" : 5.351178620107278,
+                  "lng" : 100.2980695701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f93f54a1e97bc2ef1a317d62f82b2a03d648fbd",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117132068940893289943/photos\"\u003eShuen H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwoehnFMXpHhp1P02CMpXuoVr5tada_V9oKZSvLpX4-8T9b3yuLSprtH09_DuKIYkFtC2ldi8yCOdLXH7hMdaqo_fOr43B-jhKT8mfFP19H3HHmZ73E11FvJ1DTRLEbBAEhA_VRQATyG0wh4M4HDnLVqAGhSavVibLnt0Zq9-SNGlR8IgsjLjSw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "plus_code" : {
+            "compound_code" : "973X+2Q Gelugor, Penang",
+            "global_code" : "6PQ2973X+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1199
+      },
+      {
+         "formatted_address" : "13600 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3685678,
+               "lng" : 100.4146374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.370025679892722,
+                  "lng" : 100.4162123298927
+               },
+               "southwest" : {
+                  "lat" : 5.367326020107278,
+                  "lng" : 100.4135126701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ad8e98be98078eb684ed6919eb807f849785135e",
+         "name" : "A&W Mydin Bukit Mertajam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117631570193827336960/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaMvWSQOi9AmVE2b_V3ko5cMrZ4TQ5PMwKF5X1dxk8amPnfG9pbW_LJGCR5im5y1CKmnhYkv7lfypdZbljvxPbHUssdmFz6GnlSBpsk3798z4hBpLHRqkqBsXf-ElDWM7EhAwtnnwmH0KDEFz9jJ9y0aEGhSISYRHLqQUE0pa29A8sqohDAmp0A",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJdfGfi2rGSjARm0RLQhGeYPc",
+         "plus_code" : {
+            "compound_code" : "9C97+CV Perai, Penang",
+            "global_code" : "6PQ29C97+CV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJdfGfi2rGSjARm0RLQhGeYPc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 243
+      },
+      {
+         "formatted_address" : "15, 16 &17, Lower Ground Floor, 1st Avenue Mall, 182, Jalan Magazine, 10300 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.413393999999999,
+               "lng" : 100.33139
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.414714879892721,
+                  "lng" : 100.3327234798927
+               },
+               "southwest" : {
+                  "lat" : 5.412015220107278,
+                  "lng" : 100.3300238201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "94c7a0d56ad9cb0bb71e2306e8d1845e7efc6d14",
+         "name" : "Texas Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108706487335399115537/photos\"\u003eBBS mixV\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIrg7GW8KOvoEav1Gp5egL9cxie3M1Rvgs58hStUatpw5NzYNL2gQXxAv8hWn0agI8du1r887y51KGkIyPDZVt8IGevakhJt9VDkNmc-Z31XaPavY2ZxT9YTUhtmwnhYTEhAXo7YdedZolhe7KuHRKKD-GhT3XmBVVA63TLEAPfl4eQ6bxbYb8Q",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJDxccQ3bCSjAREqksiMHdVFY",
+         "plus_code" : {
+            "compound_code" : "C87J+9H George Town, Penang",
+            "global_code" : "6PQ2C87J+9H"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJDxccQ3bCSjAREqksiMHdVFY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 567
+      },
+      {
+         "formatted_address" : "Lebuhraya Jelutong, Taman Jelutong, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3872729,
+               "lng" : 100.3125509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388648279892721,
+                  "lng" : 100.3139082298927
+               },
+               "southwest" : {
+                  "lat" : 5.385948620107277,
+                  "lng" : 100.3112085701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2926441081882057c281cb23d746d9e3bc0eefa7",
+         "name" : "Pos Burger Jelutong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104618938374884341676/photos\"\u003eK Hui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAxp4yVrkhjQKIJYJWQGRdnQ0B7tDG6pUSqdlArS8J0wyl68dvmiFhGC97gft0ERwmMNZmnwbffUUI2fS-W7j4lcTPpfRCsNgnKujktZZ73icE2GhM1_8VPE0vV51d9zyeEhDcLNYQn_BgWytbBhCPVl3rGhSREOZrFxE9sAekl8b3w4A5ujzxcg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "plus_code" : {
+            "compound_code" : "98P7+W2 Jelutong, Penang",
+            "global_code" : "6PQ298P7+W2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143
+      }
+   ],
+   "status" : "OK"
+}

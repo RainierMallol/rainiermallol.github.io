@@ -1,0 +1,837 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAAMhMF6HZhmYBmoPsWSEYPi9Tz_OrKh5YWq_QRfEgIWp-M2lPRmhXLWtZ-2hfCc9rhjlHgZKrKDs0Gv5g1tmzs8oVagh5MDPsejUTBeiboveE-v-UMPRrfVz1xxYrLxm4ZMjBmzcmenOXVOTVgnuZIUOX3HXwC5_0Mm7UUUrxQVKHTtz5Y8Kn-VMgg6libWQgVvSEC7T7EE8sgAilL5wT_qid4j6-iWpbcRHnveCSsgCbvvclISmXbmnquHk0QH4cUSYu6INNF_iMwYN2mrf82tvWpsBIH0nqqqoQpMTRBB6OQ6Dcm7lYhSk0QUyLoTXDCpCdJxTqLAQCCEO6DUBdoqk_l4oCUjNDPk58K0FzivImOvgMqyc30VLERqSbU_ngxefixDKGXNgKwF2od3NxEBip70p2lQuukwyNhuDJL46-NYL9sBqaH7qyrDGqElu7aAdIB6gve_JQ9tX803FsyJuHGsISr9YP-RlJoSManWgqmY-B2Wtg97IcOFpivzHTH5vdgZLZHNJkGc_KY36JDIXmG9bXQUPmvr_jmZdXoQsi5odeWH-hkvD7WQvCy8veGHjnEjyx0NuO1sncVdoQZQCA6mJ-MVztOrUBYbwZOVTfsRNVdX2yk5jb4pMHROD3Zo6oh8DNrpUJqXSkP8d9n-Z2yTSaYCFimeAQED84bBH6EhAOjUaH7tQblENbRbAlVJ1yGhQZkqNDVds1JU8R86JCK1EYeNu7Sg",
+   "results" : [
+      {
+         "formatted_address" : "Lot PTD 174172, Jalan Seri Alam, Bandar Seri Alam, 81750, Masai, Johor, 81750, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4961556,
+               "lng" : 103.8708568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497438779892722,
+                  "lng" : 103.8721599298927
+               },
+               "southwest" : {
+                  "lat" : 1.494739120107278,
+                  "lng" : 103.8694602701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "40922f8926827db3554814f2c9a3453b34508d8b",
+         "name" : "McDonald's McCafe Seri Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113884083572533618124/photos\"\u003echarskater\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANW7kU_43OIrLEdkn7n6o_E8F54GmwZDP3SANCcx1CmXZY1VAqKvczOIyRccWs7tqc6Ik1VjAzbHbhTaiNGjN2-mt8F9cSsAgBVh9ysNTB4609VtT6G8WXfudRiRmjZxoEhCXlZOlQzwyyMHiv3VUp_nNGhQIgHuslWRWkXt3io2deQoB-r9o0A",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "plus_code" : {
+            "compound_code" : "FVWC+F8 Masai, Johor",
+            "global_code" : "6PH5FVWC+F8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ2Skdf-Rq2jERudpW_k4y9Fw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1086
+      },
+      {
+         "formatted_address" : "Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4818464,
+               "lng" : 103.8921687
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483206079892722,
+                  "lng" : 103.8935877298927
+               },
+               "southwest" : {
+                  "lat" : 1.480506420107278,
+                  "lng" : 103.8908880701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "de70641bc6b6f4b3af185dcd2434fd6855f91cb2",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115119406416017375716/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASfUTFVitngKPfddc3bGXGbpQ0rRC9Pi2VBYTZIDzzldk4BHLbWpnOICg3477AmcQd5OZt7lNB6iFLtsHVx1cqfRml3V4t1Ap4Og3jbxYPxuuquiYfWeFNrU0u1uTZVGiEhAiPHMGhXZt7rH9K4B4WCdmGhSNyxomSs_0o_5mWniJxYStG0H3fQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJk_xYFrZq2jERf_RszwIh_Y8",
+         "plus_code" : {
+            "compound_code" : "FVJR+PV Pasir Gudang, Johor",
+            "global_code" : "6PH5FVJR+PV"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJk_xYFrZq2jERf_RszwIh_Y8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 564
+      },
+      {
+         "formatted_address" : "No 2, Jalan Permas 10, Bandar Baru Permas Jaya, 81750 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.495236,
+               "lng" : 103.815616
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.496592679892722,
+                  "lng" : 103.8168214798927
+               },
+               "southwest" : {
+                  "lat" : 1.493893020107278,
+                  "lng" : 103.8141218201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc58430dd3ff162cd1485037a2259afff269b78e",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110275907018393293913/photos\"\u003eAdrian LauHK\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACtG43taDm4vWLQstF5cww60ADpyj0Gcfqylt7Biu5Y-gvaje4eKJxhfUwd68_X1-1uelUXvTBnbMfE2Y8SkvOyjChIFm5wVLJSevbLjOA_JL4AWdeNJYrJqhg4EfWCOBEhAl2py5kByIFhGALG4CDdbEGhTTCU3HZuu_aZlYg_P_vrlaVLB08A",
+               "width" : 2268
+            }
+         ],
+         "place_id" : "ChIJsaSCA6Js2jERia13MiANdDs",
+         "plus_code" : {
+            "compound_code" : "FRW8+36 Johor Bahru, Johor",
+            "global_code" : "6PH5FRW8+36"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJsaSCA6Js2jERia13MiANdDs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 850
+      },
+      {
+         "formatted_address" : "Restaurant 1, HS(D) 360166, PTD 174172, Mukim Plentong, Jalan Suria 1, Bandar Seri Alam, 81750 Johor Bahru, 81750 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.49596,
+               "lng" : 103.87123
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497366629892722,
+                  "lng" : 103.8725010798927
+               },
+               "southwest" : {
+                  "lat" : 1.494666970107278,
+                  "lng" : 103.8698014201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7c2e89896479e69507089df1e873df1eed4f8102",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104910029289013641527/photos\"\u003eAlven Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8m1DPoOKJuRqPpbEhF4qCJ1GNrwgD8Oq5iOh8iBzEXbT-SEtFRCLh_x80vPLVozdo6CKT9pARkhNjLwKL9sP2AJWyZePF-jZTJ2FhyVtLhLkPwQiUUFUl71Fs53wFKjNEhA7dadjCELZTDoq60XKDMf2GhR4HeesuSogN8ATjezNRi_6gSW0uw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "plus_code" : {
+            "compound_code" : "FVWC+9F Masai, Johor",
+            "global_code" : "6PH5FVWC+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJJZyahuBq2jERPLfc_am2IRY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 441
+      },
+      {
+         "formatted_address" : "GK-02, Pasar Raya Besar MYDIN, Jalan Rinting, Taman Rinting, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.490818,
+               "lng" : 103.8667579
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.492218329892722,
+                  "lng" : 103.8680395298927
+               },
+               "southwest" : {
+                  "lat" : 1.489518670107278,
+                  "lng" : 103.8653398701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6aa6c853adaeeaa0629eb99fc13c437888316505",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114685312448225739153/photos\"\u003eAsraf Fairuz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYkWoi9k-Sv6Ux13BoPFt1Ud4OcaXSA6Dz6m0jeQ0laSJ5tquqqSEc1By4-xio1_pPRJRPyljTPHNEECjoDj0ex-NGk19duWQTCRYfyqwfFjAE4CvIooNa_OwqQ111EzMEhC7r3Oaeu7m5GsPTYuJcyLcGhQ63mXmRdHoJbcqbPXvJiFWo-VMRA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJy9RVtCBr2jERMmLffgnx4tA",
+         "plus_code" : {
+            "compound_code" : "FVR8+8P Masai, Johor",
+            "global_code" : "6PH5FVR8+8P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJy9RVtCBr2jERMmLffgnx4tA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4822,
+               "lng" : 103.891297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483554529892722,
+                  "lng" : 103.8926492798927
+               },
+               "southwest" : {
+                  "lat" : 1.480854870107278,
+                  "lng" : 103.8899496201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f2d2c335cebec60a6175e46bbd3de46ae778cde",
+         "name" : "Marrybrown",
+         "place_id" : "ChIJLRl0_bVq2jERZCHx3IHHFgQ",
+         "plus_code" : {
+            "compound_code" : "FVJR+VG Masai, Johor",
+            "global_code" : "6PH5FVJR+VG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJLRl0_bVq2jERZCHx3IHHFgQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "No. 3, Jalan Masai Lama, Plentong, Masai, Johor Bahru, 81750, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5280497,
+               "lng" : 103.8157043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.529328279892722,
+                  "lng" : 103.8171522298927
+               },
+               "southwest" : {
+                  "lat" : 1.526628620107278,
+                  "lng" : 103.8144525701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0500aebe4506f3147a7b715caf23c7635680f810",
+         "name" : "KFC Giant Plentong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103803873760868097958/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjMGMRvPtLxkLybTtZvOo8R9Yv4nUARmDOm5irHHVlPGONAPCzqlZo1MFOpu0AnvJgmE3gHI_B_wnyoDKioGXtk7XuIkV-oAbf_-5au8hD9n0iBOEXaWaJlMFT-XVesMBEhDy3Iw0mkJ1nn7TqfEL8i5cGhTN6MGcu0yNnOjOT2Z3a5FALCK45g",
+               "width" : 2128
+            }
+         ],
+         "place_id" : "ChIJT8yGt3Nr2jERd3vICjCexQ4",
+         "plus_code" : {
+            "compound_code" : "GRH8+67 Masai, Johor",
+            "global_code" : "6PH5GRH8+67"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJT8yGt3Nr2jERd3vICjCexQ4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      },
+      {
+         "formatted_address" : "25, 27, Jalan Kempas 16, Taman Megah Ria, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.490897,
+               "lng" : 103.848833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.492299479892722,
+                  "lng" : 103.8502142798927
+               },
+               "southwest" : {
+                  "lat" : 1.489599820107278,
+                  "lng" : 103.8475146201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "efc1d50378108937a4ab83c98d627646a8743a6d",
+         "name" : "Wang Wang F & B Group",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108905339756669980574/photos\"\u003echua terrence\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJll9ttbPSGQ7gsFeg8TsI8RdLtTGegh28A3jkGZPomxcXBptyn3WcmjhcLiS3b4VGewj12fsheDlaD7N43k7NAOz7KKUfaVMZStvN7XcYbHGv6tLfTqmjB27jkCtFq-pEhBBAExpdPT6ZnmAZ6n6Vof0GhQGSsszEbYknhNXDFXy4B7aB4GA3w",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJL6t7yz5r2jERL0gi_STY-Q0",
+         "plus_code" : {
+            "compound_code" : "FRRX+9G Masai, Johor",
+            "global_code" : "6PH5FRRX+9G"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJL6t7yz5r2jERL0gi_STY-Q0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 92
+      },
+      {
+         "formatted_address" : "Giant Hypermarket - Plentong, Lot K 7, Ground Floor, Jalan Masai Lama, Johor, 81800 Masai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.52842,
+               "lng" : 103.814657
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.529987129892722,
+                  "lng" : 103.8157516298927
+               },
+               "southwest" : {
+                  "lat" : 1.527287470107278,
+                  "lng" : 103.8130519701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd0788ad9b4c6cbf74677b537c78efb60f02f61f",
+         "name" : "Kfc Holdings (Malaysia) Bhd.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108300409891180458678/photos\"\u003ening nyco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACk1FoIH0NlV9pr7zA1vK50tlh3lbOtUiDoLjTBX2kEkJ1xexvFung8g5vR4Rvh2ofnVQggUGknS9JZRBR8vRm6lNpqlDnhq5iKbxpJLLjz573QDJJunN4jdDl27oMI8bEhDf4vJG2R-ox3AXkxid0kK-GhRAOM_PEuLh4nvrWVRo-RvAldCZcw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ8Q3AXnFs2jERHVJRqc0BJxE",
+         "plus_code" : {
+            "compound_code" : "GRH7+9V Masai, Johor",
+            "global_code" : "6PH5GRH7+9V"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ8Q3AXnFs2jERHVJRqc0BJxE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "M16, Jalan Suria 1, Bandar Seri Alam, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.494349,
+               "lng" : 103.872354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.495667529892722,
+                  "lng" : 103.8737541298927
+               },
+               "southwest" : {
+                  "lat" : 1.492967870107278,
+                  "lng" : 103.8710544701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "86f99e779e2c78533441d2627938d0430e7e162b",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110637375614797793171/photos\"\u003eKaiLun Tey\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlEXCg9dZyGP5QhzMdL6MwQEpkAV-aJD1Xm0j-iiQRpXHWc2imWyFsjbsGD2eb_iknuph7uXxmm684tBOdGy4kYu8UwrlqHdcqR3m5BibAgT6ISLMIWWwpZmJytYlxZcgEhBOzGbq74KN9WnqaYIluJ0WGhTWNgKJizKTOusyGBtwJJ_hTfhhew",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJzdiJFd5q2jERqw1eVd78M4w",
+         "plus_code" : {
+            "compound_code" : "FVVC+PW Masai, Johor",
+            "global_code" : "6PH5FVVC+PW"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJzdiJFd5q2jERqw1eVd78M4w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "Aeon Permas Jaya, Jusco, 1, Jalan Permas Jaya Utara, Bandar Baru Permas Jaya, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4954973,
+               "lng" : 103.8175436
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.496787729892722,
+                  "lng" : 103.8188942298927
+               },
+               "southwest" : {
+                  "lat" : 1.494088070107278,
+                  "lng" : 103.8161945701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b06eaf1e5752c0aaa4a3dc828761eb8e41b2f13",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102971422989120014345/photos\"\u003ewaani kydd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzgjYMgO3DWO4vxTSd35raaSY2ynbjlEu6Jef7CAU-b9hV3RxbgExRD8H8RDlnWgYDlTob46oCn1aFGa4BE2cWZqP570k_jeKUCF9TsA3IGhuAB4pQWzQuMbBvgNp9jEGEhA3vmTQWcc5DL_8UifaUczCGhSuNMZauQQCTU1a9PYX5UncyjD1Tw",
+               "width" : 2648
+            }
+         ],
+         "place_id" : "ChIJ6ZL31J5s2jERshTNNWnCcPY",
+         "plus_code" : {
+            "compound_code" : "FRW9+52 Masai, Johor",
+            "global_code" : "6PH5FRW9+52"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ6ZL31J5s2jERshTNNWnCcPY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "Lot R130, No, 3, Jalan Masai Lama, Taman Perindustrian Plentong, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5273811,
+               "lng" : 103.8151324
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.528608679892722,
+                  "lng" : 103.8165922298927
+               },
+               "southwest" : {
+                  "lat" : 1.525909020107278,
+                  "lng" : 103.8138925701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af52ae1df923bbf69d5aff4348173fe5c4f32599",
+         "name" : "Marrybrown Giant Plentong",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113961731188401935995/photos\"\u003eTony Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJjNyBXgLIXl6geTbAUSvrzVmQ6SGGw1gnpIY21how9QquBjPiVs0FJKsLyzF99o0SKsW7g31yBEhhSQ1xvWqAwEjMUoR5BPUEQDme5AhMS8FwmkvdV6PBuT8tpEX3Wn-EhAjTdmltDFdt8bJOgDrXcxcGhSYqXtLp1PVoXZ6QSDm648UiBqN5A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJm76MN3Fs2jER38ClYVUg6e8",
+         "plus_code" : {
+            "compound_code" : "GRG8+X3 Masai, Johor",
+            "global_code" : "6PH5GRG8+X3"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJm76MN3Fs2jER38ClYVUg6e8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90
+      },
+      {
+         "formatted_address" : "104, Jalan Kempas, Taman Megah Ria, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.489429,
+               "lng" : 103.849452
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.490803129892722,
+                  "lng" : 103.8508171298927
+               },
+               "southwest" : {
+                  "lat" : 1.488103470107278,
+                  "lng" : 103.8481174701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "021c90a33c673cee196b1e288617e29f3019b46f",
+         "name" : "牛魔王",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107100556847400847224/photos\"\u003elam maggie\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5ezCVsBfSrlQxph9_BFSA-C9IHh5rBLtHw2BOdfv0dNIMAjG8sgdl_gVK8Honw_u6vIapR_AKhXoij63P65QOcuJ1WPYapeEXImy09RSz5-8LKIIAe8k74718sxFSJckEhDuNQivl8BRxNsotAXLxMACGhTbZyMQ7IChsBMjWVumfAjYXS0faA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ0yYs4Zhs2jER7YjjVhJhS5M",
+         "plus_code" : {
+            "compound_code" : "FRQX+QQ Masai, Johor",
+            "global_code" : "6PH5FRQX+QQ"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ0yYs4Zhs2jER7YjjVhJhS5M",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Tesco Extra Plentong, No. G10, Jalan Masai Batu 10, Johor, 81750 Johor Bahru, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5216636,
+               "lng" : 103.8156188
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.523157879892722,
+                  "lng" : 103.8170836298927
+               },
+               "southwest" : {
+                  "lat" : 1.520458220107278,
+                  "lng" : 103.8143839701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c15057503f0e2b70d541e94ae89bbc77414bcb17",
+         "name" : "Jabat Mutlak Sdn. Bhd.",
+         "place_id" : "ChIJpdgbK3ps2jER1CkqPHvFBTc",
+         "plus_code" : {
+            "compound_code" : "GRC8+M6 Masai, Johor",
+            "global_code" : "6PH5GRC8+M6"
+         },
+         "rating" : 0,
+         "reference" : "ChIJpdgbK3ps2jER1CkqPHvFBTc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 21, Jalan Permas 10/2, Bandar Baru Permas Jaya, Johor, 81750 Masai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4962315,
+               "lng" : 103.8161761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.497581279892722,
+                  "lng" : 103.8175337298927
+               },
+               "southwest" : {
+                  "lat" : 1.494881620107278,
+                  "lng" : 103.8148340701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72fdefa01d59ae79edf7ff8011b26cbd6728bf92",
+         "name" : "Meldo Cake House",
+         "place_id" : "ChIJY18cUp9s2jERig2D1qeaah4",
+         "plus_code" : {
+            "compound_code" : "FRW8+FF Masai, Johor",
+            "global_code" : "6PH5FRW8+FF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJY18cUp9s2jERig2D1qeaah4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "21, 1, Jalan Sierra Perdana 1, Taman Sierra Perdana, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4812596,
+               "lng" : 103.8680918
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.482688229892722,
+                  "lng" : 103.8693704798927
+               },
+               "southwest" : {
+                  "lat" : 1.479988570107278,
+                  "lng" : 103.8666708201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9ad92283f69d9d1c912f645c273a2cff863fe5f5",
+         "name" : "Sp 1 Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114509595954866599902/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkIH2GbhLiieRkPBKJ9jOwapPuhksZHNoINuNZGcc0zcdjWtGqE4-5WS2HT3o_5FUm5-jElTNFn7SHZu92X_DO8QUylZvhnVq3gTYnVo1-jaJpzyljFFQt1s_yxB_jkTZEhAVCkjhf8T_pdBPJdAJWEgyGhQrjgUPDUZUNsPwmf3Mcy4H4_CA6A",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJnScLANZq2jERoqqgeW9ljwI",
+         "plus_code" : {
+            "compound_code" : "FVJ9+G6 Masai, Johor",
+            "global_code" : "6PH5FVJ9+G6"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJnScLANZq2jERoqqgeW9ljwI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Unnamed Road, Permas Jaya, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4980372,
+               "lng" : 103.8117601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.499359229892722,
+                  "lng" : 103.8131105798927
+               },
+               "southwest" : {
+                  "lat" : 1.496659570107278,
+                  "lng" : 103.8104109201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8cddd0516bff172c28b96dbbf351cff4dadac6fc",
+         "name" : "Why! Chicken",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116010531780668776702/photos\"\u003eSathieswaran Machappan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA_wD92t_1FFG0qkPgW6aqKmYHluCpUDsx7qPZ9BFVJcQklffhiUAdadWbaYQqPqzVyKENa-trhET24gHRq8EC5qFkm0yDnnCApmq2i5hFgd87Dn5co-hNiE8CgkVvognEhC4NL5_WjQMpZHLZAyQPyBAGhRXRMyY9_RJ4Gg3i4pRnpAGv7rL7g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNTGWDhdt2jERlbUwK32GRNs",
+         "plus_code" : {
+            "compound_code" : "FRX6+6P Masai, Johor",
+            "global_code" : "6PH5FRX6+6P"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJNTGWDhdt2jERlbUwK32GRNs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "BALAI KRT, 8, Jalan Sierra Perdana 1, Taman Sierra Perdana, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.48131,
+               "lng" : 103.8676779
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.482621879892722,
+                  "lng" : 103.8690620298927
+               },
+               "southwest" : {
+                  "lat" : 1.479922220107278,
+                  "lng" : 103.8663623701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "653af0874ae21911de5ee432e0df9a7318621c7e",
+         "name" : "CHEESY47FRIES",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1173,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104219230184919530607/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACwDxrj4A94lr5DxH0P2yWm1Xi6_3YTMEbFrkUP-UtWaZ8JYBCikusVMWQphDDfQaipbZuzWWh1399T1parMc8YkMcsFBCNT_uQKAPq28eTkOuFZcVcIOU57B_8MUQ7GIEhDLs35t6TP2LSm6DnrKFjd7GhQ5sjp5bxjXnm2GmcSrkMgHaDmZWA",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJp6pBBKxr2jERSiO6QkwYpc8",
+         "plus_code" : {
+            "compound_code" : "FVJ9+G3 Masai, Johor",
+            "global_code" : "6PH5FVJ9+G3"
+         },
+         "rating" : 0,
+         "reference" : "ChIJp6pBBKxr2jERSiO6QkwYpc8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot 5341, Jalan Helang, Kampung Baru, 81750 Masai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4914919,
+               "lng" : 103.8836086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.492844979892722,
+                  "lng" : 103.8849897798927
+               },
+               "southwest" : {
+                  "lat" : 1.490145320107278,
+                  "lng" : 103.8822901201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "33d58437fb163f2b538b79f94ccb183146baffb4",
+         "name" : "SweetbakeryJb",
+         "place_id" : "ChIJZ4yiKSdr2jER9aDzyyDPy7Q",
+         "plus_code" : {
+            "compound_code" : "FVRM+HC Masai, Johor",
+            "global_code" : "6PH5FVRM+HC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJZ4yiKSdr2jER9aDzyyDPy7Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "FK 1, Jalan Persiaran Dahlia 2, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.4821929,
+               "lng" : 103.889342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.483465829892722,
+                  "lng" : 103.8906574298927
+               },
+               "southwest" : {
+                  "lat" : 1.480766170107278,
+                  "lng" : 103.8879577701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "001f690c4733e490d93e11f5bfbb4901f9bcc69a",
+         "name" : "Fast N Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJaSBulslq2jERWctZB1H6kqQ",
+         "plus_code" : {
+            "compound_code" : "FVJQ+VP Masai, Johor",
+            "global_code" : "6PH5FVJQ+VP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJaSBulslq2jERWctZB1H6kqQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

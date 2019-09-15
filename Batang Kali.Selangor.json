@@ -1,0 +1,891 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQEAAIAAAT0RG2MsKHrnDjUk0KzqyfIHkXaiU-KKXNFgbNwGE4vy-Tc59v9y2CQ532e27mIj_xz7sMkTg0ith2rfnydb9K5nA83Rt0wT181__G89XF55HsHoXB1gNcrxphCiKcQzhvB0xi8zOmkVSmjPnSv1JR9qIN88q71g_KeqqlmsLdBsBtmRbZhL65v4Vk8FHvaUck0ZsPdcKkG8yQSEbwAQ1cZXzl2KAEAN3VNEvB1u_ybNUgkCCYp_40VH4JNTT_WpaSABZxilZfX3MfevrXyQzCt2ySeWKdT4a5CtPRaEA4uaKefNOYMa4pWdXePKI21MHJzG2KfwmjIplUzeAQZMcURyl9jyRahUrfsoE6a-dhUp_nlf8GSRfYPCGbZ7FR9eupetA8p3G7lSgIGdJOcPdfRNOtNHSlPk6O4lsFD-sT0IZMvKwSmCVtnUYTDzavAaDwSLwGflmWTX_92metvbXCWtYkx5_zqUCTf9u1VVd0OUuJHO1n-IVBxeRr6P27QWPBlcfMXQgKn-q1IU6zcehZOd-U3XYGwr5XQWurCP1B-HSKGWGSB4XZkGnGb9n_DHZAk7_aN1oy4OYqKkCELdTz1qh8RiAFX87flaEW_tHqb0GctcK7C5r8z-t0-LYKJhWN6QCGgLUiDRG7eDruOeah5Ykrbr7rSmqgOD-_g-s3cEhCn3KL_c-ro1fAXuSpqianLGhS0tVK0OJTchv0YDpUZlgjjIBP7cQ",
+   "results" : [
+      {
+         "formatted_address" : "Jln Mahagoni 7/2, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4602055,
+               "lng" : 101.6597705
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.461617579892722,
+                  "lng" : 101.6611825298927
+               },
+               "southwest" : {
+                  "lat" : 3.458917920107277,
+                  "lng" : 101.6584828701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "46060d1650854b048e6935e316aedb0c3787112b",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101873615640718864723/photos\"\u003eJuliyana Bachtiar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvqzUVXhuHEMwMApka6CLdHdDrvmcFRBVGkJU-dZTvsAxvWl4eoypuxQ4cTHozNYvtRzY2W6yy7SaAwTFB-uMFwMhacTtYHa8kBKGR9Mih6mFVfsHIi_UxSLvVVR_QfMrEhBO9sbcL3bBeSxWx9SYag6zGhRizqup5Xt1JtFwzc-7y0327vcnLw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJmSrDtVdszDERWPpHl-CcYNM",
+         "plus_code" : {
+            "compound_code" : "FM65+3W Batang Kali, Selangor",
+            "global_code" : "6PM3FM65+3W"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJmSrDtVdszDERWPpHl-CcYNM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101
+      },
+      {
+         "formatted_address" : "NO 37 Jalan Meranti 1A, Bandar Utama Batang Kali, 44300 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.462771,
+               "lng" : 101.6536064
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.464145929892723,
+                  "lng" : 101.6549027798927
+               },
+               "southwest" : {
+                  "lat" : 3.461446270107278,
+                  "lng" : 101.6522031201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c9426cc5dc23e6f8fcd5b66f871a60db48a103b3",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103874923617071078988/photos\"\u003eMuhammad Hanafi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdlZWBlZdNyEZhonkXKNo8IV8mg-3HtFnyaNW6sUUxiNU6TiZLzlKSkKZ4dKrn95ir1gTPX3pmxXetCVXctRSysWMgtXQzbf5IEhg5Q1e8lILkDwwk29oSK-n_BDeWLceEhCFIZ2YQmMGFWee95DvgKAUGhSmt6DClsyyjZoKDV-fbYoztCybDg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJx1PrT1FszDERE1qlsUkNc8Y",
+         "plus_code" : {
+            "compound_code" : "FM73+4C Batang Kali, Selangor",
+            "global_code" : "6PM3FM73+4C"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJx1PrT1FszDERE1qlsUkNc8Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 594
+      },
+      {
+         "formatted_address" : "Jalan Gapi 1c/6, Antara Gapi, 48200 Serendah, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.427169,
+               "lng" : 101.639612
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.428653679892722,
+                  "lng" : 101.6408119798927
+               },
+               "southwest" : {
+                  "lat" : 3.425954020107278,
+                  "lng" : 101.6381123201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "876a9cbd6bcd1667f468d97d4df00b0f0984506a",
+         "name" : "Jomngeteh warong corner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107409008915981094403/photos\"\u003eJomngeteh warong corner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMp_b5BP2rTrHFuLvxO7ql3thkYdPFGnq5WEUtQZbH0JeKCX6F-DJ061R7tTai9Kl-zDsMZuBF82gyO3pa24ajXMhrmH0vsT9or4HyrRryAI1YIPmi3QwxEy8plYuBfYSEhDuTTFX9Ugk56MtABSZ_ZLDGhQvJa_x3_ll0jzxm5LtLWou1mFQpg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ157TwIprzDER_esBM2JELSE",
+         "plus_code" : {
+            "compound_code" : "CJGQ+VR Serendah, Selangor",
+            "global_code" : "6PM3CJGQ+VR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ157TwIprzDER_esBM2JELSE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Malaysia, 57, Jalan Meranti 2a, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4610429,
+               "lng" : 101.6574354
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462412979892722,
+                  "lng" : 101.6588063798927
+               },
+               "southwest" : {
+                  "lat" : 3.459713320107277,
+                  "lng" : 101.6561067201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "964b4500df724f72bfa25ef91ac5666c896d4a3b",
+         "name" : "Restoran Chuang Kee",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116058722514784174685/photos\"\u003ebryan chong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0DAgfeNXJPNheW5T42Nyv_1Xw6h6hsgvRVO6XmZN5F8GyInsqzgYmF-hCPF0PNIjFRBPSPZHOYtrpU7jSCjqFSVUuEXkHg8NsZY-1IDpOAOxrDjOXl_Vrd_cDsdYLX10EhDlXyFqr3ACYiT4d4Ib88RRGhQh03aEwA8mNT0JqyWr-n-6woOUMw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJk4vC5VZszDERK6qVGLGMI_g",
+         "plus_code" : {
+            "compound_code" : "FM64+CX Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+CX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJk4vC5VZszDERK6qVGLGMI_g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 28
+      },
+      {
+         "formatted_address" : "1, Jalan Jati Utama 3, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4690363,
+               "lng" : 101.6383642
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.470432929892723,
+                  "lng" : 101.6397230798927
+               },
+               "southwest" : {
+                  "lat" : 3.467733270107278,
+                  "lng" : 101.6370234201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d04eb6c2ea5c25fe26455dd74386dda341cc9e39",
+         "name" : "Ken Kee Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100064598358180911982/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAzP38quTDmBjNpDxJwwiuO474Cg6Y5yEq1hXbzQ8V7o-FzFNHOr_0-Bf3JnNjzMqc9tC0bTE_1WmmBbmaAKl61LYGzWFmj2jyoWjTmpqxZmD7iBjnJU8LnkuOL2Q2aYEdEhDxSOAPYCdSKt5X5SbzNnU-GhTln2LlCmSe1ogsA2u3zAlpfP1LaQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJB_sgp8ptzDERF1DwE5d752c",
+         "plus_code" : {
+            "compound_code" : "FJ9Q+J8 Batang Kali, Selangor",
+            "global_code" : "6PM3FJ9Q+J8"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJB_sgp8ptzDERF1DwE5d752c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 65
+      },
+      {
+         "formatted_address" : "35, Jalan Meranti 2b, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4600401,
+               "lng" : 101.6550544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.461389929892722,
+                  "lng" : 101.6564169798927
+               },
+               "southwest" : {
+                  "lat" : 3.458690270107278,
+                  "lng" : 101.6537173201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fd92c2e5cc8e4f541afc8b1e8992e0950fe28d50",
+         "name" : "Batang Kali Bamboo Briyani",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117888680962340849091/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAER6Eg_7eYwe0362h4FUE-2LpFRbWI7Z7ARUdSX-ptUTYwP8pOMzOgnTAdFhaMVlAr0d4e2gR-lQbKtjmBAJtheUsXWnefYPtI39UYzK5Q8DL17Adci50DAs-mdaTSB3NEhCcL2Fp6QKuvwWmL7DCpIB-GhRKdm1cBU2UMa_ANHP06af8r5wDxg",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJIUxS0FBszDERjsqRD_bd8UU",
+         "plus_code" : {
+            "compound_code" : "FM64+22 Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+22"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJIUxS0FBszDERjsqRD_bd8UU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "no 32, Pusat perdagangan Ara, jalan Ara 2,, Jln Batang Kali - Hulu Yam Bharu, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4574157,
+               "lng" : 101.6608755
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.458802279892722,
+                  "lng" : 101.6622659298927
+               },
+               "southwest" : {
+                  "lat" : 3.456102620107278,
+                  "lng" : 101.6595662701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cc47d88d1d34b3a469efcf282363df4f449809f7",
+         "name" : "Lepak-Lepak D'cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3798,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103440897640081916973/photos\"\u003eAwine Vircan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOAiEb6leFTK7kyJEYo-2pmUp9_DADpYxM50_fHytdWPK9z3gCkg8CTJsDzM9nuuaoNfKdPZVqkr47INBue-6tt5hwmPg1JvTlMRNnJxCgtJ2SCO4kT1wbILr0zVPT6gYEhAWjD05MhBROykvHUVz6eJbGhR2nj-L0J6HxZ8zpIqzeFyQKwviCw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJyYvuBVhszDERc8G2Yb1cRdU",
+         "plus_code" : {
+            "compound_code" : "FM46+X9 Batang Kali, Selangor",
+            "global_code" : "6PM3FM46+X9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJyYvuBVhszDERc8G2Yb1cRdU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 95
+      },
+      {
+         "formatted_address" : "No.89, Jalan Aral, Perniagaan Jalan Ara Batang Kali，44300, Pekan Batang Kali, 44200, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4563515,
+               "lng" : 101.661702
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.457733529892723,
+                  "lng" : 101.6631149298927
+               },
+               "southwest" : {
+                  "lat" : 3.455033870107278,
+                  "lng" : 101.6604152701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d592c4df331c1d9f7d0dc2500171c1ba990620e4",
+         "name" : "RESTAURAN SIN HIN YAP",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109038945058411862318/photos\"\u003esionyond\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATFkMbpGK9obwZpfQTvTR4hnbyYeyRPrc_8q35zH8pF6WSROlauBhrSjzVmaJ6YyvCPkW0CiiNZ1Tong_4dNCT4u5akFJVx4eQtI8417PUcDSsNI2yI3EjlOUfD1kI4H7EhBxmklh6n0zKqOFL2qM6ItwGhQJFDl3naZzt_uGNtk2ZgAY5qwhOw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJUy_o2_dszDERUYU8XQHc0So",
+         "plus_code" : {
+            "compound_code" : "FM46+GM Batang Kali, Selangor",
+            "global_code" : "6PM3FM46+GM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJUy_o2_dszDERUYU8XQHc0So",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44
+      },
+      {
+         "formatted_address" : "Pekan Batang Kali, 44200 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.460928,
+               "lng" : 101.657408
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462272129892722,
+                  "lng" : 101.6587641798927
+               },
+               "southwest" : {
+                  "lat" : 3.459572470107277,
+                  "lng" : 101.6560645201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "09244a661980b40003b6d638ccee16fdd5be047b",
+         "name" : "Chuan Kee Restaurant",
+         "photos" : [
+            {
+               "height" : 1052,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113745902595673213449/photos\"\u003eYuen Ching Khong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_k-xB7S2V7NzIoFID-8TTKYpiy4l3NU5OvDQrl4PO80gr5WZ9oyq8u3JRWoUtoNk4Nd0gOOUmbuP5wflV_mqwMy27-16KwtjEuUQcOZ7N2nj8PLDAIu1w8uheWqg2B9EEhCWrO7LxLMqomjRXLT6WcAIGhSnZjn0aR_lKucyqywoQR4vV1b-3A",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJUewl5FZszDERsuOkHP1Gbr8",
+         "plus_code" : {
+            "compound_code" : "FM64+9X Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+9X"
+         },
+         "rating" : 4,
+         "reference" : "ChIJUewl5FZszDERsuOkHP1Gbr8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "3 & 5, Jalan Meranti 2a, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4619635,
+               "lng" : 101.6557227
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.463367829892723,
+                  "lng" : 101.6570905798927
+               },
+               "southwest" : {
+                  "lat" : 3.460668170107278,
+                  "lng" : 101.6543909201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ba246cc2d79ac04fd1f54b940ec7bbf30a242fac",
+         "name" : "Lucky Light Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104848287831684837436/photos\"\u003eQQVivian QQVivianwenwen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVvGgGZX4E_Yd4RX3Cb-IBvszsMXxKkW9rnwWR0ZzVcBdfVeuIB8OkGwDbQ5YvYyIdjn2FqqPI-Tp1s9RIHBlR9ItqM2shdQUSAj1zrvGs5DaN0GDDoaZ1OYpYC1PHGQ_EhBgnkr7RPfXx2L3UG_gbt_4GhQJCXPi0DN6PRFc69kQx5lOwTUC0Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJN_ffSlFszDER225o3EWt--c",
+         "plus_code" : {
+            "compound_code" : "FM64+Q7 Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+Q7"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJN_ffSlFszDER225o3EWt--c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 114
+      },
+      {
+         "formatted_address" : "103-G, Jalan Ara 2, Pekan Batang Kali, 44200 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4565114,
+               "lng" : 101.6607924
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.457909129892722,
+                  "lng" : 101.6621411298927
+               },
+               "southwest" : {
+                  "lat" : 3.455209470107278,
+                  "lng" : 101.6594414701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "52f39da2a61d4ca002334e91df105dadd5ca078e",
+         "name" : "Bro Station",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105712889020285812223/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAisuFj4gTe_T02OnJv_Rwzz8gVV9k43SfenaaNyaaR2-_2ycxY_agVWmCFfb-Uz5_jo49BUvqVtJpRq_UU2x0w7S_QQ8hV9Ema8gKJYh3Yzog2s9tVqgQNBAi7M0FU84yEhDvZpFJyBNvLWKtFD873tT0GhTu5g9X7EtDYsnFP0553vZJuz6-Ag",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJh7XJc1hszDER5loJCYZstzE",
+         "plus_code" : {
+            "compound_code" : "FM46+J8 Batang Kali, Selangor",
+            "global_code" : "6PM3FM46+J8"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJh7XJc1hszDER5loJCYZstzE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "No. 4, Jalan Mahagoni 2a/7, Seksyen 4 Bandar Utama Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4587001,
+               "lng" : 101.66085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.460024779892723,
+                  "lng" : 101.6621745298927
+               },
+               "southwest" : {
+                  "lat" : 3.457325120107278,
+                  "lng" : 101.6594748701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8be0e14c443182a48877e3bd7737611381044f6",
+         "name" : "Heng Kee Tua Jiu Thou Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102626243733220318962/photos\"\u003eYew Han Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAtdbS0bqOZK_Qyfd2jP7cX0eNbfN16sLE2YzF5JsnBKXqmzxvc81ZT9TQXVtDt3iHpUjzY7pVdS-reTjrAToyTj7gw2dvCj8of1BK0J0CnXbO2VK_tInnRiXf7N6UX-JEhCekflD1giVapHygSjGctVSGhQ6bDJliOqATBl7IlgrSQaBYea7iQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJAZYu-1dszDERghgVRY_hrxE",
+         "plus_code" : {
+            "compound_code" : "FM56+F8 Batang Kali, Selangor",
+            "global_code" : "6PM3FM56+F8"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJAZYu-1dszDERghgVRY_hrxE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "No 43 & 45, Jln Mahagoni 7/2, Seksyen 4 Bandar Utama Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4608581,
+               "lng" : 101.6593573
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462230379892723,
+                  "lng" : 101.6607292798927
+               },
+               "southwest" : {
+                  "lat" : 3.459530720107278,
+                  "lng" : 101.6580296201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "22cecf259087943d4608101d69f2625944b058d0",
+         "name" : "2innRia Kafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 347,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115151885633780323496/photos\"\u003eIntan Nazira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvqTFqrz1vxSYV_n0MVoKT_88SWlB37wrPafJxJPZSjd9hkvdJHW7W6VekdcMjfL6kglhy8KJPvHOpjteSLcajXlt7YYHFT4FOgiuk9AL144EnS5wTeIiatF3Hhu3E2CPEhD3ttLz7lWvyrPX9FyFyXIdGhQBlWr4EV_iSkUVFFkjJORgMp4cdg",
+               "width" : 506
+            }
+         ],
+         "place_id" : "ChIJ9V0BUVZszDERc9Q7mxMXWuQ",
+         "plus_code" : {
+            "compound_code" : "FM65+8P Batang Kali, Selangor",
+            "global_code" : "6PM3FM65+8P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ9V0BUVZszDERc9Q7mxMXWuQ",
+         "types" : [
+            "meal_takeaway",
+            "cafe",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 203
+      },
+      {
+         "formatted_address" : "Pekan Batang Kali, 44200 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4566687,
+               "lng" : 101.6615478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.458017079892722,
+                  "lng" : 101.6628979798927
+               },
+               "southwest" : {
+                  "lat" : 3.455317420107277,
+                  "lng" : 101.6601983201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "84c6a560ae95f02d9a0a0b40f748db74b5e41023",
+         "name" : "Restoran Nasi Kandar Malikah Maju",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108968667976885178637/photos\"\u003eaziziarfa azizi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3wrwuNfH5OFdOSGch5IG9CRX2eeMX340iCNaITyroQVfpP0Y8OOqlbeeJMPInQDf45J7q1-m_xhwFncy3fuW_Ga5GV9WoSLJriZLZ3xvJQ7Yn5Af6H_j96oQDWL1y7o_EhAfr2ImgmE0r7weVMMRcDlmGhReu4ZC7GXqQHvLQx1B07EHhdyYqw",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJtwg_3vdszDER7nPeJj-mbz0",
+         "plus_code" : {
+            "compound_code" : "FM46+MJ Batang Kali, Selangor",
+            "global_code" : "6PM3FM46+MJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJtwg_3vdszDER7nPeJj-mbz0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 201
+      },
+      {
+         "formatted_address" : "No. 38 Jalan Besar, Hulu Yam Lama, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4543733,
+               "lng" : 101.6409085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.455741229892721,
+                  "lng" : 101.6422887298927
+               },
+               "southwest" : {
+                  "lat" : 3.453041570107277,
+                  "lng" : 101.6395890701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "71f90afe460530bd4f90d0d7449956908381400f",
+         "name" : "Swee Yen Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118412628976656880680/photos\"\u003eFred Contacts\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI3tHqrbpeDsUSGh8SMWfP1aZ28qfLDjbOWnH7meFx-j8ohktyumZuFRzVeXO6Ih-k-dNjxDuz97agnoCw81vZf4DTrjET-ZYimwew6LCwV_AhGCNyZqNjDEjvElo784lEhB94ocPVJvSWDiYu2V4trtIGhSpcZYCntYjiwv8oyRwz0Q3mf69Eg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUWkr8n5szDER0nzCsuJBC9U",
+         "plus_code" : {
+            "compound_code" : "FJ3R+P9 Batang Kali, Selangor",
+            "global_code" : "6PM3FJ3R+P9"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJUWkr8n5szDER0nzCsuJBC9U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 244
+      },
+      {
+         "formatted_address" : "No. 33, Jln Mahagoni 7/1, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4607493,
+               "lng" : 101.6586744
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462059429892722,
+                  "lng" : 101.6599800298927
+               },
+               "southwest" : {
+                  "lat" : 3.459359770107278,
+                  "lng" : 101.6572803701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eb32dcbfd91f3118134b4ba8651d9f3fecc05318",
+         "name" : "PHD BATANG KALI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116383630596996041362/photos\"\u003eAlan Leow C.Y.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATEc1pbf1JJFvP35VvjAtMB9DFbVSzeE8KCB49M_S87GSkuM7j43g--CXeklxbTxF2FZ7FypCIlx5KjluYwge1psflwIC69yDxL6QtkDGv4dWoiiB8Ir44MN0f-xvZYQLEhCKR-A-c_ABSEzUbNYRIbgbGhR1fKIzegSlctxbOszXm3AaQ0nFpw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJr3ssppdtzDERx9l6A-n5EpQ",
+         "plus_code" : {
+            "compound_code" : "FM65+7F Batang Kali, Selangor",
+            "global_code" : "6PM3FM65+7F"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJr3ssppdtzDERx9l6A-n5EpQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "35, Jalan Meranti 2a, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4616805,
+               "lng" : 101.656858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.463015729892722,
+                  "lng" : 101.6581985798927
+               },
+               "southwest" : {
+                  "lat" : 3.460316070107278,
+                  "lng" : 101.6554989201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "574feaa6940aa523df723591689c9b9cad944596",
+         "name" : "興旺發美食閣 Restoran Hing Ong Huat",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100167696186785526722/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1XRFpYZYf_IxDz3ZYak_0gN5aEKvKekAXnBXhdKfgtoesOScGkvhzka1S1fS4tyUtlTUNkCCKrii_ncKX8Qek6o9qFImuwJCYXKy2gioLd1-4ahDW3iSuLH-bRVaswrMEhClnNAEtv3QuvqeQNI4G82mGhThJpHUXfl4dreCzWB4hu41Lkzsxg",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJK1hgwFZszDERuHiR6oiKdgs",
+         "plus_code" : {
+            "compound_code" : "FM64+MP Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+MP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJK1hgwFZszDERuHiR6oiKdgs",
+         "types" : [ "restaurant", "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Jalan Mahagoni 1, Pekan Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.4574759,
+               "lng" : 101.6643215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.458795079892722,
+                  "lng" : 101.6656570298927
+               },
+               "southwest" : {
+                  "lat" : 3.456095420107277,
+                  "lng" : 101.6629573701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d87793be2c65967c244bd3c82cc4e8649a6efb7",
+         "name" : "Warung Nasi Kukus Tamu Hill",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114477826237592281839/photos\"\u003eIDLAN JAYA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyznYWe9DG8Zv3GYxRSffQ7IFzeqT3fzXzMEHx8TnRcuF-5DDAEmX0wy-7mqg6ALv684kC6sKho5p5fOaRl3bLHOqQLqX53iwLCnYK018iy0aoO2qJX0IMTTtwujiAG9TEhABvBWEiWPpSc2y0Bsjkp-GGhS6OOXfhbjk4jMLdH2_YJ8CMa6cCA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJJ72qefdszDERZ0wArpZqvfw",
+         "plus_code" : {
+            "compound_code" : "FM47+XP Batang Kali, Selangor",
+            "global_code" : "6PM3FM47+XP"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJJ72qefdszDERZ0wArpZqvfw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Jalan Jati Utama 1, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.46823,
+               "lng" : 101.6389983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.469488429892722,
+                  "lng" : 101.6403329298927
+               },
+               "southwest" : {
+                  "lat" : 3.466788770107277,
+                  "lng" : 101.6376332701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53b9c9e09e450688885e6088613efcaf8730be28",
+         "name" : "restoran arbak",
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115663487011040564504/photos\"\u003eMohd Yusof Tawil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAEz-PqhASkUTg1ho4hh-Af2g5eQbCukBuA00lrTLvnfR6EY6Zx91xym0mNUK9cRmOhta0WexJvOfnvHw0Wxh9FRAFSOJ2VTijXSMPvynNdPTxjr1KC7JQCG-mjBX7jRaEhCOf5UmWBgkFM3YK0ybN5GqGhS72YDHccqoTtgSONuGX4gH17X7eg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJfZw-U7VtzDERO4nksb987_M",
+         "plus_code" : {
+            "compound_code" : "FJ9Q+7H Batang Kali, Selangor",
+            "global_code" : "6PM3FJ9Q+7H"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJfZw-U7VtzDERO4nksb987_M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Jalan Meranti Utama, Seksyen 2 Bandar Utama Batang Kali, 44300 Batang Kali, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.461349,
+               "lng" : 101.655207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.462700579892722,
+                  "lng" : 101.6564848798927
+               },
+               "southwest" : {
+                  "lat" : 3.460000920107277,
+                  "lng" : 101.6537852201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "32f3353931c05a1e96086db505c31ecc6c7c1de2",
+         "name" : "Restoran Maju Iman",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101520108757337057050/photos\"\u003eamirul azam ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACTUIa1lgoLKeMr0HW3zvTzSAbl_YDQAJuAE8qroiTtpQfh3PZ4ZRHZkzegv_1BxJ6Czjstk_A9ZaTKRbdl_8zG3EhL6wjolUp4aEpo6hrVlVLn9JHEDLqw_hH1Om1BTQEhAtwaGMGYDBHYM33bxMfxWIGhTYyCQ12bp_hktxKYc9_KjLZAUVmQ",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJsUZlMVFszDER7-ZwlKL7B4w",
+         "plus_code" : {
+            "compound_code" : "FM64+G3 Batang Kali, Selangor",
+            "global_code" : "6PM3FM64+G3"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJsUZlMVFszDER7-ZwlKL7B4w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 53
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,839 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAAKJcSbJa1FhVaqAH_AvJdS2KKnF5v8IrrVOJZCE1yInPi-T9zkMBJy5pRGiVddNokNkilsQuGflAeUQ6hBXcVjVs13rOwPbH0E2stN71oYXb98aS1U6gVQGFzYAK4GMRw5Bb7xXRmyq0l56GC3nA1XF7_qlA9lF43uTFqA-pV-u8h6sO-hmImuO4GbiPP0VieIK2YfQFTG3rJ6L8rZ0IZpXwA2JRUlK2aJoCmv3bFJ1WDR8s8vECf43vlxT1tvyAvpTovyVo5IcjtESEwmSzTbsHqIzmoy_So7mmP69rG0sQIgXP7Yj1VsmkxVcQFVMVFq4HCY_DBWbFMO-hHQrVysWqTkAPKt1d4KAXslRLk2Kjlx1fAhqjsqc3ph58YPTDij9vZDAtT-koN4g83kSMbOY_Zn1shQ3QgQ1YdgHbdZVU6a9RX4jX4sLUJxnNWQe2lfIrCpdSq737tsfCfi1Wu9lQ7T7AKWeATeXERX12RinqjItXCZ6DMdtU0gWu9gX0pj2DV6W23mxKFhD2vQJofui-uG2061PBX1xDxtf7VGmvQj9qCIVCdvUqWEOb3KWFj0TJW7rfzCUeFph_tLcLn3Hi_-dfG0weLotw6zWLLtpNYIoeJWs7pswp_79sXo4hPyswiHMIi6N8CJEe-JrqKCWFyK1OmZeqcnerL2AgH8qhEhCAg-NtRccCAM3PC3BMu2ZkGhQ4pGg9lv7rl5qqamYYD7BhLwfBsA",
+   "results" : [
+      {
+         "formatted_address" : "Taman Samudra, 53000 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2349185,
+               "lng" : 101.6898016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.236417179892722,
+                  "lng" : 101.6912020798927
+               },
+               "southwest" : {
+                  "lat" : 3.233717520107278,
+                  "lng" : 101.6885024201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ded9cf7b3ca90005382e6eb68b5e028cbe39f2e4",
+         "name" : "McDonald's Batu Caves",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112150516334276740978/photos\"\u003eNEP TV\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA3j2OT5Iwg8NGfXfgY3MLSjL7FnFCjZcNUbNm6UHZy8naxqvFIW9oNUu9LL-fvQEjxQmIuY1Egvb71M-oJ5pYS83wfToDHgfpty0sepcG9Ig_68qMwqmDyJYTnfqwZKugEhBah_Qf4Pvt5k-x_DhWpC9JGhQnGuzxgxKS31Jq-AQV3AIX8xhHbg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJq6raAXRHzDERDQscGMFzJrE",
+         "plus_code" : {
+            "compound_code" : "6MMQ+XW Batu Caves, Selangor",
+            "global_code" : "6PM36MMQ+XW"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJq6raAXRHzDERDQscGMFzJrE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1570
+      },
+      {
+         "formatted_address" : "1, Jalan SG 1/3, Taman Sri Gombak, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2368451,
+               "lng" : 101.699209
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.238194929892722,
+                  "lng" : 101.7005588298927
+               },
+               "southwest" : {
+                  "lat" : 3.235495270107278,
+                  "lng" : 101.6978591701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aef197e615900c688aadf71bbec84b3a496d816b",
+         "name" : "Texas Chicken Sri Gombak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106788824152598294301/photos\"\u003eHabib Talib\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdNDuwaiiPiTEoJmYz97iumA1cmwpTqPIOPDd0O0cJnXniDCIt0w6w33UU7fyjDT1EuLt0fFc93XM7MlLRsMm60QMuRCkWf9girpKbxVB6ydnyOLu3SBrMvO0rIuPiIyIEhCqh5xzjS3GgV0OyVS1bPYzGhQQYWgvBOF9deBL-vtNT_Cg5klQfA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTw4rs4FHzDERw1BL6OaiTOk",
+         "plus_code" : {
+            "compound_code" : "6MPX+PM Batu Caves, Selangor",
+            "global_code" : "6PM36MPX+PM"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJTw4rs4FHzDERw1BL6OaiTOk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1015
+      },
+      {
+         "formatted_address" : "No. 7, Ground Floor, Jalan SG 1/6, Taman Industrial Bolton, Batu Caves, 68100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.237719,
+               "lng" : 101.697513
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.239084229892721,
+                  "lng" : 101.6988628798927
+               },
+               "southwest" : {
+                  "lat" : 3.236384570107277,
+                  "lng" : 101.6961632201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ba036c900fafe402d9e6f8680a6e6f94c080c154",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111326322442274686460/photos\"\u003eFarzaana Nazilah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAylFvNq7RFE0fyTf8vCQuqh3VpqX4E6Sakm-8j1pbxLMwT7lSlEUeVtnxxzTYFEgEzDgWKMaI3krwrNjlk7TD4D9Xl-FW0f5brqmHMwNRKMWT6lFXGFcff3k2R3ueTnIaEhCQks-FHCIA5cC9oeobE4X1GhS_mVDDcbPM1JUyMDn_zv6fwe_TZg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ_4_u93pHzDERSzh_MaJv91k",
+         "plus_code" : {
+            "compound_code" : "6MQX+32 Batu Caves, Selangor",
+            "global_code" : "6PM36MQX+32"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ_4_u93pHzDERSzh_MaJv91k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 667
+      },
+      {
+         "formatted_address" : "8-G, Jalan Samudera Utara 11,, Taman Samudera, Jalan Selayang, 68100 Batu Caves, 68100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.23367,
+               "lng" : 101.695207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.235017179892723,
+                  "lng" : 101.6966811798927
+               },
+               "southwest" : {
+                  "lat" : 3.232317520107278,
+                  "lng" : 101.6939815201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d744ef66fe84a20c8910aba69ca9be18d9315ac3",
+         "name" : "Domino's Batu Caves",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112911520226861918923/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmkAFMdUNdDFOSA7D-vgBXz6w1SZsEHJzDXjAtTFWX6C_kmcCCeHwbI5blSWYCMVU0Vah32SiZT-uHQZLM2Q_cAAR5Tb8WiI1uSXWEq3K0_oC6oyWa3Kf7xuVyhlZ6aOYEhBzQlhfwE5eHR0NSSLU8Nf6GhTzetqdnxT35eUKl0OaQrHEx1J2Lw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJfTB7THdHzDERQesgCh-UD-0",
+         "plus_code" : {
+            "compound_code" : "6MMW+F3 Batu Caves, Selangor",
+            "global_code" : "6PM36MMW+F3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJfTB7THdHzDERQesgCh-UD-0",
+         "types" : [
+            "meal_delivery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 146
+      },
+      {
+         "formatted_address" : "Jalan Os 1/1, Prima Selayang, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2474787,
+               "lng" : 101.6510622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.248819529892723,
+                  "lng" : 101.6524538798927
+               },
+               "southwest" : {
+                  "lat" : 3.246119870107278,
+                  "lng" : 101.6497542201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1cc77dd2e60b3831c5cbd401a3cd907ebe6e136c",
+         "name" : "Bumble Bee Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJF1pEN-ZGzDER8G7z1TEKqKI",
+         "plus_code" : {
+            "compound_code" : "6MW2+XC Batu Caves, Selangor",
+            "global_code" : "6PM36MW2+XC"
+         },
+         "rating" : 0,
+         "reference" : "ChIJF1pEN-ZGzDER8G7z1TEKqKI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Karak Expy, 53100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.241022,
+               "lng" : 101.7162169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.242285979892722,
+                  "lng" : 101.7175498298927
+               },
+               "southwest" : {
+                  "lat" : 3.239586320107278,
+                  "lng" : 101.7148501701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "96a7e15a1f41105545dfacb250aef80a886bc3a4",
+         "name" : "McDonald's @ Lingkaran Karak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107356482783503330312/photos\"\u003eHong Hong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8wBRf_5dYSXFEk3aXqRwJ5T8lRqXapp4NBfIzDWvXXWpwnotTpDQmc_R7zABL-UAWN1e_avkig2P-sB8s2YYUeWIA6Xrt8F-mwSQPUfqZhD3X0CyL0eiV7E14JlhV0NOEhATAe37UdX8StrsmDTyy_4sGhQrXx_050bDr6qhpZX2BKhRy1iYwA",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJc0VM55o4zDERLcJL_uSM8G8",
+         "plus_code" : {
+            "compound_code" : "6PR8+CF Batu 7 Gombak, Selangor",
+            "global_code" : "6PM36PR8+CF"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJc0VM55o4zDERLcJL_uSM8G8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1366
+      },
+      {
+         "formatted_address" : "1081, Jalan Ipoh, Taman Wahyu, 51200 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2215006,
+               "lng" : 101.6711772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.222855079892722,
+                  "lng" : 101.6725702298927
+               },
+               "southwest" : {
+                  "lat" : 3.220155420107278,
+                  "lng" : 101.6698705701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d07ffb0d30158322acf5a01cdc29fb448189739",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109864793495307609685/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxK9M0W6EfPbbGfYSgVv75aOEwPirenGi-PDbR3iR_LQJKK23miV1oc5nKylkp40yXfgXZPEa2MQiQorbVxLqWUw19dCkBMi6tywNtxkPK8xNESZyayTLDUZcU97vhGuGEhDVQ8fR-I9rt7-8T66CIUcoGhR4ZE7ziOMdyh0CQlk6HS0GyzqRUw",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJU0OXw69HzDERv1OCE4QbyEw",
+         "plus_code" : {
+            "compound_code" : "6MCC+JF Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36MCC+JF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJU0OXw69HzDERv1OCE4QbyEw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 16
+      },
+      {
+         "formatted_address" : "Taman Seri Melati, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2448183,
+               "lng" : 101.6535655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.246197029892722,
+                  "lng" : 101.6548766298927
+               },
+               "southwest" : {
+                  "lat" : 3.243497370107277,
+                  "lng" : 101.6521769701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4b2993e8a83389c6df12f6927d70ca4c2469727c",
+         "name" : "Fast Food Station Wan Donut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110913632484497455852/photos\"\u003efairuz rahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzb2wTFtG6iuUoxlCaP5YytOMRcGnYwIAXZM5IF4vCsARNqTJOV5YY-1LQNYeJIuIwBZfTvPpyygRKE-PArpv91OO_bDyixt0er6O1C1yM2zWsFbJhY48vJX7zI3VhG1IEhC88GXEAH9pL8LQGkehnSP5GhSZbB6TH1FIOo3PmKCpFJRn_OlS4Q",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJk0_rhqpHzDERiUPLUaMHIko",
+         "plus_code" : {
+            "compound_code" : "6MV3+WC Batu Caves, Selangor",
+            "global_code" : "6PM36MV3+WC"
+         },
+         "rating" : 5,
+         "reference" : "ChIJk0_rhqpHzDERiUPLUaMHIko",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "No. 1 Jalan SG. 1/6, Taman Sri Gombak, Batu Caves , Malaysia, Selangor, 68100 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.237739,
+               "lng" : 101.699261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.239118529892723,
+                  "lng" : 101.7006113798927
+               },
+               "southwest" : {
+                  "lat" : 3.236418870107278,
+                  "lng" : 101.6979117201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8ef181fed2917f5951f4498cf0e9ef29ecda8934",
+         "name" : "McDonald's Sri Gombak",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2419,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101467340233122719021/photos\"\u003eAY Studios\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsMYldXTXQ0Si8STqk4DPG_YPZDBH9eIfltCCQyOF-v0csMlZ8b6PTRzordCDDKdWRKyxL4VHMJizVar4UMv0bHrqeU-N92iWpjDrMYVdqPWx6z5F7fY2TrPZHcxm8vkfEhAkN3YQ4X8Bussb1UP637iEGhRw7s7EmmHLxK-BETY51TbxOFLt1w",
+               "width" : 3629
+            }
+         ],
+         "place_id" : "ChIJTw4rs4FHzDERZDv6E3MrLcw",
+         "plus_code" : {
+            "compound_code" : "6MQX+3P Batu Caves, Selangor",
+            "global_code" : "6PM36MQX+3P"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJTw4rs4FHzDERZDv6E3MrLcw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 842
+      },
+      {
+         "formatted_address" : "Lot B.44, Selayang Mall Shopping Centre, Jalan SU 9, Taman Selayang Utama, 68100 Batu Caves, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.23733,
+               "lng" : 101.64446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.238629879892722,
+                  "lng" : 101.6460582798927
+               },
+               "southwest" : {
+                  "lat" : 3.235930220107277,
+                  "lng" : 101.6433586201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a52c835660b6535848b1b4cd90e3ad85c5f3d2f6",
+         "name" : "McDonald's (Selayang Mall)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113180028997523086318/photos\"\u003eMARXimal King\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACgRorhKvN1I0IQof62sLS2rruWEfIDGvEndHeo64xYAc5UaSkk2Y6ThBQHFVgJXQJq1az-dYa0dGkbQGCu-Pk55SXOQMg2SRBL8YiVtjZmNbwO3NlExCMVi96YpB8sb-EhAmegaIM3ojoZWURfi6hv9PGhSg6p0Zi1i44xTVfWFO-kV5EPcAdA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJs05iYfFGzDER3Zh38VDZG9Q",
+         "plus_code" : {
+            "compound_code" : "6JPV+WQ Batu Caves, Selangor",
+            "global_code" : "6PM36JPV+WQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJs05iYfFGzDER3Zh38VDZG9Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 185
+      },
+      {
+         "formatted_address" : "Giant Hypermarket Batu Caves, 10243, Jalan Batu Caves, Taman Samudra, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2352892,
+               "lng" : 101.6941792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.236822579892722,
+                  "lng" : 101.6955404798927
+               },
+               "southwest" : {
+                  "lat" : 3.234122920107278,
+                  "lng" : 101.6928408201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7b58cbfe0e0334d8e2dee517b06bff39b74e0ae4",
+         "name" : "Leegacy Coffee Big Cup Hypermarket Giant Batu Caves",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107758600178082521723/photos\"\u003esanisah merman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAKDB_kG42tWGba0FElPZsefwBbytMmVVWtznC1WMm-vUzuiE8RC52rVEF3AOuN3X5zelMjFYGblzZrZQRlhMKfdD2hBplCtpRYVWIr_2xSyDZJA907gyonk6RGUfMKz1_EhDVG0jV5TiFgXpzGa3ju2FmGhR4V7LKkVIiSaqFThKkZcnO1kZZrg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJy5EhtXBHzDER4hgDyvE7PZQ",
+         "plus_code" : {
+            "compound_code" : "6MPV+4M Batu Caves, Selangor",
+            "global_code" : "6PM36MPV+4M"
+         },
+         "rating" : 0,
+         "reference" : "ChIJy5EhtXBHzDER4hgDyvE7PZQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Petronas, 25747, Jalan Lingkaran Tengah 2, 52000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2292641,
+               "lng" : 101.6550097
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.230692179892722,
+                  "lng" : 101.6563327298927
+               },
+               "southwest" : {
+                  "lat" : 3.227992520107277,
+                  "lng" : 101.6536330701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6903c65224a12102f81754071768ee05d9c399e4",
+         "name" : "McDonald's MRR2 Kepong (wawasan mulia)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107048446370380893432/photos\"\u003eSky Mah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2b0UcOXl5CmnTNPjcU201tCICAics296eFufTvOQQvzq_TAkEAntrZHuLcNw6lI2O7yDz62CtFjm0evOmFMZJDaasryXwLcmnL9z_daACwpNYhkHjE-OY9LAGYy_XtNxEhCfBi4By2-GuGn31qqFkFjbGhTeABnNxJ-jeKjLHTU5GoD4oYVdhw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJBwoE4FVGzDERZ__-nuVZ8zU",
+         "plus_code" : {
+            "compound_code" : "6MH4+P2 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36MH4+P2"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJBwoE4FVGzDERZ__-nuVZ8zU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 970
+      },
+      {
+         "formatted_address" : "No 9, Jalan Sri Selayang, Taman Sri Selayang, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.235707,
+               "lng" : 101.6719178
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.237064279892722,
+                  "lng" : 101.6732834798927
+               },
+               "southwest" : {
+                  "lat" : 3.234364620107277,
+                  "lng" : 101.6705838201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c38f08b7ec6c623b041fb6076bf813ffd4c976a4",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1066,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108189188477060460209/photos\"\u003eSajeela Rehan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4NV4F1EMw4lgGjA-98qr0n8GjB730Z8sOXx0fVtCh0DAnQe_8mPNmf7P4_Zj_Sd8aD2vUwy0_ULpK7IEvhhVzS7NL33P-S5jcSAyfHZDfsco8nLuHrypAZ2FmekYZIWtEhB8DXMEax32Qi8TFSzTo-ToGhTFqIjnWesaPZ9qvfANhiSgI3i5xA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJgTm7vg9HzDERs49FMdj9BoE",
+         "plus_code" : {
+            "compound_code" : "6MPC+7Q Batu Caves, Selangor",
+            "global_code" : "6PM36MPC+7Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJgTm7vg9HzDERs49FMdj9BoE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 364
+      },
+      {
+         "formatted_address" : "No. 6 (GF, Jalan SG 1/5, Taman Industri Bolton, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2373013,
+               "lng" : 101.6975094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.238589929892723,
+                  "lng" : 101.6988565298927
+               },
+               "southwest" : {
+                  "lat" : 3.235890270107278,
+                  "lng" : 101.6961568701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7c95cbd6fbfbcada1bf3262e321e0da518f3e97b",
+         "name" : "Burger King",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111326322442274686460/photos\"\u003eFarzaana Nazilah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOBmrWvz72oU-iu0nj4gpbaz5VlExDx6NJoOqkQTfuTNDp8jM0kiPO-nbLeJFYL9CBIOgVc_qBdnMNAkKKXqEEhYtGaFUquLFXsAYIYB2ZMHgpqfOfpUsTRAkre28bhynEhBscKdx07914yLWHt8GaLp8GhTQLRXFpCsxLlh0Ys37zoUWkDNymg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJ31rr0UtHzDERAyRexGNY1qU",
+         "plus_code" : {
+            "compound_code" : "6MPX+W2 Batu Caves, Selangor",
+            "global_code" : "6PM36MPX+W2"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ31rr0UtHzDERAyRexGNY1qU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 109
+      },
+      {
+         "formatted_address" : "Jalan SJ/14, Taman Selayang Jaya, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2377744,
+               "lng" : 101.6519009
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.239110579892722,
+                  "lng" : 101.6532564298927
+               },
+               "southwest" : {
+                  "lat" : 3.236410920107278,
+                  "lng" : 101.6505567701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "214c740e5059c81faca926b3e3992d1f79af63a2",
+         "name" : "DJA Burger (Selayang Jaya)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 918,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116041945651974191422/photos\"\u003eMan Sagawara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkd7zv5pw-uVGBwvVmaJk2cEUE4inIjg8c2o_zZs-V2WsjqEU2gyOnE1IM6HlcDRKGfNQFNPF2OC_QWvQhUQK2O4-oWUci6o0nr6Tdw78IzRYTBp1lYHF6hR538o_-w0tEhDDZjUetjGrcqNp0b6lZgR3GhQ27uGgSFE5SWWf46loMb3UU6GoEQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJER3TW_pGzDER5sSrx9Wvq7g",
+         "plus_code" : {
+            "compound_code" : "6MQ2+4Q Batu Caves, Selangor",
+            "global_code" : "6PM36MQ2+4Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJER3TW_pGzDER5sSrx9Wvq7g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Taman Gombak Ria, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2235545,
+               "lng" : 101.7017557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.224898579892722,
+                  "lng" : 101.7031205798927
+               },
+               "southwest" : {
+                  "lat" : 3.222198920107277,
+                  "lng" : 101.7004209201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4481d6a7b18fb5de71609617adfa79871a488d44",
+         "name" : "ayam goreng korea",
+         "place_id" : "ChIJGTUfF9tHzDERZDHPOIKSipw",
+         "plus_code" : {
+            "compound_code" : "6PF2+CP Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM36PF2+CP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJGTUfF9tHzDERZDHPOIKSipw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "A5, Lot 10243, Jalan Batu Caves, Bandar Selayang, Selangor, 68100 Daerah Gombak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.235812,
+               "lng" : 101.686411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.237130329892722,
+                  "lng" : 101.6877609798927
+               },
+               "southwest" : {
+                  "lat" : 3.234430670107277,
+                  "lng" : 101.6850613201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "332d7e027dd698cde75d8bdc2180793643f2a06d",
+         "name" : "UKs Snax",
+         "place_id" : "ChIJHaNaenNHzDERCdpsamos6VY",
+         "plus_code" : {
+            "compound_code" : "6MPP+8H Batu Caves, Selangor",
+            "global_code" : "6PM36MPP+8H"
+         },
+         "rating" : 0,
+         "reference" : "ChIJHaNaenNHzDERCdpsamos6VY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "41, Jalan SJ 1, Taman Selayang Jaya, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2378634,
+               "lng" : 101.6509772
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.239217629892722,
+                  "lng" : 101.6523372798927
+               },
+               "southwest" : {
+                  "lat" : 3.236517970107277,
+                  "lng" : 101.6496376201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a8976eaca1be9ff5c693dd4420066cf7d551e66",
+         "name" : "Burger Depan 7E (Selayang Jaya)",
+         "place_id" : "ChIJEQEQZPpGzDERf4-mOX0srM0",
+         "plus_code" : {
+            "compound_code" : "6MQ2+49 Batu Caves, Selangor",
+            "global_code" : "6PM36MQ2+49"
+         },
+         "rating" : 0,
+         "reference" : "ChIJEQEQZPpGzDERf4-mOX0srM0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "8, Jalan SU 10, Taman Selayang Utama, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.23706,
+               "lng" : 101.6434801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.238428329892722,
+                  "lng" : 101.6448104298927
+               },
+               "southwest" : {
+                  "lat" : 3.235728670107278,
+                  "lng" : 101.6421107701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d1b4ed012d1e5974088ba6caaebe4c7b8f54c61f",
+         "name" : "Family Burger SLYG & Satay Kajang 1917",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101590782297342457394/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFNVJGd-T0r6x4Da38O64JRV7-pfFpiYAOLFYqLtD9HId7eFl4bYbSWjv8OhP-TnjSVSQWVeXe2-auMoe6n9Za5UuvAfkaK1BMGJMDoTLVoYZ4AV0Pfhnql8TErFlfd44EhCRhKjUtEXaijBJXiExJXGGGhTfh75Fo0dFdAFViCXxeWpBBkdVGA",
+               "width" : 810
+            }
+         ],
+         "place_id" : "ChIJN6NCdXlHzDERRBzMBo56aQo",
+         "plus_code" : {
+            "compound_code" : "6JPV+R9 Batu Caves, Selangor",
+            "global_code" : "6PM36JPV+R9"
+         },
+         "rating" : 4,
+         "reference" : "ChIJN6NCdXlHzDERRBzMBo56aQo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Taman Desa Bakti, 68100 Batu Caves, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2435864,
+               "lng" : 101.660377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.244924829892722,
+                  "lng" : 101.6617051298927
+               },
+               "southwest" : {
+                  "lat" : 3.242225170107278,
+                  "lng" : 101.6590054701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "eb6eb2f12ba0a049bc9c2db06d88af15769a6221",
+         "name" : "Be Bite",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ00qbZeJGzDERjfiXCDn_YTs",
+         "plus_code" : {
+            "compound_code" : "6MV6+C5 Batu Caves, Selangor",
+            "global_code" : "6PM36MV6+C5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ00qbZeJGzDERjfiXCDn_YTs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

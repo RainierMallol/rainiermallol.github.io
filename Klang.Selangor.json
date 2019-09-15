@@ -1,0 +1,879 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAEgjjDUuCyyPhkGmGsjGkWW0Is5jQ3fb-Ly7ieS81Vtc9JaEPFC3P934I4NJITdpVHyA6s7qF6zZdxe8eG8bBqFYh4sjwOuTnDttoNNcxwIyEGEJfJHMz2CPt6cOW1UyOkdg6OzNViBCIGbx-dxvol98O3AZ37fGJQ2-2csaJBu4RgLxknxpkwoF9RjxruSammqXAK_MSAcVxh_aR341OIVXarsCkPFvFwMTVAn2sFul1OGuJkPqfFG2Zs7TvIp1R7Y9Xkj-mWqVqtKJfOE_02UqtNICZxjKZ4R7YPXM_4bCkQj893hFnheofQEQCoVFWFISxKdRW0VhJi18-u6i3Mmc25qaqvE4nZK5PPP_ZTY3YCiKj5QbyHqqhsbRo6K2rcSOPVxwg9Kku42MUFfP7rwMNV-r74saAP2ik7upL5XDW2B449AlyWAvRw_vTcCY1QlXZKYVCy7KI8iNlMwJHtoDBApOZcuwvCXdVadIo32WsdvtL12FQNr1A2jfc8dgzG5OR257ifvEp47iXEAStlbu9EG5QozmXCbNQUu2J33JbXdta2Z5GZ5ryqXpZbcuJt1pzTqp6f_1dFOc0EQlvn6hZ29Y7TiTrhTBiubU4NZQCVEsCj_yXvU4Mr7h5xv9be-WAEQJ1LepvQ7c9aYQ6Xryzx-Meb6zve2E4nQi-NzlEhCgu4LmNCR5q0eNfHi_jNEuGhQgRNNzywQ3mRnPtB7HUjsjarLBaQ",
+   "results" : [
+      {
+         "formatted_address" : "No.222 ( PT 1278 ), Jalan Besar / KU 13, Pekan Kapar Klang, 42200 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1385393,
+               "lng" : 101.3712061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.139882529892722,
+                  "lng" : 101.3725746798927
+               },
+               "southwest" : {
+                  "lat" : 3.137182870107277,
+                  "lng" : 101.3698750201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6226374f7c3fa5f6962a241ace162b4c4889024c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104239522926293895399/photos\"\u003eGhazanfar Chaudhary\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApFtQ9OY1UOBK4Y3Ky1ZfREAwAxxNm8e2-3IxqxJdRo0i6kra0sEeOuqtr084-Yh6yn-1d6jw8BkvRO317EKmFdlhqdgUGlrkrpVVgR9QejB_SxnjhW2pQXIBdof0X5ExEhCH7eBB2TcJyRPaAd9lIxO6GhR9RrJo34sFUHqYH2fxquMl3scYGQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZ22dZEFWzDERAEOiCZbA4aI",
+         "plus_code" : {
+            "compound_code" : "49QC+CF Kapar, Selangor",
+            "global_code" : "6PM349QC+CF"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJZ22dZEFWzDERAEOiCZbA4aI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 439
+      },
+      {
+         "formatted_address" : "G2, Klang Utama Shopping Centre, Jalan Sungai Puloh 14, Taman Sungai Puloh, 41200, Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0791047,
+               "lng" : 101.421406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.080324779892722,
+                  "lng" : 101.4227502298927
+               },
+               "southwest" : {
+                  "lat" : 3.077625120107278,
+                  "lng" : 101.4200505701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cfb70430d60852ec7b3600a76f0a755deec619fa",
+         "name" : "KFC @ Taman Sungai Puloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJD4V6SGNUzDER9v3W6WbK_vI",
+         "rating" : 4,
+         "reference" : "ChIJD4V6SGNUzDER9v3W6WbK_vI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "B49, 47000, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1611131,
+               "lng" : 101.475442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.162404929892722,
+                  "lng" : 101.4767061298927
+               },
+               "southwest" : {
+                  "lat" : 3.159705270107278,
+                  "lng" : 101.4740064701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e0915d15bc5d6a78229093fbd8a11eb941ecdc7f",
+         "name" : "GPC U15 Puncak Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJqcwqQXFRzDERBQcQ0y6c5po",
+         "plus_code" : {
+            "compound_code" : "5F6G+C5 Kapar, Selangor",
+            "global_code" : "6PM35F6G+C5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJqcwqQXFRzDERBQcQ0y6c5po",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "207, Jalan Meru, Pekan Meru, 41050, Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1307976,
+               "lng" : 101.4403074
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.132145429892722,
+                  "lng" : 101.4416406298927
+               },
+               "southwest" : {
+                  "lat" : 3.129445770107278,
+                  "lng" : 101.4389409701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "aec6c2dcdbf054325599180fb2d1c162b5bbbd4a",
+         "name" : "KFC @ Pekan Meru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110942564463001348653/photos\"\u003eYenYuJen Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAnnNwotEKTKwfSAx9MTptpMjCOQZBOop-YbwFMlAXl4o2N2Z9YnwZLFWGgW6kEv8FDu4IhwseU2MY-lYS99miF7lgBnUbqXzkLECNvpmNNy31nWkdo1pgrhT5gzwJvY9bEhCh9-oN79z24vsJq1jHXAyhGhTls6YJnuohAfJBw6oL0hQ5D6-4qQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJFUs5J1ZRzDERFWGIzicI35g",
+         "plus_code" : {
+            "compound_code" : "4CJR+84 Klang, Selangor",
+            "global_code" : "6PM34CJR+84"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJFUs5J1ZRzDERFWGIzicI35g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 117
+      },
+      {
+         "formatted_address" : "No. 5557 (GF), Jalan Rantau Panjang/KU 4,, Kampung Rantau Panjang, 42200 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.070584,
+               "lng" : 101.412493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.071914179892723,
+                  "lng" : 101.4138729798927
+               },
+               "southwest" : {
+                  "lat" : 3.069214520107278,
+                  "lng" : 101.4111733201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1fcbcd8159b25e60abc5cc5f6bea128f1eacff6a",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109128581751482145537/photos\"\u003eAzmir Muzaffar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAatAFfLUDvpAJ4ERleSFe1AWU_dFlISstLRQyovuzt9nn8G7L7oJJN_qlDlM1XCs9bBtcpuueFvzyn-_tUFeeZBy2dddAX1YRhW_5y_GQ4hah_JGR_I7lFCsrOrTJvHhREhBTX_szpTSp8vajuHFZvPs4GhREbeCiNeUyOMeU3jxBWi6IIsEcxQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJew1OooxUzDER8kUIIlY9EOU",
+         "plus_code" : {
+            "compound_code" : "3CC6+6X Klang, Selangor",
+            "global_code" : "6PM33CC6+6X"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJew1OooxUzDER8kUIIlY9EOU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 241
+      },
+      {
+         "formatted_address" : "21-G, Jalan Makyong 5a/Ku5, Bandar Bukit Raja, 41050 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.090553,
+               "lng" : 101.431814
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.091897379892723,
+                  "lng" : 101.4331638798927
+               },
+               "southwest" : {
+                  "lat" : 3.089197720107278,
+                  "lng" : 101.4304642201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e113fdda027382807d5c9848119c3b4bcf43d88",
+         "name" : "Cafe Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114474337419582820149/photos\"\u003eCafe Burger\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9NVtA6PBoCy04g2vTA_qnzmpVyXPljJgVAcyfPQLMCDsQaGpqxKhdPm67X_TbBt_6nc7cW0Kzw4zFZW8h3LcjCbz066lGou7snOtpIsJHu5MoMVkKZpI0qT1K1xQC2XqEhAfS02uNuipj_zr_opJAg5NGhQZn3lNjedovFw5R7d6AbDYB-yLHw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ078l2HVUzDERukd_31lLFTQ",
+         "plus_code" : {
+            "compound_code" : "3CRJ+6P Klang, Selangor",
+            "global_code" : "6PM33CRJ+6P"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ078l2HVUzDERukd_31lLFTQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "Lot No. 5579, 5581 and 5581A, Batu, 4, Jalan Kapar, 42100 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0712686,
+               "lng" : 101.4112792
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.072628879892722,
+                  "lng" : 101.4126072798927
+               },
+               "southwest" : {
+                  "lat" : 3.069929220107277,
+                  "lng" : 101.4099076201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1239ef821842715d21446291de495e3c6d35b1d5",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107413059297850801403/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA41o9Wc7mrtKF_YHDoZZAekSdFsRZg5no2bkw0IejnU0lhifSxIkybC0qZ0eDaX8NXYAdgnuPCALAmxvem4dsq4XsNCgm-qtAjUr3xD9Aqp2D_tn2JifbQ-EBqOXIXx9REhBuH6Ed4mMl9YIgQS-GPkO_GhT0q4OBuHgGU22viG95ZmV5y_OUZw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJbVLHS4dVzDERwCXyQXOpAYM",
+         "plus_code" : {
+            "compound_code" : "3CC6+GG Klang, Selangor",
+            "global_code" : "6PM33CC6+GG"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJbVLHS4dVzDERwCXyQXOpAYM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 111
+      },
+      {
+         "formatted_address" : "Restoran No. 1 Lot. No. 2, Persiaran Setia Impian, Bandar Setia Alam Seksyen U13, 40170 Shah Alam, Selangor Darul Ehsan, 40170 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1017174,
+               "lng" : 101.4442856
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.103074879892723,
+                  "lng" : 101.4457263798927
+               },
+               "southwest" : {
+                  "lat" : 3.100375220107278,
+                  "lng" : 101.4430267201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "465344c11a521af44709e0415c12b776deaee4c5",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105397962380137312492/photos\"\u003ekean soon Chik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACkOGi93Aut-uwLLgPpCubnqnFew0Xwq5g6fLkW3Jlo7srawEprKbnfBj6FJgb56KCYwUSOUa5fg74cmJA0UCHkiQeCwPgDZ033ioy0VddJ2mFDc4_eCbnC6KOy8a4HKMEhB5uPLMDnhMeQz9yIT20p-YGhTqauMyXDr9Skcxp8j4FJGz3aax7w",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJNeiKYO5TzDERsx2WP-ciFWw",
+         "plus_code" : {
+            "compound_code" : "4C2V+MP Shah Alam, Selangor",
+            "global_code" : "6PM34C2V+MP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJNeiKYO5TzDERsx2WP-ciFWw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 358
+      },
+      {
+         "formatted_address" : "No 4, Persiaran Setia Impian Bandar Setia Alam, Section U13 Shah Alam, 40170 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1016589,
+               "lng" : 101.4452207
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.103008429892722,
+                  "lng" : 101.4465706798927
+               },
+               "southwest" : {
+                  "lat" : 3.100308770107278,
+                  "lng" : 101.4438710201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e1d2e846cbd5872bed0d9262d55fc976b31669b",
+         "name" : "KFC Setia Alam Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103912458207400232882/photos\"\u003eTeng Txt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHUCg51U8FIfkuB018FLeqEHPFdoIgEvOLh4JiXhFCKI_8mJkHlyyrZC38PvBrh9ipgAB_XF95O8U7q2oeuPNdajdhN1YMCKUmxrw1zFH0cruQTAgdC5SyRycojzghNmNEhDW1uKJhAdWoGcRKs8arI6qGhQwps1CcMnM-SynEQNGoEuxl66fzw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJAQAAAGdOzDER-dHeiXyTqvs",
+         "plus_code" : {
+            "compound_code" : "4C2W+M3 Shah Alam, Selangor",
+            "global_code" : "6PM34C2W+M3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJAQAAAGdOzDER-dHeiXyTqvs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 692
+      },
+      {
+         "formatted_address" : "No. 186, Jalan Meru, Klang, 41050 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0650506,
+               "lng" : 101.4519321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.066389529892723,
+                  "lng" : 101.4532410298927
+               },
+               "southwest" : {
+                  "lat" : 3.063689870107278,
+                  "lng" : 101.4505413701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "06bf928bcaa155b02b0b18ad4ce85908c669e40c",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107988751843361222485/photos\"\u003eJames Chun Yong Sing\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATt1R1Fp6Z4WkWsGpkfIQaTKOxaoW8NtKGxu5wbI17TX44npSnXzPv_p4WBwtGA-I3HunNyQYKITZlGtM6ivFCC4IR6r-E3qX56j3FeLDhl-HK2rIlUQAtmN1AwzD5pUCEhD1i6NO3FNtxeVtxp5ei7qIGhR0dR9f3aIyrHmHHQuqF26X7esn1g",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJKXKF8W1TzDERZj-n489VPSQ",
+         "plus_code" : {
+            "compound_code" : "3F82+2Q Klang, Selangor",
+            "global_code" : "6PM33F82+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKXKF8W1TzDERZj-n489VPSQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 196
+      },
+      {
+         "formatted_address" : "Alam Nusantara, 40170 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1271,
+               "lng" : 101.4668241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.128413829892722,
+                  "lng" : 101.4683037798927
+               },
+               "southwest" : {
+                  "lat" : 3.125714170107277,
+                  "lng" : 101.4656041201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e93d3f6ad2923ff5a07093d7ac526873bc7de58f",
+         "name" : "McDonald's Setia Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 575,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110675136807135846306/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALDmrXKsFzljHhgCa-I2vrX6cFpDRcVLjT9jNF6INCYoCfk2tHFMqmV0n0f-q6vDfDySWidWamBJe8P_XCpXiNg-xsw5uCwpiBpPeFVAuYk15TELpQRNH_tjViDwHCRroEhBnQk0VdLZkZMhiIywvvon5GhQniZsZn4_68mA7chc4lo-E8XoGHQ",
+               "width" : 575
+            }
+         ],
+         "place_id" : "ChIJC4FPNG5RzDER20Q--OI0RHA",
+         "plus_code" : {
+            "compound_code" : "4FG8+RP Shah Alam, Selangor",
+            "global_code" : "6PM34FG8+RP"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJC4FPNG5RzDER20Q--OI0RHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 942
+      },
+      {
+         "formatted_address" : "No.2, Jalan Klang Sentral/KU05, Bukit Raja, Meru, Klang,alaysia, Selangor, 41050 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.110293,
+               "lng" : 101.441161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.111690829892722,
+                  "lng" : 101.4425085798927
+               },
+               "southwest" : {
+                  "lat" : 3.108991170107278,
+                  "lng" : 101.4398089201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1dd8ad72040cfe22b711c37c03b71dcedd1c613f",
+         "name" : "McDonald's Klang Sentral",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110942564463001348653/photos\"\u003eYenYuJen Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAkoDjedIncBSBMYtDLcfu2ADwuY0JJN5WM_a6ciVnngvhPMvp42GomPpaWqM7elHeztQ5lhw8qokjQRqQGKfRM8UtGZUfaMXaALCA4twV4pIR5OVYexD1oFPYAgoqoYdSEhCC80bKApGZ20-RSKqGmUyeGhTuHDMudKUxpvhvnxmkjuTp3XaYVQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJsYxPC_xTzDERceCVfl3QSRw",
+         "plus_code" : {
+            "compound_code" : "4C6R+4F Klang, Selangor",
+            "global_code" : "6PM34C6R+4F"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJsYxPC_xTzDERceCVfl3QSRw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1478
+      },
+      {
+         "formatted_address" : "Lot No. G17, No. S, Setia Alam,, 2, Jalan Setia Prima B U13/B, Seksyen U13, 40170 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.107181,
+               "lng" : 101.444633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.108784779892722,
+                  "lng" : 101.4460207798927
+               },
+               "southwest" : {
+                  "lat" : 3.106085120107278,
+                  "lng" : 101.4433211201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5fc1d954cf93e7054a69368910836dd840e71587",
+         "name" : "Texas Chicken Tesco Setia Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109214293216227562904/photos\"\u003eAndrew Ho\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-oK_bVAtq9eNCLEVtqzys96R_uLzLKEyyq3cjabWDFY1HEdcqUNbWbCSDCONFvTAeyA2RlR3No2qlk59gqNTuBDVX8ugPtjp-PFNjTNcPmBon8T2IkNSd5isqgVTZVTGEhCIH7mFhz5MxcRicSmmGNK9GhRk4HUwyc9G7a0TyXkBAXK5c-xBkw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJn0C30PpTzDER3YE15Y-VIII",
+         "plus_code" : {
+            "compound_code" : "4C4V+VV Shah Alam, Selangor",
+            "global_code" : "6PM34C4V+VV"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJn0C30PpTzDER3YE15Y-VIII",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 27
+      },
+      {
+         "formatted_address" : "Klang Parade, 2112, Jalan Meru, Kawasan 17, 41050 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0632444,
+               "lng" : 101.4533014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.064554529892722,
+                  "lng" : 101.4545291798927
+               },
+               "southwest" : {
+                  "lat" : 3.061854870107278,
+                  "lng" : 101.4518295201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bd83bc6ea6b0fd3f53639a78ab5065545f72a46a",
+         "name" : "Texas Chicken @ Klang Parade Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103573906789936964699/photos\"\u003eAdrian Eng Ying Ming\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfGLJLJ19uFktBHJxezjkOnxVda_yu5ZzQ2-jfUbhavConfnHtlU4jek0DTguoiHdk-TY2Ly5q5vQi1ABj4rGECsfPMXGqCYcXaM_0gssm7umgidxBniim6PqDBhXd3Z0EhAOn7Z-rcZmwYw3NMJRWx8ZGhRZyhgR0nYDZofbE7r5V4Ce1Qx1Xw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ_3BWqm1TzDERNqOBvMBzymk",
+         "plus_code" : {
+            "compound_code" : "3F73+78 Klang, Selangor",
+            "global_code" : "6PM33F73+78"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_3BWqm1TzDERNqOBvMBzymk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 182
+      },
+      {
+         "formatted_address" : "Jln Setia Gemilang U13/47, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1254697,
+               "lng" : 101.4723263
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.126769829892722,
+                  "lng" : 101.4737396298927
+               },
+               "southwest" : {
+                  "lat" : 3.124070170107277,
+                  "lng" : 101.4710399701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "898bcf911ecb87630ee1c2d298333d471ed49fca",
+         "name" : "KFC Petron Setia Alam Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111691790836284319795/photos\"\u003eJason Thong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzMOwMDkszXOI9Cakp-SLrcKytvb04FAjgmeUh1_M_D95qtavn3CApvh0WfZ5lslUMXF8k0NBRICkblQl-70szxSEDbSeB0gOKTVMA0CdwapOzWPVMyaj5u59GR74hea_EhB-Ik4Di4RBF9uZ3rjujXzAGhThgAUkLNdCCKZPYIxHD8-XF0ayxw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJewE5vnBRzDERHdZ1OCRCRnI",
+         "plus_code" : {
+            "compound_code" : "4FGC+5W Shah Alam, Selangor",
+            "global_code" : "6PM34FGC+5W"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJewE5vnBRzDERHdZ1OCRCRnI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 278
+      },
+      {
+         "formatted_address" : "No, Jalan Gopeng, Batu 4, Off, Jalan Pasar, Kawasan 18, 41400 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0496298,
+               "lng" : 101.4445212
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.050899829892722,
+                  "lng" : 101.4458002798927
+               },
+               "southwest" : {
+                  "lat" : 3.048200170107278,
+                  "lng" : 101.4431006201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c0a32d84e73e78fe7421abee7997db85564fa758",
+         "name" : "Marrybrown Jalan Gopeng Klang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115181931004702331638/photos\"\u003etee honglun\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA444IWQ59i2ozoUgPYVzZPxZvWW0GF21EPDJoiskpt0axyYqpU-6pbBvkspN4UZPOlOuy-kkVJ_3pdIBIRNObyJyzHW7RyayQOxS2S1Stmr6fEwD0YDWLZbbfTP-tbGJXEhAkHZuklmO9iU-umxVK2fVfGhQ6EZdbqwKY9a8PUp-aRdCLwvu8KA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ_yIUOVtTzDERF3apqAYziH0",
+         "plus_code" : {
+            "compound_code" : "2CXV+VR Klang, Selangor",
+            "global_code" : "6PM32CXV+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ_yIUOVtTzDERF3apqAYziH0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 107
+      },
+      {
+         "formatted_address" : "3, Persiaran Elektron, Denai Alam, 40160 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1594091,
+               "lng" : 101.5130662
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.160942929892723,
+                  "lng" : 101.5144729798927
+               },
+               "southwest" : {
+                  "lat" : 3.158243270107278,
+                  "lng" : 101.5117733201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ec99db8267b9e61f6b9241a5478717930624740e",
+         "name" : "McDonald's Caltex Denai Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115992478418369750265/photos\"\u003eNM HK\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWw0SVsJGAOmc3XyHiEv9IGCGK51k0d6AEnDDH6VzLVOdgvD8vHioAsHHvmK-q_GHI3WmFNLatWfFsueSCkpDN_mHIJvU-MUl37H50Pcc6i2BSNPRIIVmeiWiZgdseOq_EhBKMfpwC9hGxFeUEXogOrgEGhTFKDH_5lC2BOGrBh417hoe_gMXFQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJz_KH5DFQzDERzzbIwpOv1n8",
+         "plus_code" : {
+            "compound_code" : "5G57+Q6 Shah Alam, Selangor",
+            "global_code" : "6PM35G57+Q6"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJz_KH5DFQzDERzzbIwpOv1n8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1434
+      },
+      {
+         "formatted_address" : "Persiaran Setia Dagang, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1095206,
+               "lng" : 101.4615215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.111062579892722,
+                  "lng" : 101.4628792298927
+               },
+               "southwest" : {
+                  "lat" : 3.108362920107277,
+                  "lng" : 101.4601795701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0e5a7767a7740c841a944d700c495528707572bc",
+         "name" : "McDonald's Setia City Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109671588146262236274/photos\"\u003eCS Lim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbS5xXNXAJSFuNhQU5lvvVGhhUJIhOASntYzg-3mHIJDUiJfPqaJwFa6Mq-TmgiKpms3fwTrFEWwDkGlcLgM1j2Uy50irTB_24n2dnwdDpTeyYJL88AiFtb42hIqVi2yQEhBIpVraUp-vu8iNi41-uiNxGhSAAjzE3ResweZP0-jMgleqqjz5oA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJH_DdUtxTzDER6_LXpwexqHw",
+         "plus_code" : {
+            "compound_code" : "4F56+RJ Shah Alam, Selangor",
+            "global_code" : "6PM34F56+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJH_DdUtxTzDER6_LXpwexqHw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 245
+      },
+      {
+         "formatted_address" : "Lot 10655, Jalan Utama, Bandar Puncak Alam, 42300 Puncak Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2217157,
+               "lng" : 101.4478649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.223164229892722,
+                  "lng" : 101.4490702798927
+               },
+               "southwest" : {
+                  "lat" : 3.220464570107277,
+                  "lng" : 101.4463706201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "684c1ce458a3e08b805394bc594d80e545284b0c",
+         "name" : "McDonald's & McCafé Puncak Alam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113968568956114245988/photos\"\u003eDitz 771\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI3WekOh07k4lfwVeTKO3v0G_YNtZo9BpLfZKeY8TEl3Dw8VY0imYXOMPGxtLd9rQG2obHWksS0yBXMHQ2kp0owYcjmC9v2aItgv3VEhtpffv5-6EYzHgcDq4mRaK-p8gEhBQ28W9RYCV9UjpFi_n_SCxGhQL5oj1Zq14kiX5_w7UNjB7wkTQQw",
+               "width" : 3016
+            }
+         ],
+         "place_id" : "ChIJ4_RBiDpazDERPMffODrsEjk",
+         "plus_code" : {
+            "compound_code" : "6CCX+M4 Puncak Alam, Selangor",
+            "global_code" : "6PM36CCX+M4"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4_RBiDpazDERPMffODrsEjk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1552
+      },
+      {
+         "formatted_address" : "3, Jalan Angsa, Taman Berkeley, 41150 Klang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0554214,
+               "lng" : 101.4637502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.056771229892723,
+                  "lng" : 101.4651000298927
+               },
+               "southwest" : {
+                  "lat" : 3.054071570107278,
+                  "lng" : 101.4624003701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d74371563aa43397b162730ef3a0b71f8c5e8e71",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104229046998750118903/photos\"\u003eMaco Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWyV2sC0gpj7dXB5tSxHYms2JgWsPq5ZU-HkkmXYP6t7pLfN4gOUsAlEA4UhxxQuhFTHZ-VCml1UDi8AZQYSK3X5YNciPvytvFApPiYCarOSrXSuUhnL4p1mtHdUTFmbTEhBkyCsCZs0AfIrJGrSfLcroGhQkcND2qeJyyhaN14oCIhFYELam5Q",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJvUyg7T1TzDERm4QNVzouyJY",
+         "plus_code" : {
+            "compound_code" : "3F47+5G Klang, Selangor",
+            "global_code" : "6PM33F47+5G"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJvUyg7T1TzDERm4QNVzouyJY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 366
+      }
+   ],
+   "status" : "OK"
+}

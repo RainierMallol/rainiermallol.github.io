@@ -1,0 +1,96 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "ground 12 & 14, Jalan 1/76d, Desa Pandan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.1469733,
+               "lng" : 101.7371951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.148281679892722,
+                  "lng" : 101.7385534798927
+               },
+               "southwest" : {
+                  "lat" : 3.145582020107278,
+                  "lng" : 101.7358538201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e748c0b7706d1eec3cec548b2fc896296b650008",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116294823098775201078/photos\"\u003eZamri Sulaiman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZQ07Xm5ydWg-GZScR-pvx3HoYecR8y21uGt-27c3NQEn7vTfefdzau_rGKDTB9QskMJXhg1ksZMM2JvuqxeyFONH0cQ2zHywgpkyXu8avqDxznpSM_JiOqBHDWxOw75aEhAjdc2J_RB6xc1wnU0L3m5ZGhRDZN5XYYdh4pCqO0cX4P75EoSoPw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJBSTSDUw2zDERsgcSxLKljdQ",
+         "plus_code" : {
+            "compound_code" : "4PWP+QV Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PWP+QV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJBSTSDUw2zDERsgcSxLKljdQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 555
+      },
+      {
+         "formatted_address" : "Lot 2 & 2-1, Jalan 1/76D, Desa Pandan, Malaysia, Kuala Lumpur, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.14705,
+               "lng" : 101.736936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.148429579892722,
+                  "lng" : 101.7382112798927
+               },
+               "southwest" : {
+                  "lat" : 3.145729920107277,
+                  "lng" : 101.7355116201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f558f87c964b8094edeef5302b311555e9a0719a",
+         "name" : "McDonald's Desa Pandan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109498833773047897280/photos\"\u003ePrabjit Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAizCbyNcd22RZ9EGg7YKkQs6Hyvoicv5D5jqQe-fXVAQDCme4WlFuQK6c8F5rqPzCR2LJC2yLH0BnySm-BP6-EkCAXKDCzV_TZhsKvYadisv782F-tN5SjCzQTTQKZmvKEhBGXuE_I65mmmfR9amtSRK7GhTJBzTMWDLdt2eyaXcTWLb_dkmrkQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJCe_5Pkw2zDERDcLU7e7NjAg",
+         "plus_code" : {
+            "compound_code" : "4PWP+RQ Kuala Lumpur, Federal Territory of Kuala Lumpur",
+            "global_code" : "6PM34PWP+RQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJCe_5Pkw2zDERDcLU7e7NjAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1106
+      }
+   ],
+   "status" : "OK"
+}

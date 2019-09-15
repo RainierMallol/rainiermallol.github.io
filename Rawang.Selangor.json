@@ -1,0 +1,855 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-wEAABc389yUFJCYwliha6ThKAALGYukNqmjX-ihPMYOxfHjQEj6MTXM70N5YBmC-JPoVPAt3zr-jQ1NzsgM01yE4g7w2wKq6BWoH-fbo2p6Phe7pHg8lEIi0GP0lDXcxmymaOKqKz6yw-8TFmJfn6VTt1z8N4ZaCif9eSw0nMOyxvR90AIsY4zoXHM3qZJOGbEsA-YJ4VkIZdAZF6U4CPV1981Irga5AeOKyMeRs0v0hNSX--3ph4S0Agfc8jFRQTfDGxBQGZfxWUNU80IoHb1sKn4UgiQvt3bSJGsae5tQoF47gidNdCffs7BeJCjcJbCCApLx3_z49pHKIEi5Dn1JgWRa12l53KIvonlYFyW6vKf_JYUMNcy1jPAqb0_gyVlOFA9H5b23vDifmKGlJiIdUzXf6_Mc1Sl6CpuUUuWOXh9b_nSBt3g1tqe8ARSlefF5i0pxw83phUvUg_O9unT2UG7PS6PE8TyB72DHc_aSHqRbgGyl8U5cY2jClY668QAxlIaUtcHDv2s-iWsJvNZj8Lc4Lg7-S0soKpFZLhs0iQRABAMASG1wQgB5oMI-t4cHQEJY-_fKOUHwaUZVH1dy964j72IkD6wANPjUMPvPHH_0hYFpwwwuUZVlUBThu2wI2O_vgNDJxRVFESKsIuJNTtImz3wqFCARX00B_jxXqksgEhCCqs72Ge7VdkeM8CqoQ6v6GhTw3afBTOdjyiPnynR7cbWqNjDgRQ",
+   "results" : [
+      {
+         "formatted_address" : "Lot PT 678, Jalan Pusat Bandar, 48000, Rawang, Selangor, Malaysia, Selangor, 48000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.320135,
+               "lng" : 101.5769331
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.321431529892723,
+                  "lng" : 101.5783028798927
+               },
+               "southwest" : {
+                  "lat" : 3.318731870107278,
+                  "lng" : 101.5756032201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d11a3e031a76c06bc56012926f86d7cc7363831",
+         "name" : "McDonald's Rawang DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2430,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109389594176452840194/photos\"\u003eAdi Azhar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAL4_fNO3zynmom-_eDiRtEaKk_l7Lh3wNz4ekgBCjSyjxiEh1A0zR2er1ngvBjE1aoEoUXz1Wh-BB6XwkswWZB71Sp1-V7yEhcJZm3sGUAv0W0NMExPJhInEerkk3oE01EhC6fBtCCR-EVS2tFoOnTSG4GhSmdeePTlAjhFE2Ro0vZj4wpUM68g",
+               "width" : 3240
+            }
+         ],
+         "place_id" : "ChIJA0oepFBCzDERTQX4dabTLTc",
+         "plus_code" : {
+            "compound_code" : "8HCG+3Q Rawang, Selangor",
+            "global_code" : "6PM38HCG+3Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJA0oepFBCzDERTQX4dabTLTc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1807
+      },
+      {
+         "formatted_address" : "Persiaran Anggun 1, Taman Anggun, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3176635,
+               "lng" : 101.5385775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.319171329892722,
+                  "lng" : 101.5397569798927
+               },
+               "southwest" : {
+                  "lat" : 3.316471670107278,
+                  "lng" : 101.5370573201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c2f6897c6cead5451e7a1ab651b42cd52e68425",
+         "name" : "McDonald's Kota Emerald Rawang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107030168268272073548/photos\"\u003eMumymaria Mohamad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAptxLt7vTHKQQ-cD2a_FfNHVx8MXyNRircLZdB1Ib5TPx078hYhVBHmUcx36M5igaF5pLLLq0BHWhuZLb8JM8av-N7L0j1SkFmxHFH34IBjcAYe-6UPO1ZDgAHAjQ_F6BEhAGYVBPXE8aIGaH0q72miqWGhRb75hUI5CT89RQo4tbg1Rfz8leCQ",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJjRYATdpCzDERlJAjXIrTeWM",
+         "plus_code" : {
+            "compound_code" : "8G9Q+3C Rawang, Selangor",
+            "global_code" : "6PM38G9Q+3C"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJjRYATdpCzDERlJAjXIrTeWM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 713
+      },
+      {
+         "formatted_address" : "Unnamed Road, 48000, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3022313,
+               "lng" : 101.5974725
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.303595079892722,
+                  "lng" : 101.5987926298927
+               },
+               "southwest" : {
+                  "lat" : 3.300895420107278,
+                  "lng" : 101.5960929701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f451f0aee49a7f4d5343ca31001f1265969d5921",
+         "name" : "KFC @ Tesco Rawang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111069092399908174466/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEgjD_oRe-s1XC27GeA0gClaNMmMVa6EMl-P316Fi9JaLGw9GP103Sw4DnR7zcD0hnf7kXArgcmmX-Zp_Jg7o0APt4WDHDJnrVqzQJsOmEKK3EJXzEyrwCOv1Q9wCNpZNEhDxXYAaVUoXgpRwjXCs_TQtGhS1KenT5fqywE1Rpx-Lz8j6bonNOg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJq6qqan44zDERu-w6Z4UfchQ",
+         "plus_code" : {
+            "compound_code" : "8H2W+VX Rawang, Selangor",
+            "global_code" : "6PM38H2W+VX"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJq6qqan44zDERu-w6Z4UfchQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 37
+      },
+      {
+         "formatted_address" : "19A, Jalan BCH 1A, Bandar Country Homes, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3239241,
+               "lng" : 101.5260758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.325276229892722,
+                  "lng" : 101.5273975798927
+               },
+               "southwest" : {
+                  "lat" : 3.322576570107278,
+                  "lng" : 101.5246979201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7c1aeb6dbba19aa0c85ef88ed9e09fcdc0826827",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111370500757445502883/photos\"\u003eVijay Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAce5THc2rfAorYIqtphHKZgODTdix24WGu6LfSSpthIbfOy1em217etasggZkiYGpY1X6nFhJgfwWvyJJ4HtEK_KVkqVu9MMW0IOTLCdcpw-Z0euJ5OQj5p7GTR-lhz4EhA6-ycnnj1G-aHGkGQIt8g0GhRrDWdwIwmzgpHmDz-1O4izM6VGFQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJR5z03sxCzDER-9NKgowoRIg",
+         "plus_code" : {
+            "compound_code" : "8GFG+HC Rawang, Selangor",
+            "global_code" : "6PM38GFG+HC"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJR5z03sxCzDER-9NKgowoRIg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 272
+      },
+      {
+         "formatted_address" : "No. 1, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3166566,
+               "lng" : 101.5364743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.317862629892723,
+                  "lng" : 101.5379966798927
+               },
+               "southwest" : {
+                  "lat" : 3.315162970107278,
+                  "lng" : 101.5352970201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dce48b95e4213246b4913ff3a92b863cd4e1f2cc",
+         "name" : "SUBWAY @ AEON Rawang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ71r5jWhCzDEReKAO0Ki0SEk",
+         "plus_code" : {
+            "compound_code" : "8G8P+MH Rawang, Selangor",
+            "global_code" : "6PM38G8P+MH"
+         },
+         "price_level" : 2,
+         "rating" : 2.5,
+         "reference" : "ChIJ71r5jWhCzDEReKAO0Ki0SEk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3254232,
+               "lng" : 101.5906796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.326764479892723,
+                  "lng" : 101.5919919798927
+               },
+               "southwest" : {
+                  "lat" : 3.324064820107278,
+                  "lng" : 101.5892923201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3b182962baa880057e5cd14b2408f8872bd7ec13",
+         "name" : "Rezeki Tepi Jalan Jew",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110463675423598447325/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAA2SSjGpgf0PaGT5DNhbF7HK3xQCrjSA6bG8IuHiQubKMllxDuT_Jr1BkP3gsnKEK3wNoSCnSHaiBtpjgcgTjHmm3rC0Q8Ezq1frSzxvRDX1zfmF-PoKwvzNXoJu7RGp5EEhDgQS1302fMnbCeyCSGN6ZlGhQRwvcOMcgjzkaJzapVHxUIXtkKsw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJE101fuNDzDERhNIrCqtLaF0",
+         "plus_code" : {
+            "compound_code" : "8HGR+57 Rawang, Selangor",
+            "global_code" : "6PM38HGR+57"
+         },
+         "rating" : 0,
+         "reference" : "ChIJE101fuNDzDERhNIrCqtLaF0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Bandar Tasik Puteri, 48020 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2844767,
+               "lng" : 101.4731827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.285831179892722,
+                  "lng" : 101.4745776798927
+               },
+               "southwest" : {
+                  "lat" : 3.283131520107278,
+                  "lng" : 101.4718780201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a18e43ce797c7aa3e3f098245e1eb2e0eb0e0955",
+         "name" : "GPC BANDAR TASIK PUTERI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJmcOnX5FdzDEROpQapdxQ94w",
+         "plus_code" : {
+            "compound_code" : "7FMF+Q7 Rawang, Selangor",
+            "global_code" : "6PM37FMF+Q7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJmcOnX5FdzDEROpQapdxQ94w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "No. 93 (Ground & First floor), Jalan 7A/3, Medan Puteri, Bandar Tasik Puteri, 48020 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.283124,
+               "lng" : 101.4729053
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.284478929892722,
+                  "lng" : 101.4742747798927
+               },
+               "southwest" : {
+                  "lat" : 3.281779270107278,
+                  "lng" : 101.4715751201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e791c9ef74894c7571471cc3ccf343cca6309ef1",
+         "name" : "PH (FCD) Bandar Tasik Puteri Rawang",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117541918818796882024/photos\"\u003emohd ridhwan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALEp2XWHyA9AVziGyviB3oI250gHoPxPqOjt-SdzzyP6K9KIekBi4TltEyuMRd2zNc17TKqFpWzzCHW-K28jEjBRDzh5202BEswHHficHr-ok6lPqrFkl8OHk62hCDc-VEhBmfSe6f4OpKoA3DkURx1vWGhTRnMUh0LHgDNFurFAPDxHCiQFZYg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJt7jeiatdzDERJE8S7hk3fZQ",
+         "plus_code" : {
+            "compound_code" : "7FMF+65 Rawang, Selangor",
+            "global_code" : "6PM37FMF+65"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJt7jeiatdzDERJE8S7hk3fZQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "Lot 20499 KG STESEN, Jalan Sungai Buaya, Kampung Sungai Choh, 48000, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3574498,
+               "lng" : 101.5740963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.358773079892722,
+                  "lng" : 101.5754866798927
+               },
+               "southwest" : {
+                  "lat" : 3.356073420107278,
+                  "lng" : 101.5727870201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c9bda42a7798d87defed9c31fb556fd82925224e",
+         "name" : "Marrybrown Caltex Sungai Choh",
+         "photos" : [
+            {
+               "height" : 607,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101234595300373636706/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvRI1u9hOtl_pBQfzGrF0IAcoh7-lVHTJOkECygHqwz3iQIe6tsJ-ohfJ4bXdRx28A-lxF8b07I4EjHFNc9uw2aFvkrn2KieEgkb5Nd3Mfv_e2Oc7SU2WIGIk-TgePV7EEhCWVNAjgLQkxeIylbF-R18QGhQndFfjlCCiHcD3AR0Z3btd1QyrWw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ9UbDhjFpzDERJj_iYWNthQs",
+         "plus_code" : {
+            "compound_code" : "9H4F+XJ Rawang, Selangor",
+            "global_code" : "6PM39H4F+XJ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ9UbDhjFpzDERJj_iYWNthQs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "No. 2, Jalan Setia Rawang 1 Taman Setia Rawang, 16th Mile, Rawang, 48000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3031438,
+               "lng" : 101.599169
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.304503479892723,
+                  "lng" : 101.6005059798927
+               },
+               "southwest" : {
+                  "lat" : 3.301803820107278,
+                  "lng" : 101.5978063201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "65ef3c0043a3f8f6548ddbbdc5fcae6d25462d5b",
+         "name" : "KFC Rawang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112167504185534824669/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALX9Vey4z4XDjz_gJi8i8i_O0RnbktqTqTMXLg6eQnkdc8DxW11zL7N_pveI2cQLemgTaDWAXB7A9GIyygUuetKiaRQ-sGtI4ZKdwLh9J0uPh6BgV_9bMtzQcCXShrcncEhCMcsGcwmPM0LwDeWP4gbpoGhRNtb-m4NGTe0PoJdZI4xlZXGCx6Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJCaxTxc5DzDERRYXXwOvTmTE",
+         "plus_code" : {
+            "compound_code" : "8H3X+7M Rawang, Selangor",
+            "global_code" : "6PM38H3X+7M"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJCaxTxc5DzDERRYXXwOvTmTE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192
+      },
+      {
+         "formatted_address" : "KM440.0, R&R Rawang Northbound, PLUS Highway, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3305837,
+               "lng" : 101.5579773
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.331645979892722,
+                  "lng" : 101.5594852298927
+               },
+               "southwest" : {
+                  "lat" : 3.328946320107278,
+                  "lng" : 101.5567855701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f85945c81cec3f5685ab90771e76f57056bd242",
+         "name" : "A&W R&R Rawang North bound",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104235211432853047204/photos\"\u003eseri cempaka kayangan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABU6wGkyiOvy29Sj41VikhqUUZmL6JQHH6o_zth_3IQeerNiV6-QJTx3Je9rVNXkufOFplmdj4QsmgerhQHax9rsjdei18SFFwYYQGMoYLQGe8qwF7hmDvCl4aAnJgzSoEhC7mXwveMsW4JEvNuRntdTkGhR7FTrO0IJdaoH_rMdUbVTwwR7A9Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJxZD13r5DzDERc8Blib8dMfw",
+         "plus_code" : {
+            "compound_code" : "8HJ5+65 Rawang, Selangor",
+            "global_code" : "6PM38HJ5+65"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxZD13r5DzDERc8Blib8dMfw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "1, Persiaran Anggun, Taman Anggun, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.3166084,
+               "lng" : 101.5364099
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.317808479892722,
+                  "lng" : 101.5379393798927
+               },
+               "southwest" : {
+                  "lat" : 3.315108820107278,
+                  "lng" : 101.5352397201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "83f48a71cb9616643581a5638d642921e09508bd",
+         "name" : "Burger King",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101229624967463674668/photos\"\u003eshinolisa zhang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdYxBpmFo5tDddj6e-qIfWu5e-yofXzjrIolf0_qSVk58SZ3Kiwa5xhK8iqEQWRqvV47OrnnHugAll6eY330P79i5YmQjdtBkhvoS4oNEM_k2P1Szs1EUz4hkaL_xhAieEhBF8WStY5vJMTFkGwJ4Lb4hGhSicH6bECKpVlAI7vmsGQJlqc8XWQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJpzpkvtNDzDERwgoxsjwFZGs",
+         "plus_code" : {
+            "compound_code" : "8G8P+JH Rawang, Selangor",
+            "global_code" : "6PM38G8P+JH"
+         },
+         "price_level" : 2,
+         "rating" : 2.9,
+         "reference" : "ChIJpzpkvtNDzDERwgoxsjwFZGs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "Lot No 41, Rawang New Township Jalan Bandar Rawang 2, Rawang Selangor, 48000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.323619,
+               "lng" : 101.576881
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.325014379892723,
+                  "lng" : 101.5781730798927
+               },
+               "southwest" : {
+                  "lat" : 3.322314720107278,
+                  "lng" : 101.5754734201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6c268090a4cbb747dbac62c05926a96409af0266",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111413333992814252150/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7xrygdcfnoOTrdo6nHaI9jl5Nk8h5lBlK4atDTMd6nbgWe_CIcqybXaFWUJTEtzX7F-SpLcziu8OgvpW0bxpD0LqApZoOQZwux2UlWPYM3LG0rIpQV4kI05k8ryD9YmKEhCe1hHdqkth_jm4ZtkIawZXGhSh5i2CwIyihKsOMU6zJ_oMJclEiw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJx22BxVtCzDERPCOoQRqJYSQ",
+         "plus_code" : {
+            "compound_code" : "8HFG+CQ Selangor",
+            "global_code" : "6PM38HFG+CQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJx22BxVtCzDERPCOoQRqJYSQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 419
+      },
+      {
+         "formatted_address" : "No. 4, Jalan 3/40, Bandar Tasik Puteri, 48200 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.275982,
+               "lng" : 101.497938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.277336229892722,
+                  "lng" : 101.4992948798927
+               },
+               "southwest" : {
+                  "lat" : 3.274636570107277,
+                  "lng" : 101.4965952201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9bf95d320c89803767de82ca20e495a4fb729693",
+         "name" : "Bahulu Kemboja dan Kotak",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111649786758750254151/photos\"\u003eMohamad Syahrul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAWBzjmyT-vvFho5WuZdoTXgaPeBrUvVOuu6if3o20xrlOu4oXisH1OS1xmE3YQ7FP0-eMB__Kzf8jnamK_UMykEGlsxJdEQV67g2O4Nc54JkHgApyBmLpahA5jP4aJJnEhB4rAX59f8W_W-_67_QLQShGhQnBh8Px30GpLMGyJw1TWJFOLiYsw",
+               "width" : 600
+            }
+         ],
+         "place_id" : "ChIJ1wzDwJ5czDERSwBsjB2_jW4",
+         "plus_code" : {
+            "compound_code" : "7FGX+95 Rawang, Selangor",
+            "global_code" : "6PM37FGX+95"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJ1wzDwJ5czDERSwBsjB2_jW4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "Taman Tasik Biru, 48020 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2478068,
+               "lng" : 101.5240413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.249140279892722,
+                  "lng" : 101.5253746298927
+               },
+               "southwest" : {
+                  "lat" : 3.246440620107278,
+                  "lng" : 101.5226749701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "da6fadabb1f5bfb7d7646d405ec402a7fc19b25f",
+         "name" : "Gerai Pisang Goreng Cheese",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102002333215088780564/photos\"\u003eAizzam Azaman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAu0Ieyhlovm41v8omBYLh5ehVJoaCT5sXhMX5tb1IWH_fH_susPGE4JMPRNt8tMymQA-d-tGAugSJJye2X6wdXGeo1BmqzuaKJkzgsCl9DrE2nQG2TTCBUdMJjBXyq0C9EhDxejCELDXNWHbMzSPv9lAVGhRYj05SfFhznr0Qk9nFaLOJsi8BSA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJtyyPujRbzDERTrDv6A749zw",
+         "plus_code" : {
+            "compound_code" : "6GXF+4J Taman Tasik Biru, Rawang, Selangor",
+            "global_code" : "6PM36GXF+4J"
+         },
+         "rating" : 1,
+         "reference" : "ChIJtyyPujRbzDERTrDv6A749zw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 1246, Mukim Rawang, Gombak, Malaysia, Selangor, 48000 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.317675,
+               "lng" : 101.538531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.319168579892722,
+                  "lng" : 101.5397258298927
+               },
+               "southwest" : {
+                  "lat" : 3.316468920107278,
+                  "lng" : 101.5370261701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "128870e9bc1b87442a9be3adf044104397cc3336",
+         "name" : "McDonald's Kota Emerald DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ0WRTlx1DzDERK5meG_Q_kg4",
+         "plus_code" : {
+            "compound_code" : "8G9Q+3C Rawang, Selangor",
+            "global_code" : "6PM38G9Q+3C"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ0WRTlx1DzDERK5meG_Q_kg4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "NO 2, 2-1 & 2-2, Jalan Orkid 1D/2 Seksyen BS1, Bandar Bukit Sentosa, 48300 Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.404365,
+               "lng" : 101.5574495
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.405725729892722,
+                  "lng" : 101.5587872798927
+               },
+               "southwest" : {
+                  "lat" : 3.403026070107277,
+                  "lng" : 101.5560876201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7425f11195a5f09edbc9799d25c168ea278ebe6",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109994605195854205719/photos\"\u003eShandaar Ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwj1Md-NapW_fZveqTR6886PVfpZItKJM8DrD_ScNiAgzH6Q6dxd1wuncA1C7ziTwfAOpcrlx4HkW-7naClztt66CZiyW6GOiTo6Ty581kKauZuLDO72lmxGA2vY8dfPNEhAOM264U_oXa1jAjrvYPo35GhQ3aW7AS9W66JeBR8lSooTMnS1LsQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJc0XSSe9ozDERLTvY7fE89Ck",
+         "plus_code" : {
+            "compound_code" : "CH34+PX Rawang, Selangor",
+            "global_code" : "6PM3CH34+PX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJc0XSSe9ozDERLTvY7fE89Ck",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 398
+      },
+      {
+         "formatted_address" : "No. 11, Jalan Bandar Rawang 10, Pusat Bandar Rawang, 48000 Rawang, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.319112,
+               "lng" : 101.57762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.320468879892722,
+                  "lng" : 101.5789064798927
+               },
+               "southwest" : {
+                  "lat" : 3.317769220107277,
+                  "lng" : 101.5762068201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "fa3fc7c8d557ac2829c55f3182731a17c1902c95",
+         "name" : "KFC",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101435684619441021712/photos\"\u003eJeeva Sakthi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZYhnte6iS9PV7QTh7bHkiCS-G86EGLQvqwYlVTarcXv2lngPEPjMsvVeIrelv6TmQLRycZz2ZwD451vXJo1m01xcvNE2XaMN5RBvcR9k4HvNYCkSqf-Lw9bzsu-FG2x-EhDxZapFr_sgJsvsxrXxwA_2GhSMR74OEsN7xIOY2LWRCszSLNRSqg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJedwI61BCzDERryK0izxUP5c",
+         "plus_code" : {
+            "compound_code" : "8H9H+J2 Rawang, Selangor",
+            "global_code" : "6PM38H9H+J2"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJedwI61BCzDERryK0izxUP5c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 121
+      },
+      {
+         "formatted_address" : "Lot 7398, Ground Floor, Jalan 1A/3, Bandar Baru Sungai Buloh, 47000 Sungai Buloh, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2111306,
+               "lng" : 101.5645514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.212473879892722,
+                  "lng" : 101.5658878798927
+               },
+               "southwest" : {
+                  "lat" : 3.209774220107277,
+                  "lng" : 101.5631882201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "35e92ddbe113913c225d49e2d1bcd6f2245c899a",
+         "name" : "Texas Chicken Sungai Buloh",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102732713975306066974/photos\"\u003emohd irfan irfan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxYWupoNOhn706I1d0rr11RWnMeiXdWnLkvLkCXaP4iZSABy5qk_UmJE6ug1S6pCz36PkenurxiYPcnMIEcCee3qFmeyoh49j4GmNAh0s4a4UPxfaKDc2dreVb3EsNR8XEhC1qS-6PXCC0YxRBWLNKuEKGhQln-hpDVMmdm8pRiOQGzTQ6JKrjQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJQc_jpnRFzDERLw-dTrpKSwI",
+         "plus_code" : {
+            "compound_code" : "6H67+FR Shah Alam, Selangor",
+            "global_code" : "6PM36H67+FR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJQc_jpnRFzDERLw-dTrpKSwI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 567
+      },
+      {
+         "formatted_address" : "3342, 4, Jalan BRP 3/3, Bukit Rahman Putra, 40160 Shah Alam, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.2246213,
+               "lng" : 101.5566663
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.225979779892723,
+                  "lng" : 101.5580760798927
+               },
+               "southwest" : {
+                  "lat" : 3.223280120107278,
+                  "lng" : 101.5553764201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "edde0597fe8dba5fb6b916d5ce25d18beca98e31",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113042359790729491791/photos\"\u003ehafni haris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0F802w2fHYgOnxkGk_IQlte4Bil7v5-_v4G6IYMebGQ3UlaYiSgdEsivzhprzUb-RDVxTVr3RMYS29epnoAGs8T1GHbIaDM1l5_ucleaD3J1YFnKCBX6gTs2KZ8if7ifEhD8Q3pYKSQ7Q_yVGHTNyfLeGhSXhazMJ8jiu8l75IpTLA-BdOAdsA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJWde-HBtFzDERE2xtPPxDAqI",
+         "plus_code" : {
+            "compound_code" : "6HF4+RM Sungai Buloh, Selangor",
+            "global_code" : "6PM36HF4+RM"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJWde-HBtFzDERE2xtPPxDAqI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 911
+      }
+   ],
+   "status" : "OK"
+}

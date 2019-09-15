@@ -1,0 +1,132 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Gerai Lagoon, Lot No 2, Kg Tepi Laut, Menumbok, 89760, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.303009299999999,
+               "lng" : 115.3744059
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.304272129892722,
+                  "lng" : 115.3756040798928
+               },
+               "southwest" : {
+                  "lat" : 5.301572470107279,
+                  "lng" : 115.3729044201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a065e6f80170072c894287c830e4934ef3ea52b",
+         "name" : "R&R Corner",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103099541299712803921/photos\"\u003erosyati agt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjuc9WKUqOg5RMfo4UwIx1035cKdEW9Qu9GStndPBSnal__o4-zWGxG5mOJOyYfU97C2WfsQzvG4JnIM_BpJaLLL4TLnuV2dIqWkq5IuVnPGXxQGjyWkIt_Ckg0Mo-6VgEhCLoPmFxH5U9s9OJUUf2e7eGhSgUjfPsSnQRodSfSo7q1V5TxI11Q",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJG-2EdvsjIzIRfYb1TGWas7Q",
+         "plus_code" : {
+            "compound_code" : "893F+6Q Menumbok, Sabah",
+            "global_code" : "6PQQ893F+6Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJG-2EdvsjIzIRfYb1TGWas7Q",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Menumbok - Mempakul, Menumbok, 89760 Menumbok, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3029079,
+               "lng" : 115.3731999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.304283329892721,
+                  "lng" : 115.3745548298927
+               },
+               "southwest" : {
+                  "lat" : 5.301583670107277,
+                  "lng" : 115.3718551701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c1c33946c26fd42784c0573c307755bcc4a66b8c",
+         "name" : "Singgah Selalu Restaurant",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105753688510530340680/photos\"\u003eKui Heng Chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVLUat9SxcXjYmseItYFHt_Z0onwlsVmtZP68fx9s95x4G1yOBShGSi-ZhOdUI3KgA3J55p6LYk71PsBbGHOUKXWH1UDLsTCjUs6gPPd_tC43cAFXSCtPoskbkEHGqz28EhCt9hIVhnb56Q3ZVJVXfP27GhTapz8KAXtomGQxnKjyMJQph9R9bA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ3Te1m3wjIzIRIQadeLkjKio",
+         "plus_code" : {
+            "compound_code" : "893F+57 Menumbok, Sabah",
+            "global_code" : "6PQQ893F+57"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJ3Te1m3wjIzIRIQadeLkjKio",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "Menumbok, 89760 Menumbok, Sabah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.30294,
+               "lng" : 115.3734631
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.304305529892722,
+                  "lng" : 115.3748150798927
+               },
+               "southwest" : {
+                  "lat" : 5.301605870107278,
+                  "lng" : 115.3721154201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "56e4172ca6c203abd49a42c33db59f592db43e21",
+         "name" : "Terminal Feri Menumbok",
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116184469929367070078/photos\"\u003eliang yew Ng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW0RQfcd3o7VcfDUv-zpePbH1Qh3fDu7ZjVanw_rvOruudAJOOrWiUkm5oNWNkwhgJpwpo2SS1FDxDi3IPeadXERqx9OEslH5-jXh_9Gxd42yXDMpelw7aaoAYfFXg--xEhCcT_T5LphMef1NGXfsrpEVGhT6ItHKTS99Y0arTBmMExJMegZB9A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJaWe3kHwjIzIRxr6Jjbuh6LU",
+         "plus_code" : {
+            "compound_code" : "893F+59 Menumbok, Sabah",
+            "global_code" : "6PQQ893F+59"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJaWe3kHwjIzIRxr6Jjbuh6LU",
+         "types" : [ "transit_station", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      }
+   ],
+   "status" : "OK"
+}

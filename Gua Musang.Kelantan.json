@@ -1,0 +1,849 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lot 19, Bandar Gua Musang, 18300, Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8768349,
+               "lng" : 101.962336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.878186279892722,
+                  "lng" : 101.9637643298927
+               },
+               "southwest" : {
+                  "lat" : 4.875486620107278,
+                  "lng" : 101.9610646701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "43172c7a77c3314fe884e4659d64f3170af5f16f",
+         "name" : "KFC @ Bandar Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116832925424149125372/photos\"\u003e荡云海\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOOpyjoG63IllcQUErvqork4x6dsJRLJKH7L9dJQjGrXmC67g9ZZhCXkNufx_W_AOd55i8xlDpWTQEdX0TEPk88TD3UqvytcUGNv-9h7bf8Pr_oFFgoVLt94edOfHLDk-EhCty_jlfbP3KkOazR5ZOsDsGhQOp3IZuzOhBgSpFM24B-RG3w5-bA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJAQAAwBgEyjERs8T_wdUt6BA",
+         "plus_code" : {
+            "compound_code" : "VXG6+PW Gua Musang, Kelantan",
+            "global_code" : "6PP3VXG6+PW"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJAQAAwBgEyjERs8T_wdUt6BA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 218
+      },
+      {
+         "formatted_address" : "Bandar Baru Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8648907,
+               "lng" : 101.9549248
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.866250779892722,
+                  "lng" : 101.9562849298927
+               },
+               "southwest" : {
+                  "lat" : 4.863551120107278,
+                  "lng" : 101.9535852701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8c3e6ed98f8e0490db7a5fe05568b600ea747b2e",
+         "name" : "Restoran Dalam Taman D'Tasek",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\"\u003e李智优\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyEEUkNGYc58u_egPjpDKfFxHuuxR4FOUVwR9aBiMIJYxV0x1KUOpGsAu4mIG1oAR4Y-P01i_tz07VjSCBHRGdlYHlbepnuWvT4M-8xBddfKm8PaZjUSWNeG7qZzzzEElEhDqQODBLvhydVAUB7dU-FEHGhTauv83D1GjtoF8XiQxJzRUz045mw",
+               "width" : 1152
+            }
+         ],
+         "place_id" : "ChIJHRrswCEEyjERe8l6FoMTjD4",
+         "plus_code" : {
+            "compound_code" : "VX73+XX Gua Musang, Kelantan",
+            "global_code" : "6PP3VX73+XX"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJHRrswCEEyjERe8l6FoMTjD4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "formatted_address" : "18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8718583,
+               "lng" : 101.9538455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.873179279892722,
+                  "lng" : 101.9551468798927
+               },
+               "southwest" : {
+                  "lat" : 4.870479620107278,
+                  "lng" : 101.9524472201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70e6b580dbbb435ef0e7872c65cca56b82807fe5",
+         "name" : "Mamak's Spicy Special",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110113391028500366519/photos\"\u003eyusof125 zack\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKmyJl1tndNSJkQYoryULq66dU9cy7eN-ktBqiIR4eWeLJ7gn-B0ll7U7SKUViHiLoupcyM7VNTkMZACkbDfc5toZhq7Ye5J2tq1Kd0wTFd1nAs56KsBDI5o-V46QJpaFEhBH5pVJSVi9q_3Bwyo5Lxa_GhQX85z1SzN8pZ6GNS4jF6dniRA4CQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ1ZW68J4GyjERks9jbNu70DA",
+         "plus_code" : {
+            "compound_code" : "VXC3+PG Gua Musang, Kelantan",
+            "global_code" : "6PP3VXC3+PG"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJ1ZW68J4GyjERks9jbNu70DA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 157
+      },
+      {
+         "formatted_address" : "PT 9381, TAMAN TITIWANGSA, Bandar Baru Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8623955,
+               "lng" : 101.9533195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.863746329892722,
+                  "lng" : 101.9546693798927
+               },
+               "southwest" : {
+                  "lat" : 4.861046670107278,
+                  "lng" : 101.9519697201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dbb68dd799c0f302274995423f78835a34bd8898",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101606453558355117823/photos\"\u003eadf ly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT8oPfUIzC8XgByRiKJi27Sj5YZtlICrIFX7TmWA3wAHtgrPdyIhQEY7WfYvLyt2YVMzPnadQshCuiCaYoGajU0eh9R1i543AmkJ6NPTNnbgTgj2sv4UfsUPZQURrWXqIEhA2qZbCXe5HQSTkc4oJCHYZGhSc7bYdFK7Yd_eiFWEF8BdzIGTAPw",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJS1nFGDsFyjERYXs7byWseW4",
+         "plus_code" : {
+            "compound_code" : "VX63+X8 Gua Musang, Kelantan",
+            "global_code" : "6PP3VX63+X8"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJS1nFGDsFyjERYXs7byWseW4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "33, Jalan Besar, Pekan Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8843726,
+               "lng" : 101.9672713
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.885775079892721,
+                  "lng" : 101.9686384298927
+               },
+               "southwest" : {
+                  "lat" : 4.883075420107277,
+                  "lng" : 101.9659387701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "37e45e9a81106c44dc751372698c003737bb9bdd",
+         "name" : "Restoran Hon Kee 漢记饭馆，Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115684513120994093037/photos\"\u003eTan Thai Pin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvxzB0U3lfb6IYYOIXOYu4XZFj55Xma6FZ2IymiESWDwT3jMyuaVM3BXw2AV2I2SMD9lCj4LganwwddHye79tdtLuqwkU5KouIxOpVDS7NQ1cQAv4YNOiqZ9b5MdAW-wlEhDaDSoPEHywOZH2651SfOddGhRZG_JLPjMy6ufksowUjICm3A59aA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJwywMi7kGyjERMz5jIJONJfA",
+         "plus_code" : {
+            "compound_code" : "VXM8+PW Gua Musang, Kelantan",
+            "global_code" : "6PP3VXM8+PW"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJwywMi7kGyjERMz5jIJONJfA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "formatted_address" : "Jln Persiaran Raya, Taman Wangsa Mewangi, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8730227,
+               "lng" : 101.9632741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.874538479892721,
+                  "lng" : 101.9645671298927
+               },
+               "southwest" : {
+                  "lat" : 4.871838820107278,
+                  "lng" : 101.9618674701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "e59933917c5b655bab6da83bebafe8dbdc0471b0",
+         "name" : "GM Kopitiam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114335289829839114002/photos\"\u003eAubeena Creatives\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_MDb8fitqZIC5m_JGLKn9SMQJlmKQfYIzLwkpvE-YWc2DwJrUUwyqq5gL0n46TYmXtlpjzzT1MscFL74rpAu_GAkW10ueyX_wpVUaZUCSFo521owoMY9F3r9aTtwzlUTEhBpTQpg1VnCMgCD38oBBbU1GhQ6AZzQDi3dVwXKBsb8qOO5AIXMFQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJvZxfSqEGyjERXCZvQNmxScM",
+         "plus_code" : {
+            "compound_code" : "VXF7+68 Gua Musang, Kelantan",
+            "global_code" : "6PP3VXF7+68"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJvZxfSqEGyjERXCZvQNmxScM",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 78
+      },
+      {
+         "formatted_address" : "18300, Laluan Persekutuan 8, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8264543,
+               "lng" : 101.9629375
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.827740379892722,
+                  "lng" : 101.9641160298927
+               },
+               "southwest" : {
+                  "lat" : 4.825040720107278,
+                  "lng" : 101.9614163701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "76e3023df7b5832baa045590c88d6ff059d9943c",
+         "name" : "Hentian Rehat Dan Rawat Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104709606247956212964/photos\"\u003eMohamad Alimin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0ZytMKVZD-hgyFhcpk3RH3AsMfDh8JdhVugOm-3f3s9fDSaeos8VEJnbqpV16N9cOsc6DGGDQsJ34xkq14pBnXQ22oyN2o7mpWrPQygDNwBs-8EdMYyoFI2UBuSHeUA_EhDiAu3beORxAn3Dqg9JhNEXGhTDWMjwnHEpG8rxKUTpIPD7mXgRmg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJ9yyhFWEEyjERyoekyyi0_44",
+         "plus_code" : {
+            "compound_code" : "RXG7+H5 Gua Musang, Kelantan",
+            "global_code" : "6PP3RXG7+H5"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ9yyhFWEEyjERyoekyyi0_44",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6219
+      },
+      {
+         "formatted_address" : "Jalan Jelawang - Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8684745,
+               "lng" : 101.9529195
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.869815279892721,
+                  "lng" : 101.9544045298927
+               },
+               "southwest" : {
+                  "lat" : 4.867115620107277,
+                  "lng" : 101.9517048701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "c59ef759c3855f0902f2d99a96f290ca5a1e23b6",
+         "name" : "Tropika Kopitiam",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114307954760569802746/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAHGqUr1d_5gpqWzk3uVlorDIMPFFgYsV0FMvYNAobOQpjtTagzbSdlNkXqqoJCzZneFCUXgpCBlBm8q8YD892ofhz0xXVPDtS89HYngwDfq3EdM-YPhqmxX2TowmqezOEhAf54P3_GkNKDholeStYlDAGhR_zAKqhaAAGRPc-yUUCDxjyo-Fkg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJuUieuyAEyjERzEHneBsbr8o",
+         "plus_code" : {
+            "compound_code" : "VX93+95 Gua Musang, Kelantan",
+            "global_code" : "6PP3VX93+95"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJuUieuyAEyjERzEHneBsbr8o",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "pt 7836, Jln Persiaran Raya, Taman Mesra, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8761908,
+               "lng" : 101.9619951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.877539929892722,
+                  "lng" : 101.9633179298927
+               },
+               "southwest" : {
+                  "lat" : 4.874840270107279,
+                  "lng" : 101.9606182701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b17441654f61c5fedf0e5bd691457cf45a9322e9",
+         "name" : "Ikhwan Delights Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108764520712510353223/photos\"\u003esyabab aft\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAws6PKtavml9oVVERcHaNK63zQkPo09Lhb3QmbDwkgncyvGcf2V8_g93P42hYTiY_FzRUOfwzmaKslh0dfGmLhUKHEmXYfzWBcNkTVedeULx48qlexfBFW73GMIjq3wr1EhC7zAnAVM_USqAARG1BO6l0GhQEuhJNWcELYAFAwiwUAA6k_9nRww",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJvepqmKMGyjERpRabZKnsm2k",
+         "plus_code" : {
+            "compound_code" : "VXG6+FQ Gua Musang, Kelantan",
+            "global_code" : "6PP3VXG6+FQ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJvepqmKMGyjERpRabZKnsm2k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 125
+      },
+      {
+         "formatted_address" : "Jln Pulai, Kampung Kerinting, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8768826,
+               "lng" : 101.9622412
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.878336479892722,
+                  "lng" : 101.9635824798927
+               },
+               "southwest" : {
+                  "lat" : 4.875636820107278,
+                  "lng" : 101.9608828201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "11405c67c56861eeb36f5bc0918ae0c37bcf6d7c",
+         "name" : "Kentucky Fried Chicken",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101037571484127555420/photos\"\u003ekarami wan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0nKjqEbes0y8PMaErpawK4shJT1aXSL9Xi_iqT87UY0WASrwEqs5wBgpiOP-IIZs3l3k2Le94J643Yw-YXflHwPCOhti-Gu8w_bxrNXMnY73zPztFAIyIlGFOISKlFWfEhC-8EQRP5NVrE8DiCK_EsgsGhQc8AAHDKMQf8UGXgQY1UV6msyarA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJzVnseaMGyjERd-TxCXXTt4I",
+         "plus_code" : {
+            "compound_code" : "VXG6+QV Gua Musang, Kelantan",
+            "global_code" : "6PP3VXG6+QV"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJzVnseaMGyjERd-TxCXXTt4I",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 255
+      },
+      {
+         "formatted_address" : "Lebuhraya Kuala Lumpur - Gua Musang, Kampung Gata, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8758644,
+               "lng" : 101.9621795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.877205979892723,
+                  "lng" : 101.9635288298927
+               },
+               "southwest" : {
+                  "lat" : 4.874506320107279,
+                  "lng" : 101.9608291701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "0abf0d8d8d890cc0de8151dd06e1b9dda73d2177",
+         "name" : "Hana Coffee Station",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106143085479982580513/photos\"\u003eTerence Too\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJH9EFDGCBs7lvK7d4qsyqKS9WcKBG6mhhElKna5UmipU0k8Vo2feZkF-ZsV6Emy0TmDhRhO6HBa8YY1uRR3LIgzViz-6PRt0yuFZS5_PxBGfVIT1BNjplmcGgELtI-86EhCg-zEhp-NTiAV-Pqj1nr8cGhSsADdNca7pJmrs2nv-kA9w2yBGlQ",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ-f-_lqMGyjER3DXQBb8eKrg",
+         "plus_code" : {
+            "compound_code" : "VXG6+8V Gua Musang, Kelantan",
+            "global_code" : "6PP3VXG6+8V"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ-f-_lqMGyjER3DXQBb8eKrg",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 57
+      },
+      {
+         "formatted_address" : "Kampung Kerinting, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8767029,
+               "lng" : 101.9622603
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.878055029892723,
+                  "lng" : 101.9637277298927
+               },
+               "southwest" : {
+                  "lat" : 4.875355370107279,
+                  "lng" : 101.9610280701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5e9a13f6e65c9fce86702b76282a5280195f8334",
+         "name" : "Pizza Hut Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106191993643426867047/photos\"\u003eNunalif Yawaumim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGQCFHLi6CbIinjgwfApR4J_MH9xJYdxo7nlOPEntLNChpsMwZKyWEDvVrOnasbEB1_KKj9-OG3Ovp1pNXWucRgHSim5XNG07xifeF94hdGrfn4D7TZU5iT1UsU51fRuHEhDOTkDkVqHh7lBlqEGTYPmVGhRnZIXz8w-ILSYGHu9e1Pt1khWJAQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ9V_BeaMGyjERx6op7K_4PpQ",
+         "plus_code" : {
+            "compound_code" : "VXG6+MW Gua Musang, Kelantan",
+            "global_code" : "6PP3VXG6+MW"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ9V_BeaMGyjERx6op7K_4PpQ",
+         "types" : [
+            "meal_delivery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 157
+      },
+      {
+         "formatted_address" : "PT 12682, Mukim Bandar, Gua Musang, 18300 Gua Musang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.874615299999999,
+               "lng" : 101.9624789
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.875965129892721,
+                  "lng" : 101.9638250298927
+               },
+               "southwest" : {
+                  "lat" : 4.873265470107278,
+                  "lng" : 101.9611253701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8a02814f9b4312b9e474120eef8abdecf61c39a",
+         "name" : "PH GUA MUSANG",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111366557930931390237/photos\"\u003eNallu Mani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ2KhvLyxWaep63qitYtEb1LhzKTAq1KPcZDin1rzYJAsEo1C1kXL8-vqQ3D5xcDHfMeLXje1IhBY7tSa1rfwuPgSTlooOJ2-6x5nykqxfwTO6Hv-2zoaHTDE0kT3HhT2EhC0XZq_vQsCl5iQkIT9RgbXGhR5LY4uRGfN95I-wmcHjNUKh0lspA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJf2SM_h0HyjER8DQieSOxD9k",
+         "plus_code" : {
+            "compound_code" : "VXF6+RX Gua Musang, Kelantan",
+            "global_code" : "6PP3VXF6+RX"
+         },
+         "rating" : 5,
+         "reference" : "ChIJf2SM_h0HyjER8DQieSOxD9k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "PT 8387, Taman Wangsa Mewangi, Jalan Persiaran Raya, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8700537,
+               "lng" : 101.9632728
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.871404529892722,
+                  "lng" : 101.9645576798927
+               },
+               "southwest" : {
+                  "lat" : 4.868704870107278,
+                  "lng" : 101.9618580201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e523f094d20100b0fe94feae02ae815a94acc66",
+         "name" : "Secret Recipe Gua Musang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1860,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109679869023205908619/photos\"\u003eMizan Yusoff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7lw1ybsq-0xy6VkVXbdxQwJFv6TroVPHYAqSRok4X6oCo7j5nr9IAJNE_hDuKgFNaTm5xCPfxwOpegoS1jvTYz4HIukedrmIaBF-TpeYm9vQaPcWzD5rh2VHGyhAc3rNEhBhBhiq38CMMFdAj5ioKGE2GhQYzgaNcDxaVhoVbLzOoV1Wreoxlw",
+               "width" : 1860
+            }
+         ],
+         "place_id" : "ChIJ47UKsaYGyjERWYBQF0UW-ZI",
+         "plus_code" : {
+            "compound_code" : "VXC7+28 Gua Musang, Kelantan",
+            "global_code" : "6PP3VXC7+28"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ47UKsaYGyjERWYBQF0UW-ZI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 118
+      },
+      {
+         "formatted_address" : "18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.808687300000001,
+               "lng" : 101.968543
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.810085629892722,
+                  "lng" : 101.9700012798927
+               },
+               "southwest" : {
+                  "lat" : 4.807385970107278,
+                  "lng" : 101.9673016201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4b0781d775edbb0a2e196cb7518722cc9693a7ab",
+         "name" : "Restaurant Bayu Lenang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106597016271480799581/photos\"\u003eNazmi Mamat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjekQIbb8tUNFwcpeSzzs2_o7nopmDPyam-8X7IcJSXWGMJLuRQw6cIvP0xA9cqCjQg0dokHW34LnxQG3X4UwnSesgyRlTK2XE26aoZwOVtaeSqOPeAz_IabP73y5c90JEhBcI2L_cnfJ2etiajkAjSCxGhRECWEmtFFum_E_T1xhNXSic7_KiQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJm_mO8JcEyjERP8PGWQVYVmk",
+         "plus_code" : {
+            "compound_code" : "RX59+FC Gua Musang, Kelantan",
+            "global_code" : "6PP3RX59+FC"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJm_mO8JcEyjERP8PGWQVYVmk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 51
+      },
+      {
+         "formatted_address" : "Dataran KESEDAR, Bandar Baru Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8619385,
+               "lng" : 101.9623813
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.863288979892721,
+                  "lng" : 101.9636680298927
+               },
+               "southwest" : {
+                  "lat" : 4.860589320107278,
+                  "lng" : 101.9609683701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cd33f4d4a9dc1ae6346e45176125c42d0b578b3b",
+         "name" : "Char Kuey Teow Dataran",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102896006873526889835/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATdRcJy6d2u81yd3AaRBk52YVoqcM-CfIgstpuIWIqBMCMyvDc7s9vqE81xYHbcAzLy-uFQhmwsAxEI1NzopDkK0wZM50SKz_W6_qAhwom9IEor5vAOdF1MpclXtKRdBREhCW1xiFxOyDWXD9YJDpLToLGhRoaXk_neDG3_jQmTwrgYS5UkyHJQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJn14JcRkEyjER_GKf7M8JRUc",
+         "plus_code" : {
+            "compound_code" : "VX66+QX Gua Musang, Kelantan",
+            "global_code" : "6PP3VX66+QX"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJn14JcRkEyjER_GKf7M8JRUc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43
+      },
+      {
+         "formatted_address" : "Pekan Gua Musang, 18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.884278999999999,
+               "lng" : 101.968178
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.885598429892721,
+                  "lng" : 101.9695188798927
+               },
+               "southwest" : {
+                  "lat" : 4.882898770107277,
+                  "lng" : 101.9668192201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d46660e876b8b8509bfa6af45ac4ab9e8884a3d1",
+         "name" : "Kedai Kopi Heng Heng",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106293733441134451793/photos\"\u003eวีนัท่ วรรณภพ\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFnc-z69jGEngrBeWqNhAPSdJpRCeZZSXUoiMui1rDQIiO-fXbqAQlya6VKEHQASeKQivpQ9o7_bOWMp-VMEDbNS3PYUWD3ROqqfjLArzUhR9J0VfLs4sqY67pEXeiNBgEhCNhxGYxKilTTTiiZTFZy7iGhSf37_XUSU8nQ1dlzrBwcHAD-0F9Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJOa_W97kGyjERdlz9TdyxoCc",
+         "plus_code" : {
+            "compound_code" : "VXM9+P7 Gua Musang, Kelantan",
+            "global_code" : "6PP3VXM9+P7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJOa_W97kGyjERdlz9TdyxoCc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.826430999999999,
+               "lng" : 101.9614992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.827814079892722,
+                  "lng" : 101.9630252298927
+               },
+               "southwest" : {
+                  "lat" : 4.825114420107278,
+                  "lng" : 101.9603255701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f47c50e9e747ff2d28a39cc4efb1f31ce66d7fc2",
+         "name" : "Restaurant Thiam Kee",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111205636786622190860/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAyvfuqM2PKiTKu6jJr9J40Jhu3VkP7I7RsnlLua5h5VXpemRYj6Laz4we-X8AtQkKO05NmDPuO9W5SpRHaAnCpHLSwOh8sTgd-zTtaQ9drK1x_R7BQo1yVjhtXQQnKDA5EhAqKbtn6gCVfKmDzQftTBywGhT-53VjQUSGltg4a-JxRpNdGKymSg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJER47T4oEyjER6IPkvZAnwvE",
+         "plus_code" : {
+            "compound_code" : "RXG6+HH Gua Musang, Kelantan",
+            "global_code" : "6PP3RXG6+HH"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJER47T4oEyjER6IPkvZAnwvE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29
+      },
+      {
+         "formatted_address" : "18300 Gua Musang, Kelantan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.8683336,
+               "lng" : 101.9529393
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.869685379892721,
+                  "lng" : 101.9542525798927
+               },
+               "southwest" : {
+                  "lat" : 4.866985720107277,
+                  "lng" : 101.9515529201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ab1e55616e96f4df2ab29aa3eb09c223c4b8049",
+         "name" : "兴兴茶室 Kedai Kopi Heng Heng",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109028556025329417039/photos\"\u003e李智优\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXSe4zgWAyhgtVyxkoytO13tTLvllhsdhD2dOwViszLl7wteuXiMY3FO49Xl1xWi1rPlwgUsi3jXgV4hi0HydfVTRDLhskhfdHyGDxYMV1VPqN-ADiBbrPneRrs-DwmbMEhBcMk-P0Ugo-JpTV1pdiGrLGhQuNZXfkuBg2HM28AGGiNnGIYOlYA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ-QfjuyAEyjERkaazBj9uZuQ",
+         "plus_code" : {
+            "compound_code" : "VX93+85 Gua Musang, Kelantan",
+            "global_code" : "6PP3VX93+85"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ-QfjuyAEyjERkaazBj9uZuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      }
+   ],
+   "status" : "OK"
+}

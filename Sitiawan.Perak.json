@@ -1,0 +1,872 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAIIZHfDVa1siSbQ0dli1HyQJA6YWp07__Po8OAQnG7QzlnpBlrfLWjXUfwtPX8NP0_Y27g73F5_IbSu8TafkOXAUiDPhKvhUpdvW1fHwXMyR_mtFuB-fiapEMa2-WpgUXI53kW-qlyNZ8So3X0UgHTxnTwz5uWs-M3xhdXZrZDm0HR-IxshvEKlJUmZwi3EWq7OjMvqkzqzW_7CVtWgnumkakIZg4CzBQ-tciBdkQ0lo7BhH6m1MDw9KRTST-hqOMpxf86BrShhMqbo8G0AHuuhFNhjR7DTVLgzVD4aTd1ToMjM2NwvrcfyBmalLvOoZZkeaDHC02fqkBr6jjfpnvTERE6Rqpv9DiM67NeKc_s4Wm1O-rWj9_fXexwUrk_TMAdZAe_41b3ATHf5PxiFMqHGbnHNNo45YDi-RO2svScy0LpX2OPCyfhSJZJP-SvVV5e80-X2uK2I-2goW795x0OPYGmgx7eimPhxjRSHylBvvPpM1BoMOqonE_3w65Z2c1b9GtvRO54ELTkxZC7by6_zIIj9LvTqm2O0i7qEAs9P5GUoojbxrC4-kihgTP_xKUvbp7yBaSOraQF9OGsq1LhDWj4TBcpUCct73ywzPHQDmZtcRA4uC81mQf4hWh_oZlFYwpkXHbstSks9kurETQxYOYwGufrMnu7Glr1egJbiFEhC5BZw9dmbSIK9VyZKmuHw8GhSafUxWygglkQ98yEK6MOb_FPQrvw",
+   "results" : [
+      {
+         "formatted_address" : "32000, 304, Jalan Changkat Jering - Sri Manjung - Kampung Koh, 32000 Sitiawan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2159282,
+               "lng" : 100.6711937
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.217207979892722,
+                  "lng" : 100.6725312298927
+               },
+               "southwest" : {
+                  "lat" : 4.214508320107278,
+                  "lng" : 100.6698315701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cd612051e6328793f4601fa028fdcf1fe8cf9aab",
+         "name" : "McDonald's & McCafe Seri Manjung 2 Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117177046587256670901/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA96dMpq_cBD7u2Kf8VXzCBBqmgS5t2__Vy9ez40HO-j42ABJlXM-vBn6hcbxuoZZ_yGw35_0bRRRB0r2d9vcZ--5gdwJ0dDrbQkv18HAC3g1DOE1z4PvPHQN-aS7fSTNeEhD-2Ru8POQRYw2dqO6LgGjYGhTJsSYRjA4a8ZJlsPMHEXayZKVAxA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJw160CVwsyzERlxfsLDM1N3k",
+         "plus_code" : {
+            "compound_code" : "6M8C+9F Seri Manjung, Perak",
+            "global_code" : "6PP26M8C+9F"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJw160CVwsyzERlxfsLDM1N3k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1164
+      },
+      {
+         "formatted_address" : "304, Jalan Changkat Jering - Sri Manjung - Kampung Koh, 32000 Sitiawan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2193274,
+               "lng" : 100.6715598
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.220727929892723,
+                  "lng" : 100.6728560298927
+               },
+               "southwest" : {
+                  "lat" : 4.218028270107279,
+                  "lng" : 100.6701563701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9a6643d69cc6263321076e352b4547e5e11f1748",
+         "name" : "Wing Zone Seri Manjung",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113980111660615383630/photos\"\u003eAlsmie Alias\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAJdAbK6w2r-1u4trawaFJnshc3icVMtMCyC19LaT8kRbxJUM8SaeDFtlwn_-3TDCFIAH3KCn26Y9W_WiGsukgmlKN2_hvudJerkEyKe3-0qGJjJUl0DkxyVyR0Rs8noPuEhCkb9Ro6wFrXAHu6HJLOFxQGhSLaF5eIj9gYX_TPTlDgfT8RiLvhA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJrxUpwV0syzERihIeDvm7XMo",
+         "plus_code" : {
+            "compound_code" : "6M9C+PJ Seri Manjung, Perak",
+            "global_code" : "6PP26M9C+PJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJrxUpwV0syzERihIeDvm7XMo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Jalan Lumut, Bandar Baru Seri Manjung, 32000 Seri Manjung, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.20794,
+               "lng" : 100.672349
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.209366329892722,
+                  "lng" : 100.6736473798927
+               },
+               "southwest" : {
+                  "lat" : 4.206666670107278,
+                  "lng" : 100.6709477201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01eadb3c8945843bcc24a33449a932c5259febff",
+         "name" : "KFC Tesco Seri Manjung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115663487011040564504/photos\"\u003eMohd Yusof Tawil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzoA-hWybmkQ1i7JFUs7mop7_oBzQ616G0eYoWfVfOHh_CLGfSWQy5Jn2DHOgw1NSLy2nksZjLLpR1QCuU7rnUS7_UJEIWBlaSR_EXqpD6Zf77bbOKAdvnzVcsmmALaRlEhCYdrNXDOh7FO7b7HSe2jWHGhSThRpRF2WIIKKdk92Wi4Z9G91yfg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJW-VhG1EsyzER02JdUMc8Lsw",
+         "plus_code" : {
+            "compound_code" : "6M5C+5W Seri Manjung, Perak",
+            "global_code" : "6PP26M5C+5W"
+         },
+         "rating" : 4,
+         "reference" : "ChIJW-VhG1EsyzER02JdUMc8Lsw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "Pusat, LOT G66 - G67, AEON Mall, Jalan Manjung Point 3, 32040 Seri Manjung, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.220680199999999,
+               "lng" : 100.6717904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.222161429892721,
+                  "lng" : 100.6730320298927
+               },
+               "southwest" : {
+                  "lat" : 4.219461770107277,
+                  "lng" : 100.6703323701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "53ccf5dcf77cf20f4e7477a0418b1e2a6859618f",
+         "name" : "KFC AEON Sri Manjung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113197464322822155118/photos\"\u003eNeoh Chee King\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWAuUpJl_L6fH37fCU3DimdcHOdCx7Ot3KthkVhU4MftURedGpaWd8H-koDwAR5KP0deONvSB4xer5CAl9N_BrqgiQrfUyD71bml3PYU_7J4y2jFpAAQ9CMbkPI1L3dbzEhCC0sQlCQzHpKT94UYXtT_DGhRitVjrCImK19sZl5fqGLdum8czpg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC8TrjF0syzERlfyv7OYqdp0",
+         "plus_code" : {
+            "compound_code" : "6MCC+7P Seri Manjung, Perak",
+            "global_code" : "6PP26MCC+7P"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJC8TrjF0syzERlfyv7OYqdp0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 31
+      },
+      {
+         "formatted_address" : "32040 Seri Manjung, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.212883,
+               "lng" : 100.6691332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.214086379892722,
+                  "lng" : 100.6706879298927
+               },
+               "southwest" : {
+                  "lat" : 4.211386720107278,
+                  "lng" : 100.6679882701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01c0969fcf4d9084748ba5ddc8d48a367b378bfc",
+         "name" : "KFC Seri Manjung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114943865526464653155/photos\"\u003eRezuan Razali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1hvArk1Mo2-e_4mdu90eAcwmANifxzY33U6vpjHh3OQUD0HoEcOV65BFdTyVQUEAPHQtQy5-kAF4kGjOOM2U-Uge4xuzL3S9FlZSyKV_P9kH6uI4LViT9koawlSQhpJtEhCaCpXVj3TXVj_RbCC0XRVLGhRgvX5YDlvrbuG7jtaIKzoqJaARsw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJzyoBmVksyzERMKl9shZQHOM",
+         "plus_code" : {
+            "compound_code" : "6M79+5M Seri Manjung, Perak",
+            "global_code" : "6PP26M79+5M"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJzyoBmVksyzERMKl9shZQHOM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 90
+      },
+      {
+         "formatted_address" : "Aeon Seri Manjung, 38 Jalan ppmp7, Pusat Perniagaan Manjung Point 1, 32040 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.211367,
+               "lng" : 100.669889
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.212747279892723,
+                  "lng" : 100.6712306798927
+               },
+               "southwest" : {
+                  "lat" : 4.210047620107279,
+                  "lng" : 100.6685310201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "02e8b5038c07164d0865cc5544e340c2877dd8f2",
+         "name" : "Minus One degree C",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115937372675066279062/photos\"\u003eMinus One degree C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6OU5GF25P-mzn8ZNg-iHKdRWAtgeOAGG18pD9vMxwtNW8HU9lzra3ClMBtj846HVDkcwvjkWfhIi4dD9l3vzavVEzcr0GCPH1yC5EYUSyP3YfSgtApWsCSrqKI5ryLMoEhBxg1pD8e5Uq9wYsQbl3hKwGhToabF4tvX3ItdJmFWArAShVCbzlA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJSXBq-lksyzERJcFSoPVkZ4k",
+         "rating" : 0,
+         "reference" : "ChIJSXBq-lksyzERJcFSoPVkZ4k",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot A11/A12, Ground floor, Giant Superstore, 32040 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.212707,
+               "lng" : 100.668801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.214006379892722,
+                  "lng" : 100.6699763798927
+               },
+               "southwest" : {
+                  "lat" : 4.211306720107278,
+                  "lng" : 100.6672767201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dc2083dd2d36b6f73be306dfeeb1789569386dfe",
+         "name" : "KFC Giant Manjung",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110579117659102607677/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABSFTmjyYBL8O-9p2I7nkyz_p_cjOUWCj-WEpwT-d5aqDSvnOSNNIpoYYxHkeb_duTWNDJ279_0N93n5R7xvW9TjyW8x05OPDOzYp1V60dzq4PViuVK4Gk_Ed3qOyLYswEhCB7VwI5C8cyRqK_TsB_9ZEGhTc-oNS80G0kZ2pVJ_EQbQJpxjmvg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJeVs1vFksyzERF-ZlEBsiUY4",
+         "plus_code" : {
+            "compound_code" : "6M79+3G Seri Manjung, Perak",
+            "global_code" : "6PP26M79+3G"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJeVs1vFksyzERF-ZlEBsiUY4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Ground Floor, No. 1, Jalan Haji Mohd. Ali, Taman Teratai, 32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.216821599999999,
+               "lng" : 100.6953547
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.218128229892721,
+                  "lng" : 100.6967337298927
+               },
+               "southwest" : {
+                  "lat" : 4.215428570107277,
+                  "lng" : 100.6940340701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "43990ca1238d4ace9a665b56a0b53b175d7458b8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114847085584584655134/photos\"\u003eTristan Ling\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2DKEoZ6O2i0HmbDc7BKOrc26mRADh7_RUX22gQWgsRXznn-9mTS2QIR8WlW7XPHzYTCAUTiJFBQcAGKYvwk2TPo1_HL2hwIKsSGU2JWHh02EqZ_CA7GghfIHzCJFlm6NEhDYGUwSbpHaK-Glh2_tnT7gGhRHFbrsbuJ6oEE4KgGQ34pRw0uczw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJacd0XjwsyzERl_K10D4HRmU",
+         "plus_code" : {
+            "compound_code" : "6M8W+P4 Sitiawan, Perak",
+            "global_code" : "6PP26M8W+P4"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJacd0XjwsyzERl_K10D4HRmU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 535
+      },
+      {
+         "formatted_address" : "Jalan Iskandar Shah, Taman Samudera, 32200 Seri Manjung, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1993384,
+               "lng" : 100.6552353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.200687929892722,
+                  "lng" : 100.6565440298927
+               },
+               "southwest" : {
+                  "lat" : 4.197988270107278,
+                  "lng" : 100.6538443701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a442a6face1c3d26d7ee31d977ccfb1b8c9df8bc",
+         "name" : "McDonald's Sri Manjung DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2839,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104500535062564320698/photos\"\u003eZakaria Sidek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAxSD0CbihYSuDX_XcGw6D0AhpWLwiAnwltVVmxJF5lMJzcJ-B_AREKuh0Xit58oQNDA9Uh77dhcuEigpy6dsTf6rG5doptcfTRNJiVZXQ49bIQ5_DU8GvlXIDH5juiNYEhBTsOFkJwe0gaFL1oJK0rlBGhTcP4YmUOnzfs5jaZiu7b2TjbuBgQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJfyp47AItyzERkSeKr_qqkXc",
+         "plus_code" : {
+            "compound_code" : "5MX4+P3 Seri Manjung, Perak",
+            "global_code" : "6PP25MX4+P3"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJfyp47AItyzERkSeKr_qqkXc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 683
+      },
+      {
+         "formatted_address" : "152, Jalan PPMP 3/3, Pusat Perniagaan Manjung Point 3, 32040 Seri Manjung, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2174402,
+               "lng" : 100.6694734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.218743979892722,
+                  "lng" : 100.6708147298927
+               },
+               "southwest" : {
+                  "lat" : 4.216044320107278,
+                  "lng" : 100.6681150701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bef4d1851aa2b05c76341df5d7e42adb00cb2b0e",
+         "name" : "HARUMi Restaurant Seri Manjung",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110877978143353635814/photos\"\u003eNurzulaikha Rosli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGO9EiDhCA9ip-6LmmQPTqWk8QRsrtEFnK11l4F_Nh15oq7OSk-8sGbASj6Gwa8598qXBquuGKUYIhPAKPSi25ul8CiwKI7LAzwqp87dlqExD7BY4ppkR4viAirMNcNxqEhBhtsTx7Aiw493k5r4_zyzzGhQd6LaPt_HE45CWWAnB9QZhr4nDsA",
+               "width" : 2208
+            }
+         ],
+         "place_id" : "ChIJa0nEll4syzERjVSRW2qoggE",
+         "plus_code" : {
+            "compound_code" : "6M89+XQ Seri Manjung, Perak",
+            "global_code" : "6PP26M89+XQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJa0nEll4syzERjVSRW2qoggE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 95
+      },
+      {
+         "formatted_address" : "No 4141, Persiaran Sultan Yusof Izuddin Shah, 32200 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2350883,
+               "lng" : 100.6311654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.236466979892722,
+                  "lng" : 100.6324956298927
+               },
+               "southwest" : {
+                  "lat" : 4.233767320107278,
+                  "lng" : 100.6297959701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45f626280bdc90f47aa160718dffe6eb9dd87cf1",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1061,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112843129483483635034/photos\"\u003eJidin Ladin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAb9wlOLtogNDA8En8tuXiNh-jtQc24bQrgpCfBqx4Lg2yDdq-oBBrB6CvOVOLC2eZMIkg2Fq0-S1Bhy3jaq3YmNBHkv3e9mzepg8_q9GfQOpI4DWS_N0QeDdP2tsYpB0vEhC1zyf5UubJprZA9rm-3FPFGhQnBwTheRz_babeBJNyY2cXiEsYVg",
+               "width" : 3692
+            }
+         ],
+         "place_id" : "ChIJUW12Tt0syzER4vuUQAOAqBY",
+         "plus_code" : {
+            "compound_code" : "6JPJ+2F Lumut, Perak",
+            "global_code" : "6PP26JPJ+2F"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJUW12Tt0syzER4vuUQAOAqBY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 367
+      },
+      {
+         "formatted_address" : "No. 384, Kampung China, 32000 Sitiawan, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.180975699999999,
+               "lng" : 100.6817253
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.182313779892722,
+                  "lng" : 100.6830323798927
+               },
+               "southwest" : {
+                  "lat" : 4.179614120107278,
+                  "lng" : 100.6803327201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7ea59ee7cc3e2e2c83a6c57b987e76a995283f28",
+         "name" : "Villa Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103342878497049997331/photos\"\u003eNgan Meng Fong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_uEP65wEMwcwBD3_qdZMXWGzkG1mfhlFQpNqGXB81NMCqPV2Y4VKdF3AGfvjpQyYZNgzLQDgDvEX75kJefnvkO2RIifUmjk-RP0ibijopuHfKwg-i8V5726yocEP1fvrEhAiP_TRpzS4IXW9jdMmkP5VGhR4RcucOyClvj86PmJTBCR87OPdlg",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJI9smRsctyzERQ28-lt_1spI",
+         "plus_code" : {
+            "compound_code" : "5MJJ+9M Sitiawan, Perak",
+            "global_code" : "6PP25MJJ+9M"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJI9smRsctyzERQ28-lt_1spI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 437
+      },
+      {
+         "formatted_address" : "Sebahagian Lot 13108 (Plot 1), Daerah Manjung, Lumut, Malaysia, Perak, 32200 Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.215935,
+               "lng" : 100.671167
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.217213729892722,
+                  "lng" : 100.6725043798927
+               },
+               "southwest" : {
+                  "lat" : 4.214514070107279,
+                  "lng" : 100.6698047201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ed1798a0a8e1752ede7bea6ddb0d4731f8af845",
+         "name" : "McDonald's Sri Manjung 2 DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJSQwQ4VYtyzERzjMXQ24Y7L8",
+         "plus_code" : {
+            "compound_code" : "6M8C+9F Seri Manjung, Perak",
+            "global_code" : "6PP26M8C+9F"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJSQwQ4VYtyzERzjMXQ24Y7L8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "32000, 19, 25, Jalan Mohamad, 32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.217012599999999,
+               "lng" : 100.6939425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.218431129892721,
+                  "lng" : 100.6952683798927
+               },
+               "southwest" : {
+                  "lat" : 4.215731470107277,
+                  "lng" : 100.6925687201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f37bb9db7c7d27cb47b01d19346da9cc3d3365da",
+         "name" : "Lido Seafood Restaurant 丽都海鲜酒家",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2622,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103342878497049997331/photos\"\u003eNgan Meng Fong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4Gi_IBDeY5lLpGVUMZE1I2yer0Ibp7GpTkac0EEySmutjd_t3pfvHoz7F09wAdZA8FaVrBnHRuDWB806pfDfjy7IEgOq-5EzILnwPz79qgoIG5fzIM0ZAueOCShKVCC_EhAPSjifJz_i2btxvgAZ_Mb2GhRC9otpwbfpJSAulQvCUFZVNntTRA",
+               "width" : 6101
+            }
+         ],
+         "place_id" : "ChIJGzgGqj0syzERgucilhxPxWE",
+         "plus_code" : {
+            "compound_code" : "6M8V+RH Sitiawan, Perak",
+            "global_code" : "6PP26M8V+RH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJGzgGqj0syzERgucilhxPxWE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 462
+      },
+      {
+         "formatted_address" : "Lot 35535, Jalan Kampung Selamat, Taman Selamat, 32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.211668,
+               "lng" : 100.6969219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.213016129892722,
+                  "lng" : 100.6982651798927
+               },
+               "southwest" : {
+                  "lat" : 4.210316470107278,
+                  "lng" : 100.6955655201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9000e06ad62bdd01a04ef287244e31d107f9a117",
+         "name" : "Bei King Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100925717006787124390/photos\"\u003eEdmund Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhmxpMvP0tm02fIZI7UB3OyRjGkOV5o4Bd4k9xpj7HgrjAJmDrqe6pQoBIdceEOrPA3O1-2hq9Xnj55FGkjfF7bobf1UaXUc0S8xUX8u6HRkTXZ1GwyDbih1Qm63hyEOiEhBeadycJ30OF6vFVzBqSwmoGhSFuXi5u8Xyq2luRo9CePy0G-uqyQ",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJP1_clDosyzERIqX-S0gqncY",
+         "plus_code" : {
+            "compound_code" : "6M6W+MQ Sitiawan, Perak",
+            "global_code" : "6PP26M6W+MQ"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJP1_clDosyzERIqX-S0gqncY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "formatted_address" : "Taman Sitiawan Maju, 32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2167678,
+               "lng" : 100.693155
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.21812717989272,
+                  "lng" : 100.6945354798927
+               },
+               "southwest" : {
+                  "lat" : 4.215427520107276,
+                  "lng" : 100.6918358201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ebd24312af6b51666d6b3bb6eec376d9b38cd270",
+         "name" : "The Farm Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106436675255410190757/photos\"\u003eFraz006 fraz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9v8GcaqVARsHKRL7bWkI4vLFgfZNDC6oeZN4PzVIjKSDDJFER5TaCXM_Aj_fEFljUg6bmaRPEG7xtY-Lto7Dv_GRWycNWot3CO9A_VPt4Nz6D6lBLW7BylryBIzM3NpWEhACNGQMEYD0x8evnHKMTABgGhRuxxFKwOp4cVOZQ0dhGWI3zioZZg",
+               "width" : 1932
+            }
+         ],
+         "place_id" : "ChIJc6tdHzwsyzERS_sDBgI7OJE",
+         "plus_code" : {
+            "compound_code" : "6M8V+P7 Sitiawan, Perak",
+            "global_code" : "6PP26M8V+P7"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJc6tdHzwsyzERS_sDBgI7OJE",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 137
+      },
+      {
+         "formatted_address" : "Kampung China, 32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1902419,
+               "lng" : 100.6840656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.191605879892721,
+                  "lng" : 100.6853669298927
+               },
+               "southwest" : {
+                  "lat" : 4.188906220107278,
+                  "lng" : 100.6826672701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e096f60d47ee13ab536c66e1b15d2405452874f",
+         "name" : "Restaurant Hai Tien Di",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115055571495536949535/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMorI7OvBE7dzgbEEkNkyZmbqOW1P5n21qhm6XwtosT7VHOhyp5qgUDFbxvdGIto4ypEnzF_En1VOTO2bDapc9OT3FcntO_vng-yeG4E8piVtgkteY7c4Od5qAEldobGFEhBD3HXeq15srmOI7_NiIxeNGhScEz4m-Me4wOI_agoQuCSd_WMODg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkbEuSrktyzERUm0yjlp4jxM",
+         "plus_code" : {
+            "compound_code" : "5MRM+3J Sitiawan, Perak",
+            "global_code" : "6PP25MRM+3J"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJkbEuSrktyzERUm0yjlp4jxM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108
+      },
+      {
+         "formatted_address" : "No. 8A, Taman Medan Sejahtera, 32000, Sitiawan, Perak, Malaysia, 32000 Sitiawan, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.216724699999999,
+               "lng" : 100.6979102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.218067579892721,
+                  "lng" : 100.6991978798927
+               },
+               "southwest" : {
+                  "lat" : 4.215367920107277,
+                  "lng" : 100.6964982201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "462bcae4a90b575eed224618295c745aebee9074",
+         "name" : "Strawberry Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJdQrftzwsyzERkt8exITw_Jo",
+         "plus_code" : {
+            "compound_code" : "6M8X+M5 Sitiawan, Perak",
+            "global_code" : "6PP26M8X+M5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJdQrftzwsyzERkt8exITw_Jo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No.135, Kampung. Cina, Sitiawan,, 32000, Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1796446,
+               "lng" : 100.6809449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.181003129892721,
+                  "lng" : 100.6823446798927
+               },
+               "southwest" : {
+                  "lat" : 4.178303470107277,
+                  "lng" : 100.6796450201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b581cb5b4c3442428672470bb8db4374c99c38f9",
+         "name" : "Sitiawan-Ah Pek Lee Kou Hock Seafood",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115488698287837377349/photos\"\u003eVisitJohore\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1UBLX7OBFwDv8OOl0diN-EvKSxCqHusEddGQiVCZlqYalHB10ufi10puebfJLM20X4sxLqtQ8eLAfRUy1LJye4JJaLLoiLBzpEv4Q5xXlbi1A9B3Zbu4ysa3FKaMJ_f1EhACxins-A4lTSkeaUosIDIIGhRRMH18pjk8MNAuY7tjqnKBKV-csw",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJE9lqW8ctyzERiy9ynJnOdvE",
+         "plus_code" : {
+            "compound_code" : "5MHJ+V9 Sitiawan, Perak",
+            "global_code" : "6PP25MHJ+V9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJE9lqW8ctyzERiy9ynJnOdvE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 156
+      },
+      {
+         "formatted_address" : "32000 Sitiawan, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.2108705,
+               "lng" : 100.6805985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.212204029892721,
+                  "lng" : 100.6819132798927
+               },
+               "southwest" : {
+                  "lat" : 4.209504370107277,
+                  "lng" : 100.6792136201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e93e55adf5492b8de8da8e9ddc0a0de8bed1df0e",
+         "name" : "Running Man Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112394740721591317831/photos\"\u003eJoanne Loi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQMaLkOEFKrr6PjgtD5i4uwEUiVXIh0j9ifE0wwRfrdk-khcOXzFGSyH6uvp5dHsL4iGJlvJTHY04rtAqXKbsRl412G_m_OK81TODgsXx3u3zO5rwc1fml5smyOs-MaCJEhBsd_0yIO91c3k29DSf3iIhGhT8JE9sI9vbYANXCSfQf2666Cmgkw",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJYYKa9kUsyzERetc7G_bH1So",
+         "plus_code" : {
+            "compound_code" : "6M6J+86 Sitiawan, Perak",
+            "global_code" : "6PP26M6J+86"
+         },
+         "price_level" : 3,
+         "rating" : 4.1,
+         "reference" : "ChIJYYKa9kUsyzERetc7G_bH1So",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 212
+      }
+   ],
+   "status" : "OK"
+}

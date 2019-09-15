@@ -1,0 +1,853 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-gEAAB-6MIgunCJLnH0xkz5ArTBSL6HIlyB3A8tsA77M7dgAF3c6pug7BVbVMM_5_dus2g9qvfYMEkQ9liatMZ5DvoNNW5RsyP61hz1bYvKekZIzzyntY6FtOLqJty-jQtHxI2D_2b-1bd0m1IaX7_5xTkYJHt14PdRAaaH97kN8T-ufzC2bimL0uv8sCeJnDkxmG8yIlVuSFElS4TFft7zB8NavVOGasEy1CiUY7_Bcj8sbzv9fOBxRoC74DHLf72V8d3CdnXvuD_JIaYzh2FCpGKiUF0ST_CcS2JYK3WqtV_iHfVwo3pSvdR1U35xR0DqZII4KmtdA7OwSMWbiVuOXOCEdkUYEMo3XgSpOpuWviVWtWC4mWiuDqVuW3h68VFJrey21Cx5dFHL-vg8hBj6J31D7wwwio1hOMLRQROLrJdc4vsGmOzZfQmP_sxYyYbknWlAPF-U7wF-q76gsV2Js6eANavX6p0vW2eOUILv_V4GXahXSIwVeJYjDK4K7Q99l12dfykQz7VeJeCSusQMlYvj2VHndAS5OB7iTFHtUw35HQOWFnL2uuznhrXp9WHnSoLx8QeWIiLL_XIeeLX_UumhEHyK6C3JuEfd8TLkDYJUWXW3Qe30EG37iDPzLmYlgeIVXeKccMFGZYU8DqvW5Ry7fIB1Wv6pgXlIHYN72_vfOEhBx6SyXLagZhbMHAYGxAt7HGhQEhBw956cWIWyt1vgUOLF0DrsAQA",
+   "results" : [
+      {
+         "formatted_address" : "4 B-C-D, Jalan Sungai Dua, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3525673,
+               "lng" : 100.299399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353878279892721,
+                  "lng" : 100.3007692298927
+               },
+               "southwest" : {
+                  "lat" : 5.351178620107278,
+                  "lng" : 100.2980695701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f93f54a1e97bc2ef1a317d62f82b2a03d648fbd",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117132068940893289943/photos\"\u003eShuen H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxw36WcnBPq7b5XLHXerZ08F0k4miEayVZSyzUVA49cEtDpChSyOuQWnoWxycfy7EDVb5zGo5EypIqvdWphmAjbcagYZKd2WEkfTHNZbRA-NEKUDScPQ5eZDyUTHvBywiEhDDM-AqiZdhv8wrrce6YEc9GhQcnygn0tQQg0yfd-5Iax5vf1EakA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "plus_code" : {
+            "compound_code" : "973X+2Q Gelugor, Penang",
+            "global_code" : "6PQ2973X+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1199
+      },
+      {
+         "formatted_address" : "GF 12A, Queensbay Mall, Persiaran Bayan Indah, 11900, Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.333756,
+               "lng" : 100.306691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.335116529892722,
+                  "lng" : 100.3081236298927
+               },
+               "southwest" : {
+                  "lat" : 5.332416870107278,
+                  "lng" : 100.3054239701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dd6517802024ec693e2b830643c8ce5df2d90133",
+         "name" : "KFC @ Queensbay Mall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103342878497049997331/photos\"\u003eNgan Meng Fong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmyJE-yGbOYcyEvk7vRgd1LDaTUBp3oJa0s6RPj__NR3EPv2ic2U9t-VpRKOUF8sFwvhylWRP6_tWicUJ6ynwS1rAeak5LkmhOzobdy_M_GMATxC43roaUl6SJaU5Rs7SEhCq8a7inq2YD4jXhNOg_7jNGhRACyTQorMNIx2LytHRzxxXpblF2w",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ_cIHcvbASjAR2Mf6hkwiJyg",
+         "rating" : 3.6,
+         "reference" : "ChIJ_cIHcvbASjAR2Mf6hkwiJyg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "formatted_address" : "LG-87/88 (Postal No LG-72/82) Lower Ground Floor, Queensbay Mall 100, Persiaran Bayan Indah Bayan Lepas, 11900 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.333048799999999,
+               "lng" : 100.3065283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.334424679892721,
+                  "lng" : 100.3076383298927
+               },
+               "southwest" : {
+                  "lat" : 5.331725020107277,
+                  "lng" : 100.3049386701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6d39a633810f044a5ed9b8a03770f16ffe451b25",
+         "name" : "Texas Chicken Queensbay Mall, Penang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116492180161662957178/photos\"\u003eViVien Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjvfYdvLnl-6XCLqGtV68Kd8ST8WxdoU2ZGh0yfybe_AN9KTOaye2epBnVKXSHJnQCLlzMCCfVYKXqrDMO3c3SIOA8F1q7ZC5Yx23e3qZA8m6k0gAonD0Tq_hAKpkt94wEhCxuIWSny50paWYhgtXyC-LGhQafD12YBcQ4HtycRI1sgZxSri9TQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ0Y3k4BXBSjARyVV7tvUQ5jA",
+         "plus_code" : {
+            "compound_code" : "88M4+6J George Town, Penang",
+            "global_code" : "6PQ288M4+6J"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJ0Y3k4BXBSjARyVV7tvUQ5jA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "2-1-10, Plaza Ivory, Lebuh Nipah 5, Sunway Bukit Gambier, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3582375,
+               "lng" : 100.2925523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.359581529892721,
+                  "lng" : 100.2940128298927
+               },
+               "southwest" : {
+                  "lat" : 5.356881870107277,
+                  "lng" : 100.2913131701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f2205c58ffa5bb35fcbfe6d34eb8fab4a0a5908a",
+         "name" : "NZ Hot Stone grilled burger",
+         "place_id" : "ChIJS9BiO0XASjAR76i-GohLdeM",
+         "plus_code" : {
+            "compound_code" : "975V+72 Gelugor, Penang",
+            "global_code" : "6PQ2975V+72"
+         },
+         "rating" : 3,
+         "reference" : "ChIJS9BiO0XASjAR76i-GohLdeM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "1-1-22, Ideal Avenue, Medan Kampung Relau 1, Kampung Seberang Paya, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3325815,
+               "lng" : 100.292963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333880529892722,
+                  "lng" : 100.2943049798927
+               },
+               "southwest" : {
+                  "lat" : 5.331180870107278,
+                  "lng" : 100.2916053201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a934431b054fdbab077eb112ad62f3010431492",
+         "name" : "Spade's Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100896934877918086775/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi9i2iRbeET4K7yzO5-xfdhtvYVFfVP5eM5jVR53lhXvois3dEswhsKRtPC9lnYDM4CM9VTKxyMbm0IgKlCw3GT4sewfzexb0w0dlwzRlRUi3YHceqQ4gXYadV3iHnvGOEhCO6MRl3kGX257H_ln-pdDfGhT1N2LmIdxwTXv7HDtH51BoFoMF9g",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "plus_code" : {
+            "compound_code" : "87MV+25 Bayan Lepas, Penang",
+            "global_code" : "6PQ287MV+25"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1110
+      },
+      {
+         "formatted_address" : "Super Tanker Food Court Lengkok Nipah 2, Off, Jalan Sungai Dua, 11900 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3429471,
+               "lng" : 100.2955403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.344305829892723,
+                  "lng" : 100.2969973798927
+               },
+               "southwest" : {
+                  "lat" : 5.341606170107279,
+                  "lng" : 100.2942977201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b2a25dc0b0b91e96b8b0a152e79fa8ef9a1fa16b",
+         "name" : "Ocean Western Food",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103193603337919846628/photos\"\u003eOON TEIK TEONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAy1nC2bZLPM3xyFPi6P1es7MhRnzoqKgArhUanmVAud_Bax5pDxhXeydRMnfLnYoeP2MXd-njj9m2zrJDEH_1vp5pFDLw7vtwYbHCX211aPRlGIyy0EboYdDD1m6FeBq2EhAcPt4t_1bkDZ8L1sYaWMHXGhS1DQEHj1Zf9XRgEqUEsGkiklY9UA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJkQ65kVHASjARGlWRXWdOnOc",
+         "plus_code" : {
+            "compound_code" : "87VW+56 Bayan Lepas, Penang",
+            "global_code" : "6PQ287VW+56"
+         },
+         "rating" : 0,
+         "reference" : "ChIJkQ65kVHASjARGlWRXWdOnOc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "2F-73, Queensbay Mall, 100, Persiaran Bayan Indah, Bayan Lepas, 11900, Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.333756,
+               "lng" : 100.306691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.335116529892722,
+                  "lng" : 100.3081236298927
+               },
+               "southwest" : {
+                  "lat" : 5.332416870107278,
+                  "lng" : 100.3054239701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "66107b0170a479819b439f1699b0a0ecaa7420a8",
+         "name" : "Chopper Board Food Corner Sdn Bhd",
+         "place_id" : "ChIJf3dScvbASjARH0cr84kCItM",
+         "rating" : 0,
+         "reference" : "ChIJf3dScvbASjARH0cr84kCItM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Queensbay Mall, LG-87, Centre Zone, Persiaran Bayan Indah, 11900 Bayan Lepas, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.33292,
+               "lng" : 100.3066
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.334295829892722,
+                  "lng" : 100.3081711298927
+               },
+               "southwest" : {
+                  "lat" : 5.331596170107278,
+                  "lng" : 100.3054714701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2d0cf7a30ae9a595c55d7477c3e5e820504d3799",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2181,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106585016811364858007/photos\"\u003eXodiac Tube\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_xCy4-7cZoKyIk7wzS_5E_M894OSY_gjYEISu5K63gHqIx6AkcmDQrjDTBrEYpXApCM2gMh5z9wEFuPZIGIJYlOkkeKDYizfAOu_SRiNQH1I75AfOPQOmkKa5x1gitSpEhAUxEWMsCvTR3y-mAF3246XGhTTXoQEL9YozDCrMpJmIsWrFNSXwA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJJ52w3vXASjARrymBmv3ZYyc",
+         "plus_code" : {
+            "compound_code" : "88M4+5J Bayan Lepas, Penang",
+            "global_code" : "6PQ288M4+5J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJ52w3vXASjARrymBmv3ZYyc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 214
+      },
+      {
+         "formatted_address" : "No. 1 Terminal Bas Ekspress, Jalan Sultan Azlan Shah, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3436118,
+               "lng" : 100.3005189
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.344990979892721,
+                  "lng" : 100.3018139298927
+               },
+               "southwest" : {
+                  "lat" : 5.342291320107277,
+                  "lng" : 100.2991142701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "599ccdd672994dc81baad9641ccae962d4842666",
+         "name" : "Platform1 Waffle",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101609662925563376291/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArFZqrY6lgCjnT9idX59LyRHkdCr8dgoZfz4KAJyhVHvlSEamXC1usR_R1FctVL5O0iiVy8_CNmFm8nDxD1X8ZHeX18dsxNo0pHdVhnmFSbeCFe1URxp8kD0Z7UogsjkFEhAKNnhVRP909oH7DYRaiPGgGhSRMIghLwpl8HTG956pSWmNYT2leQ",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJdXF1Iv3BSjARZZMCxKP1c9g",
+         "plus_code" : {
+            "compound_code" : "88V2+C6 Bayan Lepas, Penang",
+            "global_code" : "6PQ288V2+C6"
+         },
+         "rating" : 0,
+         "reference" : "ChIJdXF1Iv3BSjARZZMCxKP1c9g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "1-1-01 & 1-1-02, Lot A3 - 4, Jalan Udini, Gelugor, Malaysia, Pulau Pinang, 11700 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.377638999999999,
+               "lng" : 100.315522
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.378766529892721,
+                  "lng" : 100.3167994798927
+               },
+               "southwest" : {
+                  "lat" : 5.376066870107278,
+                  "lng" : 100.3140998201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "03ce9c3db8dc055e19b89f754f5ec30ee6f7e15d",
+         "name" : "McDonald's Tesco Penang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117834245935129538754/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbi0lgLMBCUJkwAjVnrGTrYBYKQPR8vRH4tVP9ceHR2JGufffUBDlyvwJ72chA81KUtjAgqiFANE5BnehsBeZsCHuQ3oHMcUYTMfDhdD8Cins8JgRpzY-b1ZyWLR9_Qr_EhA9c3yzxJW2E1fjvcMHx0n_GhT10BjAvXVS3662g12d0QUc_HUbvw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJg9ZVO3DBSjAReF43ONbNjgg",
+         "plus_code" : {
+            "compound_code" : "98H8+36 Jelutong, Penang",
+            "global_code" : "6PQ298H8+36"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJg9ZVO3DBSjAReF43ONbNjgg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 81
+      },
+      {
+         "formatted_address" : "Kompleks Bukit Jambul, Jalan Rumbia, Kampung Seberang Paya, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.334028,
+               "lng" : 100.290943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.335012879892722,
+                  "lng" : 100.2922243798927
+               },
+               "southwest" : {
+                  "lat" : 5.332313220107278,
+                  "lng" : 100.2895247201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e207be4ff6c09e3ce2f4cbe17e4611bce88521d9",
+         "name" : "MarryBrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118226733431433943483/photos\"\u003eivy mak\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7jqtL02odr_RJb3ptLmiqhSxlro_GPitOUw6VN4Y7z_s87o6kW7Pq8wR00FgzB-8TAKxUNBVFO7tICv2viquyJLwAp_mvUxsBVNi0G2X8rEVpywO3mQknPn7Pv1L7m1GEhAR7uPEhJRWpbG9NFwZCJztGhSkbeXhawgGOTEBIJMK9UQrcOhSKA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJI2u0fETASjARpuN7Y1HIgRQ",
+         "plus_code" : {
+            "compound_code" : "87MR+J9 Bayan Lepas, Penang",
+            "global_code" : "6PQ287MR+J9"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJI2u0fETASjARpuN7Y1HIgRQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 14
+      },
+      {
+         "formatted_address" : "Block 1-01-10, E-gate, Lebuh Tunku Kudin 2, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.376319899999999,
+               "lng" : 100.3155656
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.377644179892722,
+                  "lng" : 100.3169848298927
+               },
+               "southwest" : {
+                  "lat" : 5.374944520107278,
+                  "lng" : 100.3142851701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "60782c1f9d33053fde2ef6bc523e66c27d634d00",
+         "name" : "OneDeLand 又一城, E-GATE",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108710411590964255653/photos\"\u003eDeborah Dris\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEx7xI_-st3BCVi1RbptUPT6zkluGCLIA1s0gcafhqs8Vq_bMLNnifGnevUVSROoaGm0U8dL9CGslo6nxuYowBwR5sOfR5Dp2Pep3fOuAA4HKQTQbSUF6CR1prxeZtb-HEhChf2ePeTIYe18GIttAwvtPGhT-9Q7NG_796UU9dUp5PmohRT4hag",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ8yvHxnHBSjARfS4eDbMMaZM",
+         "plus_code" : {
+            "compound_code" : "98G8+G6 Gelugor, Penang",
+            "global_code" : "6PQ298G8+G6"
+         },
+         "price_level" : 2,
+         "rating" : 3.6,
+         "reference" : "ChIJ8yvHxnHBSjARfS4eDbMMaZM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 190
+      },
+      {
+         "formatted_address" : "Lot 4B, 4C & 4D, Desa Universiti, Jalan Sg. Dua, Gelugor, Malaysia, Pulau Pinang, 11700 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.352691999999999,
+               "lng" : 100.299712
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353997279892721,
+                  "lng" : 100.3010713798927
+               },
+               "southwest" : {
+                  "lat" : 5.351297620107277,
+                  "lng" : 100.2983717201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "81b9e751c3763dd21b48287f37a8561faf8d3877",
+         "name" : "McDonald's Desa Universiti",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJH5fyyBTBSjARelcw3TJeFd8",
+         "plus_code" : {
+            "compound_code" : "973X+3V Gelugor, Penang",
+            "global_code" : "6PQ2973X+3V"
+         },
+         "price_level" : 2,
+         "rating" : 0,
+         "reference" : "ChIJH5fyyBTBSjARelcw3TJeFd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "34G, Jalan Mahsuri, Bandar Bayan Baru, 11950 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3266087,
+               "lng" : 100.2867795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.327999779892722,
+                  "lng" : 100.2881315298927
+               },
+               "southwest" : {
+                  "lat" : 5.325300120107278,
+                  "lng" : 100.2854318701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24e71759a4467e3704845ce3019f1da20e4f8ffb",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100009435243911457582/photos\"\u003eSalahuddin Ayubi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-MySySbAHnjIOyL88dkkB0p7ojaIpdPGnsdhMvTK6Ikndi6mScYDBONLX_7csixt9K67w8ZeAqZhbvmmtjhN_B4RpLXxhVrYs3NMwV-zR35uB7T-2tMMeckJCFdonTqqEhDeThTNdDPInWCvsa7bshCOGhRF5ZbedtGqUH0094FZl4eCrUmFYA",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKWA0SGrASjARlTxFNqzYEAg",
+         "plus_code" : {
+            "compound_code" : "87GP+JP Bayan Lepas, Penang",
+            "global_code" : "6PQ287GP+JP"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJKWA0SGrASjARlTxFNqzYEAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 929
+      },
+      {
+         "formatted_address" : "WG/K03, Kompleks Bukit Jambul, Jalan Rumbia, Bukit Jambul, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.334056899999999,
+               "lng" : 100.290964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.335025979892722,
+                  "lng" : 100.2922421298927
+               },
+               "southwest" : {
+                  "lat" : 5.332326320107278,
+                  "lng" : 100.2895424701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "93041c2fdcff862467169323a25283858e7c31aa",
+         "name" : "McDonald's Kiosk",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100482610594614071999/photos\"\u003eMARX JAHAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArZ5vmWD3SfPD3soZA5he7pX0oX2lR4i-xVdlDiPne4jzvlZ_y0sEzmc_7BBplrrm_PHYUuQzqH4Ho0RyEoTKf-08KBSMbscbxOVJsBq68FhPYpa_y6-BM1qwT1BVWMdUEhB_LAtyZGo5GL0y6rTAkLZRGhSBy-1iFXAism5XaJYINhT0FK0C1A",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJOTpohkTASjARaY3v-2sKIL0",
+         "plus_code" : {
+            "compound_code" : "87MR+J9 Bayan Lepas, Penang",
+            "global_code" : "6PQ287MR+J9"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJOTpohkTASjARaY3v-2sKIL0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "Lebuhraya Jelutong, Taman Jelutong, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3872729,
+               "lng" : 100.3125509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388648279892721,
+                  "lng" : 100.3139082298927
+               },
+               "southwest" : {
+                  "lat" : 5.385948620107277,
+                  "lng" : 100.3112085701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2926441081882057c281cb23d746d9e3bc0eefa7",
+         "name" : "Pos Burger Jelutong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104618938374884341676/photos\"\u003eK Hui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAM1oZZ0Bj0DvBIzUZH-DrMkxDhZTMZ_3_ZN9uEujk-0Vu1XHfScssAxsBA0poMcATPzWSP_6pmNWDqdC5YcT7m6m_cjpfnTERtlocOOFtQCzJmZZfiQy-4LIzaon0dER0EhBhkIUaepzWO43tEq9eFqydGhTRw97D3rf7XpQXy20hMjis4n5zKQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "plus_code" : {
+            "compound_code" : "98P7+W2 Jelutong, Penang",
+            "global_code" : "6PQ298P7+W2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143
+      },
+      {
+         "formatted_address" : "1F-111&113, Queensbay Mall, Persiaran Bayan Indah, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.332616,
+               "lng" : 100.307164
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333966029892721,
+                  "lng" : 100.3085142798927
+               },
+               "southwest" : {
+                  "lat" : 5.331266370107278,
+                  "lng" : 100.3058146201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "dc8fe145d8435dfcb69ca2fa327528d9c58260dd",
+         "name" : "Kim Gary Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115315982522780643532/photos\"\u003eMarianne Ong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaBzDZ6tgcs32EZrSd-qQD2xp46hevduucq-mUucfaWT-AdrrFQ2DXFQJ7RBTrIZJbe0j-KWpsIUZQqSNGOvSbWSMlVMX9Kr6hF6Ao0Dj1VSgSc6M6tTVj3Y5YXikqTonEhAEs6AXis_2JJseyWHAvcKrGhRI7ytDMSU-yKMy8ZTXVN2oTYehMQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJE2y_UfbASjARzCj7idO6aOw",
+         "plus_code" : {
+            "compound_code" : "88M4+2V Bayan Lepas, Penang",
+            "global_code" : "6PQ288M4+2V"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJE2y_UfbASjARzCj7idO6aOw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 191
+      },
+      {
+         "formatted_address" : "16245, P8, Bandar Bayan Baru, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3193689,
+               "lng" : 100.2846646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.320719879892723,
+                  "lng" : 100.2860096298927
+               },
+               "southwest" : {
+                  "lat" : 5.318020220107279,
+                  "lng" : 100.2833099701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "70d58bce97ab3062c813030ee70df2a9a391d686",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116694457454912717500/photos\"\u003eTeh Tian Hong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1Qu4yt79-LvBu1aWBWNvxy4u67p9JgPbqEqutPd6lO-nrli8Pi21HIF7oTxVIT1iLdn00AlEdbpa6TrNxtUqjR0lFBGMbkYip-ulR1H_s-J2cTxz4JxcKhiiInr-6KCQEhBqKvamT1NVes4jkK0dhubsGhQYDkCgFqyE52dUDrVVlxMKucR8xg",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJfQlGe23ASjARWUJ5kOR-e9c",
+         "plus_code" : {
+            "compound_code" : "879M+PV Bayan Lepas, Penang",
+            "global_code" : "6PQ2879M+PV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJfQlGe23ASjARWUJ5kOR-e9c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1254
+      },
+      {
+         "formatted_address" : "57, 1, Persiaran Karpal Singh, George Town, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3954119,
+               "lng" : 100.3267596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.396818479892723,
+                  "lng" : 100.3280363798927
+               },
+               "southwest" : {
+                  "lat" : 5.394118820107279,
+                  "lng" : 100.3253367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68b3acc9b719b8689e7c35a9494a2a90fb691b92",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104156453514267246599/photos\"\u003eJesson Khor Keah Seng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_QKRKmZKiCyRtrzCxxW0vIJGiZiJbYYiTgE0sjL2NY7rM7-GXr7rJqDmF8rlE1yPwvqBfw6up2HkNKi_MfbhrjZjqjKn6VLuMIvoSk23JTykWoSaM5ngauyJ-kkx-LysEhCjQ2bIkWTzoI0RitxOabQiGhQjB4Dc3JrZUthegWgHAyYELxXeWw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "plus_code" : {
+            "compound_code" : "98WG+5P Jelutong, Penang",
+            "global_code" : "6PQ298WG+5P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2687
+      },
+      {
+         "formatted_address" : "349-N, Jalan Sultan Azlan Shah, Taman Tun Sardon, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.369077,
+               "lng" : 100.30973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.370426529892722,
+                  "lng" : 100.3110224298927
+               },
+               "southwest" : {
+                  "lat" : 5.367726870107278,
+                  "lng" : 100.3083227701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d528ee47b60a697f1760b19ddbeb94f492292bce",
+         "name" : "Jaya Catering & Restaurant Sdn Bhd",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112762685769659863280/photos\"\u003eSuresh Maniyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdnU3-sB_632iQTn_0FTy1frdF-7jW9ofMeB9RW5CLRGocVjpFMkrAbeOO71NrWwy4FSugFNl-ZJZvmeSoykrjg7eSo6APQUSetWdnQoig1wPcWjzzPdsCAQv5iIBMvnaEhCv_KaCKPjU7Ma6_NN5C1LOGhRBXsbpSOXzf0g079uztTY0b6qvng",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJU1BthnbBSjARcblNvjzt91k",
+         "plus_code" : {
+            "compound_code" : "9895+JV Gelugor, Penang",
+            "global_code" : "6PQ29895+JV"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJU1BthnbBSjARcblNvjzt91k",
+         "types" : [ "restaurant", "lodging", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 365
+      }
+   ],
+   "status" : "OK"
+}

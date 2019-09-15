@@ -1,0 +1,869 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAALCpw8UU_9vyCr_FbSQWsZq0_tg4QWe4w95H3CaD6u9wI-qe_hsWoQDnWvrKB4sLZEwgKFU6cY2LRsvUNUiRbxTNCX2k2FH-C8DuRKczUPz9Q8aNvvk1ZVQyKBDODvu3tSNXnVvf7jW6HBNT48mli4J1lTNpzG8GNi1VFJpkvy85xKBRU159GpNeUMmYBLHXGGd9aEuUFPnvV1Df4_fuYqs1T5ZEy9T-adizyRTJ01EDXSvBXu9sbynVUdcilJFCoSU8HAbPBDBdYTxamf2bEpy5G84VTNhxoylRwwXeBc-psOmwQS_lDRltxTwwR_YBFmgcQmL9MzWbEISn94pCwM_728f8cNGXFZOzNCmAnEe16ZepD2TuJXjvXEQMj4Wjh7A2tA2HcjKFbGj4FpJ4WBGnA9oMPiR5pr33HpQH45vMZf5r4mZyr7xYzWeAYombcu3zUZQw8RcWl417CepKcjr_dV-aKC7OKMzCIBr2BOsrx_i0H_DssZxcjTXcrwZ5STH5pih1omoz422Vv4n6MqxIY8-HvfBvvtQNJYb1QtHBbrfW8ZUI5PvsNhhMPcBFwYD01PGvVRPyzGN8uZGF_2LpXWoGXA6C7jd9ApGry0F3RBY1cTkJJNNGdieT34UAWbKg3SfzQGvwl7OYKA0HP7lJ8ny5FqAA-dwfi2e-aGq-EhBX3G9W89pm4Xqza7CD7Q3YGhTsKSEVu-Y3OslCfq0LZnw9W-XleQ",
+   "results" : [
+      {
+         "formatted_address" : "23, Jalan Terminal 5, Senai, 81400 Senai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.636424,
+               "lng" : 103.663045
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.637711129892722,
+                  "lng" : 103.6642371298927
+               },
+               "southwest" : {
+                  "lat" : 1.635011470107278,
+                  "lng" : 103.6615374701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "96ef84910263c3654550ca717800ee9ad148749a",
+         "name" : "PastaOne",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116111162203158224343/photos\"\u003eJeff Law\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArq7guAhLU-OIjR3Mb7gv71A7diYSB5mTTND92nJu4uJGb3USPHNRkbwB5OqbbA_VtA1bCK0wJy1-rRuncm4dxVICr5wp5Wu3EV9wIvqIYADxY2PBObYlNI-cSpbLNJRtEhCs-w1E3QkcrbH92SoU8EzSGhSrcCU8R49gAOmviuesK8kL0n039A",
+               "width" : 2358
+            }
+         ],
+         "place_id" : "ChIJnxpuXnJ62jER7ErY_3gR4JU",
+         "plus_code" : {
+            "compound_code" : "JMP7+H6 Senai, Johor",
+            "global_code" : "6PH5JMP7+H6"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJnxpuXnJ62jER7ErY_3gR4JU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "formatted_address" : "Sebahagian Lot PTD 8797 Lapangan Terbang Sultan Ismail Mukim, 81400 Senai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6355714,
+               "lng" : 103.6640655
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.636771829892722,
+                  "lng" : 103.6654875798927
+               },
+               "southwest" : {
+                  "lat" : 1.634072170107278,
+                  "lng" : 103.6627879201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f1747c564a15428bd1353be44f7d4e4738bda866",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111865973022502757204/photos\"\u003e이승현\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgEoHZUPy7Q-rwgF_VdL3tAk8x1jwVWdndXkPWI21D9GzxJVxu4eOvyHYipAoL7q357K4V0QJDizmpHMco-im8xuM5EhcRndOeh5k5ukh2buWjDpBquQasgoL5P_68wcCEhAfbCiAyex0R0SyHo_FCpm8GhS_Qlyc1RRGrd8nI9RRS83k6Xdjpw",
+               "width" : 1536
+            }
+         ],
+         "place_id" : "ChIJZ0f-IKNw2jEROkhqZsjtdDc",
+         "plus_code" : {
+            "compound_code" : "JMP7+6J Senai, Johor",
+            "global_code" : "6PH5JMP7+6J"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJZ0f-IKNw2jEROkhqZsjtdDc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 997
+      },
+      {
+         "formatted_address" : "Kulai 45, Ground Floor, Sultan Ismail, International Airport, Senai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6361493,
+               "lng" : 103.6665888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.637353579892722,
+                  "lng" : 103.6675394798927
+               },
+               "southwest" : {
+                  "lat" : 1.634653920107278,
+                  "lng" : 103.6648398201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "894bd03decf074cd907ef7abb447ce4dc6d235eb",
+         "name" : "Marrybrown",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110800896085091971317/photos\"\u003eRay Choi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArqdZTRxUTxXVQSCe8HoBG5-u27QXz0JTeRfs4PDIKbvBlihz9wHLPTgNI7860DdkysOLritGW-FBx7GC9JyHiCpyvkLYOhRZmJTkNnAYKmvgGF6-OFq_7lwnTwp48HulEhD9GVTpPzeAFsUvk4uiFjJPGhTgFP4RPuDG_to_g3GzSNPW7GZbXg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJV8OWmXF62jERnLoJ1EmtYag",
+         "plus_code" : {
+            "compound_code" : "JMP8+FJ Senai, Johor",
+            "global_code" : "6PH5JMP8+FJ"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJV8OWmXF62jERnLoJ1EmtYag",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "Plot 10 Kawasan R&R Plus, Skudai Arah Utara, 83100 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.579361,
+               "lng" : 103.649984
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.580785729892722,
+                  "lng" : 103.6513560798927
+               },
+               "southwest" : {
+                  "lat" : 1.578086070107278,
+                  "lng" : 103.6486564201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "346827ad15f6b25687c094e0402355f69d7da5bc",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1835,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116266127373251703244/photos\"\u003eAlexandra Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAektzLJ8T4yNuxsXvZorFRR3gE1H55Z4PTZMOyVwp_bn3sX5OYLYsILgIxjM01bPal2Ne9QNyKtI7SMgO3bZ8AqpzcrtuglDxDoCbtOdg0jdQjCTfgMdNPGNRkPwrUKPLEhDGqrv3O4CI46xqlxzVFv0_GhRp3ee4IDIbMODzIfahc2gK2PAYxw",
+               "width" : 1277
+            }
+         ],
+         "place_id" : "ChIJfRsU5Dpx2jERDwKoceqw-qA",
+         "plus_code" : {
+            "compound_code" : "HJHX+PX Johor Bahru, Johor",
+            "global_code" : "6PH5HJHX+PX"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJfRsU5Dpx2jERDwKoceqw-qA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 331
+      },
+      {
+         "formatted_address" : "Lot 5035, Bt 17 1/2,, Jalan Air Hitam, Saleng, 81400 Senai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.632602,
+               "lng" : 103.632478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.633931629892722,
+                  "lng" : 103.6338931798927
+               },
+               "southwest" : {
+                  "lat" : 1.631231970107278,
+                  "lng" : 103.6311935201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5b9031b37d6289f662da91ea2e4735b71ea54b9",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103924677401335854086/photos\"\u003eNotun Shob\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVYlwSQOe5n2DMm68Tm87RfJP1v4JTb8xhVy_UB42oKZvam_P6dsLO3leYIoM87NIk-H-rvms3AXpVZCrcJY-krQ2CHBcx5I9qEXEhAabxuaSHMSH65Ap6-b7mDN2a1C6EhBGd521TZnckvSxr8Crysy-GhS9xTO6JbUfpM1wJA1EiIotLagAnQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ1aPzxP552jEROwn0v_0zhIk",
+         "plus_code" : {
+            "compound_code" : "JJMJ+2X Senai, Johor",
+            "global_code" : "6PH5JJMJ+2X"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ1aPzxP552jEROwn0v_0zhIk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 428
+      },
+      {
+         "formatted_address" : "Lot FF17- FF18, First Floor, Passenger Terminal Building Senai International Airport, 81250, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6359521,
+               "lng" : 103.6669455
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.637110529892722,
+                  "lng" : 103.6677705298927
+               },
+               "southwest" : {
+                  "lat" : 1.634410870107278,
+                  "lng" : 103.6650708701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "36a06161855044c1534af8c2e926b31c5fe14e4d",
+         "name" : "Burger King",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106129810477677634867/photos\"\u003ePaul Chin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArZPTo2I6DhX_my4dSpohNa54uFXRCDdk0gfzxdbPFPiPJzKGDU_uvKgYl4Zy-onWRLxcPTnc4ueveFFkLS3qpkR6lYhvnob5eiwUZYVOrOvD5FxTbRY7VDUSSdQ18KU5EhAprq0DXIz09nl0RB5ZvnVbGhQy1VeA4QNcmQHa5D1qAoUP1t7URw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJHatBoXF62jERErAUVJkoMxc",
+         "plus_code" : {
+            "compound_code" : "JMP8+9Q Senai, Johor",
+            "global_code" : "6PH5JMP8+9Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJHatBoXF62jERErAUVJkoMxc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Lot H.S (D) 23569, PTD 8797 Mukim Senai Daerah Kulai Jaya, 81400, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6339728,
+               "lng" : 103.6619824
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.635287929892722,
+                  "lng" : 103.6632840798927
+               },
+               "southwest" : {
+                  "lat" : 1.632588270107278,
+                  "lng" : 103.6605844201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "498a754452b1767c949dd50a7bdde836be242d90",
+         "name" : "KFC",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106212729332673848535/photos\"\u003eAndrew Goh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUSvuFslMSkvBNzzTrRSQKHqKfgK4ybSP2-JdPun7lz_X8LEkgXErlth7_0mMZou1_ecApfJpGFNxM6qXQti_mS87eL2SPFC3508Eor0LCVY3owQPI8WnFKmZ01CT181dEhC_cCCGQxoFGTGW5xPwEDrBGhSNhwj_eah8l59gz8oKxs8VzUkuUg",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJQz_wKvh72jERaiy4N0AH6hM",
+         "plus_code" : {
+            "compound_code" : "JMM6+HQ Senai, Johor",
+            "global_code" : "6PH5JMM6+HQ"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJQz_wKvh72jERaiy4N0AH6hM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "Lot 1150, Jalan Kasturi 36/41, Indahpura, Kulai, Malaysia, Johor, 81000 Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.63825,
+               "lng" : 103.625639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.639675379892722,
+                  "lng" : 103.6270368298927
+               },
+               "southwest" : {
+                  "lat" : 1.636975720107278,
+                  "lng" : 103.6243371701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c2f8954e056bbffbb0c983615184571ec30810fd",
+         "name" : "McDonald's Kulai DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101950496740507434286/photos\"\u003eIsmail Rohani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAabA6V3KgwWb92WERleaI8Egps1xgC_znX0cFcDX_0MOmgUrez-ZN1XBtP2D2JBhyUgtV9_dVwdL4tl2KuGmYUdO5wJmGcuoDqhyeKLy-uEEqDzpPUj2p22oV70rhMeUoEhAnGgzgbHSIe0yAw8TCf1SSGhQNWLKGTGwgb15kTbDDnXhbEnh5YQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJC6OtkLl52jER0BTuhrpiAkY",
+         "plus_code" : {
+            "compound_code" : "JJQG+77 Senai, Johor",
+            "global_code" : "6PH5JJQG+77"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJC6OtkLl52jER0BTuhrpiAkY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1517
+      },
+      {
+         "formatted_address" : "I Airport, 81400 Senai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6404395,
+               "lng" : 103.6543446
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642201729892722,
+                  "lng" : 103.6553247298927
+               },
+               "southwest" : {
+                  "lat" : 1.639502070107278,
+                  "lng" : 103.6526250701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "579721ffcf286ace886b161e67534de4b418696f",
+         "name" : "BURGER KING",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110431215333595213602/photos\"\u003eToto Agung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqOx9dJE1azIjjowiYe7-d4NfhGtqooxp3kxV-oBkzkWCzWZj865fxOYJuHqaplzFvPNwP-kXnslTd9fGqGRAYIIcLawU-WRRwGY5PTNYO0zYvefvMLOgNuXihE3jlHVGEhDHJngkrbn8bfZnjW6yGySQGhSgkO3_ZxY7Yytk5ZaRY5f6L-nOOQ",
+               "width" : 4632
+            }
+         ],
+         "place_id" : "ChIJjzGnDHJ72jERRashN9eenKM",
+         "plus_code" : {
+            "compound_code" : "JMR3+5P Senai, Johor",
+            "global_code" : "6PH5JMR3+5P"
+         },
+         "price_level" : 2,
+         "rating" : 5,
+         "reference" : "ChIJjzGnDHJ72jERRashN9eenKM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lot 49987 Mukim Senai-Kulai, Pontian Highway (JB Bound), 81200 Johor Bahru, Johor Darul Takzim, 81200 Johor Bahru, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.551252,
+               "lng" : 103.649698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.552490429892722,
+                  "lng" : 103.6509685298927
+               },
+               "southwest" : {
+                  "lat" : 1.549790770107278,
+                  "lng" : 103.6482688701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b9a0116594514bd0991b2cea7db1633172a18af7",
+         "name" : "Burger King",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114277846609259761989/photos\"\u003eAbdul Hafidz Abdul Hanan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAACmUQoSElOGTEhVshts9TsyvxeZ1tqo1_BIXTxpbISeL1Bx3Gr6MlK_T_Uqh6E-LVJ47rlqe6kSwzVFHtuEzNs7oDFuEQ0e-ckWvcwTPh0sqoSML2X2tK98xzEoOZ6tVjEhBw43oruF7leIYY067fta7SGhSAVC3WLsNqIY47bP1C-2sd2BPvTg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJi7o-4uJz2jER8CfcvS1cEG4",
+         "plus_code" : {
+            "compound_code" : "HJ2X+GV Johor Bahru, Johor",
+            "global_code" : "6PH5HJ2X+GV"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJi7o-4uJz2jER8CfcvS1cEG4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 735
+      },
+      {
+         "formatted_address" : "Food Courts, Johor Premium Outlets, Jalan Premium Outlets, Indahpura, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6043787,
+               "lng" : 103.6212312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.605910179892722,
+                  "lng" : 103.6227364298927
+               },
+               "southwest" : {
+                  "lat" : 1.603210520107278,
+                  "lng" : 103.6200367701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4a8092e3fec4cc722c8710bd26e47954e2130749",
+         "name" : "Marrybrown Johor Premium Outlet",
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107453811458627875315/photos\"\u003e諶宏軍\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuS_IonaYjsmadHMfWESujKLW_MeTATfX6IgOPTmzw1y-s0o4-MCLHk_xWK2Obwb9qet7HUbywvgv-EU1t9joxrr1pWYbb-biVfvLkUhdeERz2wwYERbCNIf-j-04rNmtEhBYcy4g0LUp_C2uvT7a89jhGhT_fhbXmP4XLWoGfB5rv0eamMHybw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJad7myDt32jERDJC_pNIcELA",
+         "plus_code" : {
+            "compound_code" : "JJ3C+QF Senai, Johor",
+            "global_code" : "6PH5JJ3C+QF"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJad7myDt32jERDJC_pNIcELA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 18
+      },
+      {
+         "formatted_address" : "G-26, Ioi Mall, Lebuh Putra Utama, Bandar Putra, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.647449,
+               "lng" : 103.626279
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.648928179892722,
+                  "lng" : 103.6274307798927
+               },
+               "southwest" : {
+                  "lat" : 1.646228520107278,
+                  "lng" : 103.6247311201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5255b00ea6ebce1d261f0e1c951db6bdd0b70041",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110373251075392435914/photos\"\u003ePuteri Amira Zainulakmal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj6KsdxFySoc_ToM9Woq31Vpxg5zYOLVOA41TbdeYZ8-ZJMNXi0jHN44T-qnhFGqE-fMXMdj1kb25axz9pGQ74WOHELSOMd263v_SORCQOq7Nev66YOglDutVvnDqo0R2EhCahWZBimGazuHMSmZv7iPjGhQzdSK5TuDOnU9qqm41XGGR7wpXPA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJze9dLo152jERcFMbntnzjEA",
+         "plus_code" : {
+            "compound_code" : "JJWG+XG Bandar Putra Kulai, Kulai, Johor",
+            "global_code" : "6PH5JJWG+XG"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJze9dLo152jERcFMbntnzjEA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "formatted_address" : "No G53 Ground Floor, AEON Mall Kulaijaya, 81000 Johor Bharu, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.640604,
+               "lng" : 103.617466
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.641822579892722,
+                  "lng" : 103.6189549298927
+               },
+               "southwest" : {
+                  "lat" : 1.639122920107278,
+                  "lng" : 103.6162552701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0cd62fe03ca5b801b3bb7ccedad431326e89c387",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100257121871499149965/photos\"\u003eporcupine tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAev7uyjnia3tWMis_kaP7yqud3d9u2v3WVZap3vMSkwFxUFIrFsHng2ethyIzUHYKlM4X73DW7GaTrgIrLTDcwwQb_8YK7C1BnenvVftqhX30bMC35-pWbOXHwql6cWpIEhArv94FZbTVi3xQe-_VQkykGhTqY4XNfUz3rp6IkaFeEkKbdQsoag",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJZ1LD3-h52jERajN5YyYyXlM",
+         "plus_code" : {
+            "compound_code" : "JJR8+6X Kulai, Johor",
+            "global_code" : "6PH5JJR8+6X"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZ1LD3-h52jERajN5YyYyXlM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 84
+      },
+      {
+         "formatted_address" : "Lot G60, AEON Mall Kulaijaya, Persiaran Indah Pura, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6400409,
+               "lng" : 103.61706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.641437129892722,
+                  "lng" : 103.6187290298927
+               },
+               "southwest" : {
+                  "lat" : 1.638737470107278,
+                  "lng" : 103.6160293701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c07f3e5726e82a7535b2a3c9319b34d3b3f31c2b",
+         "name" : "Marrybrown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114321712992796953798/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoSdb8m74iTr1GV-jR7GGYfSXeFR5D7dQIEJfv7e7OsBxyn69IBa2IcJyq5y1Xl53cAIPjEEzzXzGaCuCHSTZ0zEnsra1TraOuzO9Ktdu2rBA5DounBrhLnXUmdxI3-4jEhD-WPvlHwHa_NcyUutwSFUtGhSKCir39zKrkL8EV96HRNLYBuxLFw",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJFQ3X7uh52jERDGaBfySOnn0",
+         "plus_code" : {
+            "compound_code" : "JJR8+2R Kulai, Johor",
+            "global_code" : "6PH5JJR8+2R"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJFQ3X7uh52jERDGaBfySOnn0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "C12, Food Avenue, Aeon Mall Kulaijaya, Persiaran Indahpura Utama, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6408263,
+               "lng" : 103.6180902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642148179892722,
+                  "lng" : 103.6194696298927
+               },
+               "southwest" : {
+                  "lat" : 1.639448520107278,
+                  "lng" : 103.6167699701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "60ae111ba939bac836f4544f4090ba0934d3f11e",
+         "name" : "Subway",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 681,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101157848931140620847/photos\"\u003eDonkey Kong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcvGyySzH4GKaTsWMVW96f9mtdO2YaY2q4U_XVR1aAylcMdfC-73zmlJj0WQKmKcjT8QJ1vQRL3h3o9AIRqfWoWEwNTGgprIN16LEsQjKl9Ef8ld40F0Gk5J4ZpODEMJ6EhCgZB2P6agoqu9L91v8WERYGhSAL7fUvITpzxN1tyuiuE-iTZtIbw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJV8SSJ-l52jERyD-Dv5exuZM",
+         "plus_code" : {
+            "compound_code" : "JJR9+86 Kulai, Johor",
+            "global_code" : "6PH5JJR9+86"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJV8SSJ-l52jERyD-Dv5exuZM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "PTD 103231 Taman Impian Senai Mukim Senai, 81400 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.5935647,
+               "lng" : 103.6472794
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.595058429892722,
+                  "lng" : 103.6485554298927
+               },
+               "southwest" : {
+                  "lat" : 1.592358770107278,
+                  "lng" : 103.6458557701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9be3384eb106c00fdd8aa4ea72e321e30f5d14a0",
+         "name" : "KFC Senai Impian Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105825087673867405278/photos\"\u003eSajjad Nangarath\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAamVY9NaZQ4KjVt7UgiRqRn-jJUrYOBejR-h9B2fcGNc0sHbzUaMdww9H38Dy-n38h0D-xwNXEYfiDADsrp67XzCnjnvSiyQCYda327QtVXDJFu9D7aK3LQDeeijQAYYoEhB63XeE6g11aCbgw4p6pF5vGhR43uE99UKAcRaR8b7je6UrloB8uw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJp78Bbddw2jERsR5Fshfswwk",
+         "plus_code" : {
+            "compound_code" : "HJVW+CW Kulai, Johor",
+            "global_code" : "6PH5HJVW+CW"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJp78Bbddw2jERsR5Fshfswwk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 755
+      },
+      {
+         "formatted_address" : "Lot G56 (Ground Floor), Aeon Mall Kulaijaya PTD 106273, Persiaran Indahpura Utama, Bandar Indahpura, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6401319,
+               "lng" : 103.6173914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.641503579892722,
+                  "lng" : 103.6188916798927
+               },
+               "southwest" : {
+                  "lat" : 1.638803920107277,
+                  "lng" : 103.6161920201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c0583e2fcaf8776e9639e505e2bdfd8840eb7ff3",
+         "name" : "Burger King",
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116972088407468037546/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANFEp0bUJ5fBTBfMFR0OUjh57eNzXWSEOjCYSSdRI8hcdw1fLlAD-PNtpMwKryO0ndLaP9M33FtasycEQ0WMBZkLNmgacTm3seyreCAZcXMsc8e6OgTPNg4BGFdH2iUCGEhDAiLFRyesYXNvcwU60j2f9GhRn233O0b3TEsx5SQ7QFaZscEBBLg",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJRQdM40Z52jERHBToflHhoao",
+         "plus_code" : {
+            "compound_code" : "JJR8+3X Kulai, Johor",
+            "global_code" : "6PH5JJR8+3X"
+         },
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJRQdM40Z52jERHBToflHhoao",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "Bandar Indahpura, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6410261,
+               "lng" : 103.6193515
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.642332829892722,
+                  "lng" : 103.6207458798927
+               },
+               "southwest" : {
+                  "lat" : 1.639633170107278,
+                  "lng" : 103.6180462201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "009068cad34a4093606a3d0f11be1ab379fa7a0e",
+         "name" : "Warung ABAKAMARIA",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101633724786132733500/photos\"\u003esze yah chng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-Le6du4x8m8AMAGGZg8tV6wIGMDqhy9LlPuoU4QEm8Wo76ZLubhwsoAtap1fMoYaFA8PdKPL1EJl8HmYj7zOpi2juCx1bpVfnwsew_ILLuHJTE1KlexlsEtNJKkZyz7nEhB5rMjCzM9OkWGLpHegkuOVGhR7IEvA2BrEklcTcWYk5eeFEcA43Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBdRvENl52jERxy1fxTTAvgU",
+         "plus_code" : {
+            "compound_code" : "JJR9+CP Kulai, Johor",
+            "global_code" : "6PH5JJR9+CP"
+         },
+         "rating" : 2,
+         "reference" : "ChIJBdRvENl52jERxy1fxTTAvgU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "NO. 2953, Jalan Merbau 10, Bandar Putra, 81000 Kulai, Johor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.6465866,
+               "lng" : 103.6234899
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.647915879892722,
+                  "lng" : 103.6248636298927
+               },
+               "southwest" : {
+                  "lat" : 1.645216220107278,
+                  "lng" : 103.6221639701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "854816d7f9f036f31a95cfcfdab267e07c8bec1f",
+         "name" : "CHEF TAKO BANDAR PUTRA, KULAI",
+         "place_id" : "ChIJ0UJG8NR52jERH_VKPPnrKQo",
+         "plus_code" : {
+            "compound_code" : "JJWF+J9 Kulai, Johor",
+            "global_code" : "6PH5JJWF+J9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ0UJG8NR52jERH_VKPPnrKQo",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Lot No. G-26A, IOI Mall, Lebuh Putra Utama, Bandar Putra, Johor Darul Takzim, 81000 Kulai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 1.648087,
+               "lng" : 103.626884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 1.649610329892722,
+                  "lng" : 103.6284817798927
+               },
+               "southwest" : {
+                  "lat" : 1.646910670107278,
+                  "lng" : 103.6257821201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "50961888c8c01af3e2360019ff5dae538c96f9c2",
+         "name" : "Mama Chops & Papa Grill",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112187255330778520442/photos\"\u003eJen Aguilar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeetGEOMWne2srGqU50SVuDNduiQdKQoEXnQCaO6NjSqHGsX4SvjRj2mS1aIctK5FEITjiYtJPPhja2s7fk_XJ2HpqbSH9a6pdYI4zTkKpD5d43Zmlo71o7-YTowK5Oy4EhAiQ7-Tm6LNF4c4_HYPl3ZUGhTVTU8uY1aEjJhyVJB7DQEgf4FZfg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJO7f-LY152jER4ldmni6mqxY",
+         "plus_code" : {
+            "compound_code" : "JJXG+6Q Bandar Putra Kulai, Kulai, Johor",
+            "global_code" : "6PH5JJXG+6Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJO7f-LY152jER4ldmni6mqxY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

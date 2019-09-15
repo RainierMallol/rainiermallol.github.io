@@ -1,0 +1,877 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE_wEAAC5RUePD3BmBfcBxxExYs5Mgchy9QBIC2Su94OIILtUmdIwRbhmJLFn_0Yj7WI5-81jw1JdsNNzaTgP5UmWnnAJJQF9MI9MDivP-XFDBqXoNzNlKsZ-2z1CBEGluaaEnSalcr-PQEl7J_oMojcjBHK1njcSDtf7lEYxlM9Gy1TXCyoYb6UIr5oaFGtChrog2pjbygNZZ55bLZ4VE-yDbWhWbk_htrjXi_gqm2SRQDw1JshEWjiXwfXP2kjrHXhGypTu-bjyX8AfRlhX6zJ2islEQFqe2ItJcVCrJsGsoXKAZWd7mQ73VXhOhS8x7FCyU2haqfzGyRzdfhT1cZ3PxL-RGn-5x_sJFMLWGxQnMwC3Kj2PuuIZgOmEiRoNeESKJJAtDWjvwnBNV0wXHW3G7bObTA8gXC3_SvI4IhkNfnHh6sIZzWal26l_eP2uRa4KHPU332lSwC0SrVw_uobkWARMy62AWDmbUcs4pRJJNrMdPnUBvTtWlMWCsfsVK4yXemXEPNbSSs2mE0UD7a-xQaj_KgSWcDAvWE4MN3DNqDyEnf1zezIrNRqjBV4os8L4WL1P2y_23ntyiowYIl_C7nGx8x4h8zJQ7ZZxhrXFtCQ-aOuWSn6yqsiqBxtbu47Gfm6hspkr9_qe4gDm566VLJUtNtm77ukP3bUji3DE5CxjfEhA-5hvlMlO9L_gp7ZmNeXv6GhRjSFih2ncCz-BVS_752fkCJtKCrw",
+   "results" : [
+      {
+         "formatted_address" : "1, Persiaran Putra Timur, Pekan Kuala Perlis, 01000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3983941,
+               "lng" : 100.1294299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.399799779892722,
+                  "lng" : 100.1307785798927
+               },
+               "southwest" : {
+                  "lat" : 6.397100120107278,
+                  "lng" : 100.1280789201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01c3b0319ec479a5f947062040a285a2c43a949d",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102991175201038606675/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAIceGuVpnXZlSvpEVRht_eSOqk6W1_WanMQ8-3JAt_5-D8f64JozFQjcphK4xybiNcQkniaSqB1h8ewvAfM7mPTTuBSTRg4ZCX6US8jgLmglNA47nrnMlh6wPw6XMqWSEEhDojZX-25qrZsLevQQ5yctPGhQN79Vq6k6PIwTZoMxAz9Q6sVSAUQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTUW07oObTDARzn7LLeV9WBw",
+         "plus_code" : {
+            "compound_code" : "94XH+9Q Kuala Perlis, Perlis",
+            "global_code" : "6PR294XH+9Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJTUW07oObTDARzn7LLeV9WBw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 127
+      },
+      {
+         "formatted_address" : "Jalab Jeti Baru, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3941472,
+               "lng" : 100.1292602
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.395738229892722,
+                  "lng" : 100.1306065298927
+               },
+               "southwest" : {
+                  "lat" : 6.393038570107278,
+                  "lng" : 100.1279068701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d7463c033c42cfb644c8a9f057fdde84583100b9",
+         "name" : "Hai Thien Seafood Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108054828881385102783/photos\"\u003eSakda Za\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlM4mSZCEc4zZP-S3sDp-DuTc-ygpLcf9HIfJRyCJwWAZ1-QuVZV3aPkGFER2ZADJyvA8CifN5t02gP7FmilSMSY0pp8W7gCg62QDc2f6hs0LAxGWJtso-aIOELO-oNT2EhBnF1PqNmF7TVU0vUVGaDaQGhSXefO1fc058uqoDJJxbSTZS2OQnw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ95T_kIObTDARPPyonBPvE9w",
+         "plus_code" : {
+            "compound_code" : "94VH+MP Kuala Perlis, Perlis",
+            "global_code" : "6PR294VH+MP"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJ95T_kIObTDARPPyonBPvE9w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 628
+      },
+      {
+         "formatted_address" : "No 281 & 283, Jalan Kangar - Alor Setar, Taman Pengkalan Asam, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.435944800000001,
+               "lng" : 100.1882432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.43728007989272,
+                  "lng" : 100.1896231798927
+               },
+               "southwest" : {
+                  "lat" : 6.434580420107276,
+                  "lng" : 100.1869235201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "479fa4f4d526b31a9b06d010551e2fdeef1a679d",
+         "name" : "Modern Time Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105432027803622574368/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwruklH2a1YULi0ABHiNhUoLFf46UYcerfDzk98P6Zd_jzggCsVSnkMO10iWKTl3zCPTiNijNuYEs1h29kozxTy5zuvB5lUpZHGt-hrrAVHswttRgJBktFv1VT084AMb-EhAKHNceLbA64ygAFAytJzp5GhTi5SdERHtlX20zDpjpvWm2o4Lb9A",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "plus_code" : {
+            "compound_code" : "C5PQ+97 Kangar, Perlis",
+            "global_code" : "6PR2C5PQ+97"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJEwpkXZ6ZTDARsINN8QgKJd8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Jalan Penjara, Pusat Bandar Kangar, 01000 Kangar, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4397616,
+               "lng" : 100.1957493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.441141929892722,
+                  "lng" : 100.1970804798927
+               },
+               "southwest" : {
+                  "lat" : 6.438442270107278,
+                  "lng" : 100.1943808201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2072fafdd316228f892dc8ba27cace946bf21dcc",
+         "name" : "Garden Cake House & Fast Food Centre",
+         "place_id" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "plus_code" : {
+            "compound_code" : "C5QW+W7 Kangar, Perlis",
+            "global_code" : "6PR2C5QW+W7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJbYUWyqOZTDARPlAxjh4_FtA",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "Jalan Kangar - Alor Setar, Kampung Simpang Empat, 02700 Simpang Ampat, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3447019,
+               "lng" : 100.1909351
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.346078779892722,
+                  "lng" : 100.1923541298927
+               },
+               "southwest" : {
+                  "lat" : 6.343379120107278,
+                  "lng" : 100.1896544701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "caec89d374be8c20d259ba019cfba0e13cfd4cce",
+         "name" : "Mangga Kaww Simpang Empat Perlis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107576164154584936450/photos\"\u003eAzlan ahmad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzQ-s9XkhR_I1XXOfqoEwW1_Ax2WBdg73WaLNRE_EOz6gEEE9EGVFTzjrnL8oHk3pFc5gSnYKpsYSiVw_asGHQLTT365KMSradPp5UcnSYxV4oeu3Ht2s1lyvGd8Ve_LjEhCT8dUV6wDbqpBwxH2jgG9MGhRw5PA4Z2dsmryhnQ7Qot03zIOiUg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "plus_code" : {
+            "compound_code" : "85VR+V9 Simpang Ampat, Perlis",
+            "global_code" : "6PR285VR+V9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJAyUlz2CeTDARqLhRPBN6q8U",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "formatted_address" : "Jalan Kampung Bakau, Kangar, Malaysia, Perlis, 01000 Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.432713,
+               "lng" : 100.196706
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.434177179892723,
+                  "lng" : 100.1979451298927
+               },
+               "southwest" : {
+                  "lat" : 6.431477520107279,
+                  "lng" : 100.1952454701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e3e3e8ae7144e5b3624bf817d8bba52416b0391c",
+         "name" : "McDonald's Kangar DT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109059559070395330632/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW4BWMhRZDoH1LZXTPUn4rQSuepak4RvuLwMRlwDcpRg2LKibL0SC1leX0f8mlqF4rqEM39xBY63Y_Olm3ERBv8uO5HbxorXgPaSbibDlYeqLohu2CCGRdX1Ttkf1ZkviEhBhXwdlaWpxnyNbhLtoqmiJGhSn6dAKQw-pQkVdM8i_UP8tM4_S_Q",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJwRn6cQqZTDARzbjghIB3nHA",
+         "plus_code" : {
+            "compound_code" : "C5MW+3M Kangar, Perlis",
+            "global_code" : "6PR2C5MW+3M"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJwRn6cQqZTDARzbjghIB3nHA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2139
+      },
+      {
+         "formatted_address" : "R152, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3840903,
+               "lng" : 100.1367636
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.385438679892722,
+                  "lng" : 100.1381042798927
+               },
+               "southwest" : {
+                  "lat" : 6.382739020107278,
+                  "lng" : 100.1354046201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1c258d1a769668808b5fcfd734f6c0f09b384799",
+         "name" : "Persisiran Pantai Kuala Perlis",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111473949304226582805/photos\"\u003eAzfar 88\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ28eu8TtA4ukSUMroaYI3kALau-m8y6jG8ZPyc4D3j50v-QZFN8cUirdfwbeSjMRMwHAcwrfM5jcehVXxejtWvkRyHrOBF7BUbcpuJKS6xfWaNIn-wuFXtbuioM8arxPEhDrMyJo4a3Y0Fj9mmgO7RQmGhTc3XO8boEl4MF6g-uE16GZQeLDUA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJkUdjeHCcTDARi46mcKjKeNQ",
+         "plus_code" : {
+            "compound_code" : "94MP+JP Kuala Perlis, Perlis",
+            "global_code" : "6PR294MP+JP"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJkUdjeHCcTDARi46mcKjKeNQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 57
+      },
+      {
+         "formatted_address" : "Kuala Perlis Laman Brasmana, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.395202299999999,
+               "lng" : 100.1283951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.396561179892721,
+                  "lng" : 100.1297984298927
+               },
+               "southwest" : {
+                  "lat" : 6.393861520107277,
+                  "lng" : 100.1270987701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "c9da43d28657bc0874151c8e6a509a0d64dc5309",
+         "name" : "Mona Ikan Bakar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117887428891149698370/photos\"\u003eNor Zaiazmin Yahaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2fcSh7gf61FHDlfZGcqWHShaWccZI1fC7DH7qX-ezqpEzePp2FZ_Wt3KLUyBVUCoakqvAXraLzUvcDk93koPS55IVNv7QDag3S05Vt5cTazdgz7kYb0-7GV7-OlFSDylEhAdA2evAqpFTW9aI1y-F3B4GhSNLVBMD2yCEtL2hr1QmkGA6IVzRw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ67TP_4CbTDARIhkUGNNg9Hw",
+         "plus_code" : {
+            "compound_code" : "94WH+39 Kuala Perlis, Perlis",
+            "global_code" : "6PR294WH+39"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJ67TP_4CbTDARIhkUGNNg9Hw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88
+      },
+      {
+         "formatted_address" : "Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.401444,
+               "lng" : 100.1330791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.402765279892721,
+                  "lng" : 100.1344686298927
+               },
+               "southwest" : {
+                  "lat" : 6.400065620107277,
+                  "lng" : 100.1317689701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f56e6534074fb5f4cea5d559c5946c08f3720631",
+         "name" : "Restaurant Nelayan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1584,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112695847262420432383/photos\"\u003eBlack Beard\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAsfT6oFTnwt5fB2nJ95y7MbWPX373AGEn3GrzllS9mWl3BAcoZM_TzSnrlCWu4-qLAinurD4QJHrYaHyq7P1tjkrcebZFGlW-us58I5_aY4vdRn_1yWtYA6XXVf-kldaeEhA-micoZfedWlDLuFHm9mY8GhRSsSfgRdnGVwgKehMxsKaaDXkwpA",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJAW3Q6ISbTDARDmmu_18V_Wg",
+         "plus_code" : {
+            "compound_code" : "C42M+H6 Kuala Perlis, Perlis",
+            "global_code" : "6PR2C42M+H6"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJAW3Q6ISbTDARDmmu_18V_Wg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 304
+      },
+      {
+         "formatted_address" : "Kuala Perlis No 97, Medan Niaga Kuala Perlis, Jalan Siakap Satu, 02000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3975183,
+               "lng" : 100.1326531
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.398868979892721,
+                  "lng" : 100.1340072798927
+               },
+               "southwest" : {
+                  "lat" : 6.396169320107277,
+                  "lng" : 100.1313076201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1aca9e751ddcae340ec4ded56f2378fa29025824",
+         "name" : "Kak Su Laksa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112290770776374129160/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEnAhV2rQpGHKub-iu2VenSJOZZxoyuY0H3Sy6qhDUB0r42gNW7uMzJz3BENa_bGYVYowFsrMTmQwXiQZxn6fEfFzkdvclxup-8_nfvdfgGmWvlKUpfZnfsB0fkOP_yNVEhAxw5boQNqL6GUwuRt42TaCGhR7k4JfHl-aC_VOffiHe8WCSEQi5A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJSS-Gm4abTDARQBJkY9DcN0c",
+         "plus_code" : {
+            "compound_code" : "94XM+23 Kuala Perlis, Perlis",
+            "global_code" : "6PR294XM+23"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJSS-Gm4abTDARQBJkY9DcN0c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 715
+      },
+      {
+         "formatted_address" : "02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4182502,
+               "lng" : 100.1394394
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.419712629892722,
+                  "lng" : 100.1406401798927
+               },
+               "southwest" : {
+                  "lat" : 6.417012970107278,
+                  "lng" : 100.1379405201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6c4354d249d1539d7247a6b0e96602e34d8e283",
+         "name" : "Koria Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102078958613683622340/photos\"\u003eTian Loon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARX5sqK9bqZ29wCBl-_d_9XgGXCrmV1Dh6BNzcRav3nP5bMK4Q8vTtCfVsnj4Yv6-2Wh6v84Y2wfzyskNiSbhnV4FfxXO4mQZAcW8uPocod5ENZw3DVEeaVdTBoYkh0XXEhAUmiKvvaJ7a7N5fv8vKzjcGhSOjijUPrBPiYTf4IZFVseUr1-mig",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJw3Rrh7ybTDARnGNDnf5in_4",
+         "plus_code" : {
+            "compound_code" : "C49Q+8Q Kuala Perlis, Perlis",
+            "global_code" : "6PR2C49Q+8Q"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJw3Rrh7ybTDARnGNDnf5in_4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101
+      },
+      {
+         "formatted_address" : "R152, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.383625200000001,
+               "lng" : 100.1369154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.384963129892722,
+                  "lng" : 100.1382299798927
+               },
+               "southwest" : {
+                  "lat" : 6.382263470107278,
+                  "lng" : 100.1355303201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "af5e5e3ef87bc438c9d054c19b8dbf3e995932e9",
+         "name" : "Seafood Mat Rock Der",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106990912206054372876/photos\"\u003emohsin md nor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAACt1Sm5Ob6sBLSvjPEXL3NSDQkCd2_RQ70h3Np_Q0qQ6_KOX_Gh1IBtAOZRSR_ieiQ3MyWcAMcyi0mNE88tyDvXnBA7Mc6Ut81zC4Lr4e8qVcYHxIqIWmGGihDuk1IZdKEhBXdYneQiqURvpE_6nldLcSGhSVTcD9dkHPN9oODj_9q_qPg3qrbw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJXdyDdnCcTDARRM8gJTXh4zw",
+         "plus_code" : {
+            "compound_code" : "94MP+FQ Kuala Perlis, Perlis",
+            "global_code" : "6PR294MP+FQ"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJXdyDdnCcTDARRM8gJTXh4zw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 184
+      },
+      {
+         "formatted_address" : "1, Persiaran Putra Timur, Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.397842499999999,
+               "lng" : 100.1284514
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.399275229892722,
+                  "lng" : 100.1297603798927
+               },
+               "southwest" : {
+                  "lat" : 6.396575570107278,
+                  "lng" : 100.1270607201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "bdb1c608f84b534ed1a702ca62ecc2c146ae93a7",
+         "name" : "T Hotel Kuala Perlis",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103051084097645191184/photos\"\u003eZurkanain Yahaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPRjQYXwWYO1N0YY7drK6iHXYiJtJO-9bsb0kw7DtMA8PcT4jBeWWjPklZ8vVcqKauQxADq_z_mnXs-bkmqWFvPEPL3HYwKMUWBL7UxFnlXEwscSIq1NTRGm8riEO7DHCEhA_ot7iB7Ckf-Cudmn5K54kGhTsC0VPWhgWvLabcqdcYR8eUKxHcg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ0Qrk7oObTDARAAIgUaO6-KU",
+         "plus_code" : {
+            "compound_code" : "94XH+49 Kuala Perlis, Perlis",
+            "global_code" : "6PR294XH+49"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ0Qrk7oObTDARAAIgUaO6-KU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 247
+      },
+      {
+         "formatted_address" : "Changlun - Kuala Perlis Highway, Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3932365,
+               "lng" : 100.1327252
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.394563529892721,
+                  "lng" : 100.1340223798927
+               },
+               "southwest" : {
+                  "lat" : 6.391863870107278,
+                  "lng" : 100.1313227201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1bea8f57915596f46de735143b98b0cb84a3903b",
+         "name" : "Restoran Nyiru Klasik Ikan Bakar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117881198591623845583/photos\"\u003eAnuar Berahim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALDVOOuOegWIXhD0VF4OuL0Z9AOFkULqL70vaJgXmUthPa1ZWljqSX8lhPc_Lx030lrBeu2PGoxGYMQp7T3TR-ZnYmWAF3iPptEDttozFlFnBD0noQ-z0doyCcGLN9YQkEhDv1SNjl_QQFiTwhVLj4yftGhQb-PIn8KwvNJDWIacztvEGmV1LAg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJVaLqZ4ebTDARUfvT-REn3Jg",
+         "plus_code" : {
+            "compound_code" : "94VM+73 Kuala Perlis, Perlis",
+            "global_code" : "6PR294VM+73"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJVaLqZ4ebTDARUfvT-REn3Jg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 170
+      },
+      {
+         "formatted_address" : "Jalan Dato Ali, Bukit Tok Po, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.4084674,
+               "lng" : 100.1413646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.409803429892722,
+                  "lng" : 100.1428146798927
+               },
+               "southwest" : {
+                  "lat" : 6.407103770107279,
+                  "lng" : 100.1401150201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "892b92deea2aa2026f998de35d9a575eb8e37b74",
+         "name" : "Restoran Api Api Ikan Bakar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1840,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116890003871046143484/photos\"\u003eBashari Mohd Sidek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAepq_H0f23kYJh7wVsFdQsR78dE72pSXqKKjEkg-doL9zQUrGaFVKSDsuAd3g9vFCu_nP_G7EMExQtp4CKM4Xx9HEVl8SWHiPm_BmR1mEGM146yuP_MCXCky6lqWDLcMPEhAFHtM9pGScBQZ2e85CaZCAGhTODcspzjIYimj_vaW3qJkUVtjtFg",
+               "width" : 2772
+            }
+         ],
+         "place_id" : "ChIJjTVgsZabTDAR6-U-JJ8hj-Y",
+         "plus_code" : {
+            "compound_code" : "C45R+9G Kuala Perlis, Perlis",
+            "global_code" : "6PR2C45R+9G"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJjTVgsZabTDAR6-U-JJ8hj-Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 765
+      },
+      {
+         "formatted_address" : "263, Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3942651,
+               "lng" : 100.1308104
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.395732479892722,
+                  "lng" : 100.1323305298927
+               },
+               "southwest" : {
+                  "lat" : 6.393032820107278,
+                  "lng" : 100.1296308701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "8d4456521d18142c4d2b67b3fcf9624950353752",
+         "name" : "KomaLaut",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113380257585972536908/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABG3eygNXA_yofD4nsE4o51kP2rLnY9I20L1qnQT8_7ol_G0nTt6-EOvT5Iep3JRtGg4ntck4LE1MZKPOcOoQpxAu65Ia7GO9IMAzdYgkmdtVSEwl3GU-5G3va2GoWxAtEhAPA3v0FpLbhxmw9DpoEqnSGhQFwKluwJHTDJzOaONhe2bZY4wskQ",
+               "width" : 563
+            }
+         ],
+         "place_id" : "ChIJ33J6KYebTDAR-eYyjh9sSTg",
+         "plus_code" : {
+            "compound_code" : "94VJ+P8 Kuala Perlis, Perlis",
+            "global_code" : "6PR294VJ+P8"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ33J6KYebTDAR-eYyjh9sSTg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 149
+      },
+      {
+         "formatted_address" : "Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3905718,
+               "lng" : 100.1338614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.391895629892723,
+                  "lng" : 100.1351261798927
+               },
+               "southwest" : {
+                  "lat" : 6.389195970107279,
+                  "lng" : 100.1324265201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d8490eb6d122f0a0897ae79e136347608d670037",
+         "name" : "Warung Ikan Bakar 3557 & Western Food",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102245365930019580932/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2BwyPIp3-gACWJCoVKc6Fr71N4FrQZ8nVSm1nXrakajjCTtDftCrPT2DYOk2j7kFJr-qI3qYkJiOcE4GhOS8Ast4YpapqFw0bHJE6b7XQSpTTfdps8B6nM2qZx1zE1KOEhAtvE4cCC8NXhMoQ79qi-iEGhQrz8_raICNFOcum3M97SKb4V-MSg",
+               "width" : 1872
+            }
+         ],
+         "place_id" : "ChIJ8__293icTDARdKTPR3i7GE4",
+         "plus_code" : {
+            "compound_code" : "94RM+6G Kuala Perlis, Perlis",
+            "global_code" : "6PR294RM+6G"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ8__293icTDARdKTPR3i7GE4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101
+      },
+      {
+         "formatted_address" : "Kuala Perlis Laman Brasmana, Persiaran Putra Timur, 02000, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.395997299999999,
+               "lng" : 100.1282901
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.397337379892722,
+                  "lng" : 100.1296952798927
+               },
+               "southwest" : {
+                  "lat" : 6.394637720107278,
+                  "lng" : 100.1269956201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "defda68e6ce401ae96e7fa48a027f33c03c61d97",
+         "name" : "Lynda Ikan Bakar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117038795451809790472/photos\"\u003eNazri Nash\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXdhXPPKyYfuxjVL2NE3ir383KX8bNiY0Rb46ZmvczCpuhFSjZ2pv9kCefhOryJaFxvNiYu8aIbKJELq4dnKyAzgHSSRwMVnWy3j4kSeVb23dEbF4Walv-ndAnqbB94IlEhDd0VCsqLaw0kuyKxFxtWHxGhSU-shfmRfdGMQWQi8heypQAT1zOw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJYWiicoGbTDARZir7p_VAWuQ",
+         "plus_code" : {
+            "compound_code" : "94WH+98 Kuala Perlis, Perlis",
+            "global_code" : "6PR294WH+98"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJYWiicoGbTDARZir7p_VAWuQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54
+      },
+      {
+         "formatted_address" : "NAT Moden Perlis, NO 49, Persiaran Putra Timur, Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.3978608,
+               "lng" : 100.1283371
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.399263729892722,
+                  "lng" : 100.1296607798927
+               },
+               "southwest" : {
+                  "lat" : 6.396564070107278,
+                  "lng" : 100.1269611201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "4552622be62bccfe680975d216ece4d45b4826b1",
+         "name" : "NAT Moden Perlis",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101662085035199909752/photos\"\u003eSam Daw\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeeLqZViE0XxGXN3hfJX9jbKhban1tF2QjM6W3LFw3jXapEH-Ud870iyPIx05iiQ9k3713lFXsKWW4Lx4tLaIlGPAZAcTemw4ybLrnTvMXoHGuWCBN5teKsRrTuixJ1oeEhD0mW1gHzEwRIMLRp76xxOwGhS78I29lNL3uB6O_eoDeCstsm6WAg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJdX00gIGbTDARfrteP3QieBk",
+         "plus_code" : {
+            "compound_code" : "94XH+48 Kuala Perlis, Perlis",
+            "global_code" : "6PR294XH+48"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJdX00gIGbTDARfrteP3QieBk",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "formatted_address" : "LOT 7 & 8, KOMPLEKS MAKANAN LAUT (KOMALAUT), JALAN KUALA PERLIS,, Jalan Kuala Perlis, Pekan Kuala Perlis, 02000 Kuala Perlis, Perlis, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 6.394124,
+               "lng" : 100.130982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.395769679892721,
+                  "lng" : 100.1322433298927
+               },
+               "southwest" : {
+                  "lat" : 6.393070020107277,
+                  "lng" : 100.1295436701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a19763779195365eb5bc0fd44f5d71a02649c521",
+         "name" : "LIZAMAT IKAN BAKAR KOLA KOMALAUT",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 291,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110598342229921323583/photos\"\u003eLIZAMAT IKAN BAKAR KOLA KOMALAUT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxKfo945k-lPt-BCbHGOppdNNmytnckJNZqoYfE8nrRyVjqLp7BmNeA2rrIBLgtYZDTFGMFUlRB_IbGwdAyGBfsBazR9y8yn7W6SePOUeXoaOSpnWHnDGg479c5YukLAMEhCf-_P6dthxsuxS5XlcdGO-GhTY6sMK82hQVLIGlhscH006X7fSQQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJg4T5_oCbTDARHNtgDPyEJ0w",
+         "plus_code" : {
+            "compound_code" : "94VJ+J9 Kuala Perlis, Perlis",
+            "global_code" : "6PR294VJ+J9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJg4T5_oCbTDARHNtgDPyEJ0w",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44
+      }
+   ],
+   "status" : "OK"
+}

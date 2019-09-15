@@ -1,0 +1,876 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-wEAALQJpWBNfan2MaD85eUIoC8EUY9qWMssNoNt3zoIKbv-vFJT_NC6i7mV7lh1BfJrV_hBqAACEbHpEdKPl585Ofa8bdISkuO288wBm3ge6KMIyBw_pehvKdV9Kr8dDYhAO9O1WiO7k6pFiDjjF5_Nr_xy36EmHxvrJo34R2koJ2pNEYqiRhSQzqRoE5xTP0dy7wQHv2aa79WGZ9slrCT7BhO_OE2dKSjUGhKcISbMfThbo7o9Jc4heIKFDZwuALzcw0Zeehwu1ejkiI2SWHCsPaXQ7qm0EpUS5aWw1CVec5X4xx4rRsiW_ozVNwKiJZ9RB7HEkYogU3U7pTVHB5OnY5It2VB4O1m5HQYPXj306XGlLPq6xRe9NGNzDdbOs1boGN62oePjAxoM_Y1TZAAXdsitXgtHBpLgGuREDooTDk55xv_pMZg76vtO3G5Timco4LjM1DzEmK_xsS0adpl1mVaCt2s97l9rDpkfFuPNIpmerrEzf1InXf9kWYhaToQsjFim9TLT-C3YWzFy7e0D0IF8LlZSSOkuRTlQ3-hrt6Qs6yXmkd8Z0DYTd8AQODqa078qQxEsK2Ke6-dKDd9QmT_8ytCXVaht0FKdncZZP3QxGRJWKCqfg2TIQPfm8TAT2kT9KrJs6Bc3QCTXxLUyaRmoPoYfc2pegE0J_6UkhifyEhDGP5HLICDcTpk_rVTX_6bXGhSsrjMIxd7JletOYbpCXnkxP8_zjw",
+   "results" : [
+      {
+         "formatted_address" : "16 D, Thean Teik Hwy, Farlim, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.391211999999999,
+               "lng" : 100.283077
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.392585679892722,
+                  "lng" : 100.2843993798927
+               },
+               "southwest" : {
+                  "lat" : 5.389886020107278,
+                  "lng" : 100.2816997201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b5bdcf33c2fd2b7654c95b3eb5424b9c1aeaf0fe",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115192331493667151678/photos\"\u003eGrain Green\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvPV1ixA5Q186g_oO7zbTfeLqNmj94jvKGwOub_WewaSO5KjPvp05QdZuBnMMPWlWiJtgJqW37U1h9_jtyODCFrLPOr4W2AloD3FmZyoqlh5Wt4StpD0KJ2xAqqnZ1rxfEhDRLAatKR8DjG4T_D6Ipi9lGhTUVd9q7HoS4O-HVWbdJhPjx9MBdg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJJWYOGiDCSjARMvnTZbED6wc",
+         "plus_code" : {
+            "compound_code" : "97RM+F6 Air Itam, Penang",
+            "global_code" : "6PQ297RM+F6"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJJWYOGiDCSjARMvnTZbED6wc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 390
+      },
+      {
+         "formatted_address" : "Lot 9435, Thean Teik Hwy, Bandar Baru Air Hitam, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3874878,
+               "lng" : 100.2768585
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388779029892722,
+                  "lng" : 100.2782283298927
+               },
+               "southwest" : {
+                  "lat" : 5.386079370107278,
+                  "lng" : 100.2755286701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "481390c7b4e3e3ecb0c8a4ddee8fbc8472796146",
+         "name" : "McDonald's Caltex Farlim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116046232000730919668/photos\"\u003eSteve Chor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeC7VWXWylaZhUHK1N4KGZqlpz_PHH_3KdBlxp7301pOvS7JUjXJAp3fDUxRMGAY4jCWTqWv3ByfFob7rVpkolrUdFMP6FAbh213ozCHFrPCxp707emctgzof-W5TgQdkEhCIm4qeGVbz_5zpR1NOdA6HGhR3Qn6BDj4GO51YOB-MpomARyUwng",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJRzMwKvTBSjARz6h1lV5COlU",
+         "plus_code" : {
+            "compound_code" : "97PG+XP Air Itam, Penang",
+            "global_code" : "6PQ297PG+XP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJRzMwKvTBSjARz6h1lV5COlU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 974
+      },
+      {
+         "formatted_address" : "22A Lintang Angsana, Bandar Baru, Air Itam,, 11500, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.390770799999999,
+               "lng" : 100.2827418
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.392096129892722,
+                  "lng" : 100.2840693298927
+               },
+               "southwest" : {
+                  "lat" : 5.389396470107278,
+                  "lng" : 100.2813696701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "24e10cac0fb8d5ce0cff95d8e4d84049a3639c80",
+         "name" : "Pizza Hut Farlim",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113341508909705198395/photos\"\u003enaufal izmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhatamWcYeQYh75_2MXupzMDUyYHnrKdt4GKPLpN7BXVO6MWFo6nel87ISFxcoOeCcXdG_q7KgfMwXD9jjP4s-yALbzsWmRWTDhlkWfLwk-aA5RSEKIc3nbc7PCjkHuHbEhCLXAm7_2gLr6OjUP1AXk4-GhRIIFeszJA8Vg3v6g2x0-tr-gnj6g",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJlcsMut7BSjARF4f3dvF7P00",
+         "plus_code" : {
+            "compound_code" : "97RM+83 Air Itam, Penang",
+            "global_code" : "6PQ297RM+83"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJlcsMut7BSjARF4f3dvF7P00",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "1228 Q, Jln Paya Terubung, Bandar Baru Air Itam, 11600 Ayer Itam, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3934225,
+               "lng" : 100.2760674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.394750379892722,
+                  "lng" : 100.2774899298927
+               },
+               "southwest" : {
+                  "lat" : 5.392050720107278,
+                  "lng" : 100.2747902701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e234eaed0fd1c650df020aff0f901911892d90ea",
+         "name" : "Super Long Chinese Cruller King",
+         "photos" : [
+            {
+               "height" : 4618,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106707111627391222765/photos\"\u003eKaKu Koay\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtQmjAxkwwvhHqHRpizypf9yuvKQbRgY55CGP9qcanB1d4w48zzmSe5e7_lX0YYTsH_wKSGsiL5zfLc1s8J88xz6rcWyzqnpLHA4AUS_qrh_aTEUzQxpt-SAHD6muHW9rEhDh0sTj2JmQ5Ra_sP464xoZGhRzyqGiSwH7CaefeBsXpdeBSCisDQ",
+               "width" : 3464
+            }
+         ],
+         "place_id" : "ChIJXW4YfsPBSjARIJP_7GD4c3A",
+         "plus_code" : {
+            "compound_code" : "97VG+9C Air Itam, Penang",
+            "global_code" : "6PQ297VG+9C"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJXW4YfsPBSjARIJP_7GD4c3A",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "formatted_address" : "33, 221, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4013616,
+               "lng" : 100.2907643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.402702679892721,
+                  "lng" : 100.2921457798927
+               },
+               "southwest" : {
+                  "lat" : 5.400003020107277,
+                  "lng" : 100.2894461201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ef167b9775290531f977c782c51bc678e66b119f",
+         "name" : "Bihun Singapore Farlim",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106973349132989243026/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaFnVc2JZKnuMCZIiwwIXOkr_2V0pBM-rJuqFwyoxBFbS4CO5j5YvvKkVu88VRRh75yYjpWspcnmjstAFRKf3tDOrG5OAldvJIVsfr_pl-zHIzWPyx7OH8KN5SHBPZDY8EhBowGGK0zkrwljXQe3E7sNhGhQ_bT9eghOcSfqb7EhFMD4kUP9maA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJm7rME8rDSjARkzutgCihT9E",
+         "plus_code" : {
+            "compound_code" : "C72R+G8 Air Itam, Penang",
+            "global_code" : "6PQ2C72R+G8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm7rME8rDSjARkzutgCihT9E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "formatted_address" : "Lebuhraya Thean Tek, Bandar Baru Air Itam, 11500 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.39535,
+               "lng" : 100.289758
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.396756429892721,
+                  "lng" : 100.2910145298927
+               },
+               "southwest" : {
+                  "lat" : 5.394056770107277,
+                  "lng" : 100.2883148701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b78a49f8471d98778d2c2e99d3e64a5c1253a628",
+         "name" : "All Seasons Place",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118196204596126933733/photos\"\u003eAll Seasons Place\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVMekYxhviKp6szQjZx6U3rujBA6nCq4vtrY85hrrblIX_QcsLWXZ71PwWf2yVC-WH1qAtIiZFAPOueibXm5D8goWpowex7P6BzZ3oT91Wc6m3CwNmYEVfmvqhqMi5dmkEhD1JJvcUJmyVArDoxr-I718GhQpFjcZnnju6lf3S3Rt0xvJz0LnXQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJpYwcnibCSjARqRr6b9AJHnY",
+         "plus_code" : {
+            "compound_code" : "97WQ+4W Air Itam, Penang",
+            "global_code" : "6PQ297WQ+4W"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJpYwcnibCSjARqRr6b9AJHnY",
+         "types" : [
+            "shopping_mall",
+            "convenience_store",
+            "grocery_or_supermarket",
+            "church",
+            "place_of_worship",
+            "restaurant",
+            "food",
+            "health",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 138
+      },
+      {
+         "formatted_address" : "11500 Bukit Bendera, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.408494,
+               "lng" : 100.2776546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.409947929892722,
+                  "lng" : 100.2791348298927
+               },
+               "southwest" : {
+                  "lat" : 5.407248270107278,
+                  "lng" : 100.2764351701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3d433846d24bb3692d33b4d10c9cdc39829674a0",
+         "name" : "A&W",
+         "photos" : [
+            {
+               "height" : 622,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104377429452961261242/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbGKjUCou5ehdQ3VYRTV945A1g84vuK6BUY-QVHxlgT37t7mnJTihKT-ThrMTpY7N-s7X6sunjVOgJwH_L_SxQbu__muWoO248wBfKiXYxgOMMy2Xas-1Kw4GjMg1mXxVEhCh4IMIu4fHTHTxNzf16yNLGhR1K2pBoB0UY5tZCcORJTQU2WeUcg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJDXOVvjbDSjARwm1OMXgbQw4",
+         "plus_code" : {
+            "compound_code" : "C75H+93 Bukit Bendera, Penang",
+            "global_code" : "6PQ2C75H+93"
+         },
+         "rating" : 3,
+         "reference" : "ChIJDXOVvjbDSjARwm1OMXgbQw4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "37, Medan Angsana, Bandar Baru Ayer Itam, 11500 Ayer Itam, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3887348,
+               "lng" : 100.2828088
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.390124529892722,
+                  "lng" : 100.2842084798927
+               },
+               "southwest" : {
+                  "lat" : 5.387424870107278,
+                  "lng" : 100.2815088201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cacd38c74c1a0cc6bbe661c92f1091b0389e0e63",
+         "name" : "Lam Mee @ Restoran Jin Kuang",
+         "place_id" : "ChIJN_VqyYrBSjARhkfVYTirqPg",
+         "plus_code" : {
+            "compound_code" : "97QM+F4 Air Itam, Penang",
+            "global_code" : "6PQ297QM+F4"
+         },
+         "rating" : 0,
+         "reference" : "ChIJN_VqyYrBSjARhkfVYTirqPg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "formatted_address" : "25, Lintang Batu Lancang, Jelutong, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.391068199999999,
+               "lng" : 100.3069216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.392435079892722,
+                  "lng" : 100.3080772798927
+               },
+               "southwest" : {
+                  "lat" : 5.389735420107278,
+                  "lng" : 100.3053776201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5c0cf52e0d4a69a710885694549dc0ca70e3ca1",
+         "name" : "Batu Lanchang Tomato",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101816858707650433641/photos\"\u003eAjim Zulhazim\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwz-_6JooT9Jyxo7pmAwB4rJrMhQTz6XR1FQf1RtXHsHMvJxVgWLvMKw9gcXmOvNgr9J8f8xbKlIxKSowcvSsVWDxi18zx_o16EzKuBylsnkEJwEBj-DO0vIBc8kR_qNYEhARgAJMeIuwUpKMxU-CO2k5GhRsNsPN5d12yRaNZRGWEHqmNlV3tg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJvb5zbdXDSjAR_2g6Hx17jok",
+         "plus_code" : {
+            "compound_code" : "98R4+CQ Jelutong, Penang",
+            "global_code" : "6PQ298R4+CQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJvb5zbdXDSjAR_2g6Hx17jok",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "formatted_address" : "559, Jalan Masjid Negeri, Greenlane Heights, 11500 Penang, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4051838,
+               "lng" : 100.3030934
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.406532279892721,
+                  "lng" : 100.3044652298927
+               },
+               "southwest" : {
+                  "lat" : 5.403832620107277,
+                  "lng" : 100.3017655701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b88eb5094dd67f6edbd1004962dc7c42a3217476",
+         "name" : "KFC Greenlane Penang Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117282271516336623392/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPDBbNLjLhqLL7lYGwgomjQef8XOxz4b6ENkEM7x0kLcKHbQl6waKFFjM4GtBBsEM1aZ-c0SFxBZXxMxA7faOMSN2Uus-cCwIZOXbmkLWi_fdOdscT0hZzM_Anqu57Sh4EhADTUjr0t2nS4zczrVgo-09GhRIviCtCn_sCtOxJDhtGKXmxxWDfw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJdZpBnTTCSjARO5hs-JLUpMQ",
+         "plus_code" : {
+            "compound_code" : "C843+36 Jelutong, Penang",
+            "global_code" : "6PQ2C843+36"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJdZpBnTTCSjARO5hs-JLUpMQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1026
+      },
+      {
+         "formatted_address" : "Lebuhraya Jelutong, Taman Jelutong, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3872729,
+               "lng" : 100.3125509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388648279892721,
+                  "lng" : 100.3139082298927
+               },
+               "southwest" : {
+                  "lat" : 5.385948620107277,
+                  "lng" : 100.3112085701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2926441081882057c281cb23d746d9e3bc0eefa7",
+         "name" : "Pos Burger Jelutong",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104618938374884341676/photos\"\u003eK Hui\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAABuyLep-tikwvuz3LIDsz_uu06YNsSraSFZH3Kk9pmRPYGpeJzFw4MTp6SbdDkRE2WBnZFHKMs953mRFRXs7p3raiOp9TqoyrZYEMMzxiU0OXTk6x39zfv2hoZqxXH9OlEhD02Ke9yWA27oMLkrCyeZ9TGhTgTKBzo6RMG_UPcphQNThC1VbOkQ",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "plus_code" : {
+            "compound_code" : "98P7+W2 Jelutong, Penang",
+            "global_code" : "6PQ298P7+W2"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJw5K7oH7BSjARE4bOfiMvFAg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 143
+      },
+      {
+         "formatted_address" : "126, Jalan Sungai Pinang, George Town, 10150 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.407462,
+               "lng" : 100.31842
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.408820329892722,
+                  "lng" : 100.3197792298927
+               },
+               "southwest" : {
+                  "lat" : 5.406120670107278,
+                  "lng" : 100.3170795701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "511657b1a568ccbafed4dfdacf7b1fa4dc47d300",
+         "name" : "Street Grill - Burger Bakar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112711278462272092960/photos\"\u003eHakimah Ramli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMhtdVJ7tZaMd1THZ8fPRRcQO4if9TWI0mqXiw1RG320qhifRnVTU5AcVS_LZ_7R7nbI-awyoGHT-EorAaZY70PRnRLpnYlTp6yTjXYal1dWYyqwY7M50cf1gz65JretJEhD8TbWRDjJTZUs3_An6kjkjGhSiJ5D7rwQY-Uo7hrLXU9VbtnI8JA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJO1x9kefDSjARKsbapjm4Ct8",
+         "plus_code" : {
+            "compound_code" : "C849+X9 George Town, Penang",
+            "global_code" : "6PQ2C849+X9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJO1x9kefDSjARKsbapjm4Ct8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 414
+      },
+      {
+         "formatted_address" : "Air Itam Wet Market,, Jalan Pasar, Pekan Ayer Itam, 11500 Air Itam, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4015018,
+               "lng" : 100.2779591
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.402809379892723,
+                  "lng" : 100.2793032298927
+               },
+               "southwest" : {
+                  "lat" : 5.400109720107279,
+                  "lng" : 100.2766035701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3e9a04f057a6810e1932262200785a666f29dba3",
+         "name" : "Air Itam Market Duck Rice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111659746400290556382/photos\"\u003eJean Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbTKxIYdtH3rGyahlvUSO1_C_lCbVIJMu0C-BKsH0t8oT6pybzxcCpST3mQrmvvTZR5Yv6YRzhIIC_XOWMn9MMFnP_Yrw0fdRuKDe1PVPM3MOsyhiEAL-jF71t6MhoSAzEhCEG0LDGav20gpnqzJAm_txGhR8G13l_kuq46DlVjOTOKLxauIP1g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKYhXQhfCSjAR-92QQzcXih8",
+         "plus_code" : {
+            "compound_code" : "C72H+J5 Air Itam, Penang",
+            "global_code" : "6PQ2C72H+J5"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJKYhXQhfCSjAR-92QQzcXih8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 54
+      },
+      {
+         "formatted_address" : "4 B-C-D, Jalan Sungai Dua, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3525673,
+               "lng" : 100.299399
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.353878279892721,
+                  "lng" : 100.3007692298927
+               },
+               "southwest" : {
+                  "lat" : 5.351178620107278,
+                  "lng" : 100.2980695701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7f93f54a1e97bc2ef1a317d62f82b2a03d648fbd",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117132068940893289943/photos\"\u003eShuen H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEy25g8lBdEVn_3OcDw90WspCP9JKg94IJceX88jUDLDkiDuNlqMTfcRjwSfLbtK2Wq3kyHdrTFd-_1XhgiGY3IpIN1w-wCWeF7lCtcWrLenlLIfcnu43OR-cvkt2DMZwEhBrvqnQo_lDNMbXFxsu-7EaGhQjZVo9OfpBfuW4g8sOzRBFnyUt4Q",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "plus_code" : {
+            "compound_code" : "973X+2Q Gelugor, Penang",
+            "global_code" : "6PQ2973X+2Q"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ5X8LdKzBSjAREr9WvsxJM2Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1199
+      },
+      {
+         "formatted_address" : "73, Jalan Dato Keramat, 10150 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.412831,
+               "lng" : 100.326031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.414354379892721,
+                  "lng" : 100.3273459298927
+               },
+               "southwest" : {
+                  "lat" : 5.411654720107277,
+                  "lng" : 100.3246462701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "853755b9199404543ce4e027f284a504846d8ac2",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109106449226946132119/photos\"\u003eYoungbok Seo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVz5Hv1zkm8Zq-TfTeRtXWowNbMWzveMKI_40p7IwmhRvVAGHcB0GQzOi6ayC7w8CbgcHvCz7rRxkqZG9-xHip2_Rj6jCZ-ZG3eVyRbUeAaNdV0EOfk88S2ljB6AIVUj0EhA6XoRMf1JH97POUrN8EHwGGhQUtjBH6rD7_XZ6KCEILOIoy_uSDA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJNX82Nb7DSjARi69ngyK2wqU",
+         "plus_code" : {
+            "compound_code" : "C87G+4C George Town, Penang",
+            "global_code" : "6PQ2C87G+4C"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJNX82Nb7DSjARi69ngyK2wqU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1250
+      },
+      {
+         "formatted_address" : "57, 1, Persiaran Karpal Singh, George Town, 11600 George Town, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3954119,
+               "lng" : 100.3267596
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.396818479892723,
+                  "lng" : 100.3280363798927
+               },
+               "southwest" : {
+                  "lat" : 5.394118820107279,
+                  "lng" : 100.3253367201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "68b3acc9b719b8689e7c35a9494a2a90fb691b92",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104156453514267246599/photos\"\u003eJesson Khor Keah Seng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUQnsjoObnl9dKUdmXsjRW5wMp3YbJm_IZfL5N05_JmZ-YRuzBp9yaA3zq1S-Yn7yZkjZ3PDzGpauDQj7Ed_B3ashKHujw63LdgNVTPWhd_p379Yg24fg3rMX7L8k6A1-EhBqddwWOND5mKihu6v-4M9nGhS3jS8sNMOj7aKn-8NJhwU6szNPTg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "plus_code" : {
+            "compound_code" : "98WG+5P Jelutong, Penang",
+            "global_code" : "6PQ298WG+5P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ4_Js8t3DSjARxWirV72gRcI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2687
+      },
+      {
+         "formatted_address" : "325, Chulia St, Georgetown, 10200 George Town, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.4183428,
+               "lng" : 100.336109
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.419707779892721,
+                  "lng" : 100.3374665298927
+               },
+               "southwest" : {
+                  "lat" : 5.417008120107277,
+                  "lng" : 100.3347668701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9875a5a9c9838407b3ec089e2caaa44a28191383",
+         "name" : "Old Trafford Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106632415493746644197/photos\"\u003eChuan Koon Ang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAe5LGR73w_mB2nNfzeWZtCMZPJg9sweC6tGY5bCw6PQQOE-HPMdbhLzMSC89A11uoL8S-37IfpWD2O734jjtL8z-sz9--z7e82DPP5ASRkNMecgJFQXLoODMIZktd3nUDEhDK7oPbn_5B2N4Yd19nCPZUGhQOloaP4whX4NBWB-kME4vrUmj5Ag",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJ7--iUJDDSjAR2Z1tuPoFmjY",
+         "plus_code" : {
+            "compound_code" : "C89P+8C George Town, Penang",
+            "global_code" : "6PQ2C89P+8C"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ7--iUJDDSjAR2Z1tuPoFmjY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 47
+      },
+      {
+         "formatted_address" : "1-1-22, Ideal Avenue, Medan Kampung Relau 1, Kampung Seberang Paya, 11900 Bayan Lepas, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3325815,
+               "lng" : 100.292963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.333880529892722,
+                  "lng" : 100.2943049798927
+               },
+               "southwest" : {
+                  "lat" : 5.331180870107278,
+                  "lng" : 100.2916053201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5a934431b054fdbab077eb112ad62f3010431492",
+         "name" : "Spade's Burger",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100896934877918086775/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAL87mbT_1xEaPif3486v3nB0b9ric1xKeA8nGwG2s4-R3Qykha15fs4m250fKl91jQp5YmrSJ-3r4nkpZh9EotJnGGxSy4sNNKbxEB_dCFUaxb5aU50eY32KTA-_TonEyEhAzX3tP863ydkKw5RsuaOcYGhT3yp4gmiDrrznlCpTo3Jj1pj71Xg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "plus_code" : {
+            "compound_code" : "87MV+25 Bayan Lepas, Penang",
+            "global_code" : "6PQ287MV+25"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJe6dqSq3BSjARX1ThhzpXgl8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1110
+      },
+      {
+         "formatted_address" : "37 - J, Lot 20, Jalan Lenggong, Symphony Park, 11600 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3962365,
+               "lng" : 100.3157546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.397610229892722,
+                  "lng" : 100.3171123798927
+               },
+               "southwest" : {
+                  "lat" : 5.394910570107278,
+                  "lng" : 100.3144127201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a9352650f5ba060b8770508c15873bcf1f9bcbd4",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116670410845706349130/photos\"\u003eCumo kido\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmY42EQjVPfH5r-z6GYMdf1d6iD2_MJL8_CoTXujZCPzqs2eXQuvC9nonNB2eimQff2VkWC1ZMgUh-zPrOcoSx-phXQ5aeMKIx7LkaA2SzcwXrLh36ta8amMhWLKiPMekEhCFGbMkGXYXoWnMfpSSWI92GhTeq4VobEnL4byghxeWYcU5AX1-PA",
+               "width" : 774
+            }
+         ],
+         "place_id" : "ChIJZd4uoNDDSjARnfkQv36hm3c",
+         "plus_code" : {
+            "compound_code" : "98W8+F8 Jelutong, Penang",
+            "global_code" : "6PQ298W8+F8"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJZd4uoNDDSjARnfkQv36hm3c",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 305
+      },
+      {
+         "formatted_address" : "2-1-10, Plaza Ivory, Lebuh Nipah 5, Sunway Bukit Gambier, 11700 Gelugor, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3582375,
+               "lng" : 100.2925523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.359581529892721,
+                  "lng" : 100.2940128298927
+               },
+               "southwest" : {
+                  "lat" : 5.356881870107277,
+                  "lng" : 100.2913131701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f2205c58ffa5bb35fcbfe6d34eb8fab4a0a5908a",
+         "name" : "NZ Hot Stone grilled burger",
+         "place_id" : "ChIJS9BiO0XASjAR76i-GohLdeM",
+         "plus_code" : {
+            "compound_code" : "975V+72 Gelugor, Penang",
+            "global_code" : "6PQ2975V+72"
+         },
+         "rating" : 3,
+         "reference" : "ChIJS9BiO0XASjAR76i-GohLdeM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      }
+   ],
+   "status" : "OK"
+}

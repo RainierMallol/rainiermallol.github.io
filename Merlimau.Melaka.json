@@ -1,0 +1,354 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Lot 6497, Mukim, 77300 Jasin, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1658365,
+               "lng" : 102.4307578
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.167249129892722,
+                  "lng" : 102.4321405798927
+               },
+               "southwest" : {
+                  "lat" : 2.164549470107277,
+                  "lng" : 102.4294409201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "94134e0f8c233abc4c42b9244e4df5f4025598b6",
+         "name" : "KFC Merlimau Drive Thru",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101064597585673279705/photos\"\u003eAmir Coolz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1Tq1RojKrxLshdNDFVwfUP6BjNzHJAr01Ytg3hYH81rcyrqPBoudUhxXRinAJ_yysvZmObJtaatZO-VUWUM2Dh9CM6F_0WkwQHs1RQWaCxxNQoGX81qG44uEq-9rsH2ZEhC4vIVczx13XgwfmekwHObNGhQERCPb2sepNrUaZE5eGWfCukyt4Q",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ48TmQgTq0TERrwoHF2cf_Mg",
+         "plus_code" : {
+            "compound_code" : "5C8J+88 Jasin, Malacca",
+            "global_code" : "6PJ45C8J+88"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJ48TmQgTq0TERrwoHF2cf_Mg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 535
+      },
+      {
+         "formatted_address" : "No.Jc 51 jalan Bandar Utara 3,Bandar Baru Merlimau Utara, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1670929,
+               "lng" : 102.4313421
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.168397179892722,
+                  "lng" : 102.4326867298927
+               },
+               "southwest" : {
+                  "lat" : 2.165697520107277,
+                  "lng" : 102.4299870701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c09cf14eee8ba28721e7d8eb5c1c5a217df4224",
+         "name" : "MERLIMAU BURGER STATION",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103631998183202531562/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5Zb3QatQpkrOmrXDAra2foXUVAicbHWVaqCuA3KVvUy1GTFDUlpb-CGhxKcuiJywMJmb4BKSnY-HHCaLbwU1oC0IPndBexQtpSIQjvipmzoEPmr0dPU4uO1FBGPGA8mwEhDdTEA57glrtGBvnxBF6kb8GhQvLH1z7za1dw6azwt_Yaoy-51_-g",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJkcGg9gPq0TERgwvEhaH-xhg",
+         "plus_code" : {
+            "compound_code" : "5C8J+RG Merlimau, Malacca",
+            "global_code" : "6PJ45C8J+RG"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJkcGg9gPq0TERgwvEhaH-xhg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 15
+      },
+      {
+         "formatted_address" : "No. 68, Jalan BMU 3, Bandar Baru Merlimau Utara, 77300 Merlimau, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1681898,
+               "lng" : 102.4321313
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.169558979892723,
+                  "lng" : 102.4334231298927
+               },
+               "southwest" : {
+                  "lat" : 2.166859320107278,
+                  "lng" : 102.4307234701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e946765764cf67005d87b962e0d359f5bf5dd148",
+         "name" : "D'Merlimau Kafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101889475907285363511/photos\"\u003eSi Beloot\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARm-40TitPW9iOEnANYkilAAG-B-sblmUI1XtdkNqU9DiuhsLOJJEXQebHwLV5us7q59VTH0pQUomER35JcSIZAbbi38tTevzvm7cD8RgzO659GVoF2PU4FVAF8RoLmkeEhAnWp9PZ6JmC-lYmc0QJ5iOGhQoWESc_uGSnReCdz4D7VSRBRzHEA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJxRQ93APq0TERIdOSdC6n3UY",
+         "plus_code" : {
+            "compound_code" : "5C9J+7V Merlimau, Malacca",
+            "global_code" : "6PJ45C9J+7V"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJxRQ93APq0TERIdOSdC6n3UY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "formatted_address" : "Jalan Melaka, Kampung Koalam, 77300 Merlimau, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1370203,
+               "lng" : 102.430782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.138338529892723,
+                  "lng" : 102.4321208298927
+               },
+               "southwest" : {
+                  "lat" : 2.135638870107278,
+                  "lng" : 102.4294211701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "36596b8179104dfeda89fb119648fee52009940a",
+         "name" : "GM Merlimau (Keropok Lekor)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102443404272891127017/photos\"\u003edz khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPfg1jl2vDsqu14lNocdLUr6Y9PeBX0wO95gSK_CC8SLYOZ_DgBtVcKy4RA9ej-vFSKkcd0jPDD5QghTwaJFQDJxb1Kp-kgG3Br3dr0VKeeSx2jyhz5K87oY0CkudELrREhDQdAM1fm3gen-LUiH6mq64GhTIr5icQuCMgjqzYZr6bLxHAxnwVQ",
+               "width" : 1242
+            }
+         ],
+         "place_id" : "ChIJybCYA0Xq0TERxZaZF-Q1ixU",
+         "plus_code" : {
+            "compound_code" : "4CPJ+R8 Merlimau, Malacca",
+            "global_code" : "6PJ44CPJ+R8"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJybCYA0Xq0TERxZaZF-Q1ixU",
+         "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      },
+      {
+         "formatted_address" : "Malacca, 77300 Merlimau, Malacca, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1680531,
+               "lng" : 102.4314225
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.169365179892722,
+                  "lng" : 102.4327612298927
+               },
+               "southwest" : {
+                  "lat" : 2.166665520107278,
+                  "lng" : 102.4300615701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a80c7652fc62185055ed7f7bfa346e34c5a59f79",
+         "name" : "Pizza Hut Delivery Merlimau",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118111639139299105247/photos\"\u003eAmir Javid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANnVVFv5TZGwoBwXxVGuEPyuti-z8Uj-CSiADr_RLpZL1HkH_kJgC8tUrgEZ907iNeOW-EcM_NtZnzZjyC3i6_2Y-LQ33yAJbY4sre7IQmCoCc0bNfW34hsLGmmqDWWpGEhCoCqAiavB2PIh6kZdHcK_CGhS0n1HgzTcdJwubnxHEi_NO5y11Rg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJGRSk6QPq0TERSEi4LCAdlxs",
+         "plus_code" : {
+            "compound_code" : "5C9J+6H Merlimau, Malacca",
+            "global_code" : "6PJ45C9J+6H"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJGRSk6QPq0TERSEi4LCAdlxs",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 192
+      },
+      {
+         "formatted_address" : "Lot 29 & 30, Jalan EP 9,, Industrial Area SMI, Malacca Halal Hub, Serkam,, 77300 Merlimau, Melaka, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.160284,
+               "lng" : 102.394429
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.161576879892722,
+                  "lng" : 102.3957758798927
+               },
+               "southwest" : {
+                  "lat" : 2.158877220107278,
+                  "lng" : 102.3930762201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85251ceb3b867588ac09f5c35287986d115813b6",
+         "name" : "Koko Minda Food Industries (M) Sdn Bhd",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101938313241297822108/photos\"\u003eKoko Minda Food Industries (M) Sdn Bhd\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXzGE_Q6UgfEX37Lfc2USWcoFf7jXohtHMRJYJyJzYRW6FkLG2oTmBysgpvdrabVg3020RuiPLDlYLVsTUTJ-uDtd-eVAy0WUE1GyL0Na1oUj7xurPwnInBKdMkIA-lXeEhBzhSTya27qi4R7BuDH5i3wGhQBjWP5-pZWbc8EmwhMx5iDAjaMkg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJx6meni3q0TERWXh_GXl1n3M",
+         "plus_code" : {
+            "compound_code" : "596V+4Q Merlimau, Malacca",
+            "global_code" : "6PJ4596V+4Q"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJx6meni3q0TERWXh_GXl1n3M",
+         "types" : [ "food", "health", "point_of_interest", "store", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "formatted_address" : "Km 20, Kampung Tedong Pantai, Melaka, 77300 Merlimau, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1426779,
+               "lng" : 102.4064632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.143938829892722,
+                  "lng" : 102.4080771798927
+               },
+               "southwest" : {
+                  "lat" : 2.141239170107277,
+                  "lng" : 102.4053775201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "38edc3716557ebed83032576ed7e426681571e79",
+         "name" : "Ah Kamisah Enterprise",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105040534353890356566/photos\"\u003eBotak Cheras\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnd3xTb04tKn7QdwvnOFT7e766AwTOCok4asjSGYdeP_BK2Wrhy_Rvo35L_-ytW_sEWwgXwlrpFzVU0xJYJaufobOqKn2EyA8qcIQvwhKVSZ5rPRssttjJEt0vu4tY5n4EhCYOtiyyR1hBWr9a7EOvl3SGhShlokpb-MyGZNsmNzRRW0gCdeJ4w",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJUaTh1Vrq0TERZOjbW2PGDL8",
+         "plus_code" : {
+            "compound_code" : "4CV4+3H Merlimau, Malacca",
+            "global_code" : "6PJ44CV4+3H"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJUaTh1Vrq0TERZOjbW2PGDL8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "formatted_address" : "Km 32, Jalan Parit Putat, Melaka, 77400 Sungai Rambai, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 2.1420222,
+               "lng" : 102.4984161
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 2.143307379892722,
+                  "lng" : 102.4994313
+               },
+               "southwest" : {
+                  "lat" : 2.140607720107278,
+                  "lng" : 102.4953705
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1423b368ce2db48f4aa875cef41c41f49412f66f",
+         "name" : "Pengusaha Makanan Ringan & Kuih Tradisional",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117926036294954361792/photos\"\u003eM.faizal Melake\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAycaUNlGMABLX0nvuZxMgfc8zYYNlaijBwqfsRnEkJ_yDRLD3TEuxGJtWdyNK0-oOo6tqqr8Wj6BYvG2BJbVyfUsIXXxgQfTKfa_6b2qj_XmykGXA_WqWaAihCnC4-0H9EhB7taHXT8zOsIAcX49DwYe9GhSaoDnv74AcRYuZtyZwNYmBHfFXaQ",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJWfpZfhrB0TERONL-Z52z8V0",
+         "plus_code" : {
+            "compound_code" : "4FRX+R9 Sungai Rambai, Malacca",
+            "global_code" : "6PJ44FRX+R9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJWfpZfhrB0TERONL-Z52z8V0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      }
+   ],
+   "status" : "OK"
+}

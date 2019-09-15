@@ -1,0 +1,895 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE9wEAAHSoyjP4CKQ0dzA8wGUBtrX13WLBkNPVd0iKJWbP6p9dG9o1vx4r1UwAAGX6Uos9-Med7YodfBx7vPiz-gQCeD4Mmb_TK1r0DNtukEleREWXtH3UqNIoXKMIyvLBpMwni93xK7SqMw7YJQIeEc-zjauO0gyWrj_SDLagLwUDjl48c8TeGRDACV0gS_z-0-uSk2q_wQVx9eitPog-x7wN35nl9HI3GjR3L6xxqvsCoYBqOZXUF18LFYGN4BSK0CIjk6S0Hwt1OqMtZbf_h7i7KfvB4FVbSqHr-gjf8qOudVEl8P71pWpu-viuUqCgJyrqniZ8dAKK4V_ZzNWVJOpEelzI-qcgKdeeMcUMJX4QzLG2AbPaTfuyaMzxHbj8JhXu1mcFdxRoM2RTgCwi8ytSO7B0f0VLp24tN2Y_HRv9SsGWA7_3RKScARzN2JgjIJXfOxxR2OMBvPoZJ9fNXQZtr7ZGF5zw_dHJhhdQQPdnk9iYdCBN-FsBNAes3j8rC1sVrocrzqWwcB7wdXd9MWqK1rL_Ph9U-qNCo7ymP7eIKN1QqtKBDexD_bC8fKkaQ9HDbkDT5VF2IZcvD68iSRgEizuU0V6wC_IfmLf2rcdEKQZlm_TBfzE2Ab2-YCy97FPsDbhUTz6DauXlsq7lUqT26dxtxpGE7nteZYopKbOqIq6DEhB_Q3DLZ8u3ofdzH-O-JQUdGhQPt4EAC_c0ljR25I3Z9LYMbwkpeA",
+   "results" : [
+      {
+         "formatted_address" : "Ground Floor, 2nd & 3rd Shoplot, No. 22, Jalan Bruseh, 35500 Bidor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1100422,
+               "lng" : 101.2889087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.111507729892723,
+                  "lng" : 101.2902982798927
+               },
+               "southwest" : {
+                  "lat" : 4.108808070107279,
+                  "lng" : 101.2875986201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cb04e3df5f95ca21443c84babd887cfd6029b511",
+         "name" : "KFC Bidor",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103393690821959150052/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi9pbs-nB4BkVvy7omqk8PmViWAmztakFcnhkpyP2pvPDFE0EhYLYCZ74IB8DqIYRRKA4JncCh0GPa9pCvs8p5TLghfku2oaaluqBVuh3DLCV3u7caCYDIViXxgYz9PV_EhCmCJl4YV2UW0NWYsHTIuK-GhRRh39-pvujRZi54PEvDIBkeA2-5g",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJh-1w9AIJyzERub9TSDVGwLw",
+         "plus_code" : {
+            "compound_code" : "476Q+2H Bidor, Perak",
+            "global_code" : "6PP3476Q+2H"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJh-1w9AIJyzERub9TSDVGwLw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 233
+      },
+      {
+         "formatted_address" : "North-South Expy, 35000 Tapah, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1807687,
+               "lng" : 101.2906208
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.182095979892722,
+                  "lng" : 101.2919842798927
+               },
+               "southwest" : {
+                  "lat" : 4.179396320107278,
+                  "lng" : 101.2892846201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5e06e4949f20e5746482aa4d07ba27dc571c623f",
+         "name" : "A&W R&R Tapah Selatan",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116828594909350710129/photos\"\u003eRizal Zubair\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACaV9QAYzaww-g2uDT5PxYoPZjWxTTn-aN9dQCO-J0ladx-hiKVsNOfp_oEcOKWBrHGOiSa_NRob8PAJDfPLzqRCkbpSe0Mpzmqeu4dcqbFKyr-5lEcLbTpWhlNZdYmiIEhAI5G1BmRLzKfOHFiUKqeBJGhQ4zORj4GTn6bzmZgpPBz9m06Bl7g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJnejOOE4GyzEROPu7xnZXZsk",
+         "plus_code" : {
+            "compound_code" : "57JR+86 Tapah, Perak",
+            "global_code" : "6PP357JR+86"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJnejOOE4GyzEROPu7xnZXZsk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1594
+      },
+      {
+         "formatted_address" : "Jalan Bidor - Tapah No 48 Kampung Serentang Baru, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.119926299999999,
+               "lng" : 101.2806086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.121274479892722,
+                  "lng" : 101.2818886798927
+               },
+               "southwest" : {
+                  "lat" : 4.118574820107278,
+                  "lng" : 101.2791890201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "960727c04b70db3f2b376d00952fb1c6a37b74a6",
+         "name" : "Mun Shack",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112294755564562280569/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAF1g1vtfPbwY26XoA-cv8FO9inw73zLN0pW2UKoB3EJMFNWuPGWw0_wJST8766DyYnOOr7CpmFuAZosZsx_xMGDO488LRpJe6egjJFaZ98LeytTfFC0qxAmfBzjAWkXFXEhBqiTp-A0aacLXoOwDVx-uFGhT1gl2Xu6Jdhe2kuJ8F846HwY1Idg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJBwlCqYAJyzERyYfl08CXr-Y",
+         "plus_code" : {
+            "compound_code" : "479J+X6 Bidor, Perak",
+            "global_code" : "6PP3479J+X6"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJBwlCqYAJyzERyYfl08CXr-Y",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 11
+      },
+      {
+         "formatted_address" : "38-40, Jalan Besar, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.111695,
+               "lng" : 101.287644
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.113017529892722,
+                  "lng" : 101.2889687798927
+               },
+               "southwest" : {
+                  "lat" : 4.110317870107278,
+                  "lng" : 101.2862691201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d74c31bbcd9e40e4b331096562d49ed339afc95f",
+         "name" : "Pun Chun Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114619146149442162547/photos\"\u003eTramy Tang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACD2J8pRmJ42LlGvNpfn1JUr6jSX5JSwu6GclcVyciVWodybCHWA16ueK3LH7I7qDGqoPMZetq-fxVZuz9BXWbUWY4hJZLaeUo25INrZ7AbIpvXACxMMbYlHgfJNyBHi2EhDSIjkz-eTkaOfML2BUBDQiGhSmDQlvy0MKEDRvPYlcyoAd_SGU0g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ7W5AmQIJyzERf8LBu-lPbcM",
+         "plus_code" : {
+            "compound_code" : "476Q+M3 Bidor, Perak",
+            "global_code" : "6PP3476Q+M3"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJ7W5AmQIJyzERf8LBu-lPbcM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1398
+      },
+      {
+         "formatted_address" : "2, Jalan Pasar, Kampung Masjid, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1116971,
+               "lng" : 101.2876425
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.113063829892721,
+                  "lng" : 101.2889749298927
+               },
+               "southwest" : {
+                  "lat" : 4.110364170107277,
+                  "lng" : 101.2862752701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c277216e2fbac5f9f77c324c16d9c830abb183a",
+         "name" : "Duck noodles",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104772724114496192793/photos\"\u003eHo Wai Keong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj2oUkMgFqNfJ2QU8xkl0YkIwbIxKSpaCvWmZcID_-MVKioayqYyQy3p87CEuAcBek-ODc0AFZLynatO2H1AyyEFY3SzXcjKGejAibDZzYcXi3DzMDZJDn0Te-l2iMFnKEhCBYN3bsxUlnIvLmxACXPmQGhRHI7qHGO1pTpvj1qc13JiC9oPt0w",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJj61VXv0IyzERaGk9OEyyQUY",
+         "plus_code" : {
+            "compound_code" : "476Q+M3 Bidor, Perak",
+            "global_code" : "6PP3476Q+M3"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJj61VXv0IyzERaGk9OEyyQUY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19
+      },
+      {
+         "formatted_address" : "Jalan Besar, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1146841,
+               "lng" : 101.2846565
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.116068129892723,
+                  "lng" : 101.2860573298927
+               },
+               "southwest" : {
+                  "lat" : 4.113368470107279,
+                  "lng" : 101.2833576701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a42974cafd68a3f8c44060f25fcae96dbcf50fdb",
+         "name" : "Noordin Nasi Kandar Kari Kepala Ikan Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 794,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110690402861864554475/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxqfohBfBK7tmW4uDcsq0fQVfVeuAaFdwD0a0dLEUDc5zmh2cOLpVyQXcloOrJW5ysZeSA3ASrhFWhDJvRfbiNLMn_40ilXA-Z-jgLE39xovzYhGrBpS_o1R2e3BWifMSEhCjU1T9g8cKqqFWnNskOrxMGhRrpqCx9KvcRf5u5ZVFAPQ_yeU9wg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJN9w87QIJyzERuR7uzjz7eiE",
+         "plus_code" : {
+            "compound_code" : "477M+VV Bidor, Perak",
+            "global_code" : "6PP3477M+VV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJN9w87QIJyzERuR7uzjz7eiE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 155
+      },
+      {
+         "formatted_address" : "North-South Expy, 35000 Tapah, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.178294999999999,
+               "lng" : 101.2898992
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.179636729892723,
+                  "lng" : 101.2911339798927
+               },
+               "southwest" : {
+                  "lat" : 4.176937070107279,
+                  "lng" : 101.2884343201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2e0e099458550d787188ba40b1dd1f14df4322c4",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108606460296998406638/photos\"\u003eWilliam Pua\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlJU_TveAab64s8DfZINm4aDm2ItyMePVPOdddpcV_iM5O1qiZiTFzibRJ-eMCgFiQHu3cP8qOlZPSoos4tg8TM_yWBA4XPQG988Tigx87pSEWk5TiDvWzwXoc1RwRg5iEhACHYuC_P99H0FN-x17hoTOGhTj4iXXX2RrCSbMQL4VnxnkZsHJEA",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJ-UQu5k4GyzER8YUv6RvWFr0",
+         "plus_code" : {
+            "compound_code" : "57HQ+8X Tapah, Perak",
+            "global_code" : "6PP357HQ+8X"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJ-UQu5k4GyzER8YUv6RvWFr0",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 621
+      },
+      {
+         "formatted_address" : "No. 16, Jalan 1, Taman Kuning Mas, Perak, 35000 Tapah, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.203994,
+               "lng" : 101.2609732
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.205336829892722,
+                  "lng" : 101.2623389298927
+               },
+               "southwest" : {
+                  "lat" : 4.202637170107278,
+                  "lng" : 101.2596392701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1b617fbab7dad6843ab4e3c069e05e641ce0bac4",
+         "name" : "G & R Foods Sdn. Bhd.",
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117010414450915454422/photos\"\u003eSham Baha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYBMfdRN3Q6KMIVwDULsfeE33EFdFmyiOobQ-IOZEl5DDxfPPaqFzX8dYUBFdpaj-_pc9nxUANcSCGCUiQJiRxu1HAtPcCgEHYDTUpIn3kSxaMe_Qp0xXqeEfQXoaoF5tEhD59x_5MccTLpU624a7eQKVGhQnvXLOx5d3l8EWMlXqMoa_fLM9Bw",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJrTmL4ZoGyzERFbiBFmDf7_E",
+         "rating" : 4,
+         "reference" : "ChIJrTmL4ZoGyzERFbiBFmDf7_E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "formatted_address" : "No. 6, Jalan Besar, Kampung Lubok Katak, 35000 Tapah, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.197057,
+               "lng" : 101.260983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.198396579892721,
+                  "lng" : 101.2624079298927
+               },
+               "southwest" : {
+                  "lat" : 4.195696920107277,
+                  "lng" : 101.2597082701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ae1b957fca2af7f419ed4c025898af43b766e574",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100905667723958054356/photos\"\u003eZeo le mans Kavela\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAz1d-HjdndY6PfBk4ElAZer9o-LNfjrBrurNRPhVHw5-2NIlKMO90vVt_oZHM7j3hmpddsni9sCIDL3-cGejS8jTa_uY1r1RZIRB9cMat1H7WhnRS8DJkbDCUvVI0WVWaEhCWiSQD2PoeHa9Pxsp2EnYjGhRL7FqH0y2BJaA9dyXw1bsQS9vs6w",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJrTmL4ZoGyzERTYEU0fvGsiw",
+         "plus_code" : {
+            "compound_code" : "57W6+R9 Tapah, Perak",
+            "global_code" : "6PP357W6+R9"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJrTmL4ZoGyzERTYEU0fvGsiw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 437
+      },
+      {
+         "formatted_address" : "Jalan Bruseh, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1064981,
+               "lng" : 101.2953114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.107838829892722,
+                  "lng" : 101.2966531298927
+               },
+               "southwest" : {
+                  "lat" : 4.105139170107278,
+                  "lng" : 101.2939534701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "49a980d90704514dedddacd1469da2cb87a2f25f",
+         "name" : "Mee Kari Ramli Bidor",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109067966481036843285/photos\"\u003eAyphool\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfzPH1bp3r34FRqU6sfXKp9oIrcsjU2FLz2Xqfci7O6XgJsnyVcJebuy5fpqJ_T8PaDi-1N8AZWRfCt8q-Wz7s38gB_x0jOE0hv2vbCa7XcboecYgsEhec9eCeNvZLSrWEhCfjErwvgjNewyqK98dr3UVGhTZDrBhp1YwHay5pOsPM5b4H7uefQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJN9w87QIJyzERtGMDSXmm-sc",
+         "plus_code" : {
+            "compound_code" : "474W+H4 Bidor, Perak",
+            "global_code" : "6PP3474W+H4"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJN9w87QIJyzERtGMDSXmm-sc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 263
+      },
+      {
+         "formatted_address" : "17, Jalan Satu, Taman Batang Padang, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.105411999999999,
+               "lng" : 101.2959832
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.106854879892722,
+                  "lng" : 101.2972753298927
+               },
+               "southwest" : {
+                  "lat" : 4.104155220107278,
+                  "lng" : 101.2945756701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "641747db742f6f5a4b497eb107e80a237c8e8529",
+         "name" : "Ayam Herbal Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110535195634552334665/photos\"\u003eNazri MY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACM0WoLiFpYyHIMe6nrkLHZYDxIhF7xPmqCCUOb-No46vQlY75ixqmyk56TQKADdHHbRDAznNjHr5lptj3QOLHX6fpYVhSfiCdMQoXig2JKSzeRMEKl_CqNojNk14p18UEhChe_C9oz2Eh4NxrWnD0JMLGhQvMQDjK6-O5PegdLUYwspqUiaPmA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJn955LAcJyzERR0NgKb8-1V8",
+         "plus_code" : {
+            "compound_code" : "474W+59 Bidor, Perak",
+            "global_code" : "6PP3474W+59"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJn955LAcJyzERR0NgKb8-1V8",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 117
+      },
+      {
+         "formatted_address" : "5, Jalan Satu, Taman Batang Padang, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1058932,
+               "lng" : 101.295443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.107277129892721,
+                  "lng" : 101.2968259798927
+               },
+               "southwest" : {
+                  "lat" : 4.104577470107277,
+                  "lng" : 101.2941263201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d3ca0704783e2bf8c32d450a1853472754a97678",
+         "name" : "Xin Tian Tian Lai Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114546359316734827435/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAly-deESssg_Mht2sY0wL0UE9qgx1ku837dvKlyHO1W4fw_YVIPuFYem771ODgRud2TS2OLa2YhwU2pfb2Ws1z3EpkRiIGHpsnt5TG-ghPG7JWQXShtdF0Q5vpFoNDoUtEhB3JMraLqmZ2BNevvg-bEosGhSqGO3TUBt6DVeE6l9EpqNC-d0ogg",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJn955LAcJyzERZhLBqdUYzmM",
+         "plus_code" : {
+            "compound_code" : "474W+95 Bidor, Perak",
+            "global_code" : "6PP3474W+95"
+         },
+         "rating" : 4,
+         "reference" : "ChIJn955LAcJyzERZhLBqdUYzmM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 116
+      },
+      {
+         "formatted_address" : "Kampung Lembah, 35500 Bidor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1100732,
+               "lng" : 101.2923041
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.111381029892722,
+                  "lng" : 101.2936219298927
+               },
+               "southwest" : {
+                  "lat" : 4.108681370107278,
+                  "lng" : 101.2909222701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14d59419837a2d54f28c9b0b8736b7b3d81a34f4",
+         "name" : "Restoren Mee Kari Lina",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105880106601327333613/photos\"\u003eMazlan Tahrin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7CZq_lRwPiHuUiWq2aPB9Svfcy4-GvTdl8xwXGcL8AusUiTKZ2_Cao89qo9QSHqYfRvUv2vMPU0KZZsJCc5Cv7nxRvwhWs9U2a0pmAVJqn4zBlZieiHDiGeBzeGCdw4ZEhCGPulhPRKO6BlhQpqZGt-xGhQ1cCr75-D0nKOil2ZLaTSjq0MD-w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJy5gOiwEJyzER3De287Vc4-Y",
+         "plus_code" : {
+            "compound_code" : "476R+2W Bidor, Perak",
+            "global_code" : "6PP3476R+2W"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJy5gOiwEJyzER3De287Vc4-Y",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 179
+      },
+      {
+         "formatted_address" : "3851, Jalan Besar, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1148316,
+               "lng" : 101.2845544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.116216229892722,
+                  "lng" : 101.2859561298927
+               },
+               "southwest" : {
+                  "lat" : 4.113516570107278,
+                  "lng" : 101.2832564701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f6e7844487d127321ddbdd82200d55285f22398b",
+         "name" : "Kedai Makanan Bidor Har Kee",
+         "opening_hours" : {},
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116461345670840744579/photos\"\u003eHong Dao\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_ODS8u2K_nsudYhoIGejhsIPVGJIOCZaMQ6X9yh-Tbqh6tjbBkj_JOHrwLl-sNUJGlsqlxpkxRyagFfdqcaChYhjervwF86jAC341F-VgYQPUyhrqB4ycLYTjDAPg9BAEhBaO1ntsqUUWKMm7BlKQvQSGhQINa9uM-ya54LUU_0PzpZkpQf2qA",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJN9w87QIJyzERTqqn1U3BoT4",
+         "plus_code" : {
+            "compound_code" : "477M+WR Bidor, Perak",
+            "global_code" : "6PP3477M+WR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJN9w87QIJyzERTqqn1U3BoT4",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 24
+      },
+      {
+         "formatted_address" : "Jalan Panggung Wayang, 35500 Bidor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1117656,
+               "lng" : 101.2884303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.113064329892723,
+                  "lng" : 101.2898327798927
+               },
+               "southwest" : {
+                  "lat" : 4.110364670107278,
+                  "lng" : 101.2871331201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a6173fd25b5d0a4ce8e270469345b900138b135d",
+         "name" : "Restoran Yik Sang",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110664339022152482953/photos\"\u003eMinYau Chan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArKjas44vrOC0PsrnofHnWKDToKkp4Tmk4Nl-LMRq_qQSP1o8o1HoPAT5UjndxQnoKOnNpAxtsfZz0SWkUeOmfjijPhlkvNo7g_hIUBWtLYL6aeijvtnZjdbLQbFOBdWjEhAf6XLeuYsupJmWrP8s78skGhSRMXXsVoYbs9pX9A5ciWt2saLDYA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJPf5me_0IyzERP0hx4IB6Mlw",
+         "plus_code" : {
+            "compound_code" : "476Q+P9 Bidor, Perak",
+            "global_code" : "6PP3476Q+P9"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJPf5me_0IyzERP0hx4IB6Mlw",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 66
+      },
+      {
+         "formatted_address" : "N6, Jalan Bidor Raya, 35500 Bidor, Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.113724299999999,
+               "lng" : 101.2890795
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.115016879892722,
+                  "lng" : 101.2903830798927
+               },
+               "southwest" : {
+                  "lat" : 4.112317220107278,
+                  "lng" : 101.2876834201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4d118a416e75564235bbf53f2c325be51c70f698",
+         "name" : "Choon Kee Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103738360910435724009/photos\"\u003eMichele Chow\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkFwbcmOk_SestwD1mMGB_rRMOKEXEK8_J6fRjnc2xNSTSVvUtQ7YcBWSAnZk34fvT9b8GP3VPOfwqEPpvO0AVo5UXVyYnWuc8J_lAUbJFoA4YDjsjYTzgKtMe-Y4xD5sEhA4xuqac2IBaFqlf0pbgVzAGhTeETPmghr4WPrnYKiqffQxX3gVvg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJU8a7AP0IyzERa0pMyqwBm9M",
+         "plus_code" : {
+            "compound_code" : "477Q+FJ Bidor, Perak",
+            "global_code" : "6PP3477Q+FJ"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJU8a7AP0IyzERa0pMyqwBm9M",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 30
+      },
+      {
+         "formatted_address" : "60, Jalan Besar, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1122022,
+               "lng" : 101.2871977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.113509429892721,
+                  "lng" : 101.2885048298927
+               },
+               "southwest" : {
+                  "lat" : 4.110809770107277,
+                  "lng" : 101.2858051701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7e7adb4db15fb452cc174feafe3e3b37dcb24586",
+         "name" : "新天天茶餐室 Restoran Sin Thean Thean",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110924446585704489694/photos\"\u003eLian Liz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALmUnE__fYzoa2xqYcuMifPJn2jrz6vxSA-0u57ahnx5kMcRrtRyJblr7zA2v6VFzoCyTwe1WbMdP1yWTLh3bbnSGjw4KyC9nD-ec9HH5TAbLYYdPUeMYg0HiaGTumbpmEhBXb3s1y8n-KOFr37le78_9GhTtd2ZIn2b5-fOlS3DydAa6gIRORg",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJURAhDf0IyzERQzQz7Zs0140",
+         "plus_code" : {
+            "compound_code" : "476P+VV Bidor, Perak",
+            "global_code" : "6PP3476P+VV"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJURAhDf0IyzERQzQz7Zs0140",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 140
+      },
+      {
+         "formatted_address" : "1, Taman Kandiah, Jalan Sungkai, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1058055,
+               "lng" : 101.2868052
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.107197029892722,
+                  "lng" : 101.2881675798927
+               },
+               "southwest" : {
+                  "lat" : 4.104497370107278,
+                  "lng" : 101.2854679201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9eb1adbee0d35b9b8d3cfd91b587d830b2e26006",
+         "name" : "Tien Tien Lai Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101022110409213837862/photos\"\u003eSashi Kumar Dhanyan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmXmwq0evIlwv2A5R-g3MqSIk5tl3E8a5XRR4qXpVSGJ_w1dSGm22opLO5W2gpyS1oWs1xbDq9wrtIjwk04A6NC6Cx6bXjF41YTj1vDr2RQYqzd2fEHUrodmHrLmknkUMEhCqNTEM5ECIhKNsATmFH-QnGhTHescyzrdW3523TUtmnQ_eWCVABw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJTbvpsQQJyzERW_Gjlz6Z2ts",
+         "plus_code" : {
+            "compound_code" : "474P+8P Bidor, Perak",
+            "global_code" : "6PP3474P+8P"
+         },
+         "price_level" : 2,
+         "rating" : 3.7,
+         "reference" : "ChIJTbvpsQQJyzERW_Gjlz6Z2ts",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 101
+      },
+      {
+         "formatted_address" : "No 1, Jalan Besar, 16-18, Jalan Bruseh, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.1104376,
+               "lng" : 101.2890936
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.111701029892721,
+                  "lng" : 101.2904030298927
+               },
+               "southwest" : {
+                  "lat" : 4.109001370107277,
+                  "lng" : 101.2877033701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4ea70996fe84e0424a6790a775d435093eaaa86b",
+         "name" : "Restoran Mee Wah",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115298039204025260976/photos\"\u003eKentFong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAipdmS2mg9CccfiyDLLHzcq9z6z3WnVG-srF2f_ejSr3IsFSkVv3bfA1quWYTu_IBIOo_pyDIN1wc07J5K7Q0eMIrjuCLWaEVhjO-BhDp5L6fg4xxyOQXh7vNIWQ0Eo7bEhBjVqPg1z_3JmEFuU4O30T9GhTxCGXXJjcFSw-vwL-pwB4YSn7Rkg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJ8Q5aigIJyzERkqjKpZHSKZg",
+         "plus_code" : {
+            "compound_code" : "476Q+5J Bidor, Perak",
+            "global_code" : "6PP3476Q+5J"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJ8Q5aigIJyzERkqjKpZHSKZg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 351
+      },
+      {
+         "formatted_address" : "Jalan Pasar, 35500 Bidor, Negeri Perak, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 4.111038,
+               "lng" : 101.2871481
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.112430029892723,
+                  "lng" : 101.2884439798927
+               },
+               "southwest" : {
+                  "lat" : 4.109730370107279,
+                  "lng" : 101.2857443201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9c6cce84ee639747ae7ab79304e7f68df7a0bc36",
+         "name" : "Kedai Kopi Pun Sim",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103193603337919846628/photos\"\u003eOON TEIK TEONG\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAot9QuooHkpb2sefd10j5-eikW7-P3JIVINWxAEEuwjuLaqHPyGdjFb9ELE3RUatyDXgDriZQAIj1uH7704YZWmbk_gOqbIqsfwP3hzUsncwzfowriRMZfZJVE8JeVQkqEhBHdyCUAj427AC9xbiptUCfGhRwNCeMPL67febdMgvfXFVBwZWghg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJN9w87QIJyzERXTxGxwHNKgQ",
+         "plus_code" : {
+            "compound_code" : "476P+CV Bidor, Perak",
+            "global_code" : "6PP3476P+CV"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJN9w87QIJyzERXTxGxwHNKgQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      }
+   ],
+   "status" : "OK"
+}
