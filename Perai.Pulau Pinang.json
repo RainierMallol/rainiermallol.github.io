@@ -1,0 +1,869 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQE-AEAAOl40cPlazpZENz55giMKrhQHn7d2TjU5aglL3R-fxqsYPxvwv_9bZwn0uAEmFsgME73EY2_z-x4pYzOa0B7ARhyLOx3dKcalzNTFFzf0skRtCpUxGD1v9BNo9MsOQtxpeBSPpPx-FE1P_dBaE4EfQtQ8KBOQxzcjrVTx9IBkQ2ddCgVgXazkVCG0PaSHEiq6GMoJY69NOOuGNXXi89yfYXSb1idHGBoH-TZVstm9wSiEy_9iW0ZWTMhNzVmgQGmiDWE5zqJBDh1x2ksBoXRLe5UhF2kUUX4XQdFtEDAdqcWZVAm9Ee-nneHID-Cc3ge89sabw2fKACW7mV9swm8YTzgn9jlIpBoH8PE-oX3EbQhaIbsvuVtFN1G-awT__McROXHn4wNE6Pf75OGBy7I26m0CSdTcD4qqiYWJAOyfz5qIHtteilJ7e-_UaZR-hwhY81FwGK7dhtMCIGRtB6IGb8qRMX6POfIXcObBMvKzSgqrA4YAtkvx7KBibFcqT9f8ITDw0SXhJhoc3gp2hgVOQ4XwlzkBCD5YelOqd7EhLBF92-eA63kPoP26QQDrfnSTFsQthVs8YfwLx1LHY5mDKmY7vZZo4vHGO2nY8jYIOpS7TiI2B3kcMMwfFeTwT5RBC3Jl7ms6-XsdN9XqrNZA03Cx9XWCWhJNzHFxqGARLOHEhD7SDDRjkyqrddfiquPGkmXGhRRV2SbZHago53YRGCd2igtLXSXYQ",
+   "results" : [
+      {
+         "formatted_address" : "13600 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3685678,
+               "lng" : 100.4146374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.370025679892722,
+                  "lng" : 100.4162123298927
+               },
+               "southwest" : {
+                  "lat" : 5.367326020107278,
+                  "lng" : 100.4135126701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ad8e98be98078eb684ed6919eb807f849785135e",
+         "name" : "A&W Mydin Bukit Mertajam",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117631570193827336960/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAg_AnV8vEX7PRAbxUD8Bk3aZrpigpAAwinvMEblRXrQItdecULv3K-OTgh8JwZM8lzW94brYS9JYKwqEjYAGOUCabxjVJIJXuyzFHRzIwPKjGx7Zm69KaEkCmy5oA7mtVEhAARE6P0nNKyH9zTjWK2erHGhS_9j2M14fafYvzFQyw5hMC5rxj9A",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJdfGfi2rGSjARm0RLQhGeYPc",
+         "plus_code" : {
+            "compound_code" : "9C97+CV Perai, Penang",
+            "global_code" : "6PQ29C97+CV"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJdfGfi2rGSjARm0RLQhGeYPc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 246
+      },
+      {
+         "formatted_address" : "1687, Jalan Perusahaan, Bukit Tengah, 13600 Simpang Ampat, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3374004,
+               "lng" : 100.4311833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.338709229892723,
+                  "lng" : 100.4325085798927
+               },
+               "southwest" : {
+                  "lat" : 5.336009570107279,
+                  "lng" : 100.4298089201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "29e10376376fad794c9f1d3051fb52657ff47c24",
+         "name" : "McDonald's Juru Autocity",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100896934877918086775/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoMu9e-JlZAgyJOFp5LdNpgye1pTWyFDkw24rPb7zx-2T9OPtGbPW-j7SWQwYKoKHsvVWeI0crOPxZZCkdoHMJW04XRo-BAyjqnV5x-T0inZj-yAWZmG9feF6xqsekUSNEhCFwqZRWNDxsuhmo7YhKeqLGhTFeqXefQRDYn3-FYzn4IOcNB1Zkw",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJVwaEitDHSjARchevA-_vX20",
+         "plus_code" : {
+            "compound_code" : "8CPJ+XF Perai, Penang",
+            "global_code" : "6PQ28CPJ+XF"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJVwaEitDHSjARchevA-_vX20",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1397
+      },
+      {
+         "formatted_address" : "54, Lebuh Kurau 3 Chai Leng Park Malaysia, Chai Leng Park, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.386048,
+               "lng" : 100.391499
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387397829892722,
+                  "lng" : 100.3928488298927
+               },
+               "southwest" : {
+                  "lat" : 5.384698170107278,
+                  "lng" : 100.3901491701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "7711655b4210506f35f608f1c387de88e9fbea76",
+         "name" : "Sunny Fast Food Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2688,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101846116104460015213/photos\"\u003eLam Woon Fatt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADnbRF1oDlVytWkCy9ONuUCk2ETJFLvPX5FeP9meEcMg4UEbtkdHPHj0dkm5w5_epmbrqLWbWMbAH-pWjC15rbyM01JkW47K006aCM9eDOtrh8mHCfrloTZjebxAWIHCLEhB6qv_muNzNZ4Abnf8sx1hSGhRaYBkFii4JBHBUv0z6YpRMvEcerA",
+               "width" : 1520
+            }
+         ],
+         "place_id" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "plus_code" : {
+            "compound_code" : "99PR+CH Perai, Penang",
+            "global_code" : "6PQ299PR+CH"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0XOwAIHGSjARZdKwnLINmLM",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 36
+      },
+      {
+         "formatted_address" : "13600 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3686025,
+               "lng" : 100.4142314
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.369565929892721,
+                  "lng" : 100.4154407298927
+               },
+               "southwest" : {
+                  "lat" : 5.366866270107277,
+                  "lng" : 100.4127410701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "45a0d756ec451efb9321321ca326041731a13d4e",
+         "name" : "Marrybrown Mydin Mall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101343797467980788026/photos\"\u003eyamin yawahid\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaVZRHns9J8eho-dq2GntP_UCQ52Fov8PbM9TBPP53uBQ4HI0TuOBT3uuof7AL0MruxG05oNgv5MfoPb5JbZg32Zg-pMLbTpoHkNzk5XNQ972Xc3wSUlmhvoeQzL59h1KEhANdjX1Lw-IzgcXnkmgzxf6GhRHOu-i9tSOMKe_9FnK3JgTVkiX0A",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJdZlRYGrGSjARzt1_5egmxfU",
+         "plus_code" : {
+            "compound_code" : "9C97+CM Perai, Penang",
+            "global_code" : "6PQ29C97+CM"
+         },
+         "price_level" : 2,
+         "rating" : 3.4,
+         "reference" : "ChIJdZlRYGrGSjARzt1_5egmxfU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "formatted_address" : "Plot 32, Setia Sentral Juru, Juru Rest & Service Area Southbound, Juru, 13600 Juru, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.354583300000001,
+               "lng" : 100.4183967
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.356059179892721,
+                  "lng" : 100.4197898298927
+               },
+               "southwest" : {
+                  "lat" : 5.353359520107277,
+                  "lng" : 100.4170901701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "df10a66c1eb04708cd5cd63ded99d03f359c1c99",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109302209625788945005/photos\"\u003eShanthi Deve Vanntha Rao\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyh3hUYaFqhMJYGVs5tyg1ZQVTSlvEJkUgMVTjLUiwufxauM5t_MzoULBzkMt375B1DUQiQybbaaRyfooI2Ba55mRrxfCZ9-c6Wmbwx_V92RJWcJJdYB-sh-1iCTuIEVaEhDp2FJvFGG5KdE02bSz1K88GhQVzpiB-rP2n1auS2FaY6ODj1S-5w",
+               "width" : 2336
+            }
+         ],
+         "place_id" : "ChIJeep_SjbGSjARHJ_IyrRYpHY",
+         "plus_code" : {
+            "compound_code" : "9C39+R9 Perai, Penang",
+            "global_code" : "6PQ29C39+R9"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJeep_SjbGSjARHJ_IyrRYpHY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 366
+      },
+      {
+         "formatted_address" : "1835, Jalan Perusahaan, Highway Auto-city, 14000 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.337397,
+               "lng" : 100.4295341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.338786329892722,
+                  "lng" : 100.4308596298927
+               },
+               "southwest" : {
+                  "lat" : 5.336086670107278,
+                  "lng" : 100.4281599701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ab4b5200ad865f94b886c071003bc73cb524ee27",
+         "name" : "KFC @ Autocity",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112195571820339631431/photos\"\u003eyuzu arigayo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2hP2ESvmZ-8OQ_M7nN9mvOOGSfAZYBgzpEJW5suydzUJdlJdqPut9G7ooWVbnwoSxdVQssbzMMmkzwQl_x5AjDdDu74S1t5PQ2ipp8WuLSGlWprVti08vur3SbRmG8GxEhCGc3fHDSYAdDmWRqakKsq4GhShixTvMclLJWZqXTLI5EmTOpPCUQ",
+               "width" : 2976
+            }
+         ],
+         "place_id" : "ChIJM4_MFdDHSjAR6b87CKuQYpk",
+         "plus_code" : {
+            "compound_code" : "8CPH+XR Perai, Penang",
+            "global_code" : "6PQ28CPH+XR"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJM4_MFdDHSjAR6b87CKuQYpk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 345
+      },
+      {
+         "formatted_address" : "No. 12, Lorong Tuna, 13700 Seberang Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.393177,
+               "lng" : 100.403922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.394524229892722,
+                  "lng" : 100.4052699298927
+               },
+               "southwest" : {
+                  "lat" : 5.391824570107278,
+                  "lng" : 100.4025702701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "928123be4425cc9ea52d4df2ce07d512fda9faaf",
+         "name" : "Kbs Food and Beverage Trading",
+         "place_id" : "ChIJB79qMtfFSjAR_vlUp6Yty5E",
+         "plus_code" : {
+            "compound_code" : "9CV3+7H Seberang Jaya, Penang",
+            "global_code" : "6PQ29CV3+7H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJB79qMtfFSjAR_vlUp6Yty5E",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "Lebuhraya Kurau, Seberang Jaya, 13700 Seberang Jaya, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.385983,
+               "lng" : 100.401847
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.387463029892722,
+                  "lng" : 100.4032183798927
+               },
+               "southwest" : {
+                  "lat" : 5.384763370107278,
+                  "lng" : 100.4005187201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "783a273649824a752d79dbe4917ac964f0cb6d6b",
+         "name" : "Nagos Burger",
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101156328714298471296/photos\"\u003eBro Nagos\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALNMnNqYG1gO2jjXx1nuT4WrRSdtaO9WLqPqcheiUOg0isIzaQ2VNReDY9-fRl4dZpTvI4kkDBA3mMZdyF_N0XjbDepQPxg0mzwTLERatwlIuR_lGOjkiko1ney8ORAZmEhB_576k0W66v9M_Hx2OIRleGhTVxSyTfc6Yh4gnzLf4VO3vPbwN9A",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJkzbE4HjGSjAR0S1G4fwZ-Is",
+         "plus_code" : {
+            "compound_code" : "9CP2+9P Seberang Jaya, Penang",
+            "global_code" : "6PQ29CP2+9P"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJkzbE4HjGSjAR0S1G4fwZ-Is",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "formatted_address" : "G-11, 2898, Jalan Baru, Bandar Prai Jaya, Seberang Prai Tengah, Malaysia, Pulau Pinang, 13600 Pulau Pinang, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.377035999999999,
+               "lng" : 100.400156
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.378590029892721,
+                  "lng" : 100.4016002298927
+               },
+               "southwest" : {
+                  "lat" : 5.375890370107277,
+                  "lng" : 100.3989005701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ecfbc0a3113901c10421f8109ebcf400217fa394",
+         "name" : "McDonald's Megamall Penang",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1812,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100600797764227126718/photos\"\u003ewill Ls\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAn5b00_A9N2zV6kgbhC-5eBSxTODca5BDoYxOYUW1IY1CQWTUvWHXwcoQ9qFxUXJerFpQ8U-awNqGI4AzFBKVb-Kh9a7Q1VtgJCR72XrRydrRUfnCrKlzF5drd7EHPmqUEhB1KLinA4QTT0ViqCf8NkNJGhTu-PZHGLYvNIJlAd1D9DcKQeRVBQ",
+               "width" : 1359
+            }
+         ],
+         "place_id" : "ChIJ6boqX2PGSjAROhCkaA4JGvg",
+         "plus_code" : {
+            "compound_code" : "9CG2+R3 Perai, Penang",
+            "global_code" : "6PQ29CG2+R3"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJ6boqX2PGSjAROhCkaA4JGvg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 841
+      },
+      {
+         "formatted_address" : "Mukim 1, Lot 5730,5731&5732, Jalan Jelawat, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.399795,
+               "lng" : 100.400221
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401154729892721,
+                  "lng" : 100.4015271298927
+               },
+               "southwest" : {
+                  "lat" : 5.398455070107278,
+                  "lng" : 100.3988274701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "f4edaea5f434a116db1817a67d7ea601f4acb21b",
+         "name" : "McDonald's Seberang Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110349552682331629654/photos\"\u003eChew Ngan Wong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhkusCIfkO_YAKHvD8Gx2MatfvRlY7sXZyRaA7uV8FIun6kK9KiI_ctXeswsJiirYlUvLXtGf9SHHhKuG5sOQCivoz90g8qI3XeM0lDut6pU-yJk0h1LACD7nbgm7PQ_qEhBlVyyC7urVrXoixatWs3NqGhSDxWaz9wM_8uzwTC8uDLLNU2APRw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "plus_code" : {
+            "compound_code" : "9CX2+W3 Seberang Jaya, Penang",
+            "global_code" : "6PQ29CX2+W3"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJh1EKkDTESjARTvEsLg0d1eY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2319
+      },
+      {
+         "formatted_address" : "Petronas Juru Layby, North-South Expy, 13600 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.355099699999999,
+               "lng" : 100.4168102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.356365779892723,
+                  "lng" : 100.4182196298927
+               },
+               "southwest" : {
+                  "lat" : 5.353666120107279,
+                  "lng" : 100.4155199701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9b21905bd30bb3c7a808d4a346db996e5707b7a1",
+         "name" : "McDonald DT @ Juru PLUS Southbound",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116572891453009719911/photos\"\u003eAngel Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzMikeA6OQoAAoQaUlu-ficQdQNKjuCnErva_Q2MdHUvVMeRuxpf6CeEk-LyvPYAiS8hr-Beh7abLKo3dEcEQagpeeGA8zovoF3_5jPmBVkLVBiao4n-73Fchoub7xoILEhCzRTVR3fcDXdjomf7UuRXKGhRfI1s0I4aG-iV1JEeqdDZJN1iDPg",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJyYBsfurHSjARK3yJHHM8KYc",
+         "plus_code" : {
+            "compound_code" : "9C48+2P Perai, Penang",
+            "global_code" : "6PQ29C48+2P"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJyYBsfurHSjARK3yJHHM8KYc",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 342
+      },
+      {
+         "formatted_address" : "143, Medan Kikik 1, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.387009,
+               "lng" : 100.386128
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.388404479892722,
+                  "lng" : 100.3873881298927
+               },
+               "southwest" : {
+                  "lat" : 5.385704820107279,
+                  "lng" : 100.3846884701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "18a6da59fe815b026a688c972223b9fe2b1689d5",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ1QrM9YLGSjARGJLRPfPogtg",
+         "plus_code" : {
+            "compound_code" : "99PP+RF Perai, Penang",
+            "global_code" : "6PQ299PP+RF"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ1QrM9YLGSjARGJLRPfPogtg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 46
+      },
+      {
+         "formatted_address" : "13700 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3688933,
+               "lng" : 100.4181624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.370213379892722,
+                  "lng" : 100.4194980798927
+               },
+               "southwest" : {
+                  "lat" : 5.367513720107278,
+                  "lng" : 100.4167984201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1d15b34f505f08704f544242836fc3daac5325f8",
+         "name" : "KFC Pauh Jaya",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111408781215986764231/photos\"\u003eNurul Nazwa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyt4qHkRgfqmSeM91GSMxgzIyGN_W_9vWICDuBs26jDREKwJplxalt7ycqi3rC84Vzl6D2nYDuFxRqL35auvL413GHE4vwOIFmc7LQQk4Z6uYpA6iI12YnCM4bWah9rwoEhDy9MqQ-5iqYOo8JbPZPdJGGhTJG6ZK5532ufmnj18SOuA31x7BlQ",
+               "width" : 2208
+            }
+         ],
+         "place_id" : "ChIJu70FSBXGSjARcZNj2IfqlvI",
+         "plus_code" : {
+            "compound_code" : "9C99+H7 Bukit Mertajam, Penang",
+            "global_code" : "6PQ29C99+H7"
+         },
+         "price_level" : 2,
+         "rating" : 3.8,
+         "reference" : "ChIJu70FSBXGSjARcZNj2IfqlvI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 934
+      },
+      {
+         "formatted_address" : "North-South Expy, 13600 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.354236500000001,
+               "lng" : 100.4189914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.355436079892722,
+                  "lng" : 100.4202528798927
+               },
+               "southwest" : {
+                  "lat" : 5.352736420107278,
+                  "lng" : 100.4175532201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0836346d5abf917a75434149691e10bb1acb910c",
+         "name" : "Chicking @ Juru Southbound",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114641182580486449360/photos\"\u003e114641182580486449360\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5aYSdWyIWyhGYMy_fwtNZQ3ivHKG48i3hM4M8oH8C2I4BR22Q6NbpFOYcQE3BVSMwKsZua94pBw_UN_s8-S0yZohkGJ9psIP4F2y_HKTFjGNlQg73nQrZaN0-qxsXHc6EhA4iNkP_6OXlGGcSInzrfCpGhQhG7H3aMcz9C0vPuemUCJNKWLeqA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJnfK4WC_HSjARnpwygkNqEbg",
+         "plus_code" : {
+            "compound_code" : "9C39+MH Perai, Penang",
+            "global_code" : "6PQ29C39+MH"
+         },
+         "rating" : 3,
+         "reference" : "ChIJnfK4WC_HSjARnpwygkNqEbg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 50
+      },
+      {
+         "formatted_address" : "16, Solok Tuna, Seberang Jaya, 13700 Perai, Pulau Pinang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3920759,
+               "lng" : 100.4048229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.393421929892721,
+                  "lng" : 100.4061705298927
+               },
+               "southwest" : {
+                  "lat" : 5.390722270107277,
+                  "lng" : 100.4034708701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "14fb47330b3d1198aff6c77e66ca2ff4fcb395b5",
+         "name" : "Burger Stall",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104506532488577642478/photos\"\u003eJohnson Tan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAa0DaCUvkAvSz76qFX3cbZ-sQoUbKaWC3NsRhxjrM26uEmvCS0cpJ7z_wpCVH0zLEUVGbUb9V31BgOBdcUBNbgytIbZpEOSM90vBpb8jbXtAeZIScPIlnzPAp5ydlvA-xEhCKCfZO26fRAxKVw1cfQmhUGhS2aj3HNu-0_8bTzzIij78oMg7C8A",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJLTxua9fFSjARXrnloKACAkY",
+         "plus_code" : {
+            "compound_code" : "9CR3+PV Seberang Jaya, Penang",
+            "global_code" : "6PQ29CR3+PV"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLTxua9fFSjARXrnloKACAkY",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "formatted_address" : "Taman Tun Husseinn Onn, 13700 Perai, Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.3837538,
+               "lng" : 100.4074628
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.385103579892722,
+                  "lng" : 100.4088048798927
+               },
+               "southwest" : {
+                  "lat" : 5.382403920107278,
+                  "lng" : 100.4061052201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "ae3786c7c63f9b0f118197189a34da358076ca73",
+         "name" : "Planet Burger",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109333167028376435523/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtJkpiyEY6pUeQ_Yth4Fc-x8BxfG6MDihDZOsbEjB3Vl2vfZDPInI4tBWuQArgH5SdsolVB318reCyfdHeRwRuANsqT-MDUJYOSKl2oU6kwa37Z3GjxsvJmtvYQ2sT5N1EhBxQdL3KMFIp-h71jzbc9lzGhSoQs4f9XASk1fo5f9Em1jMKZ6CFA",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJIdo4OHfGSjARfvn7y6jJcKg",
+         "plus_code" : {
+            "compound_code" : "9CM4+GX Perai, Penang",
+            "global_code" : "6PQ29CM4+GX"
+         },
+         "rating" : 1,
+         "reference" : "ChIJIdo4OHfGSjARfvn7y6jJcKg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "formatted_address" : "LG-37 , Sunway Carnival , 3068 Jalan Todak , Seberang Jaya , 13700 Puala Pinang, 13700, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.399894,
+               "lng" : 100.3997307
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.401232679892721,
+                  "lng" : 100.4010881298927
+               },
+               "southwest" : {
+                  "lat" : 5.398533020107277,
+                  "lng" : 100.3983884701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "582c2a972f5e53879d428675cea47a65f3823381",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115634189455476947237/photos\"\u003eMUHAMMAD HAMIZAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiJDZ9Z2SyrHKlbVAzmFXeEZHSqSaEfMa3c1P8szEugHe73wuY_3x9ZcVBjhRdpK8qpqprbqDT0DZKhswUZM0fWsRxZgk6o8p2DwrYefAvL38QVWjrFRHZtzr_gkG_CZHEhC8xN9dyl6SpEZmKF7kQwm5GhTL96RldH4xcd0vMt8jP0J0jBqjnw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJGyhRgM3FSjAROekI3x9Exns",
+         "plus_code" : {
+            "compound_code" : "99XX+XV Seberang Jaya, Penang",
+            "global_code" : "6PQ299XX+XV"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJGyhRgM3FSjAROekI3x9Exns",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 118
+      },
+      {
+         "formatted_address" : "Lot L-40, Lower Ground Floor Sunway Carnival Shopping Mall, Bandar Sunway, 13700 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.398978,
+               "lng" : 100.397891
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.400344679892722,
+                  "lng" : 100.3990931798927
+               },
+               "southwest" : {
+                  "lat" : 5.397645020107278,
+                  "lng" : 100.3963935201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a6c0827dd623b72674255ba7efe26e939c0d0b8e",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112793562907957167504/photos\"\u003e陳鴻展\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV6JIVncjC6tnwE3ahCPkKQdcn6Rlukk8pLT05Eky0d7Pg67A25QPwFnAacN9yxWjKjjXme_JGs4cGV51JVsbk5OGQ5mngX-VgSjxML1mYWPjhiziOpapXkIqFm--7-ENEhDSUO1JGn-J7HGBXO3LJSngGhTllxI7ASGVV3QBHl2Db2JZv6ax9A",
+               "width" : 1960
+            }
+         ],
+         "place_id" : "ChIJqRvJeNLFSjARpPalgR7gUDw",
+         "plus_code" : {
+            "compound_code" : "99XX+H5 Seberang Jaya, Penang",
+            "global_code" : "6PQ299XX+H5"
+         },
+         "price_level" : 2,
+         "rating" : 3.5,
+         "reference" : "ChIJqRvJeNLFSjARpPalgR7gUDw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 41
+      },
+      {
+         "formatted_address" : "UG - 16 Sunway Carnival Mall 3068, Jalan Todak Pusat Bandar Seberang Jaya, 13700, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.398779999999999,
+               "lng" : 100.398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.400153979892723,
+                  "lng" : 100.3991371798927
+               },
+               "southwest" : {
+                  "lat" : 5.397454320107279,
+                  "lng" : 100.3964375201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "72520c0a2c42f10ae9df7ce01304b43a387280d6",
+         "name" : "Hong Kong Kim Gary Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115282809440537243947/photos\"\u003eIreen Yeoh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXMd5Q815QIiHTUA2p2rWlxGMTmnita5NC0fdaqwRKwmmOyiHstG6uvJt5_4LUsaMeHHA9sOVsUuCEEtm-x2N99fQ-JXT6JZytwt3gWTAdvH_3nucCdmoUJOyr5pk4ZbBEhAds1qAF34wSXXpHDhqdQTKGhRAn42qymaMiD3DqkzOsg0DF3cF_A",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJH-YRh83FSjAREkOhAOfXjkQ",
+         "price_level" : 2,
+         "rating" : 3.3,
+         "reference" : "ChIJH-YRh83FSjAREkOhAOfXjkQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 39
+      },
+      {
+         "formatted_address" : "Lot F2.D Ground Floor Carrefour Shopping Centre Seberang Perai, 13700 Penang, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 5.390038,
+               "lng" : 100.40801
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.391482479892722,
+                  "lng" : 100.4092163298927
+               },
+               "southwest" : {
+                  "lat" : 5.388782820107278,
+                  "lng" : 100.4065166701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3549a56ca8fa9416f6565f94dbeb04c5efb1b0c8",
+         "name" : "KFC",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111644666064309771000/photos\"\u003eAndy Styles\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlv9FpCE2oeiBZbEoGAeYux7pDE12U9ZbO5ZDY2ZUrwTpJ9jgqIbER9itT9dRHJCrL6sZ447K6NxDO_ZmFals4OGPaxA_B7YKUJyRZ4GM_jmrfJmjZt99ejZqW-3581hgEhBCvXG6sDtGrJYO6m9PV9yBGhQtassejOUshiDypjQ0rCtsk4sh5w",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "plus_code" : {
+            "compound_code" : "9CR5+26 Permatang Pauh, Penang",
+            "global_code" : "6PQ29CR5+26"
+         },
+         "price_level" : 2,
+         "rating" : 3,
+         "reference" : "ChIJLXuiSFbESjARAtBF1cwkBaI",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      }
+   ],
+   "status" : "OK"
+}

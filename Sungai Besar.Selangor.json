@@ -1,0 +1,129 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Sungai Besar, 45300 Sungai Besar, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.6735673,
+               "lng" : 100.9914622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.674847029892722,
+                  "lng" : 100.9928663798927
+               },
+               "southwest" : {
+                  "lat" : 3.672147370107278,
+                  "lng" : 100.9901667201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0ca0f26ad57039ca47d8b06e9bce142279c6e19b",
+         "name" : "McDonald's Sungai Besar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110471117324132831162/photos\"\u003eIsZul Shah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKSURyWjXzkYJvOGkXIazhQIkm0-JlVnQdYiCyLhXHaoJu6KwTnODFWU8GBQP14cOXwjjyf_OiDeoNZDUs55U6hbg42HYrNd5jXlnHZHva_2CfigbNP7hJSjJrQZOFnn0EhC8TMFVnlO7_rNsw13WegfgGhTbANaO-g_IP2Vw4AXtPRezAcewPA",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "plus_code" : {
+            "compound_code" : "MXFR+CH Sungai Besar, Selangor",
+            "global_code" : "6PM2MXFR+CH"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJiQn9SP2fzDERrZUlV9tNHtk",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 868
+      },
+      {
+         "formatted_address" : "PETRONAS Sungai Besar New, Lot 9197, Mukim, Sungai Besar, 45300 Sungai Besar, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.67418,
+               "lng" : 100.9911996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.675560879892721,
+                  "lng" : 100.9925756298927
+               },
+               "southwest" : {
+                  "lat" : 3.672861220107277,
+                  "lng" : 100.9898759701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b0da1e67512864804b0f19e3099f1ab1ca87174e",
+         "name" : "mcdonalds sanbal bernam",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJxae_Rf2fzDERgj4Wn7ZWQkA",
+         "plus_code" : {
+            "compound_code" : "MXFR+MF Sungai Besar, Selangor",
+            "global_code" : "6PM2MXFR+MF"
+         },
+         "rating" : 3,
+         "reference" : "ChIJxae_Rf2fzDERgj4Wn7ZWQkA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "formatted_address" : "5270,, Jalan 5, Kampung Batu Tiga Puloh Sembilan, 45200 Sabak, Selangor, Malaysia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.7461527,
+               "lng" : 100.9759406
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.747469829892721,
+                  "lng" : 100.9773256298927
+               },
+               "southwest" : {
+                  "lat" : 3.744770170107278,
+                  "lng" : 100.9746259701073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2ae21ad6cef028113e51d2b68fe3b99ac0015dfd",
+         "name" : "Cendol Durian Borhan",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109309716226732102377/photos\"\u003ebasyar saad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAewx-16kGHg9KtwiBLJxLCjLADpJGlLVzsbHYz4rr71Tc5Xj9RFgk1PRSWE9RbT5S0FPAd47L8n2D_hTc7I6KVIpWoSuEkhdxLCtu_HwxCgAezkORokGqixlyKNZmIXQHEhAchUE-j5VqF454h0NawU8cGhT17ixWbO08AF1SLAtjHQjtdXguUw",
+               "width" : 2160
+            }
+         ],
+         "place_id" : "ChIJyVGqQwNeyzERt-8cCc1ip38",
+         "plus_code" : {
+            "compound_code" : "PXWG+F9 Sabak, Selangor",
+            "global_code" : "6PM2PXWG+F9"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJyVGqQwNeyzERt-8cCc1ip38",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      }
+   ],
+   "status" : "OK"
+}
